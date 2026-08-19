@@ -78,11 +78,11 @@ Return ONLY valid JSON with this top-level structure:
 """
 
 response = client.models.generate_content(
-    model="gemini-2.5-flash",
+    model="gemini-3.6-flash",
     contents=prompt,
     config=types.GenerateContentConfig(
         tools=[types.Tool(google_search=types.GoogleSearch())],
-        temperature=0.2,
+        response_mime_type="application/json",
     ),
 )
 
@@ -92,8 +92,6 @@ if text.startswith("```"):
     if text.endswith("```"):
         text = text[:-3]
     text = text.strip()
-
-# Gemini may prefix a JSON code-language marker.
 if text.lower().startswith("json\n"):
     text = text[5:].strip()
 
@@ -111,12 +109,7 @@ for i, job in enumerate(data["jobs"], 1):
 
 (OUTPUT_DIR / "latest.json").write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
 
-md = [
-    "# Sohail Qureshi — AI Job Match Report",
-    "",
-    f"Generated: {data.get('generated_at', '')}",
-    "",
-]
+md = ["# Sohail Qureshi — AI Job Match Report", "", f"Generated: {data.get('generated_at', '')}", ""]
 summary = data.get("summary", {})
 md += [
     f"**Credible jobs found:** {summary.get('credible_jobs_found', len(data['jobs']))}  ",
@@ -137,23 +130,9 @@ for job in data["jobs"]:
         md.append(f"**Apply:** {job['job_url']}  ")
     if job.get("source_url"):
         md.append(f"**Source:** {job.get('source','')} — {job['source_url']}")
-    md += ["", "**Why it fits**"]
-    md += [f"- {x}" for x in job.get("why_fit", [])]
-    md += ["", "**Gaps / risks**"]
-    md += [f"- {x}" for x in job.get("gaps_risks", [])]
-    md += [
-        "",
-        f"**Email subject:** {job.get('email_subject','')}",
-        "",
-        "**Tailored email pitch**",
-        job.get("email_pitch", ""),
-        "",
-        "**LinkedIn pitch**",
-        job.get("linkedin_pitch", ""),
-        "",
-        "---",
-        "",
-    ]
+    md += ["", "**Why it fits"] + [f"- {x}" for x in job.get("why_fit", [])]
+    md += ["", "**Gaps / risks"] + [f"- {x}" for x in job.get("gaps_risks", [])]
+    md += ["", f"**Email subject:** {job.get('email_subject','')}", "", "**Tailored email pitch", job.get("email_pitch", ""), "", "**LinkedIn pitch", job.get("linkedin_pitch", ""), "", "---", ""]
 
 (OUTPUT_DIR / "latest.md").write_text("\n".join(md), encoding="utf-8")
 print(f"Generated {len(data['jobs'])} scored opportunities with Gemini")
