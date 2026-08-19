@@ -28,14 +28,17 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python job-ai-v1/run.py
 
-      - name: Commit latest report
+      - name: Sync application tracker
+        run: python job-ai-v1/sync_tracker.py
+
+      - name: Commit latest report and tracker
         run: |
           git config user.name "job-ai-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add job-ai-v1/output/
+          git add job-ai-v1/output/ job-ai-v1/applications.json
           if git diff --cached --quiet; then
-            echo "No report changes to commit"
+            echo "No report or tracker changes to commit"
             exit 0
           fi
-          git commit -m "Update AI job match report"
+          git commit -m "Update AI job report and application tracker"
           git push
