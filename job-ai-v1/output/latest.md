@@ -4,10 +4,10 @@ Generated: 2026-08-19T14:00:00Z
 
 **Direct candidates reviewed:** 35  
 **Credible jobs:** 3  
-**Strong matches:** 2  
+**Strong matches:** 1  
 **Watchlist:** 0  
 
-Candidate shows strong operational alignment with logistics and transport-centric fleet management roles. Two roles at Amazon and one at Parker Connect show high potential due to direct fleet and operational oversight requirements. Other roles were filtered due to lack of direct fleet/transport relevance.
+Candidate's deep operational experience in Dubai's mobility and fleet sector makes him a prime candidate for logistics-focused operational roles. The top-scoring role directly aligns with his 9-year UAE transport experience and proficiency in fleet cost control and RTA compliance.
 
 ## 1. Fleet Manager – FMCG & Logistics — Parker Connect (90/100)
 **Tier:** strong  
@@ -16,65 +16,67 @@ Candidate shows strong operational alignment with logistics and transport-centri
 **Vacancy:** https://ae.linkedin.com/jobs/view/fleet-manager-%E2%80%93-fmcg-logistics-at-parker-connect-4450459742
 
 **Why it fits**
-- Direct alignment with 10+ years experience in fleet management
-- Experience in route optimization, driver management, and RTA compliance
-- Requires budget management and cost control expertise matching candidate background
+- 10+ years of relevant experience matches the 10+ year requirement perfectly.
+- Deep expertise in RTA compliance and fleet records.
+- Proven background in budgeting, cost control, and managing drivers/vehicles.
+- Experience with routing and maintenance schedules aligns with logistics demands.
 
 **Gaps / risks
-- Primary focus is on trucks/vans vs. light mobility/ride-hailing, though operational fundamentals transfer well.
+- Candidate's primary experience is in ridesharing platforms rather than heavy FMCG logistics.
 
-**Email subject:** Fleet Operations Leadership - Muhammad Sohail Ayub Qureshi
+**Email subject:** Application for Fleet Manager – FMCG & Logistics (Muhammad Sohail Ayub Qureshi)
 
-Dear Hiring Manager, with 9 years of direct experience in Dubai's transport sector managing 40 drivers and 30 vehicles, I am uniquely positioned to drive operational efficiency for Parker Connect. My expertise in RTA compliance, fleet utilization, and cost control directly aligns with your fleet objectives.
+Dear Hiring Manager, I am a seasoned Operations & Mobility Leader with 10 years of experience, including 9 years of specialized fleet management in Dubai. My background encompasses managing fleets of 30+ vehicles and 40+ drivers with a focus on RTA compliance, cost-saving initiatives, and rigorous KPI reporting. I am confident that my expertise in fleet-platform optimization and process control will translate effectively to your logistics operations in Sharjah.
 
 **LinkedIn pitch**
-I see you are looking for a Fleet Manager. With 9 years of transport experience in Dubai and a proven track record in RTA compliance and driver management, I am confident I can add immediate value to your logistics operations.
+I've been managing fleet operations in Dubai for 9 years, focusing on RTA compliance and operational efficiency. Your Fleet Manager role at Parker Connect is a perfect match for my background in cost control, driver training, and logistics optimization. I'd love to discuss how I can support your fleet expansion.
 
 ---
 
-## 2. FC Operations Manager, UAE FC Operations — Amazon (90/100)
-**Tier:** strong  
-**Location:** Dubai, Dubai, United Arab Emirates  
-**Live confidence:** high  
-**Vacancy:** https://ae.linkedin.com/jobs/view/fc-operations-manager-uae-fc-operations-at-amazon-4455914377
-
-**Why it fits**
-- Strong leadership experience matches Amazon's operational complexity requirements
-- Expertise in KPI management and process control is highly transferable to FC environments
-- Proven background in scaling fleet and operational teams
-
-**Gaps / risks
-- Requires shift flexibility including nights/weekends.
-- Transitioning from mobility/ride-hailing to fulfillment centers requires adaptation.
-
-**Email subject:** Operations Manager Application - Muhammad Sohail Ayub Qureshi
-
-As an experienced Operations and Mobility Leader with 9 years of regional expertise, I have successfully managed 40+ drivers and 30+ vehicles while driving operational KPIs and SOP improvements. My data-driven approach and experience in high-pressure transport environments make me a strong candidate for your FC Operations team.
-
-**LinkedIn pitch**
-I've been following Amazon's expansion in the UAE and would love to bring my operational leadership and data-driven approach to your fulfillment center operations team.
-
----
-
-## 3. Operations Manager, FC Operations — Amazon (78/100)
+## 2. Offshore Operations Manager — Bahri | البحري (78/100)
 **Tier:** credible  
-**Location:** Riyadh, Riyadh, Saudi Arabia  
-**Live confidence:** high  
-**Vacancy:** https://sa.linkedin.com/jobs/view/operations-manager-fc-operations-at-amazon-4455777934
+**Location:** Ras Tanura, Eastern, Saudi Arabia  
+**Live confidence:** medium  
+**Vacancy:** https://sa.linkedin.com/jobs/view/offshore-operations-manager-at-bahri-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A-4445852512
 
 **Why it fits**
-- Matches internal operational leadership requirements
-- Ability to manage performance, safety, and productivity aligns with core competencies
+- Strong leadership experience in managing fleet/vessel-related operations.
+- Proven ability to manage budgets, financial planning, and operational KPIs.
+- Experience in managing personnel and cross-functional teams.
 
 **Gaps / risks
-- Role is based in Riyadh; requires relocation from current Dubai location.
-- Candidate is more Dubai-centric than Saudi-specific.
+- Lack of direct marine/offshore experience; candidate is specialized in ground transport.
+- Requires relocation to Saudi Arabia.
 
-**Email subject:** Operations Manager Application - Muhammad Sohail Ayub Qureshi
+**Email subject:** Inquiry: Operations Leadership Opportunity - Muhammad Sohail Ayub Qureshi
 
-I am an experienced Operations Manager with a deep background in fleet and transportation, now looking to leverage my operational expertise at the regional level. My success in managing complex scheduling, payroll, and RTA compliance prepares me well for the dynamic nature of Amazon's operations.
+With 10 years of intensive operations management in the UAE, I offer a strong background in process control, KPI management, and resource optimization. My experience in high-compliance environments makes me an ideal fit for complex operational oversight roles within Bahri.
 
 **LinkedIn pitch**
-Interested in the Operations Manager role at Amazon Riyadh. I have 10 years of operations experience and a proven ability to lead multi-site operational excellence.
+I am an Operations Leader based in Dubai with 9+ years of experience in fleet and dispatch management. I am very interested in the Offshore Operations Manager role and would welcome the chance to discuss how my background in operational excellence and cost management aligns with Bahri's requirements.
+
+---
+
+## 3. Head of Operations — Confidential Careers (78/100)
+**Tier:** credible  
+**Location:** Al Khobar, Eastern, Saudi Arabia  
+**Live confidence:** medium  
+**Vacancy:** https://sa.linkedin.com/jobs/view/head-of-operations-at-confidential-careers-4445488593
+
+**Why it fits**
+- 10+ years of operations management experience matches the target criteria.
+- Strong experience in monitoring KPIs and implementing action plans.
+- Proven background in multi-site/driver team coordination.
+
+**Gaps / risks
+- Candidate's experience is heavily weighted toward transportation rather than retail.
+- Requires potential relocation to Al Khobar.
+
+**Email subject:** Application for Head of Operations - Muhammad Sohail Ayub Qureshi
+
+I am a high-performing Operations Manager with 10 years of experience driving efficiency and regulatory compliance. My expertise in managing driver teams, financial reconciliation, and process optimization has prepared me to lead your operations team and drive business targets effectively.
+
+**LinkedIn pitch**
+I have been following your growth and am interested in the Head of Operations role. With 9+ years of managing fleet operations in Dubai and a strong record of hitting operational KPIs, I am eager to apply my skills to your regional team.
 
 ---
