@@ -1,0 +1,390 @@
+{
+  "generated_at": "2026-08-19T03:55:17.339539+00:00",
+  "queries_attempted": 46,
+  "raw_job_like_results": 45,
+  "cleaned_results": 32,
+  "search_errors": [
+    {
+      "query": "\"Head of Operations\" \"Madinah\" jobs",
+      "error": "No results found."
+    },
+    {
+      "query": "\"General Manager Operations\" \"Jeddah\" jobs",
+      "error": "No results found."
+    },
+    {
+      "query": "\"General Manager Operations\" \"Makkah\" jobs",
+      "error": "No results found."
+    },
+    {
+      "query": "\"Fleet Operations Manager\" \"Dubai\" jobs",
+      "error": "No results found."
+    },
+    {
+      "query": "\"Fleet Operations Manager\" \"Abu Dhabi\" jobs",
+      "error": "No results found."
+    },
+    {
+      "query": "\"Fleet Operations Manager\" \"Riyadh\" jobs",
+      "error": "No results found."
+    },
+    {
+      "query": "\"Fleet Operations Manager\" \"Jeddah\" jobs",
+      "error": "No results found."
+    },
+    {
+      "query": "\"Transport Operations Manager\" \"Dubai\" jobs",
+      "error": "No results found."
+    },
+    {
+      "query": "\"Mobility Operations Manager\" \"Riyadh\" jobs",
+      "error": "No results found."
+    },
+    {
+      "query": "site:linkedin.com/jobs/view \"Head of Operations\" (Dubai OR UAE OR Riyadh OR Jeddah OR Saudi)",
+      "error": "No results found."
+    },
+    {
+      "query": "site:naukrigulf.com \"Head of Operations\" (UAE OR Saudi Arabia)",
+      "error": "No results found."
+    },
+    {
+      "query": "site:bayt.com \"General Manager Operations\" (UAE OR Saudi Arabia)",
+      "error": "No results found."
+    },
+    {
+      "query": "site:naukrigulf.com \"General Manager Operations\" (UAE OR Saudi Arabia)",
+      "error": "No results found."
+    },
+    {
+      "query": "site:linkedin.com/jobs/view \"Fleet Operations Manager\" (Dubai OR UAE OR Riyadh OR Jeddah OR Saudi)",
+      "error": "No results found."
+    },
+    {
+      "query": "site:bayt.com \"Fleet Operations Manager\" (UAE OR Saudi Arabia)",
+      "error": "No results found."
+    }
+  ],
+  "results": [
+    {
+      "title": "Arabian Trading Supplies hiring Fleet Operations Manager ...",
+      "url": "https://www.linkedin.com/jobs/view/4337462032",
+      "summary": "Fleet Operations Manager-Saudi Arabian Trading Supplies Jeddah, Makkah, Saudi Arabia",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Fleet Operations Manager\" \"Makkah\" jobs",
+      "pre_score": 58
+    },
+    {
+      "title": "Fleet Operations Manager Jobs, Employment | Indeed",
+      "url": "https://www.indeed.com/q-Fleet-Operations-Manager-jobs.html",
+      "summary": "972 Fleet Operations Manager jobs. Apply to Fleet Manager, Supply Chain Manager, Operations Manager and more. Hiring now on Indeed.com.",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Fleet Operations Manager\" \"Madinah\" jobs",
+      "pre_score": 56
+    },
+    {
+      "title": "General Manager Operations Salaries in UAE - GulfTalentJOHN KOSHY currently working as General Manager Operations at ...Jean Saliba currently working as General Manager Operations ...Operations Manager Salaries in UAE - GulfTalent",
+      "url": "https://www.gulftalent.com/uae/salaries/general-manager-operations",
+      "summary": "The average General Manager Operations salary in UAE is AED 13,000 per month, going up to AED 80,500 based on industry, job location and candidate profile. Salaries in UAE are tax-free. View profile of JOHN KOSHY currently working as General Manager Operations at Trend Auto Services in Dubai, UAE with over 30 years of experience View profile of Jean Saliba currently working as General Manager Operations at Gourmet 360 Catering in Riyadh, Saudi Arabia with over 28 years of experience The average Operations Manager salary in UAE is AED 10,000 per month compared to Business Operations Manager (AED 12,000), Assistant Operations Manager (AED 6,500) and General Manager Operations (AED 13,000).",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "site:gulftalent.com \"General Manager Operations\" (UAE OR Saudi Arabia)",
+      "pre_score": 51
+    },
+    {
+      "title": "Transport Operations Manager Jobs in UAE - Bayt.com",
+      "url": "https://www.bayt.com/en/uae/jobs/transport-operations-manager-jobs/",
+      "summary": "Apply now to over 120 Transport Operations Manager jobs in UAE and make your job hunting simpler. Find the latest Transport Operations Manager job vacancies and employment opportunities in UAE.",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Transport Operations Manager\" \"Abu Dhabi\" jobs",
+      "pre_score": 50
+    },
+    {
+      "title": "Transport Operations Manager Jobs in Riyadh - Bayt.com",
+      "url": "https://www.bayt.com/en/saudi-arabia/jobs/transport-operations-manager-jobs-in-riyadh/",
+      "summary": "Apply now to over 30 Transport Operations Manager jobs in Riyadh and make your job hunting simpler. Find the latest Transport Operations Manager job vacancies and employment opportunities in Riyadh.",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Transport Operations Manager\" \"Riyadh\" jobs",
+      "pre_score": 50
+    },
+    {
+      "title": "Transport Operations Manager Jobs in Jeddah (2024) - Bayt.com",
+      "url": "https://www.bayt.com/en/saudi-arabia/jobs/transport-operations-manager-jobs-in-jeddah/",
+      "summary": "Apply now to over 7 Transport Operations Manager jobs in Jeddah and make your job hunting simpler. Find the latest Transport Operations Manager job vacancies and employment opportunities in Jeddah .",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Transport Operations Manager\" \"Jeddah\" jobs",
+      "pre_score": 50
+    },
+    {
+      "title": "Transport Operations Manager Jobs in Abu Dhabi | GulfTalent",
+      "url": "https://www.gulftalent.com/uae/jobs/abu-dhabi/title/transport-operations-manager",
+      "summary": "Browse the latest Transport Operations Manager Jobs in Abu Dhabi with top employers. Find 9 new Transport Operations Manager vacancies in Abu Dhabi and apply today.",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Transport Operations Manager\" \"Abu Dhabi\" jobs",
+      "pre_score": 46
+    },
+    {
+      "title": "Global Mobility Operations Manager Jobs in Dubai - 243 ...",
+      "url": "https://www.naukrigulf.com/global-mobility-operations-manager-jobs-in-dubai",
+      "summary": "Global Mobility Operations Manager Jobs in Dubai - Explore Global Mobility Operations Manager Vacancies in Dubai in top companies in UAE, Qatar, Oman & Bahrain.",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Mobility Operations Manager\" \"Dubai\" jobs",
+      "pre_score": 46
+    },
+    {
+      "title": "Global Mobility Operations Manager Jobs in Abu Dhabi",
+      "url": "https://www.naukrigulf.com/global-mobility-operations-manager-jobs-in-abu-dhabi",
+      "summary": "Global Mobility Operations Manager Jobs in Abu Dhabi - Explore Global Mobility Operations Manager Vacancies in Abu Dhabi in top companies in UAE, Qatar, Oman & Bahrain.",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Mobility Operations Manager\" \"Abu Dhabi\" jobs",
+      "pre_score": 46
+    },
+    {
+      "title": "Now Hiring: 25,000 Mobility Operations Manager Jobs | Indeed",
+      "url": "https://www.indeed.com/q-Mobility-Operations-Manager-jobs.html",
+      "summary": "Browse 25,725 Mobility Operations Manager jobs. New jobs posted today. Apply now and find your next opportunity on Indeed.com.",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Mobility Operations Manager\" \"Jeddah\" jobs",
+      "pre_score": 46
+    },
+    {
+      "title": "Transport Operations Manager jobs in Confidential Company in ...",
+      "url": "https://www.naukrigulf.com/transport-operations-manager-jobs-in-abu-dhabi-uae-in-confidential-4-to-9-years-n-jid-210726000002",
+      "summary": "Jul 21, 2026 · Manage the day-to-day operations of car carriers and recovery vehicles, ensuring timely vehicle transportation and recovery services. Plan and optimize routes, schedules, and fleet allocation to maximize utilization and minimize operating costs.",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Transport Operations Manager\" \"Abu Dhabi\" jobs",
+      "pre_score": 45
+    },
+    {
+      "title": "Confidential hiring Fleet Manager in Jeddah, Makkah, Saudi ...",
+      "url": "https://www.linkedin.com/jobs/view/4442772665/",
+      "summary": "Jul 30, 2026 · Job Summary We are seeking an experienced Fleet Manager to oversee fleet operations and ensure the efficient management, maintenance, and utilization of vehicles and heavy equipment supporting ...",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Fleet Manager\" \"Jeddah\" jobs",
+      "pre_score": 44
+    },
+    {
+      "title": "75+ Head of Operations Jobs, Employment in UAE 14 July 2026| Indeed",
+      "url": "https://ae.indeed.com/q-head-of-operations-l-uae-jobs.html",
+      "summary": "February 27, 2023 - Salary Search: Business Head / Head of Operations / Operations Manager – Short Term Rentals salaries in Dubai · Strong knowledge of retail operations, supply chain management, and inventory control. Foster a culture of excellence, accountability, and continuous… ... The Head of IT will manage day-to-day IT operations, including infrastructure, applications, networks, cybersecurity, and support services, ensuring high… · View all Emirates National Chemical Industries jobs - Dubai jobs",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Head of Operations\" \"Dubai\" jobs",
+      "pre_score": 43
+    },
+    {
+      "title": "942 Transport Operations Manager jobs in United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/transport-operations-manager-jobs-ae",
+      "summary": "Today's top 942 Transport Operations Manager jobs in United Arab Emirates. Leverage your professional network, and get hired. New Transport Operations Manager jobs added daily.",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Transport Operations Manager\" \"Abu Dhabi\" jobs",
+      "pre_score": 42
+    },
+    {
+      "title": "Transport Operations Manager Jobs in Riyadh | GulfTalent",
+      "url": "https://www.gulftalent.com/saudi-arabia/jobs/riyadh/title/transport-operations-manager",
+      "summary": "Browse the latest Transport Operations Manager Jobs in Riyadh with top employers. Find 9 new Transport Operations Manager vacancies in Riyadh and apply today.",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Transport Operations Manager\" \"Riyadh\" jobs",
+      "pre_score": 42
+    },
+    {
+      "title": "Transport Operations Manager Jobs in Jeddah | GulfTalent",
+      "url": "https://www.gulftalent.com/saudi-arabia/jobs/jeddah/title/transport-operations-manager",
+      "summary": "Browse the latest Transport Operations Manager Jobs in Jeddah with top employers. Find 4 new Transport Operations Manager vacancies in Jeddah and apply today.",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Transport Operations Manager\" \"Jeddah\" jobs",
+      "pre_score": 42
+    },
+    {
+      "title": "295 transport Jobs in Saudi Arabia, August 2025 | Glassdoor",
+      "url": "https://www.glassdoor.com/Job/saudi-arabia-transport-jobs-SRCH_IL.0,12_IN207_KO13,22.htm",
+      "summary": "Rgheeb is looking for an experienced and strategic Transport Operations Manager to lead our transportation operations and ensure the efficient movement of goods within the organization.",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Transport Operations Manager\" \"Jeddah\" jobs",
+      "pre_score": 42
+    },
+    {
+      "title": "Transport Operations Manager Jobs in UAE | GulfTalent",
+      "url": "https://www.gulftalent.com/uae/jobs/title/transport-operations-manager",
+      "summary": "Browse the latest Transport Operations Manager Jobs in UAE with top employers. Find 47 new Transport Operations Manager vacancies in UAE and apply today.",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Transport Operations Manager\" \"Makkah\" jobs",
+      "pre_score": 42
+    },
+    {
+      "title": "Head of Operations | Jobs in Riyadh, Saudi Arabia by Global Corporation | Apply Now | GulfTalent",
+      "url": "https://www.gulftalent.com/saudi-arabia/jobs/head-of-operations-584636",
+      "summary": "May 8, 2026 - Head of Operations vacancy in Riyadh, Saudi Arabia with Global Corporation. Explore more Head of Operations jobs in Riyadh, Saudi Arabia and other Middle East countries. Apply now!",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Head of Operations\" \"Riyadh\" jobs",
+      "pre_score": 41
+    },
+    {
+      "title": "Siemens hiring Head of Operations in Mecca, Makkah, Saudi ...",
+      "url": "https://www.linkedin.com/jobs/view/head-of-operations-at-siemens-3900069622",
+      "summary": "Join our Smart Infrastructure Electrification and Automation as the head of operations and help us re-imagine the world by finding solutions and making the world a smarter place for tomorrow.",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Head of Operations\" \"Makkah\" jobs",
+      "pre_score": 41
+    },
+    {
+      "title": "Siemens hiring Head of Operations in Mecca, Makkah, Saudi ...",
+      "url": "https://www.linkedin.com/jobs/view/head-of-operations-at-siemens-3699215969",
+      "summary": "Join our Smart Infrastructure Electrification and Automation as the head of operations and help us re-imagine the world by finding solutions and making the world a smarter place for tomorrow.",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Head of Operations\" \"Makkah\" jobs",
+      "pre_score": 41
+    },
+    {
+      "title": "VFS Global hiring General Manager Operations in Riyadh, Saudi ...",
+      "url": "https://www.linkedin.com/jobs/view/3986709858/",
+      "summary": "General Manager Operations VFS Global Riyadh, Saudi Arabia 2 years ago Be among the first 25 applicants See who VFS Global has hired for this role",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "site:linkedin.com/jobs/view \"General Manager Operations\" (Dubai OR UAE OR Riyadh OR Jeddah OR Saudi)",
+      "pre_score": 41
+    },
+    {
+      "title": "Fleet Manager Job in Arabian Trading Supplies | Sabbar",
+      "url": "https://sabbar.com/en/jobs/c-makkah-r-fleet-manager/id-2ecdac04-f3ec-4861-b6ed-b9368146aebc",
+      "summary": "We are seeking a Fleet Operations Manager who will oversee the daily operations of our fleet consisting of cars, trucks, and heavy equipment. In this pivotal role, you will be responsible for ensuring optimal fleet performance and management.",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Fleet Operations Manager\" \"Makkah\" jobs",
+      "pre_score": 40
+    },
+    {
+      "title": "Saudi Alqaid Company hiring Fleet Manager in Makkah, Saudi ...",
+      "url": "https://www.linkedin.com/jobs/view/4249357397",
+      "summary": "We are seeking a highly organized and proactive Fleet Manager to oversee the operations, maintenance, and overall performance of our vehicle fleet. The ideal candidate will ensure optimal...",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Fleet Manager\" \"Makkah\" jobs",
+      "pre_score": 40
+    },
+    {
+      "title": "Operations Manager Salaries in UAE - GulfTalent",
+      "url": "https://www.gulftalent.com/uae/salaries/operations-manager",
+      "summary": "The average Operations Manager salary in UAE is AED 10,000 per month compared to Business Operations Manager (AED 12,000), Assistant Operations Manager (AED 6,500) and General Manager Operations (AED 13,000).",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "site:gulftalent.com \"General Manager Operations\" (UAE OR Saudi Arabia)",
+      "pre_score": 39
+    },
+    {
+      "title": "1,000+ Fleet Operations Manager jobs in United States - LinkedIn",
+      "url": "https://www.linkedin.com/jobs/fleet-operations-manager-jobs",
+      "summary": "Today's top 1,000+ Fleet Operations Manager jobs in United States. Leverage your professional network, and get hired. New Fleet Operations Manager jobs added daily.",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Fleet Operations Manager\" \"Madinah\" jobs",
+      "pre_score": 38
+    },
+    {
+      "title": "Fleet Operations Manager Jobs - 3 Vacancies (with Salaries ...",
+      "url": "https://www.naukrigulf.com/fleet-operations-manager-jobs",
+      "summary": "May 12, 2026 · Manage fleet and warehouse operations, coordinate deliveries, monitor performance, optimize routes, and ensure compliance while supporting continuous improvement initiatives. Looking for the perfect job? Get personalised jobs in email. Apply in one click.",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Fleet Operations Manager\" \"Makkah\" jobs",
+      "pre_score": 38
+    },
+    {
+      "title": "Head of Operations Salaries in Saudi Arabia | GulfTalent",
+      "url": "https://www.gulftalent.com/saudi-arabia/salaries/head-of-operations",
+      "summary": "Head of Operations Jobs in Saudi Arabia (5591) Head of Operations Jobs in Riyadh (2568) Head of Operations Jobs in Jeddah (484) Head of Operations Jobs (23402)",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Head of Operations\" \"Riyadh\" jobs",
+      "pre_score": 37
+    },
+    {
+      "title": "Head of Operations Jobs in Saudi Arabia (Feb 2024) | GulfTalent.com",
+      "url": "https://www.gulftalent.com/saudi-arabia/jobs/title/head-of-operations",
+      "summary": "There are currently 2,297 live Head of Operations jobs in Saudi Arabia on GulfTalent. Head of Operations jobs in Riyadh constitute the largest segment of these jobs, followed by jobs in Jeddah and Dhahran .",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"Head of Operations\" \"Jeddah\" jobs",
+      "pre_score": 37
+    },
+    {
+      "title": "General Manager Operations Jobs in UAE | GulfTalent",
+      "url": "https://www.gulftalent.com/uae/jobs/title/general-manager-operations",
+      "summary": "There are currently 183 live General Manager Operations jobs in UAE on GulfTalent. General Manager Operations jobs in Dubai constitute the largest segment of these jobs, followed by jobs in Abu Dhabi and Sharjah.",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"General Manager Operations\" \"Dubai\" jobs",
+      "pre_score": 37
+    },
+    {
+      "title": "General Manager Operations Jobs in Saudi Arabia | GulfTalent",
+      "url": "https://www.gulftalent.com/saudi-arabia/jobs/title/general-manager-operations",
+      "summary": "There are currently 183 live General Manager Operations jobs in Saudi Arabia on GulfTalent. General Manager Operations jobs in Riyadh constitute the largest segment of these jobs, followed by jobs in Jeddah and Dhahran.",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"General Manager Operations\" \"Riyadh\" jobs",
+      "pre_score": 37
+    },
+    {
+      "title": "General Manager Operations Maintenance Jobs in Saudi Arabia",
+      "url": "https://www.naukrigulf.com/general-manager-operations-maintenance-jobs-in-saudi-arabia",
+      "summary": "Showing 158 General Manager Operations Maintenance Jobs in Saudi Arabia Barista, Head Barista Gulf hospitality talent 1 - 2 Years Riyadh , Jeddah - Saudi Arabia Crafting a diverse range of espresso-based beverages and pour-over coffees with precision and artistic flair. Maintaining impeccable cleanliness and organization of the bar area...",
+      "page_title": "",
+      "page_description": "",
+      "page_excerpt": "",
+      "query": "\"General Manager Operations\" \"Riyadh\" jobs",
+      "pre_score": 37
+    }
+  ]
+}

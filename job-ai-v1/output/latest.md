@@ -1,9 +1,10 @@
 # Sohail Qureshi — AI Job Match Report
 
-Generated: 2026-08-19T09:00:00Z
+Generated: 2026-08-19T10:00:00Z
 
+**Discovery candidates reviewed:** 32  
 **Credible jobs found:** 0  
 **High-fit jobs:** 0  
-**Markets:** Dubai, Abu Dhabi, Riyadh, Jeddah, Madinah, Makkah
+**Markets:** UAE, Dubai, Abu Dhabi, Saudi Arabia, Riyadh, Jeddah, Madinah, Makkah
 
-The provided web search results consist exclusively of dictionary definitions, general information websites, and non-job related commercial sites. No active job postings were contained in the search data. Per instructions to use ONLY supplied results and not invent jobs, the job list is returned empty.
+Most links provided were aggregator or category pages rather than specific active vacancy pages. Only one specific vacancy (Arabian Trading Supplies) was identified as a direct role match, though it falls slightly below the target threshold due to limited company information.
