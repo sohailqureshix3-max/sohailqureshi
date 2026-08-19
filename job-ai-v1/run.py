@@ -26,21 +26,35 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/126 Safari/537.36",
     "Accept-Language": "en-US,en;q=0.9",
 }
-ROLES = [
-    "Fleet Operations Manager", "Fleet Manager", "Transport Operations Manager",
-    "Head of Operations", "Operations Manager", "General Manager Operations",
-    "Mobility Operations Manager", "Dispatch Manager",
+
+# Entire search strategy is now profile-driven. No UAE/KSA-only hard coding.
+ROLES = list(dict.fromkeys(search.get("target_roles", [])))
+PROFILE_LOCATIONS = list(dict.fromkeys(search.get("locations", [])))
+MARKET_PRIORITY = list(dict.fromkeys(search.get("market_priority", [])))
+MAX_JOBS = int(search.get("max_jobs", 15))
+
+# Country-level searches cover the entire GCC while keeping the workflow fast.
+GCC_COUNTRIES = [
+    "Saudi Arabia", "United Arab Emirates", "Kuwait", "Qatar", "Bahrain", "Oman"
 ]
-MARKETS = [
-    "United Arab Emirates", "Dubai", "Abu Dhabi",
-    "Saudi Arabia", "Riyadh", "Jeddah", "Madinah", "Makkah",
-]
+COUNTRY_MARKETS = [m for m in MARKET_PRIORITY if m in GCC_COUNTRIES]
+for country in GCC_COUNTRIES:
+    if country not in COUNTRY_MARKETS:
+        COUNTRY_MARKETS.append(country)
+
 ROLE_WORDS = [
-    "fleet", "transport", "mobility", "operations", "dispatch", "chauffeur", "limousine",
+    "operations", "fleet", "transport", "transportation", "mobility", "logistics",
+    "dispatch", "last mile", "driver operations", "business unit", "country operations",
+    "regional operations", "general manager", "head of operations", "director of operations",
 ]
 NEGATIVE = [
-    "intern", "junior", "software engineer", "mechanical engineer", "civil engineer",
-    "warehouse associate", "sales executive", "delivery rider", "driver vacancy",
+    "intern", "internship", "junior", "software engineer", "mechanical engineer",
+    "civil engineer", "warehouse associate", "sales executive", "delivery rider",
+    "driver vacancy", "hr manager", "accountant", "medical", "nurse", "restaurant manager",
+]
+EXECUTIVE_TERMS = [
+    "head of operations", "general manager", "regional operations", "country operations",
+    "director of operations", "business unit manager", "senior operations manager",
 ]
 
 
@@ -60,51 +74,69 @@ def strip_html(text: str) -> str:
 
 def pre_score(title: str, description: str, location: str) -> int:
     blob = f"{title} {description} {location}".lower()
+    title_l = (title or "").lower()
     score = 0
-    if any(r.lower() in blob for r in ROLES): score += 35
-    if any(w in blob for w in ROLE_WORDS): score += 18
-    if any(m.lower() in blob for m in MARKETS): score += 15
-    if any(x in blob for x in ["manager", "head", "general manager"]): score += 10
-    if any(x in blob for x in ["fleet", "vehicle", "driver", "transport"]): score += 12
-    if any(x in blob for x in NEGATIVE): score -= 50
+    if any(r.lower() in title_l for r in ROLES):
+        score += 32
+    elif any(w in title_l for w in ROLE_WORDS):
+        score += 22
+    if any(w in blob for w in ROLE_WORDS):
+        score += 14
+    if any(m.lower() in blob for m in GCC_COUNTRIES + PROFILE_LOCATIONS):
+        score += 12
+    if any(x in title_l for x in EXECUTIVE_TERMS):
+        score += 18  # career progression boost
+    elif any(x in title_l for x in ["manager", "lead"]):
+        score += 8
+    if any(x in blob for x in ["fleet", "vehicle", "driver", "transport", "mobility", "logistics"]):
+        score += 10
+    if any(x in blob for x in ["budget", "p&l", "kpi", "cost control", "revenue", "compliance", "sop"]):
+        score += 7
+    if any(x in blob for x in NEGATIVE):
+        score -= 60
     return score
 
 
-def linkedin_guest_search(role: str, location: str, pages: int = 2):
+def linkedin_guest_search(role: str, location: str):
     out = []
-    for page in range(pages):
-        start = page * 25
-        url = (
-            "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
-            f"?keywords={quote(role)}&location={quote(location)}&start={start}&sortBy=DD"
-        )
-        try:
-            r = requests.get(url, headers=HEADERS, timeout=20)
-            if r.status_code != 200:
+    # Last 30 days, newest first. One page keeps the GCC sweep inside the workflow timeout.
+    url = (
+        "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
+        f"?keywords={quote(role)}&location={quote(location)}&start=0&sortBy=DD&f_TPR=r2592000"
+    )
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=12)
+        if r.status_code != 200:
+            return out
+        soup = BeautifulSoup(r.text, "html.parser")
+        for card in soup.select("li"):
+            a = card.select_one("a.base-card__full-link") or card.select_one("a[href*='/jobs/view/']")
+            if not a:
                 continue
-            soup = BeautifulSoup(r.text, "html.parser")
-            for card in soup.select("li"):
-                a = card.select_one("a.base-card__full-link") or card.select_one("a[href*='/jobs/view/']")
-                if not a:
-                    continue
-                href = clean_url(a.get("href", ""))
-                title_el = card.select_one("h3")
-                company_el = card.select_one("h4") or card.select_one(".base-search-card__subtitle")
-                loc_el = card.select_one(".job-search-card__location")
-                time_el = card.select_one("time")
-                title = strip_html(title_el.get_text(" ") if title_el else a.get_text(" "))
-                company = strip_html(company_el.get_text(" ") if company_el else "")
-                loc = strip_html(loc_el.get_text(" ") if loc_el else location)
-                posted = time_el.get("datetime", "") if time_el else ""
-                if href and title:
-                    out.append({
-                        "title": title, "company": company, "location": loc,
-                        "url": href, "posted": posted, "source": "LinkedIn",
-                        "description": "", "discovery": "linkedin_guest",
-                    })
-        except Exception:
-            pass
-        time.sleep(0.2)
+            href = clean_url(a.get("href", ""))
+            title_el = card.select_one("h3")
+            company_el = card.select_one("h4") or card.select_one(".base-search-card__subtitle")
+            loc_el = card.select_one(".job-search-card__location")
+            time_el = card.select_one("time")
+            title = strip_html(title_el.get_text(" ") if title_el else a.get_text(" "))
+            company = strip_html(company_el.get_text(" ") if company_el else "")
+            loc = strip_html(loc_el.get_text(" ") if loc_el else location)
+            posted = time_el.get("datetime", "") if time_el else ""
+            if href and title:
+                out.append({
+                    "title": title,
+                    "company": company,
+                    "location": loc,
+                    "url": href,
+                    "posted": posted,
+                    "source": "LinkedIn",
+                    "description": "",
+                    "discovery": "linkedin_guest_gcc",
+                    "search_role": role,
+                    "search_market": location,
+                })
+    except Exception:
+        pass
     return out
 
 
@@ -113,19 +145,26 @@ def linkedin_detail(item: dict) -> dict:
     if not m:
         return item
     try:
-        r = requests.get(f"https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{m.group(1)}", headers=HEADERS, timeout=18)
+        r = requests.get(
+            f"https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{m.group(1)}",
+            headers=HEADERS,
+            timeout=12,
+        )
         if r.status_code != 200:
             return item
         soup = BeautifulSoup(r.text, "html.parser")
         desc = soup.select_one(".show-more-less-html__markup")
         if desc:
-            item["description"] = strip_html(desc.get_text(" "))[:5000]
+            item["description"] = strip_html(desc.get_text(" "))[:6000]
         title = soup.select_one("h2.top-card-layout__title")
         company = soup.select_one("a.topcard__org-name-link") or soup.select_one(".topcard__flavor")
         location = soup.select_one(".topcard__flavor--bullet")
-        if title: item["title"] = strip_html(title.get_text(" "))
-        if company: item["company"] = strip_html(company.get_text(" "))
-        if location: item["location"] = strip_html(location.get_text(" "))
+        if title:
+            item["title"] = strip_html(title.get_text(" "))
+        if company:
+            item["company"] = strip_html(company.get_text(" "))
+        if location:
+            item["location"] = strip_html(location.get_text(" "))
     except Exception:
         pass
     return item
@@ -133,42 +172,51 @@ def linkedin_detail(item: dict) -> dict:
 
 def ddg_fallback():
     out = []
-    queries = [
-        '"Fleet Manager" (Dubai OR UAE OR Riyadh OR Jeddah) (hiring OR vacancy)',
-        '"Transport Operations Manager" (Dubai OR Abu Dhabi OR Riyadh OR Jeddah) jobs',
-        '"Head of Operations" (transport OR fleet OR mobility) (UAE OR Saudi Arabia) jobs',
-        'site:linkedin.com/jobs/view (fleet OR transport) manager (Dubai OR Riyadh OR Jeddah)',
-        'site:naukrigulf.com transport operations manager UAE Saudi jid',
-        'site:gulftalent.com fleet manager UAE Saudi "Apply Now"',
+    query_sets = [
+        '("Head of Operations" OR "General Manager Operations" OR "Regional Operations Manager") (Saudi Arabia OR UAE OR Kuwait OR Qatar OR Bahrain OR Oman) jobs',
+        '("Transport Operations Manager" OR "Mobility Operations Manager" OR "Fleet Operations Manager") (Saudi Arabia OR UAE OR Kuwait OR Qatar OR Bahrain OR Oman) jobs',
+        '("Logistics Operations Manager" OR "Last Mile Operations Manager") (Riyadh OR Dubai OR Kuwait OR Doha OR Manama OR Muscat) jobs',
+        'site:linkedin.com/jobs/view (operations OR fleet OR mobility OR transport) (Saudi Arabia OR UAE OR Kuwait OR Qatar OR Bahrain OR Oman)',
+        'site:gulftalent.com ("Head of Operations" OR "Operations Manager" OR "Fleet Manager") GCC jobs',
+        'site:naukrigulf.com (operations manager OR fleet manager OR transport manager) GCC jobs',
     ]
     try:
-        with DDGS(timeout=20) as ddgs:
-            for q in queries:
-                for r in ddgs.text(q, max_results=10, safesearch="off") or []:
-                    title, url, body = r.get("title", ""), clean_url(r.get("href", "")), r.get("body", "")
+        with DDGS(timeout=15) as ddgs:
+            for q in query_sets:
+                for r in ddgs.text(q, max_results=12, safesearch="off") or []:
+                    title = r.get("title", "")
+                    url = clean_url(r.get("href", ""))
+                    body = r.get("body", "")
                     blob = f"{title} {body}".lower()
                     if url and any(w in blob for w in ROLE_WORDS) and not any(x in blob for x in NEGATIVE):
                         out.append({
-                            "title": title, "company": "", "location": "",
-                            "url": url, "posted": "", "source": "Web Search",
-                            "description": body, "discovery": "ddg_fallback",
+                            "title": title,
+                            "company": "",
+                            "location": "",
+                            "url": url,
+                            "posted": "",
+                            "source": "Web Search",
+                            "description": body,
+                            "discovery": "ddg_gcc_fallback",
                         })
     except Exception:
         pass
     return out
 
 
-# 1) Direct vacancy ingestion. LinkedIn guest job cards are primary because they expose specific job URLs.
+# Search the complete GCC. Executive roles are intentionally first because they have the highest career upside.
 raw = []
-for role in ROLES[:7]:
-    for market in ["United Arab Emirates", "Saudi Arabia", "Dubai", "Riyadh", "Jeddah"]:
-        raw.extend(linkedin_guest_search(role, market, pages=1))
+role_plan = ROLES[:12] if len(ROLES) > 12 else ROLES
+for role in role_plan:
+    for market in COUNTRY_MARKETS:
+        raw.extend(linkedin_guest_search(role, market))
+        time.sleep(0.08)
 
-# 2) Fallback search only if direct ingestion is thin.
-if len(raw) < 15:
+# Supplement with web search if public LinkedIn ingestion is thin or uneven.
+if len(raw) < 40:
     raw.extend(ddg_fallback())
 
-# 3) Deduplicate and deterministic relevance filter.
+# Deduplicate and filter deterministically before sending anything to Gemini.
 seen = set()
 unique = []
 for item in raw:
@@ -177,28 +225,54 @@ for item in raw:
         continue
     seen.add(u)
     item["url"] = u
-    item["pre_score"] = pre_score(item.get("title", ""), item.get("description", ""), item.get("location", ""))
+    item["pre_score"] = pre_score(
+        item.get("title", ""), item.get("description", ""), item.get("location", "")
+    )
     if item["pre_score"] >= 25:
         unique.append(item)
 
-unique.sort(key=lambda x: (x.get("pre_score", 0), bool(x.get("posted"))), reverse=True)
-unique = unique[:35]
+unique.sort(
+    key=lambda x: (x.get("pre_score", 0), bool(x.get("posted"))),
+    reverse=True,
+)
+unique = unique[:50]
 
-# 4) Enrich strongest LinkedIn jobs with full description where public guest endpoint allows it.
-for i in range(min(20, len(unique))):
+# Enrich the strongest direct vacancies with public job descriptions.
+for i in range(min(25, len(unique))):
     if "linkedin.com/jobs/view" in unique[i].get("url", ""):
         unique[i] = linkedin_detail(unique[i])
-        unique[i]["pre_score"] = pre_score(unique[i].get("title", ""), unique[i].get("description", ""), unique[i].get("location", ""))
+        unique[i]["pre_score"] = pre_score(
+            unique[i].get("title", ""),
+            unique[i].get("description", ""),
+            unique[i].get("location", ""),
+        )
 
-(OUTPUT_DIR / "search_debug.json").write_text(json.dumps({
-    "version": "FINAL",
-    "generated_at": datetime.now(timezone.utc).isoformat(),
-    "raw_discovered": len(raw),
-    "direct_candidates": len(unique),
-    "results": unique,
-}, indent=2, ensure_ascii=False), encoding="utf-8")
+(OUTPUT_DIR / "search_debug.json").write_text(
+    json.dumps(
+        {
+            "version": "FINAL-GCC-EXECUTIVE",
+            "generated_at": datetime.now(timezone.utc).isoformat(),
+            "searched_countries": COUNTRY_MARKETS,
+            "searched_roles": role_plan,
+            "raw_discovered": len(raw),
+            "direct_candidates": len(unique),
+            "results": unique,
+        },
+        indent=2,
+        ensure_ascii=False,
+    ),
+    encoding="utf-8",
+)
 
-# 5) AI scoring and pitch generation. AI never discovers jobs; it only evaluates supplied URLs.
+verified_facts = {
+    "experience_years": candidate.get("experience_years"),
+    "dubai_transport_years": candidate.get("dubai_transport_years"),
+    "drivers_managed": candidate.get("drivers_managed"),
+    "vehicles_managed": candidate.get("vehicles_managed"),
+    "platforms": candidate.get("platforms", []),
+    "strengths": candidate.get("strengths", []),
+}
+
 prompt = f"""
 You are a conservative GCC executive recruitment analyst.
 TODAY: {datetime.now(timezone.utc).date().isoformat()}
@@ -206,24 +280,32 @@ TODAY: {datetime.now(timezone.utc).date().isoformat()}
 CANDIDATE PROFILE:
 {json.dumps(candidate, indent=2)}
 
+VERIFIED FACTS ALLOWED IN OUTREACH:
+{json.dumps(verified_facts, indent=2)}
+
+SEARCH STRATEGY:
+{json.dumps(search, indent=2)}
+
 SCORING WEIGHTS:
 {json.dumps(weights, indent=2)}
 
-VERIFIED/DIRECT JOB CANDIDATES:
+DIRECT JOB CANDIDATES:
 {json.dumps(unique, indent=2)}
 
 Rules:
-1. Use ONLY supplied jobs. Never invent a vacancy, employer, URL, requirement or achievement.
-2. Prioritize senior Operations, Fleet, Transport, Dispatch and Mobility roles in UAE/KSA.
-3. Score candidate fit 0-100 using the supplied weights. 80+ strong, 70-79 credible, 60-69 watchlist.
-4. Reject obvious technical engineering, warehouse-only, junior, pure sales or unrelated HR/global-mobility roles.
-5. A direct LinkedIn vacancy may be accepted even if its full description was not accessible, but lower live_confidence if evidence is thin.
-6. Tailored outreach can use only verified candidate facts: 10+ years experience, 9+ years Dubai transport, 40+ drivers, 30+ vehicles, listed platforms, reconciliation, payroll, RTA compliance, SOPs, Excel/Power Query, ACCA Part-Qualified.
-7. job_url must exactly equal a supplied URL.
-8. Return up to 10 jobs scoring 60+. Never pad with junk.
+1. Use ONLY supplied jobs. Never invent a vacancy, employer, URL, qualification, requirement or candidate achievement.
+2. Evaluate opportunities across the entire GCC: Saudi Arabia, UAE, Kuwait, Qatar, Bahrain and Oman.
+3. Prioritize genuine career progression: Head, GM, Regional, Country, Director and Business Unit roles should receive progression credit when responsibilities are realistically achievable.
+4. Score 0-100 using the supplied weights. 80+ strong, 70-79 credible, 60-69 watchlist.
+5. Reject junior, unrelated engineering, pure sales, warehouse-associate, HR, medical and other irrelevant roles.
+6. Do not over-score a senior title where the vacancy requires credentials or scale materially beyond the verified profile. Put those gaps in gaps_risks.
+7. Tailored outreach may use ONLY the verified facts supplied above. Do not mention ACCA or any qualification not present in the profile.
+8. job_url must exactly equal one supplied URL.
+9. Return up to {MAX_JOBS} jobs scoring 60+. Never pad with weak opportunities.
+10. Ranking should consider both fit_score and career upside; a strong Head/GM/Regional role may rank above a slightly higher-fit routine manager role.
 
 Return JSON only:
-{{"generated_at":"ISO","summary":{{"searched_markets":[],"credible_jobs_found":0,"high_fit_count":0,"watchlist_count":0,"notes":""}},"jobs":[{{"rank":1,"job_title":"","company":"","location":"","fit_score":0,"fit_tier":"strong|credible|watchlist","live_confidence":"high|medium|low","job_url":"","source":"","why_fit":[""],"gaps_risks":[""],"email_subject":"","email_pitch":"","linkedin_pitch":""}}]}}
+{{"generated_at":"ISO","summary":{{"searched_markets":[],"credible_jobs_found":0,"high_fit_count":0,"watchlist_count":0,"executive_matches":0,"notes":""}},"jobs":[{{"rank":1,"job_title":"","company":"","location":"","fit_score":0,"career_progression_score":0,"fit_tier":"strong|credible|watchlist","live_confidence":"high|medium|low","job_url":"","source":"","why_fit":[""],"gaps_risks":[""],"email_subject":"","email_pitch":"","linkedin_pitch":""}}]}}
 """
 
 try:
@@ -235,11 +317,17 @@ try:
     text = (response.text or "").strip()
     if text.startswith("```"):
         text = text.split("\n", 1)[1]
-        if text.endswith("```"): text = text[:-3]
-    if text.lower().startswith("json\n"): text = text[5:]
+        if text.endswith("```"):
+            text = text[:-3]
+    if text.lower().startswith("json\n"):
+        text = text[5:]
     data = json.loads(text.strip())
 except Exception as e:
-    data = {"generated_at": datetime.now(timezone.utc).isoformat(), "summary": {"notes": f"AI scoring unavailable: {type(e).__name__}"}, "jobs": []}
+    data = {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "summary": {"notes": f"AI scoring unavailable: {type(e).__name__}"},
+        "jobs": [],
+    }
 
 valid = {x["url"]: x for x in unique}
 clean_jobs = []
@@ -248,74 +336,104 @@ for j in data.get("jobs", []):
         score = max(0, min(100, int(j.get("fit_score", 0))))
     except Exception:
         score = 0
+    try:
+        progression = max(0, min(100, int(j.get("career_progression_score", 0))))
+    except Exception:
+        progression = 0
     url = clean_url(j.get("job_url", ""))
     if score < 60 or url not in valid:
         continue
     j["job_url"] = url
     j["fit_score"] = score
+    j["career_progression_score"] = progression
     j["fit_tier"] = "strong" if score >= 80 else ("credible" if score >= 70 else "watchlist")
     j["source"] = valid[url].get("source", j.get("source", ""))
     clean_jobs.append(j)
 
-# Deterministic safety fallback: never lose strong direct candidates because Gemini formatting fails.
+# Safety fallback: valid direct opportunities survive even if Gemini output formatting fails.
 if not clean_jobs and unique:
-    for item in unique[:8]:
+    for item in unique[:MAX_JOBS]:
         ps = item.get("pre_score", 0)
         score = min(79, max(60, 55 + ps // 3))
         if score < 60:
             continue
-        clean_jobs.append({
-            "rank": 0,
-            "job_title": item.get("title", ""),
-            "company": item.get("company", ""),
-            "location": item.get("location", ""),
-            "fit_score": score,
-            "fit_tier": "credible" if score >= 70 else "watchlist",
-            "live_confidence": "medium" if item.get("posted") else "low",
-            "job_url": item.get("url", ""),
-            "source": item.get("source", ""),
-            "why_fit": ["Role title and market align with fleet/transport operations leadership."],
-            "gaps_risks": ["AI scoring/pitch was unavailable; review the vacancy manually before applying."],
-            "email_subject": "",
-            "email_pitch": "",
-            "linkedin_pitch": "",
-        })
+        title_l = item.get("title", "").lower()
+        progression = 80 if any(x in title_l for x in EXECUTIVE_TERMS) else 55
+        clean_jobs.append(
+            {
+                "rank": 0,
+                "job_title": item.get("title", ""),
+                "company": item.get("company", ""),
+                "location": item.get("location", ""),
+                "fit_score": score,
+                "career_progression_score": progression,
+                "fit_tier": "credible" if score >= 70 else "watchlist",
+                "live_confidence": "medium" if item.get("posted") else "low",
+                "job_url": item.get("url", ""),
+                "source": item.get("source", ""),
+                "why_fit": ["Role and GCC market align with operations leadership experience."],
+                "gaps_risks": ["AI scoring was unavailable; review the full vacancy before applying."],
+                "email_subject": "",
+                "email_pitch": "",
+                "linkedin_pitch": "",
+            }
+        )
 
-clean_jobs.sort(key=lambda x: x.get("fit_score", 0), reverse=True)
-clean_jobs = clean_jobs[:10]
-for i, j in enumerate(clean_jobs, 1): j["rank"] = i
+# Final ranking blends fit with career upside without allowing weak roles to leapfrog strong fits.
+for j in clean_jobs:
+    j["ranking_score"] = round(j.get("fit_score", 0) * 0.8 + j.get("career_progression_score", 0) * 0.2, 1)
+clean_jobs.sort(key=lambda x: (x.get("ranking_score", 0), x.get("fit_score", 0)), reverse=True)
+clean_jobs = clean_jobs[:MAX_JOBS]
+for i, j in enumerate(clean_jobs, 1):
+    j["rank"] = i
 
 summary = data.setdefault("summary", {})
 summary["credible_jobs_found"] = sum(1 for j in clean_jobs if j["fit_score"] >= 70)
 summary["high_fit_count"] = sum(1 for j in clean_jobs if j["fit_score"] >= 80)
 summary["watchlist_count"] = sum(1 for j in clean_jobs if 60 <= j["fit_score"] < 70)
+summary["executive_matches"] = sum(1 for j in clean_jobs if j.get("career_progression_score", 0) >= 75)
 summary["discovery_candidates_reviewed"] = len(unique)
-summary.setdefault("searched_markets", ["UAE", "Saudi Arabia"])
-summary["engine"] = "LinkedIn direct vacancies + web fallback + Gemini scoring"
+summary["searched_markets"] = COUNTRY_MARKETS
+summary["engine"] = "Full GCC direct vacancies + web fallback + Gemini fit/career scoring"
 data["jobs"] = clean_jobs
 data["generated_at"] = data.get("generated_at") or datetime.now(timezone.utc).isoformat()
 
 (OUTPUT_DIR / "latest.json").write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
 
 md = [
-    "# Sohail Qureshi — AI Job Match Report FINAL", "",
+    "# Sohail Qureshi — GCC Executive Job Match Report", "",
     f"Generated: {data['generated_at']}", "",
+    f"**Markets:** {', '.join(COUNTRY_MARKETS)}  ",
     f"**Direct candidates reviewed:** {len(unique)}  ",
     f"**Credible jobs:** {summary['credible_jobs_found']}  ",
     f"**Strong matches:** {summary['high_fit_count']}  ",
+    f"**Executive/progression matches:** {summary['executive_matches']}  ",
     f"**Watchlist:** {summary['watchlist_count']}  ", "",
 ]
-if summary.get("notes"): md += [str(summary["notes"]), ""]
+if summary.get("notes"):
+    md += [str(summary["notes"]), ""]
 for j in clean_jobs:
     md += [
         f"## {j['rank']}. {j.get('job_title','')} — {j.get('company','')} ({j.get('fit_score',0)}/100)",
+        f"**Career progression:** {j.get('career_progression_score',0)}/100  ",
+        f"**Ranking score:** {j.get('ranking_score',0)}  ",
         f"**Tier:** {j.get('fit_tier','')}  ",
         f"**Location:** {j.get('location','')}  ",
         f"**Live confidence:** {j.get('live_confidence','')}  ",
-        f"**Vacancy:** {j.get('job_url','')}", "", "**Why it fits**",
-    ] + [f"- {x}" for x in j.get("why_fit", [])] + ["", "**Gaps / risks"] + [f"- {x}" for x in j.get("gaps_risks", [])]
-    if j.get("email_subject") or j.get("email_pitch"):
-        md += ["", f"**Email subject:** {j.get('email_subject','')}", "", j.get("email_pitch", ""), "", "**LinkedIn pitch**", j.get("linkedin_pitch", "")]
-    md += ["", "---", ""]
+        f"**Vacancy:** {j.get('job_url','')}  ", "",
+        "**Why it fits**",
+    ]
+    md += [f"- {x}" for x in j.get("why_fit", [])]
+    md += ["", "**Gaps / risks**"]
+    md += [f"- {x}" for x in j.get("gaps_risks", [])]
+    if j.get("email_pitch"):
+        md += ["", "**Email pitch**", j.get("email_pitch", "")]
+    if j.get("linkedin_pitch"):
+        md += ["", "**LinkedIn pitch**", j.get("linkedin_pitch", "")]
+    md += [""]
+
 (OUTPUT_DIR / "latest.md").write_text("\n".join(md), encoding="utf-8")
-print(f"FINAL: discovered {len(unique)} direct candidates; published {len(clean_jobs)} scored roles")
+print(
+    f"GCC Job AI reviewed {len(unique)} candidates across {len(COUNTRY_MARKETS)} countries; "
+    f"kept {len(clean_jobs)} opportunities."
+)
