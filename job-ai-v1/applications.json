@@ -1,5 +1,7 @@
 {
-  "updated_at": "2026-08-19T04:28:28.709526+00:00",
+  "updated_at": "2026-08-19T04:35:00+00:00",
+  "auto_apply_threshold": 75,
+  "auto_apply_note": "Jobs scoring 75+ are automatically queued. They are marked Applied only when a real application submission is confirmed.",
   "applications": [
     {
       "id": "amazon-4455914377",
@@ -9,7 +11,7 @@
       "fit_score": 85,
       "job_url": "https://ae.linkedin.com/jobs/view/fc-operations-manager-uae-fc-operations-at-amazon-4455914377",
       "source": "LinkedIn",
-      "status": "New",
+      "status": "Auto-Apply Queue",
       "applied_at": "",
       "application_method": "",
       "contact_email": "",
@@ -18,7 +20,7 @@
       "feedback_status": "No feedback",
       "feedback_summary": "",
       "last_message_id": "",
-      "notes": "Strong match from Job AI FINAL. Not applied automatically."
+      "notes": "Score 75+: automatically queued for application. External job-site submission is not marked Applied until a real submission is confirmed."
     },
     {
       "id": "parker-connect-4450459742",
@@ -28,7 +30,7 @@
       "fit_score": 79,
       "job_url": "https://ae.linkedin.com/jobs/view/fleet-manager-%E2%80%93-fmcg-logistics-at-parker-connect-4450459742",
       "source": "LinkedIn",
-      "status": "New",
+      "status": "Auto-Apply Queue",
       "applied_at": "",
       "application_method": "",
       "contact_email": "",
@@ -37,7 +39,7 @@
       "feedback_status": "No feedback",
       "feedback_summary": "",
       "last_message_id": "",
-      "notes": "Strong match from Job AI FINAL. Not applied automatically."
+      "notes": "Score 75+: automatically queued for application. External job-site submission is not marked Applied until a real submission is confirmed."
     },
     {
       "id": "remitly-4416903010",
@@ -47,7 +49,7 @@
       "fit_score": 79,
       "job_url": "https://ae.linkedin.com/jobs/view/business-operations-manager-at-remitly-4416903010",
       "source": "LinkedIn",
-      "status": "New",
+      "status": "Auto-Apply Queue",
       "applied_at": "",
       "application_method": "",
       "contact_email": "",
@@ -56,7 +58,7 @@
       "feedback_status": "No feedback",
       "feedback_summary": "",
       "last_message_id": "",
-      "notes": "Added automatically by Job AI FINAL. No application has been sent automatically."
+      "notes": "Score 75+: automatically queued for application. External job-site submission is not marked Applied until a real submission is confirmed."
     },
     {
       "id": "confidential-careers-4445488593",
@@ -66,7 +68,7 @@
       "fit_score": 79,
       "job_url": "https://sa.linkedin.com/jobs/view/head-of-operations-at-confidential-careers-4445488593",
       "source": "LinkedIn",
-      "status": "New",
+      "status": "Auto-Apply Queue",
       "applied_at": "",
       "application_method": "",
       "contact_email": "",
@@ -75,7 +77,7 @@
       "feedback_status": "No feedback",
       "feedback_summary": "",
       "last_message_id": "",
-      "notes": "Added automatically by Job AI FINAL. No application has been sent automatically."
+      "notes": "Score 75+: automatically queued for application. External job-site submission is not marked Applied until a real submission is confirmed."
     },
     {
       "id": "byd-europe-4451933053",
@@ -94,7 +96,7 @@
       "feedback_status": "No feedback",
       "feedback_summary": "",
       "last_message_id": "",
-      "notes": "Added automatically by Job AI FINAL. No application has been sent automatically."
+      "notes": "Below automatic-application threshold."
     },
     {
       "id": "aloula-aviation-4442571601",
@@ -113,7 +115,7 @@
       "feedback_status": "No feedback",
       "feedback_summary": "",
       "last_message_id": "",
-      "notes": "Added automatically by Job AI FINAL. No application has been sent automatically."
+      "notes": "Below automatic-application threshold."
     },
     {
       "id": "hungerstation-4444433480",
@@ -132,7 +134,7 @@
       "feedback_status": "No feedback",
       "feedback_summary": "",
       "last_message_id": "",
-      "notes": "Added automatically by Job AI FINAL. No application has been sent automatically."
+      "notes": "Below automatic-application threshold."
     },
     {
       "id": "oh-yes-events-private-limited-chennai-india-dubai-uae-4451724260",
@@ -151,7 +153,7 @@
       "feedback_status": "No feedback",
       "feedback_summary": "",
       "last_message_id": "",
-      "notes": "Added automatically by Job AI FINAL. No application has been sent automatically."
+      "notes": "Below automatic-application threshold."
     },
     {
       "id": "cornerstone-global-partners-cgp-group-4454298638",
@@ -170,7 +172,7 @@
       "feedback_status": "No feedback",
       "feedback_summary": "",
       "last_message_id": "",
-      "notes": "Added automatically by Job AI FINAL. No application has been sent automatically."
+      "notes": "Below automatic-application threshold."
     }
   ]
 }
