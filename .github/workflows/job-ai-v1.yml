@@ -1,4 +1,4 @@
-name: Job AI V1.2
+name: Job AI FINAL
 
 on:
   workflow_dispatch:
