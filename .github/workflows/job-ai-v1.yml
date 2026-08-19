@@ -9,8 +9,9 @@ permissions:
   contents: write
 
 jobs:
-  find-score-pitch:
+  discover-score-track:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -19,11 +20,11 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: "pip"
+          cache-dependency-path: job-ai-v1/requirements.txt
 
-      - name: Install dependencies
-        run: |
-          pip install -r job-ai-v1/requirements.txt
-          python -m playwright install --with-deps chromium
+      - name: Install lightweight dependencies
+        run: pip install -r job-ai-v1/requirements.txt
 
       - name: Find direct vacancies, verify, score and pitch
         env:
@@ -36,6 +37,33 @@ jobs:
       - name: Resolve external employer ATS links
         run: python job-ai-v1/resolve_apply_links.py
 
+      - name: Commit latest report and tracker
+        run: |
+          git config user.name "job-ai-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add job-ai-v1/output/ job-ai-v1/applications.json
+          if git diff --cached --quiet; then
+            echo "No discovery/tracker changes to commit"
+            exit 0
+          fi
+          git commit -m "Update AI job report and application tracker"
+          git push
+
+  auto-apply:
+    needs: discover-score-track
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    container:
+      image: mcr.microsoft.com/playwright/python:v1.55.0-noble
+    steps:
+      - name: Checkout latest tracker
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Install Python dependencies only
+        run: pip install -r job-ai-v1/requirements.txt
+
       - name: Auto-apply score 75+ where supported
         env:
           APPLICANT_EMAIL: ${{ secrets.APPLICANT_EMAIL }}
@@ -47,14 +75,15 @@ jobs:
           APPLICANT_PORTFOLIO: ${{ secrets.APPLICANT_PORTFOLIO }}
         run: python job-ai-v1/auto_apply.py
 
-      - name: Commit latest report and tracker
+      - name: Commit application outcomes
         run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
           git config user.name "job-ai-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add job-ai-v1/output/ job-ai-v1/applications.json
+          git add job-ai-v1/applications.json
           if git diff --cached --quiet; then
-            echo "No report or tracker changes to commit"
+            echo "No application outcome changes to commit"
             exit 0
           fi
-          git commit -m "Update AI job report and application tracker"
+          git commit -m "Update automated application outcomes"
           git push
