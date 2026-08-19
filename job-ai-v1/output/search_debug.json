@@ -1,7 +1,7 @@
 {
   "version": "FINAL",
-  "generated_at": "2026-08-19T04:28:25.921186+00:00",
-  "raw_discovered": 223,
+  "generated_at": "2026-08-19T04:57:17.516748+00:00",
+  "raw_discovered": 334,
   "direct_candidates": 35,
   "results": [
     {
@@ -17,6 +17,17 @@
     },
     {
       "title": "Fleet Manager",
+      "company": "PROVEN",
+      "location": "Dubai, United Arab Emirates",
+      "url": "https://ae.linkedin.com/jobs/view/fleet-manager-at-proven-4444889665",
+      "posted": "2026-07-27",
+      "source": "LinkedIn",
+      "description": "ABOUT THE JOB Position Title: Fleet Manager Location: Dubai, United Arab Emirates Employment Type: Full-time ABOUT PROVEN PROVEN is committed to providing equal opportunities for all candidates and empowering its employees through continuous personal and professional development. We foster a collaborative and inclusive work environment built on mutual respect, innovation, and a healthy work-life balance. With a strong track record in recruitment, managed services, and workforce solutions, we take pride in being a trusted long-term partner in driving success for both our clients and our people. ABOUT THE ROLE A Fleet Manager is required to lead the daily operations of the delivery fleet, ensuring riders are effectively managed, operational issues are resolved promptly, and delivery performance consistently meets business targets. The role works closely with operations and maintenance teams to optimize rider performance and ensure compliance with company policies and UAE regulations. KEY RESPONSIBILITIES Supervise and manage the daily activities of delivery riders. Plan rider shifts, attendance, and manpower allocation to support operational requirements. Monitor rider performance, productivity, and punctuality, implementing corrective actions where necessary. Handle operational escalations and customer complaints, conducting Root Cause Analysis (RCA) and driving corrective actions. Ensure compliance with company policies, RTA regulations, UAE traffic laws, and safety standards. Coordinate bike servicing and maintenance schedules to maximize fleet availability. Work closely with operations teams to optimize allocation of riders and order dispatching. Monitor delivery performance and ensure operational KPIs and service levels are consistently achieved. Ensure riders are equipped with the required uniforms and safety gear before deployment. REQUIREMENTS Education / Qualification Bachelor's degree in a relevant discipline. Experience 2–3 years of experience in fleet or rider management within last-mile logistics. Experience in last-mile delivery and dark store operations. Hands-on experience in managing operational escalations and preparing RCA reports. Experience in managing rider shifts and manpower planning and deployment. Proficiency in Microsoft Excel, Google Sheets, and operational reporting tools. Skills & Attributes Strong leadership and management skills. Ability to perform effectively in a fast-paced operational environment. Strong analytical, organizational, and problem-solving skills. Good communication skills and a solid understanding of UAE regulations.",
+      "discovery": "linkedin_guest",
+      "pre_score": 40
+    },
+    {
+      "title": "Fleet Manager",
       "company": "BYD EUROPE",
       "location": "Riyadh, Riyadh, Saudi Arabia",
       "url": "https://sa.linkedin.com/jobs/view/fleet-manager-at-byd-europe-4451933053",
@@ -27,24 +38,13 @@
       "pre_score": 40
     },
     {
-      "title": "Rider Operations Manager",
-      "company": "HungerStation | هنقرستيشن",
-      "location": "Riyadh, Saudi Arabia",
-      "url": "https://sa.linkedin.com/jobs/view/rider-operations-manager-at-hungerstation-%D9%87%D9%86%D9%82%D8%B1%D8%B3%D8%AA%D9%8A%D8%B4%D9%86-4444433480",
-      "posted": "2026-07-23",
+      "title": "Operations Manager - 3PL/Special Handling Network, AMXL",
+      "company": "Amazon",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "url": "https://ae.linkedin.com/jobs/view/operations-manager-3pl-special-handling-network-amxl-at-amazon-4455784788",
+      "posted": "2026-08-18",
       "source": "LinkedIn",
-      "description": "Key Accountability Areas Rider Operations Develop effective processes to optimize delivery efficiency while ensuring rider satisfaction and adherence to regulations. Ensure operations run smoothly, efficiently, and in compliance with all relevant regulations. Manage rider equipment and uniforms. Monitor and control operational costs related to rider operations while maintaining service quality. Utilize technology and data to optimize delivery routes and improve efficiency. Identify opportunities to enhance rider operations through the implementation of new tools and systems. Develop and maintain key performance indicator (KPI) dashboards, providing regular reports to senior management on rider operations' performance, trends, and areas requiring attention. Manage the overall rider experience and communication such as Rider Pay, Rider NPS, rider churn rate, Rider’s Early Life Cycle (New rider experience), and rider recruitment in regard to onboarding and training. Manage the rider support team and dispatch team in terms of SOPs and service Level. Manage and maintain rider earnings and CPO through rider payment system and incentives. Manage the communication channels of riders and rider app functionality. Increase the daily active rider’s supply. Manage compliance with CITC. Strategy & Planning Contribute to the development and execution of the Division’s ABCs and OKRs, while ensuring alignment with other Functions' heads. Make critical decisions that support the Division's strategic and tactical direction. Establish the plans for the respective functions/teams and provide inputs that support the Division’s goals and objectives. Distribute tactical responsibilities effectively to potential leaders in the Division, to improve the succession readiness of the organization over time. Measure and track the Division's OKRs and metrics to ensure the achievement of goals and take corrective actions when necessary. Governance and Resilience Follow all relevant policies, procedures, and processes for the daily work to be carried out in a controlled and consistent manner. Contribute to the identification of opportunities for continuous improvement of processes and practices to enhance effectiveness. Uphold a high-performance working environment and promote HS’s Values. People Management Set performance objectives, provide necessary support, evaluate direct reports, and provide regular feedback on performance. Participate in the identification and recruitment of key talents for the function. Provide clear direction, prioritize tasks, assign and delegate responsibility, and monitor the workflow. Provide opportunities for team members to suggest, participate in, and contribute to improvement, innovation, and knowledge-sharing initiatives. Budget Management Manage and own the budgeting cycle and provide input to the budgeting process. Ensure effective utilization of the function's budget, and report accurately on progress and challenges. Investigate and propose implementing strategies that result in a positive financial impact for HS. Manage the reporting departments effectively within budget, and report accurately on progress made and challenges encountered. Formulate strategies that result in a positive financial impact for HS and aim to mitigate financial and operational risks. Project Management Lead and guide the project management team in planning and organizing divisional or functional projects for their respective divisions. Direct and control projects to ensure that project cycles are completed, and parameters (cost budget, timelines, scope, and quality) are met, monitored, and in line with the required quality and standards. Lead initiatives and growth projects aligning concerned functions for seamless execution. Stakeholders' Relations Establish and maintain good working relationships with the key stakeholders internally and externally. Inform stakeholders of the relevant HS's actions and decisions. Qualifications/ Requirements Knowledge and Experience 6 - 8 years of relevant experience. Excellent communication and interpersonal skills. Knowledge of relevant software and tools for route optimization and tracking. Leadership and team management Education and Certifications Bachelor’s degree in Business Administration, Logistics, or a relevant field is required. A master’s degree in a relevant field is preferred.",
-      "discovery": "linkedin_guest",
-      "pre_score": 28
-    },
-    {
-      "title": "Aerodrome Operations Manager",
-      "company": "Aloula Aviation | الأولى للطيران",
-      "location": "Dammam, Eastern, Saudi Arabia",
-      "url": "https://sa.linkedin.com/jobs/view/aerodrome-operations-manager-at-aloula-aviation-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%84%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-4442571601",
-      "posted": "2026-07-20",
-      "source": "LinkedIn",
-      "description": "Aerodrome Operations Manager is responsible for overseeing all operations, management and coordinating the facilities maintenance of Fixed Based Operation (FBO) with aerodrome maintenance division. Manage and supervise team of aerodrome and FBO staff, including passenger handling staff, ground handling crew, ensuring the highest level of customer service, operational efficiency, safety and regulatory compliance. Responsible to attend meeting with airport authorities and stakeholders, manage day to day operations, coordinate with internal and external teams, and drive performance improvement to support the growth and success of FBO service at the airport. Ensure that all operational activities comply with GACAR 151 requirements. Work closely with aerodrome maintenance team to ensure the readiness and safety of GSE and aerodrome facilities. Conduct safety briefings and training session for staff to reinforce the importance of safety. Prepare and submit reports on operations, employee performance and financial performance. Ensure that all necessary documentation is maintained and updated as required by Airport regulatory authorities. Conduct regular performance evaluation and foster a positive, collaborative and safe work environment. Handle any special requests or needs from passengers or crew, ensuring high levels of customer satisfaction. Performs other operational, safety or management duties as directed by the Ground Services Operations Manager or higher management. Areas of Accountabilities: Performs all managerial functions common to the organization level such as flight operational reports, personnel actions, training and development of staff members. Coordinates turnaround movement of fixed & rotor wing aircraft to ensure efficient movement of passengers/cargo/mail. Ensure qualified Ground Support Equipment (GSE) & personnel are available to load/unload aircraft at Airport, while assuring minimal passenger inconvenience. Directs and monitors preparation of necessary documentation: Aircraft flight release forms, weight & balance forms, passenger/cargo/mail manifests, morning activity & status reports, computer inputs, fuel reports etc. Directs to submit requests for buses and taxis for company’s personnel/passengers. Responsible to maintain and coordinates all facilities maintenance activities in the airport in addition to action safety inspection deficiencies, terminal security, maintenance work orders & office services requests by coordinating with internal and external entities at Airport. Reviews time sheets and contract service entry sheets for ground operations contractor staff. Manages janitorial, administrative, transportation and operational needs with external entities. Inspects condition of aerodrome facilities and vehicles to ensure all areas and equipment are maintained and company standards are met. Monitors radio operations in order to ensure compliance with GACA, IATA, ICAO radio communications regulations. Responsible to maintain stock inventories related to ground operations, passenger handling, terminal requirements, facilities and safety items in the airport. Provides information & cooperation with Safety Review Board as requested. Coordinates with implementation of directives from Safety & Security Division. Responsible to perform public relations activities requiring meet and assist VIP passengers, distinguished visitors or while coordinating efforts with Saudi Government officials and others. Ensure compliance to all relevant safety, security, quality and environmental management policies, procedures and controls across the operations to ensure safety, security, legislative compliance and delivery of high-quality service with a responsible environmental attitude. Communicate timely with Ground Services Operations Manager on matters affecting operations and requiring attention or intervention. Performs other operational, safety or management duties as directed by the Ground Services Operations Manager or higher management. Education: Bachelor’s degree in aviation industry / hospitality or equivalent in relevant field. Professional Qualifications: IATA or Airline certifications on airport handling experience. Management and Leadership Certifications Experience: Minimum of 10 years of experience in airport ground operations and FBO management, with at least 5 years in a manager or supervisory role.",
+      "description": "Description Amazon is seeking an experienced 3PL (Third-Party Logistics) Manager to oversee the strategic operations and performance of our critical third-party logistics provider network. In this pivotal role, you will be responsible for ensuring our 3PL partners consistently meet our high standards across key areas such as operational performance, cost management, continuous improvement, network integration, escalation processes, and provider relationship management. The position requires up to 40% travel to local 3PL sites and Amazon facilities. If you are an ambitious and accomplished professional who thrives in a fast-paced, data-driven environment, we encourage you to apply for this strategic opportunity to shape the future of Amazon's operations Key job responsibilities Responsible for managing and controlling performance, cost and capacity of external fulfillment logistics provider (3PL) Monitor and analyze customer experience and delivery performance. Maintain and develop KPIs and SLAs with 3PL. Contribute and lead major projects within the MENA Operations Fulfillment / Supply Chain / Transportation to support business and selection growth. Contribute to process improvements and cost optimization initiatives in collaboration with internal and external customers Optimize the flow of Import Containers into the Site closely collaborating with Amazon Global Logistics Contribute to contract negotiations with our external fulfillment partners. Prioritize projects and software feature requests, evaluate and set stakeholder expectations. Develop and maintain strong communication processes to ensure smooth and efficient flow of accurate information across Amazon’s Retail and external fulfillment teams. Willingness to travel (~40% across UAE and also broader MENA) Basic Qualifications 2+ years of employee and performance management experience Bachelor's degree or equivalent, or 2+ years of Amazon (blue badge/FTE) experience Work a flexible schedule/shift/work area, including weekends, nights, and/or holidays Preferred Qualifications 1+ years of performance metrics, process improvement or lean techniques experience Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. Company - Amazon Middle East and North Africa FZ-LLC Job ID: A10503165",
       "discovery": "linkedin_guest",
       "pre_score": 40
     },
@@ -115,13 +115,90 @@
       "pre_score": 28
     },
     {
-      "title": "Operations Manager",
-      "company": "Hilton",
-      "location": "Mecca, Makkah, Saudi Arabia",
-      "url": "https://sa.linkedin.com/jobs/view/operations-manager-at-hilton-4443344618",
-      "posted": "2026-08-12",
+      "title": "Product Operations Manager",
+      "company": "Murphy AI",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "url": "https://ae.linkedin.com/jobs/view/product-operations-manager-at-murphy-ai-4446764783",
+      "posted": "2026-07-30",
       "source": "LinkedIn",
-      "description": "Job Description Exceptional Hospitality Starts with You Picture yourself brightening someone’s day. When you join our Hotels team, that’s exactly what you’ll do every time you come to work! As a Operations Manager , you’re not just directing daily hotel operations – you’re spreading the light and warmth of hospitality by delivering memorable experiences that make the stay for every guest. Responsibilities As the Operations Manager, you will be responsible for performing the following tasks to the highest standards: Support the overall strategic management of the hotel by establishing effective working relationships with senior colleagues, in particular the GM, DBD, FC and HRD. In-charge of Front Office, Housekeeping, Security, Engineering, Food & Beverage, Kitchen, Recreation as well as Food Safety. Actively participate in the key management issues in the property such as Capital projects, refurbishments, training and customer service. Train team members and implement Hilton standard and related departmental regulations. Conduct routine inspections of all areas in the hotel to ensure that all hardware and software are in optimum condition. Make a detailed and realistic cost control plan to control operating costs for each department to maximize operating profits without compromising Hilton standards, safety procedures and guest experience. Analyze costs on a monthly basis and prepare action plans for cost per occupied room, food cost, beverage costs, payroll including overtime and other expenses including costs for outsourcing of labour or services. Manage direct reports professionally to ensure effective teamwork and operations. Plan or approve appropriate annual, quarterly, monthly budgets, targets and work plans for each direct report. Conduct regular Operations meetings including all direct reports. Supervise daily team members’ performance and grooming. Ensure that duty rosters are based on the needs of the hotel and are compliant with labour laws. Ensure hotel and direct reports achieve key targets including but not limited to revenue, profit, SALT, QA, turnover, etc. Work with the DBD and F&B Managers to ensure that all aspects of F&B is operating cost effectively (menu presentations / menu / pricing / promotions and ongoing activities). Assist the DBD in establishing (with C&C Sales) an efficient and competitive C&C strategy and pricing. Supervise and head all hotel activities, such as celebrations, decorations, communication and coordination with conference organizers, etc. Evaluate competitors’ products and price policies twice a year. Ensure that VIP guests receive the care and service they deserve every day. Adhere to the hotel’s security and emergency policies and procedures. Assist the General Manager in all activities and functions relating to the daily operations of the hotel. Complete relevant tasks assigned by the General Manager. The Management reserves the right to make changes to this job description at its sole discretion and without advance notice. Carry out any other reasonable duties and responsibilities as assigned. Qualifications What It Takes to Make the Stay At Hilton, Our Core Values Define What It Takes To Succeed Here And Guide The Qualities We Look For In Every Team Member A passion for spreading the light and warmth of Hospitality . Acting with Integrity and always doing the right thing. Inspiring others through Leadership . A belief that Teamwork drives the best outcomes. A sense of Ownership and accountability. And a focus on the Now , bringing urgency and discipline to every moment, knowing it can make a lasting impact. About Us Join an Award-Winning Workplace Culture At Hilton, we don’t just deliver exceptional experiences for our guests—we build an exceptional workplace for the Team Members who make it all possible. As a global leader in hospitality, we’ve welcomed more than 3 billion guests worldwide, all while staying true to our founding vision: to fill the earth with the light and warmth of hospitality. Our award-winning culture has earned us repeated recognition on the World’s Best Workplaces list by Great Place to Work and Fortune. With our suite of world-class brands , and a company-wide commitment to providing the best stay for every guest, we’re setting new standards for the future of travel. Whether you’re starting your career or exploring something new, Hilton supports your journey every step of the way. Come for the job, stay for the career—and help us make every stay a little more magical. Curious about life at Hilton? Explore our Careers Blog to see why we’re more than a great place to stay—we’re a great place to work. About The Team How We’ll Help You Thrive Benefits At Hilton, the hospitality we’re known for doesn’t end with our guests. We proudly invest in our Team Members’ wellbeing, supporting you through all of life’s moments. When you join Hilton, our exceptional care extends to you with unmatched perks and benefits, including*: Incredible travel p",
+      "description": "Murphy AI deploys voice AI agents that help banks collect debt. We’ve built a fully-fledged platform designed to optimize recovery rates while maintaining respectful and personalized communication. Our advanced automation streamlines the process of collecting overdue invoices for banks and other industries, providing a seamless and effective solution . Our AI-powered agents adapt instantly, engaging with debtors across channels like voice, messengers, email and sms to maximize results while preserving trust. By combining advanced artificial intelligence with powerful automation, we’re setting a new standard for how businesses recover payments . As a fast-growing startup that has already made an impact within less than a year in the market, we are building a talented team to scale our operations and drive our vision forward 🌟 About The Role We're looking for a Product Operations Manager to scale Murphy. We need someone to deploy into new territory, impose order on chaos, and stand up the operation — then do it again in the next market. You'll own the expansion playbook, partners and vendors, product quality and enable x1,000 growth of the company that proved its product-market-fit. This is a founder's right hand on execution and operations, with outsized leverage over where the company goes. Murphy builds AI voice agents that collect overdue debt for banks: more recovered, faster, cheaper, fully compliant, and respectful to the debtor. We're live with Santander, Revolut, BBVA and dozens others. We've proven the product in large-scale pilots with top-tier banks — now we're taking it into every market and every adjacent business, and we need someone to own that expansion end to end. What you'll do Productise expansion. Turn a new country from a bespoke project into a repeatable playbook: localised voice, policies, compliance per market, so we go live in weeks, not quarters. Be the operating system of the product org. Own the planning cadence, the metrics and the prioritisation across bets, so a small team makes big, fast, well-sequenced calls. Dive deep and problem solve. Get to the roots of complex problems, understand all the nuances and design solutions that solve the root cause elegantly. Who you are A builder and an operator. You've converted uncertainty and chaos into a well-oiled execution machine — a process, a team, or a function — whether as a founder, an operations lead, a PM, or a military officer who's stood up and led an operation under pressure. You own outcomes, and you never settle. You hold people accountable and demand a high execution excellence bar under speed. You have a STEM degree, and you were top of your class. You're technical, rigorous with numbers, and have a strong philosophy of a champion. AI-native, ruthless on quality. You reach for AI to automate and streamline by default — and you know exactly where it gets sloppy. You never let that through, and you control quality rigorously. You don't need a collections or fintech background. We'd rather teach the domain to a killer than hire a lifer who can't ship — you'll pick up regulation, unit economics and a new market cold, fast. 🤝 What we offer 💰 Salary at the top of the benchmark. 📈 Fair equity with enormous upside potential. 🧩 Real Ownership - Murphy's strategy is yours to drive. 🙌 Small team, high autonomy, and outsized impact. 🗣️ The founding team's direct attention, and a category with a $300B+ industry behind it. 🛜 Hybrid & Flexible : Our default setup is hybrid – 3 days a week at our office, and 2 days of remote work. 📚 Our Process 1️⃣ First Interview – Getting to Know You A conversation with a future teammate who’s excited to find a new colleague. We’ll talk about your story, what drives you, and what you’re looking for next—no trick questions, just a genuine exchange. 2️⃣ Second Interview – Deep Dive You’ll meet the Hiring Manager and potentially another team member. This is a more technical discussion where we explore your skills in detail, walk through real scenarios, and answer any questions you might have about the role. 3️⃣ Tech Assessment or Business Case A practical exercise to see how you approach challenges similar to those you’d tackle at Murphy. You’ll have time to reflect and showcase your thinking—no rush, no surprises. 4️⃣ Call with the Founders Our founders meet every team member and it’s a great opportunity for you to learn about the company and its direction. 👉 To learn more about how we hire and what to expect at every step, feel free to explore our Hiring Guide! 👉 We are committed to building a diverse, inclusive, and equitable workplace where everyone, regardless of background, identity, or experience, feels valued and empowered to thrive. We believe that different perspectives drive innovation and success, and we actively foster an environment where all voices are heard and respected.",
+      "discovery": "linkedin_guest",
+      "pre_score": 78
+    },
+    {
+      "title": "AI Data Operations Manager",
+      "company": "Figure",
+      "location": "United Arab Emirates",
+      "url": "https://ae.linkedin.com/jobs/view/ai-data-operations-manager-at-figure-4442446011",
+      "posted": "2026-07-18",
+      "source": "LinkedIn",
+      "description": "Figure is an AI robotics company developing autonomous general-purpose humanoid robots. The goal of the company is to ship humanoid robots with human-level intelligence. Our robots are engineered to perform a variety of tasks in the home and commercial markets. Figure is headquartered in San Jose, CA, but we are hiring in the UAE for the first time. We are looking for an AI Data Operations Manager to join Figure's Operations org and own a meaningful slice of how we produce human data for our humanoid robots. Data is one of the largest and most strategic functions at Figure, and this is a foundational role within it. You will solve zero-to-one problems and coordinate the development of new hardware, software, and operational systems with engineering and product. Responsibilities Day one, you will own a meaningful piece of Figure's data collection operation. You'll be hitting volume, quality, and velocity targets, building the systems that get us there, and partnering across engineering, product, and ops to make it happen. Specific responsibilities include: Owning contributor acquisition, activation, and retention strategy and execution Identifying and launching in new geographies, managing localization, partnerships, and community building to establish presence in target regions Coordinating with engineering, product, and ops to develop the new hardware, software, and operational systems Owning your category’s data dashboard — tracking volume, quality, and throughput metrics daily, identifying bottlenecks, and shipping operational fixes fast Sourcing, negotiating, and managing relationships with local partners, agencies, and vendors to accelerate growth Serving as the connective tissue between your contributors and internal teams — surfacing hardware/software friction, translating field feedback into actionable product improvements, and advocating for your workstreams' needs Requirements 4+ years in investment banking, management consulting, corporate development, growth, or startup operations roles, ideally with exposure to a frontier technology business Comfortable rapidly building and deploying apps/agents using AI coding tools (zero technical academic background necessary) Demonstrated ability to own outcomes Exceptional written and verbal communication skills Experience working across cultures or in international markets Highly organized with strong project management instincts — comfortable managing multiple contributors, sessions, or sites simultaneously and keeping all plates spinning A commitment to 5 days/week in-office collaboration Bonus Qualifications Experience scaling consumer mobile applications or marketplace platforms Background in AI/ML companies or understanding of data collection for machine learning Prior experience in emerging markets or with distributed workforces Fluency in Arabic Experience managing physical-world operations (events, field crews, hardware logistics) in addition to digital platforms",
+      "discovery": "linkedin_guest",
+      "pre_score": 28
+    },
+    {
+      "title": "Overseas Operations Manager (P2P)",
+      "company": "OKX",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "url": "https://ae.linkedin.com/jobs/view/overseas-operations-manager-p2p-at-okx-4383125402",
+      "posted": "2026-08-18",
+      "source": "LinkedIn",
+      "description": "Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large institutions seeking access to crypto markets. We are safe and reliable, backed by our Proof of Reserves. Across our multiple offices globally, we are united by our core principles: We Before Me , Do the Right Thing , and Get Things Done . These shared values drive our culture, shape our processes, and foster a friendly, rewarding, and diverse environment for every OK-er. OKX is part of OKG, a group that brings the value of Blockchain to users around the world, through our leading products OKX, OKX Wallet, OKLink and more. Role Overview We are seeking an experienced Overseas Operations Manager (P2P) to drive strategic growth and operational excellence across key overseas markets. This role requires deep understanding of P2P market mechanics, merchant ecosystem dynamics, regional payment infrastructures, and competitive positioning. The ideal candidate has hands-on experience operating P2P markets at leading exchanges (e.g., Binance, Bybit, Bitget) and can independently formulate expansion strategies while delivering measurable growth outcomes. Key Responsibilities Market Expansion & Growth Strategy Develop and implement regional P2P expansion strategies to ensure sustainable and stable business growth Monitor regional regulatory developments and assess their impact on P2P business models Continuously adjust market strategy based on competitive landscape and market shifts P2P Merchant & Ecosystem Management Design and optimize advertiser (merchant) onboarding, segmentation, and incentive structures Maintain close engagement with key merchants to ensure liquidity depth and spread competitiveness Improve completion rate, trading efficiency, and dispute resolution performance Develop structured management frameworks for regional merchant operations Operational Optimization & Cross-Functional Collaboration Collaborate with Product and Engineering teams to enhance P2P transaction workflows and feature design Provide structured feedback on product gaps, user pain points, and regional behavioral differences Improve end-to-end operational efficiency, including order flow, payment processing, and dispute handling Data Monitoring & Competitive Intelligence Monitor core P2P KPIs (volume, active users, merchant depth, spreads, completion rate, dispute rate) Conduct in-depth data analysis and anomaly detection to identify growth bottlenecks and risk patterns Track competitor strategies (pricing, incentives, merchant policies, risk models) and propose strategic responses Requirements 5+ years of experience in platform operations; crypto / Web3 experience strongly preferred Minimum 2–3 years of hands-on P2P operations experience in overseas markets (outside Mainland China) Experience at major exchanges Strong understanding of: P2P liquidity dynamics and spread formation Regional payment systems (bank transfers, local e-wallets, alternative rails) Proven ability to adapt operational strategy based on market and competitive changes Strong analytical skills with data-driven decision-making capability Excellent cross-functional collaboration skills Fluent in English; Chinese or other regional languages are a plus Preferred Qualifications Experience managing regional teams, community contributors, or local operators Strong understanding of overseas P2P fraud patterns and payment risks Ability to independently articulate structural differences between regional P2P markets Perks & Benefits Competitive total compensation package L&D programs and Education subsidy for employees' growth and development Various team building programs and company events Wellness and meal allowances Comprehensive healthcare schemes for employees and dependants More that we love to tell you along the process! Notice All official OKX vacancies are published on this website. While roles may appear on selected third-party platforms from time to time, information on other sites may be inaccurate or outdated. If in doubt, please apply directly through our official careers website. Information collected and processed as part of the recruitment process of any job application you choose to submit is subject to OKX's Candidate Privacy Notice.",
+      "discovery": "linkedin_guest",
+      "pre_score": 78
+    },
+    {
+      "title": "Operations Manager",
+      "company": "Bitexen",
+      "location": "Abu Dhabi Emirate, United Arab Emirates",
+      "url": "https://ae.linkedin.com/jobs/view/operations-manager-at-bitexen-4449363717",
+      "posted": "2026-08-06",
+      "source": "LinkedIn",
+      "description": "Bitexen MENA is looking for an experienced Operations Manager to manage the day-to-day operations of its regulated centralized cryptocurrency exchange in Abu Dhabi. This is a hands-on management role requiring extensive experience in cryptocurrency exchange operations, direct use of exchange back-office platforms and a comprehensive understanding of how a centralized exchange operates across the full customer and transaction lifecycle. The successful candidate will coordinate and control operational processes across customer onboarding, account management, deposits and withdrawals, trading, treasury, customer support and compliance-related workflows. The role requires previous managerial responsibility within a cryptocurrency exchange and practical experience in an ADGM- or VARA-regulated environment. Key Responsibilities Ensure the platform operates smoothly and without disruption. Maintain strong oversight of trading operations, identify unusual or failed processes promptly, escalate issues to the relevant teams and coordinate their resolution through to completion. Manage end-to-end exchange operations, including customer onboarding, account management, deposits, withdrawals, trading and post-trade processes. Oversee the exchange back-office platform, operational approvals, transaction exceptions and issue resolution. Monitor pending, failed, rejected, frozen or incorrectly processed transactions and ensure timely investigation and resolution. Ensure customer, transaction and balance information is accurately reflected across the exchange, custody, compliance and other relevant systems. Coordinate with Compliance, MLRO, Treasury, Custody, Customer Support, Product and Technology teams to ensure seamless operational delivery. Ensure operational activities comply with ADGM or VARA requirements, internal policies, procedures and approved control frameworks. Maintain effective maker-checker controls, approval workflows, segregation of duties and access restrictions across operational processes. Manage operational incidents, assess customer and business impact, coordinate corrective actions and escalate material matters to the Chief Operations Officer. Develop and monitor operational KPIs, service levels, pending cases, incidents and control exceptions. Prepare regular operational reports and management information for the Chief Operations Officer and senior management. Review and improve operational procedures to enhance efficiency, scalability, control effectiveness and customer experience. Support product launches, platform developments, testing activities and operational readiness. Lead and supervise the operations team, allocate responsibilities, monitor performance and ensure consistent execution of daily activities. Qualifications Minimum 8 years of professional experience , including substantial hands-on experience within a centralized cryptocurrency exchange. Previous experience as an Operations Manager, Operations Supervisor, Head of Operations or in an equivalent managerial role within a cryptocurrency exchange is mandatory. Hands-on experience using a centralized cryptocurrency exchange back-office platform is mandatory. Strong practical understanding of customer onboarding, deposits and withdrawals, wallet operations, trading and post-trade processes, treasury coordination, customer support and compliance-related workflows. Previous experience within an ADGM- or VARA-regulated cryptocurrency business is mandatory. Demonstrable experience identifying and resolving platform, trading, transaction and customer-impacting operational issues. Experience managing operational incidents, transaction exceptions and cross-functional resolution processes. Strong understanding of operational controls, maker-checker processes, segregation of duties and approval structures. Proven team-management, problem-solving and stakeholder-management skills. Ability to manage multiple operational priorities and make timely decisions in a fast-paced and highly regulated environment. Professional proficiency in English. This role is not suitable for candidates whose experience is limited to traditional banking operations, general fintech operations, customer support or theoretical knowledge of cryptocurrency exchanges.",
+      "discovery": "linkedin_guest",
+      "pre_score": 28
+    },
+    {
+      "title": "Operations Manager",
+      "company": "Majid Al Futtaim",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "url": "https://ae.linkedin.com/jobs/view/operations-manager-at-majid-al-futtaim-4454792142",
+      "posted": "2026-08-18",
+      "source": "LinkedIn",
+      "description": "",
+      "discovery": "linkedin_guest",
+      "pre_score": 78
+    },
+    {
+      "title": "FC Operations Manager, UAE FC Operations",
+      "company": "Amazon",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "url": "https://ae.linkedin.com/jobs/view/fc-operations-manager-uae-fc-operations-at-amazon-4455914377",
+      "posted": "2026-08-18",
+      "source": "LinkedIn",
+      "description": "Description Operations is the beating heart of Amazon. This key part of our business makes sure we fulfill and dispatch orders efficiently so that our customers get their items on time. It’s driven by Operations Managers who bring the team together to push excellence in safety, quality, and productivity across our sites. At your site, you’ll lead other managers and create the operational plan that helps your teams meet their targets. This role is all about driving operational excellence to create the Amazon of tomorrow. Key job responsibilities Manage and develop a team of Area Managers Lead operational teams on a shift, deal with issues, and positively impact site performance Analyse shift performance against relevant business objectives, and put in place actions to improve our operational excellence Work closely with other support teams, including HR, Finance, Health and Safety, and Security Design and deliver initiatives across the sites to improve operational performance A day in the life You’ll lead shifts at one of our operational sites. You’ll also be the key link between a number of teams, including finance, safety, and operations integration teams. That means you’ll be close to the day-to-day operations at your site but also contribute to new ways to innovate at your site. A typical day will involve meetings with different areas of the business, deep diving into performance and risk metrics for sites, and looking ahead to prepare for different levels of demand. Every day will also involve mentoring and coaching your team. You’ll be a source of leadership and support for your team to be the best managers they can be. About The Team Customer Fulfillment, or CF, is where it all started for Amazon. CF has scaled up from a humble team of booksellers to a sophisticated global team, which handles more than 1.5 million orders every day. The team is the foundation of our business, and its efforts have helped us diversify across new regions and services. With the help of emerging technology, we’re always looking for ways to offer a bigger, better product range – delivered quickly and affordably. The CF team are the first people in the chain that helps customers get products at the speed we’re known for. We’re based in Fulfillment Centers, which are at the heart of Amazon’s fast-paced Operations network. Our centers are sometimes referred to as the ‘First Mile’ because it’s where most Amazon packages start their journey. We help to manage dynamic inventory and facilitate speedy deliveries round the clock. Lots of different people work in our Fulfilment Centres, so there are plenty of opportunities for every skillset. Some of us work with physical products, while others analyze data to help everyone across the business make smart decisions. Basic Qualifications 3+ years of employee and performance management experience Bachelor's degree or equivalent, or 2+ years of Amazon (blue badge/FTE) experience Work a flexible schedule/shift/work area, including weekends, nights, and/or holidays Preferred Qualifications 1+ years of performance metrics, process improvement or lean techniques experience Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. Company - Q-Express Documents Transport Job ID: A10492488",
+      "discovery": "linkedin_guest",
+      "pre_score": 90
+    },
+    {
+      "title": "Ecosystem Strategy and Governance Operations Manager - TikTok LIVE - Dubai (Chinese Speaking)",
+      "company": "TikTok",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "url": "https://ae.linkedin.com/jobs/view/ecosystem-strategy-and-governance-operations-manager-tiktok-live-dubai-chinese-speaking-at-tiktok-4435051439",
+      "posted": "2026-07-28",
+      "source": "LinkedIn",
+      "description": "",
+      "discovery": "linkedin_guest",
+      "pre_score": 78
+    },
+    {
+      "title": "Member Experience Operations Manager- Fitness",
+      "company": "Arada",
+      "location": "Dubai, United Arab Emirates",
+      "url": "https://ae.linkedin.com/jobs/view/member-experience-operations-manager-fitness-at-arada-4445895044",
+      "posted": "2026-08-03",
+      "source": "LinkedIn",
+      "description": "PURPOSE OF THE ROLE: Formative is Arada's integrated health, fitness, and wellness platform, bringing together some of the UAE's leading lifestyle and wellness brands under one ecosystem. The portfolio includes Wellfit, FitnGlam, FITCODE and The Platform Studios The Member Experience Operations Manager is responsible for the implementation, consistency, and continuous improvement of the end-to-end member journey across all brands and clubs within the group. This role ensures that defined Member Experience (ME) standards are effectively embedded into daily operations, delivering a best-in-class, consistent experience for all members. Working closely with Member Experience Managers (MEMs) and club teams, the role bridges strategy and execution — ensuring that all initiatives, tools, and service standards are adopted, measured, and continuously optimized. KEY RESPONSIBILITIES Member Journey Implementation & Standards Oversee the rollout and execution of all Member Experience frameworks across all brands Ensure full adoption of the defined member journey across every club Work closely with MEMs to embed standards into day-to-day operations Maintain consistency of experience across multiple brands and locations Auditing & Performance Management Lead and manage the Member Experience audit programme across all clubs Conduct structured quarterly visits to each club to review ME performance Identify gaps, risks, and opportunities, and ensure action plans are implemented Track and report on key ME performance metrics across brands Onboarding & Service Excellence Drive and standardise member onboarding processes across all clubs Ensure delivery of best-in-class customer service standards Develop and deliver training to club teams on service, engagement, and experience Support teams in elevating the overall member journey at every touchpoint Digital Adoption & App Engagement Monitor and drive member app adoption and usage across all brands Ensure clubs are actively supporting digital engagement (app features, bookings, usage) Work with teams to improve conversion rates and overall digital experience Feedback & Continuous Improvement Oversee collection and performance of member feedback metrics (e.g. NPS, satisfaction) Ensure feedback is actioned effectively at both club and brand level Identify trends and implement improvements to enhance the member experience Strategy Support & Execution Contribute to the development of new Member Experience strategies and initiatives Lead the implementation of new projects and improvements across clubs Act as a key link between central strategy and on-the-ground execution QUALIFICATION Bachelor's degree in business, exercise science, physical education, sports management or related field. Must be Female (as the role will require visiting ladies only clubs) Education and Training certification a positive. EXPERIENCE At least 5+ years working in the Industry at both Club and Operations. Ladies only operations a positive. Has delivered educational programs and courses. SKILLS Excellent communication skills. Outstanding people and leadership skills. Physically fit, strong, agile, and professional appearance and behavior. Excellent team working skills Excellent customer service skills",
       "discovery": "linkedin_guest",
       "pre_score": 78
     },
@@ -170,6 +247,50 @@
       "pre_score": 78
     },
     {
+      "title": "Regional Operations Manager",
+      "company": "CBRE Excellerate",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "url": "https://ae.linkedin.com/jobs/view/regional-operations-manager-at-cbre-excellerate-4455323878",
+      "posted": "2026-08-17",
+      "source": "LinkedIn",
+      "description": "",
+      "discovery": "linkedin_guest",
+      "pre_score": 78
+    },
+    {
+      "title": "Rider Operations Manager",
+      "company": "HungerStation | هنقرستيشن",
+      "location": "Riyadh, Saudi Arabia",
+      "url": "https://sa.linkedin.com/jobs/view/rider-operations-manager-at-hungerstation-%D9%87%D9%86%D9%82%D8%B1%D8%B3%D8%AA%D9%8A%D8%B4%D9%86-4444433480",
+      "posted": "2026-07-23",
+      "source": "LinkedIn",
+      "description": "",
+      "discovery": "linkedin_guest",
+      "pre_score": 78
+    },
+    {
+      "title": "Aerodrome Operations Manager",
+      "company": "Aloula Aviation | الأولى للطيران",
+      "location": "Dammam, Eastern, Saudi Arabia",
+      "url": "https://sa.linkedin.com/jobs/view/aerodrome-operations-manager-at-aloula-aviation-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%84%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-4442571601",
+      "posted": "2026-07-20",
+      "source": "LinkedIn",
+      "description": "",
+      "discovery": "linkedin_guest",
+      "pre_score": 78
+    },
+    {
+      "title": "Deputy Transport Manager - PMV/Construction",
+      "company": "Azizi Developments",
+      "location": "Dubai, United Arab Emirates",
+      "url": "https://ae.linkedin.com/jobs/view/deputy-transport-manager-pmv-construction-at-azizi-developments-4419662740",
+      "posted": "2026-08-13",
+      "source": "LinkedIn",
+      "description": "",
+      "discovery": "linkedin_guest",
+      "pre_score": 55
+    },
+    {
       "title": "Head of Fleet",
       "company": "SIXT United Arab Emirates",
       "location": "Dubai, United Arab Emirates",
@@ -203,28 +324,6 @@
       "pre_score": 55
     },
     {
-      "title": "Regional Manager, Fleet Strategy and Planning, MEA-TR, MEATR DSP",
-      "company": "Amazon",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "url": "https://ae.linkedin.com/jobs/view/regional-manager-fleet-strategy-and-planning-mea-tr-meatr-dsp-at-amazon-4455786730",
-      "posted": "2026-08-18",
-      "source": "LinkedIn",
-      "description": "",
-      "discovery": "linkedin_guest",
-      "pre_score": 55
-    },
-    {
-      "title": "Deputy Transport Manager - PMV/Construction",
-      "company": "Azizi Developments",
-      "location": "Dubai, United Arab Emirates",
-      "url": "https://ae.linkedin.com/jobs/view/deputy-transport-manager-pmv-construction-at-azizi-developments-4419662740",
-      "posted": "2026-08-13",
-      "source": "LinkedIn",
-      "description": "",
-      "discovery": "linkedin_guest",
-      "pre_score": 55
-    },
-    {
       "title": "Senior Manager - Asset Management (Transport & Mobility)",
       "company": "Parsons Corporation",
       "location": "Riyadh, Riyadh, Saudi Arabia",
@@ -241,6 +340,17 @@
       "location": "Dubai, United Arab Emirates",
       "url": "https://ae.linkedin.com/jobs/view/manager-scheduling-transportation-information-uae-nationals-only-at-roads-and-transport-authority-4423693223",
       "posted": "2026-08-09",
+      "source": "LinkedIn",
+      "description": "",
+      "discovery": "linkedin_guest",
+      "pre_score": 55
+    },
+    {
+      "title": "Regional Manager, Fleet Strategy and Planning, MEA-TR, MEATR DSP",
+      "company": "Amazon",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "url": "https://ae.linkedin.com/jobs/view/regional-manager-fleet-strategy-and-planning-mea-tr-meatr-dsp-at-amazon-4455786730",
+      "posted": "2026-08-18",
       "source": "LinkedIn",
       "description": "",
       "discovery": "linkedin_guest",
@@ -269,121 +379,11 @@
       "pre_score": 45
     },
     {
-      "title": "Fleet Controller",
-      "company": "Ali & Sons Holding LLC",
+      "title": "Superintendent – Fleet Operations - Maritime & Shipping Cluster",
+      "company": "AD Ports Group",
       "location": "Abu Dhabi Emirate, United Arab Emirates",
-      "url": "https://ae.linkedin.com/jobs/view/fleet-controller-at-ali-sons-holding-llc-4440458021",
-      "posted": "2026-07-21",
-      "source": "LinkedIn",
-      "description": "",
-      "discovery": "linkedin_guest",
-      "pre_score": 45
-    },
-    {
-      "title": "Fleet Coordinator",
-      "company": "POWERTECH",
-      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-      "url": "https://ae.linkedin.com/jobs/view/fleet-coordinator-at-powertech-4452394332",
-      "posted": "2026-08-12",
-      "source": "LinkedIn",
-      "description": "",
-      "discovery": "linkedin_guest",
-      "pre_score": 45
-    },
-    {
-      "title": "Fleet Coordinator",
-      "company": "Orient Transport Rent a Car",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "url": "https://ae.linkedin.com/jobs/view/fleet-coordinator-at-orient-transport-rent-a-car-4445574522",
-      "posted": "2026-08-01",
-      "source": "LinkedIn",
-      "description": "",
-      "discovery": "linkedin_guest",
-      "pre_score": 45
-    },
-    {
-      "title": "Fleet Incharge",
-      "company": "Abdullah A. Al-Barrak & Son Co.",
-      "location": "Al Jubayl, Saudi Arabia",
-      "url": "https://sa.linkedin.com/jobs/view/fleet-incharge-at-abdullah-a-al-barrak-son-co-4431931064",
-      "posted": "2026-06-30",
-      "source": "LinkedIn",
-      "description": "",
-      "discovery": "linkedin_guest",
-      "pre_score": 45
-    },
-    {
-      "title": "Fleet & Transportation Supervisor",
-      "company": "Matar Holding company",
-      "location": "Dammam, Eastern, Saudi Arabia",
-      "url": "https://sa.linkedin.com/jobs/view/fleet-transportation-supervisor-at-matar-holding-company-4402232656",
-      "posted": "2026-04-15",
-      "source": "LinkedIn",
-      "description": "",
-      "discovery": "linkedin_guest",
-      "pre_score": 45
-    },
-    {
-      "title": "Fleet Incharge - Saudi Nationals",
-      "company": "TXM Solutions",
-      "location": "Jubail, Eastern, Saudi Arabia",
-      "url": "https://sa.linkedin.com/jobs/view/fleet-incharge-saudi-nationals-at-txm-solutions-4442832314",
-      "posted": "2026-07-27",
-      "source": "LinkedIn",
-      "description": "",
-      "discovery": "linkedin_guest",
-      "pre_score": 45
-    },
-    {
-      "title": "Fleet Lead.E - Commerce - Fulfillment Operations",
-      "company": "Panda Retail Company – Savola Group",
-      "location": "Jiddah, Makkah, Saudi Arabia",
-      "url": "https://sa.linkedin.com/jobs/view/fleet-lead-e-commerce-fulfillment-operations-at-panda-retail-company-%E2%80%93-savola-group-4451296613",
-      "posted": "2026-08-15",
-      "source": "LinkedIn",
-      "description": "",
-      "discovery": "linkedin_guest",
-      "pre_score": 45
-    },
-    {
-      "title": "Fleet Specialist - Facility | alfanar Electric",
-      "company": "alfanar",
-      "location": "Riyadh, Riyadh, Saudi Arabia",
-      "url": "https://sa.linkedin.com/jobs/view/fleet-specialist-facility-alfanar-electric-at-alfanar-4453982738",
-      "posted": "2026-08-16",
-      "source": "LinkedIn",
-      "description": "",
-      "discovery": "linkedin_guest",
-      "pre_score": 45
-    },
-    {
-      "title": "Specialist - Fleet Support",
-      "company": "NADEC Foods",
-      "location": "Riyadh, Riyadh, Saudi Arabia",
-      "url": "https://sa.linkedin.com/jobs/view/specialist-fleet-support-at-nadec-foods-4447883933",
-      "posted": "2026-08-02",
-      "source": "LinkedIn",
-      "description": "",
-      "discovery": "linkedin_guest",
-      "pre_score": 45
-    },
-    {
-      "title": "Operations Executive – Transportation / Fleet Operations",
-      "company": "Orient Transport Rent a Car",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "url": "https://ae.linkedin.com/jobs/view/operations-executive-%E2%80%93-transportation-fleet-operations-at-orient-transport-rent-a-car-4445581427",
-      "posted": "2026-08-01",
-      "source": "LinkedIn",
-      "description": "",
-      "discovery": "linkedin_guest",
-      "pre_score": 45
-    },
-    {
-      "title": "Fleet Salesman",
-      "company": "Petromin Corporation",
-      "location": "Jeddah, Makkah, Saudi Arabia",
-      "url": "https://sa.linkedin.com/jobs/view/fleet-salesman-at-petromin-corporation-4448095852",
-      "posted": "2026-08-06",
+      "url": "https://ae.linkedin.com/jobs/view/superintendent-%E2%80%93-fleet-operations-maritime-shipping-cluster-at-ad-ports-group-4452195415",
+      "posted": "2026-08-11",
       "source": "LinkedIn",
       "description": "",
       "discovery": "linkedin_guest",

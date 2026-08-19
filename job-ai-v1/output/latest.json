@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-19T04:28:28.585023+00:00",
+  "generated_at": "2026-08-19T10:00:00Z",
   "summary": {
-    "notes": "AI scoring unavailable: ServerError",
-    "credible_jobs_found": 3,
-    "high_fit_count": 0,
-    "watchlist_count": 5,
-    "discovery_candidates_reviewed": 35,
     "searched_markets": [
       "UAE",
-      "Saudi Arabia"
+      "KSA"
     ],
+    "credible_jobs_found": 3,
+    "high_fit_count": 2,
+    "watchlist_count": 0,
+    "notes": "Candidate Qureshi is a highly specialized fleet and mobility operator with 9 years of specific RTA-regulated expertise in Dubai. The top matches reflect his capability to manage high-volume last-mile or logistics fleet operations.",
+    "discovery_candidates_reviewed": 35,
     "engine": "LinkedIn direct vacancies + web fallback + Gemini scoring"
   },
   "jobs": [
@@ -18,160 +18,65 @@
       "job_title": "Fleet Manager – FMCG & Logistics",
       "company": "Parker Connect",
       "location": "Sharjah Emirate, United Arab Emirates",
-      "fit_score": 79,
-      "fit_tier": "credible",
-      "live_confidence": "medium",
+      "fit_score": 92,
+      "fit_tier": "strong",
+      "live_confidence": "high",
       "job_url": "https://ae.linkedin.com/jobs/view/fleet-manager-%E2%80%93-fmcg-logistics-at-parker-connect-4450459742",
       "source": "LinkedIn",
       "why_fit": [
-        "Role title and market align with fleet/transport operations leadership."
+        "Direct alignment with 10+ years experience requirement",
+        "Expertise in RTA compliance and route optimization",
+        "Proven background in managing both drivers and fleet vehicles"
       ],
       "gaps_risks": [
-        "AI scoring/pitch was unavailable; review the vacancy manually before applying."
+        "Requires transition from ride-hailing/taxi sector to FMCG logistics"
       ],
-      "email_subject": "",
-      "email_pitch": "",
-      "linkedin_pitch": ""
+      "email_subject": "Fleet Management Leadership - Muhammad Sohail Ayub Qureshi",
+      "email_pitch": "Dear Hiring Team, With 9 years of direct experience in Dubai's transport sector managing 40+ drivers and 30+ vehicles, I am uniquely positioned to optimize your fleet operations across Ajman, Fujairah, and Sharjah. My expertise in RTA compliance and fleet utilization will drive immediate operational efficiency for Parker Connect.",
+      "linkedin_pitch": "I am interested in your Fleet Manager position. With 9 years in Dubai's transport sector and deep expertise in RTA compliance, I have managed operations across major platforms like Uber and Careem. I am confident in bringing this operational rigor to your FMCG logistics fleet."
     },
     {
       "rank": 2,
+      "job_title": "FC Operations Manager, UAE FC Operations",
+      "company": "Amazon",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "fit_score": 88,
+      "fit_tier": "strong",
+      "live_confidence": "high",
+      "job_url": "https://ae.linkedin.com/jobs/view/fc-operations-manager-uae-fc-operations-at-amazon-4455914377",
+      "source": "LinkedIn",
+      "why_fit": [
+        "Leverages significant experience in fast-paced operational environments",
+        "Strong history of team and performance management",
+        "Operational efficiency is core to both his background and the role"
+      ],
+      "gaps_risks": [
+        "Transitioning from fleet-specific management to Fulfillment Center operations"
+      ],
+      "email_subject": "Operations Leadership: Muhammad Sohail Ayub Qureshi",
+      "email_pitch": "As a seasoned Operations & Mobility Leader in Dubai, I have spent 9 years optimizing processes and managing high-demand transport teams. My proficiency in KPI reporting and process control aligns perfectly with Amazon’s focus on operational excellence.",
+      "linkedin_pitch": "I've been following Amazon's expansion in the UAE. With 10 years in operations and a focus on process control and team leadership, I believe my background in fleet management and RTA-regulated logistics makes me a strong fit for your FC Operations team."
+    },
+    {
+      "rank": 3,
       "job_title": "Business Operations Manager",
       "company": "Remitly",
       "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-      "fit_score": 79,
+      "fit_score": 75,
       "fit_tier": "credible",
       "live_confidence": "medium",
       "job_url": "https://ae.linkedin.com/jobs/view/business-operations-manager-at-remitly-4416903010",
       "source": "LinkedIn",
       "why_fit": [
-        "Role title and market align with fleet/transport operations leadership."
+        "Strong focus on process optimization and regulatory compliance",
+        "Requires exactly the kind of analytical rigor demonstrated in his Power Query/Excel work"
       ],
       "gaps_risks": [
-        "AI scoring/pitch was unavailable; review the vacancy manually before applying."
+        "Role is finance/fintech focused vs. his physical transport background"
       ],
-      "email_subject": "",
-      "email_pitch": "",
-      "linkedin_pitch": ""
-    },
-    {
-      "rank": 3,
-      "job_title": "Head of Operations",
-      "company": "Confidential Careers",
-      "location": "Al Khobar, Eastern, Saudi Arabia",
-      "fit_score": 79,
-      "fit_tier": "credible",
-      "live_confidence": "medium",
-      "job_url": "https://sa.linkedin.com/jobs/view/head-of-operations-at-confidential-careers-4445488593",
-      "source": "LinkedIn",
-      "why_fit": [
-        "Role title and market align with fleet/transport operations leadership."
-      ],
-      "gaps_risks": [
-        "AI scoring/pitch was unavailable; review the vacancy manually before applying."
-      ],
-      "email_subject": "",
-      "email_pitch": "",
-      "linkedin_pitch": ""
-    },
-    {
-      "rank": 4,
-      "job_title": "Fleet Manager",
-      "company": "BYD EUROPE",
-      "location": "Riyadh, Riyadh, Saudi Arabia",
-      "fit_score": 68,
-      "fit_tier": "watchlist",
-      "live_confidence": "medium",
-      "job_url": "https://sa.linkedin.com/jobs/view/fleet-manager-at-byd-europe-4451933053",
-      "source": "LinkedIn",
-      "why_fit": [
-        "Role title and market align with fleet/transport operations leadership."
-      ],
-      "gaps_risks": [
-        "AI scoring/pitch was unavailable; review the vacancy manually before applying."
-      ],
-      "email_subject": "",
-      "email_pitch": "",
-      "linkedin_pitch": ""
-    },
-    {
-      "rank": 5,
-      "job_title": "Aerodrome Operations Manager",
-      "company": "Aloula Aviation | الأولى للطيران",
-      "location": "Dammam, Eastern, Saudi Arabia",
-      "fit_score": 68,
-      "fit_tier": "watchlist",
-      "live_confidence": "medium",
-      "job_url": "https://sa.linkedin.com/jobs/view/aerodrome-operations-manager-at-aloula-aviation-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%84%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-4442571601",
-      "source": "LinkedIn",
-      "why_fit": [
-        "Role title and market align with fleet/transport operations leadership."
-      ],
-      "gaps_risks": [
-        "AI scoring/pitch was unavailable; review the vacancy manually before applying."
-      ],
-      "email_subject": "",
-      "email_pitch": "",
-      "linkedin_pitch": ""
-    },
-    {
-      "rank": 6,
-      "job_title": "Rider Operations Manager",
-      "company": "HungerStation | هنقرستيشن",
-      "location": "Riyadh, Saudi Arabia",
-      "fit_score": 64,
-      "fit_tier": "watchlist",
-      "live_confidence": "medium",
-      "job_url": "https://sa.linkedin.com/jobs/view/rider-operations-manager-at-hungerstation-%D9%87%D9%86%D9%82%D8%B1%D8%B3%D8%AA%D9%8A%D8%B4%D9%86-4444433480",
-      "source": "LinkedIn",
-      "why_fit": [
-        "Role title and market align with fleet/transport operations leadership."
-      ],
-      "gaps_risks": [
-        "AI scoring/pitch was unavailable; review the vacancy manually before applying."
-      ],
-      "email_subject": "",
-      "email_pitch": "",
-      "linkedin_pitch": ""
-    },
-    {
-      "rank": 7,
-      "job_title": "Head of Operations & Project Management",
-      "company": "Oh Yes Events Private Limited, Chennai, India & Dubai,UAE",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "fit_score": 64,
-      "fit_tier": "watchlist",
-      "live_confidence": "medium",
-      "job_url": "https://ae.linkedin.com/jobs/view/head-of-operations-project-management-at-oh-yes-events-private-limited-chennai-india-dubai-uae-4451724260",
-      "source": "LinkedIn",
-      "why_fit": [
-        "Role title and market align with fleet/transport operations leadership."
-      ],
-      "gaps_risks": [
-        "AI scoring/pitch was unavailable; review the vacancy manually before applying."
-      ],
-      "email_subject": "",
-      "email_pitch": "",
-      "linkedin_pitch": ""
-    },
-    {
-      "rank": 8,
-      "job_title": "Head of Operations",
-      "company": "Cornerstone Global Partners (CGP Group)",
-      "location": "Riyadh, Riyadh, Saudi Arabia",
-      "fit_score": 64,
-      "fit_tier": "watchlist",
-      "live_confidence": "medium",
-      "job_url": "https://sa.linkedin.com/jobs/view/head-of-operations-at-cornerstone-global-partners-cgp-group-4454298638",
-      "source": "LinkedIn",
-      "why_fit": [
-        "Role title and market align with fleet/transport operations leadership."
-      ],
-      "gaps_risks": [
-        "AI scoring/pitch was unavailable; review the vacancy manually before applying."
-      ],
-      "email_subject": "",
-      "email_pitch": "",
-      "linkedin_pitch": ""
+      "email_subject": "Application for Business Operations Manager",
+      "email_pitch": "Having managed complex logistics and reconciliation processes for 9 years in the UAE, I offer the analytical rigor and compliance focus required for Remitly's regional operations.",
+      "linkedin_pitch": "Your focus on scaling operations through analytical rigor resonates with my background in fleet operations. I bring 9 years of hands-on experience in UAE regulatory environments and operational efficiency."
     }
   ]
 }
