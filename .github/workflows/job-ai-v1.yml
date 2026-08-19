@@ -33,6 +33,9 @@ jobs:
       - name: Sync application tracker
         run: python job-ai-v1/sync_tracker.py
 
+      - name: Resolve external employer ATS links
+        run: python job-ai-v1/resolve_apply_links.py
+
       - name: Auto-apply score 75+ where supported
         env:
           APPLICANT_EMAIL: ${{ secrets.APPLICANT_EMAIL }}
