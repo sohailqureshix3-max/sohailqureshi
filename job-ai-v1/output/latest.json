@@ -1,86 +1,352 @@
 {
-  "generated_at": "2026-08-19T14:00:00Z",
+  "generated_at": "2026-08-19T08:07:45.689345+00:00",
   "summary": {
+    "notes": "AI scoring unavailable: ServerError",
+    "credible_jobs_found": 7,
+    "high_fit_count": 0,
+    "watchlist_count": 8,
+    "executive_matches": 14,
+    "discovery_candidates_reviewed": 50,
     "searched_markets": [
-      "UAE",
-      "Saudi Arabia"
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "Kuwait",
+      "Qatar",
+      "Bahrain",
+      "Oman"
     ],
-    "credible_jobs_found": 3,
-    "high_fit_count": 1,
-    "watchlist_count": 0,
-    "notes": "Candidate's deep operational experience in Dubai's mobility and fleet sector makes him a prime candidate for logistics-focused operational roles. The top-scoring role directly aligns with his 9-year UAE transport experience and proficiency in fleet cost control and RTA compliance.",
-    "discovery_candidates_reviewed": 35,
-    "engine": "LinkedIn direct vacancies + web fallback + Gemini scoring"
+    "engine": "Full GCC direct vacancies + web fallback + Gemini fit/career scoring"
   },
   "jobs": [
     {
       "rank": 1,
-      "job_title": "Fleet Manager – FMCG & Logistics",
-      "company": "Parker Connect",
-      "location": "Sharjah Emirate, United Arab Emirates",
-      "fit_score": 90,
-      "fit_tier": "strong",
-      "live_confidence": "high",
-      "job_url": "https://ae.linkedin.com/jobs/view/fleet-manager-%E2%80%93-fmcg-logistics-at-parker-connect-4450459742",
+      "job_title": "Head of Operations",
+      "company": "Cornerstone Global Partners (CGP Group)",
+      "location": "Riyadh, Riyadh, Saudi Arabia",
+      "fit_score": 79,
+      "career_progression_score": 80,
+      "fit_tier": "credible",
+      "live_confidence": "medium",
+      "job_url": "https://sa.linkedin.com/jobs/view/head-of-operations-at-cornerstone-global-partners-cgp-group-4454298638",
       "source": "LinkedIn",
       "why_fit": [
-        "10+ years of relevant experience matches the 10+ year requirement perfectly.",
-        "Deep expertise in RTA compliance and fleet records.",
-        "Proven background in budgeting, cost control, and managing drivers/vehicles.",
-        "Experience with routing and maintenance schedules aligns with logistics demands."
+        "Role and GCC market align with operations leadership experience."
       ],
       "gaps_risks": [
-        "Candidate's primary experience is in ridesharing platforms rather than heavy FMCG logistics."
+        "AI scoring was unavailable; review the full vacancy before applying."
       ],
-      "email_subject": "Application for Fleet Manager – FMCG & Logistics (Muhammad Sohail Ayub Qureshi)",
-      "email_pitch": "Dear Hiring Manager, I am a seasoned Operations & Mobility Leader with 10 years of experience, including 9 years of specialized fleet management in Dubai. My background encompasses managing fleets of 30+ vehicles and 40+ drivers with a focus on RTA compliance, cost-saving initiatives, and rigorous KPI reporting. I am confident that my expertise in fleet-platform optimization and process control will translate effectively to your logistics operations in Sharjah.",
-      "linkedin_pitch": "I've been managing fleet operations in Dubai for 9 years, focusing on RTA compliance and operational efficiency. Your Fleet Manager role at Parker Connect is a perfect match for my background in cost control, driver training, and logistics optimization. I'd love to discuss how I can support your fleet expansion."
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 79.2
     },
     {
       "rank": 2,
-      "job_title": "Offshore Operations Manager",
-      "company": "Bahri | البحري",
-      "location": "Ras Tanura, Eastern, Saudi Arabia",
-      "fit_score": 78,
-      "fit_tier": "credible",
-      "live_confidence": "medium",
-      "job_url": "https://sa.linkedin.com/jobs/view/offshore-operations-manager-at-bahri-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A-4445852512",
-      "source": "LinkedIn",
-      "why_fit": [
-        "Strong leadership experience in managing fleet/vessel-related operations.",
-        "Proven ability to manage budgets, financial planning, and operational KPIs.",
-        "Experience in managing personnel and cross-functional teams."
-      ],
-      "gaps_risks": [
-        "Lack of direct marine/offshore experience; candidate is specialized in ground transport.",
-        "Requires relocation to Saudi Arabia."
-      ],
-      "email_subject": "Inquiry: Operations Leadership Opportunity - Muhammad Sohail Ayub Qureshi",
-      "email_pitch": "With 10 years of intensive operations management in the UAE, I offer a strong background in process control, KPI management, and resource optimization. My experience in high-compliance environments makes me an ideal fit for complex operational oversight roles within Bahri.",
-      "linkedin_pitch": "I am an Operations Leader based in Dubai with 9+ years of experience in fleet and dispatch management. I am very interested in the Offshore Operations Manager role and would welcome the chance to discuss how my background in operational excellence and cost management aligns with Bahri's requirements."
-    },
-    {
-      "rank": 3,
       "job_title": "Head of Operations",
       "company": "Confidential Careers",
       "location": "Al Khobar, Eastern, Saudi Arabia",
-      "fit_score": 78,
+      "fit_score": 79,
+      "career_progression_score": 80,
       "fit_tier": "credible",
       "live_confidence": "medium",
       "job_url": "https://sa.linkedin.com/jobs/view/head-of-operations-at-confidential-careers-4445488593",
       "source": "LinkedIn",
       "why_fit": [
-        "10+ years of operations management experience matches the target criteria.",
-        "Strong experience in monitoring KPIs and implementing action plans.",
-        "Proven background in multi-site/driver team coordination."
+        "Role and GCC market align with operations leadership experience."
       ],
       "gaps_risks": [
-        "Candidate's experience is heavily weighted toward transportation rather than retail.",
-        "Requires potential relocation to Al Khobar."
+        "AI scoring was unavailable; review the full vacancy before applying."
       ],
-      "email_subject": "Application for Head of Operations - Muhammad Sohail Ayub Qureshi",
-      "email_pitch": "I am a high-performing Operations Manager with 10 years of experience driving efficiency and regulatory compliance. My expertise in managing driver teams, financial reconciliation, and process optimization has prepared me to lead your operations team and drive business targets effectively.",
-      "linkedin_pitch": "I have been following your growth and am interested in the Head of Operations role. With 9+ years of managing fleet operations in Dubai and a strong record of hitting operational KPIs, I am eager to apply my skills to your regional team."
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 79.2
+    },
+    {
+      "rank": 3,
+      "job_title": "Director of Operations",
+      "company": "Hilton",
+      "location": "United Arab Emirates",
+      "fit_score": 79,
+      "career_progression_score": 80,
+      "fit_tier": "credible",
+      "live_confidence": "medium",
+      "job_url": "https://ae.linkedin.com/jobs/view/director-of-operations-at-hilton-4440519855",
+      "source": "LinkedIn",
+      "why_fit": [
+        "Role and GCC market align with operations leadership experience."
+      ],
+      "gaps_risks": [
+        "AI scoring was unavailable; review the full vacancy before applying."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 79.2
+    },
+    {
+      "rank": 4,
+      "job_title": "Data Center Head of Operations - Kuwait Digital Hub S.P.C",
+      "company": "Syntys",
+      "location": "Kuwait City Metropolitan Area",
+      "fit_score": 79,
+      "career_progression_score": 80,
+      "fit_tier": "credible",
+      "live_confidence": "medium",
+      "job_url": "https://kw.linkedin.com/jobs/view/data-center-head-of-operations-kuwait-digital-hub-s-p-c-at-syntys-4453409846",
+      "source": "LinkedIn",
+      "why_fit": [
+        "Role and GCC market align with operations leadership experience."
+      ],
+      "gaps_risks": [
+        "AI scoring was unavailable; review the full vacancy before applying."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 79.2
+    },
+    {
+      "rank": 5,
+      "job_title": "Director OF Operations",
+      "company": "Courtyard by Marriott",
+      "location": "Nizwa, Oman",
+      "fit_score": 79,
+      "career_progression_score": 80,
+      "fit_tier": "credible",
+      "live_confidence": "medium",
+      "job_url": "https://om.linkedin.com/jobs/view/director-of-operations-at-courtyard-by-marriott-4453251735",
+      "source": "LinkedIn",
+      "why_fit": [
+        "Role and GCC market align with operations leadership experience."
+      ],
+      "gaps_risks": [
+        "AI scoring was unavailable; review the full vacancy before applying."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 79.2
+    },
+    {
+      "rank": 6,
+      "job_title": "Project Services General Manager",
+      "company": "SGS",
+      "location": "Sur, Ash Sharqiyah South Governorate, Oman",
+      "fit_score": 79,
+      "career_progression_score": 80,
+      "fit_tier": "credible",
+      "live_confidence": "medium",
+      "job_url": "https://om.linkedin.com/jobs/view/project-services-general-manager-at-sgs-4450463469",
+      "source": "LinkedIn",
+      "why_fit": [
+        "Role and GCC market align with operations leadership experience."
+      ],
+      "gaps_risks": [
+        "AI scoring was unavailable; review the full vacancy before applying."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 79.2
+    },
+    {
+      "rank": 7,
+      "job_title": "Sr. Manager Logistics Operations",
+      "company": "talabat",
+      "location": "Doha, Qatar",
+      "fit_score": 77,
+      "career_progression_score": 55,
+      "fit_tier": "credible",
+      "live_confidence": "medium",
+      "job_url": "https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4448512201",
+      "source": "LinkedIn",
+      "why_fit": [
+        "Role and GCC market align with operations leadership experience."
+      ],
+      "gaps_risks": [
+        "AI scoring was unavailable; review the full vacancy before applying."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 72.6
+    },
+    {
+      "rank": 8,
+      "job_title": "Head of Operations & Project Management",
+      "company": "Oh Yes Events Private Limited, Chennai, India & Dubai,UAE",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "fit_score": 66,
+      "career_progression_score": 80,
+      "fit_tier": "watchlist",
+      "live_confidence": "medium",
+      "job_url": "https://ae.linkedin.com/jobs/view/head-of-operations-project-management-at-oh-yes-events-private-limited-chennai-india-dubai-uae-4451724260",
+      "source": "LinkedIn",
+      "why_fit": [
+        "Role and GCC market align with operations leadership experience."
+      ],
+      "gaps_risks": [
+        "AI scoring was unavailable; review the full vacancy before applying."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 68.8
+    },
+    {
+      "rank": 9,
+      "job_title": "Director of Operations",
+      "company": "Palazzo Versace Dubai",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "fit_score": 62,
+      "career_progression_score": 80,
+      "fit_tier": "watchlist",
+      "live_confidence": "medium",
+      "job_url": "https://ae.linkedin.com/jobs/view/director-of-operations-at-palazzo-versace-dubai-4454039406",
+      "source": "LinkedIn",
+      "why_fit": [
+        "Role and GCC market align with operations leadership experience."
+      ],
+      "gaps_risks": [
+        "AI scoring was unavailable; review the full vacancy before applying."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 65.6
+    },
+    {
+      "rank": 10,
+      "job_title": "Director of Operations",
+      "company": "Kempinski Hotels",
+      "location": "Doha, Qatar",
+      "fit_score": 62,
+      "career_progression_score": 80,
+      "fit_tier": "watchlist",
+      "live_confidence": "medium",
+      "job_url": "https://qa.linkedin.com/jobs/view/director-of-operations-at-kempinski-hotels-4441784047",
+      "source": "LinkedIn",
+      "why_fit": [
+        "Role and GCC market align with operations leadership experience."
+      ],
+      "gaps_risks": [
+        "AI scoring was unavailable; review the full vacancy before applying."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 65.6
+    },
+    {
+      "rank": 11,
+      "job_title": "Regional Operations Manager",
+      "company": "CBRE Excellerate",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "fit_score": 62,
+      "career_progression_score": 80,
+      "fit_tier": "watchlist",
+      "live_confidence": "medium",
+      "job_url": "https://ae.linkedin.com/jobs/view/regional-operations-manager-at-cbre-excellerate-4455323878",
+      "source": "LinkedIn",
+      "why_fit": [
+        "Role and GCC market align with operations leadership experience."
+      ],
+      "gaps_risks": [
+        "AI scoring was unavailable; review the full vacancy before applying."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 65.6
+    },
+    {
+      "rank": 12,
+      "job_title": "General Manager – Six Senses Zighy Bay, Oman",
+      "company": "IHG Hotels & Resorts",
+      "location": "Dibba Al Bayah, Musandam Governorate, Oman",
+      "fit_score": 62,
+      "career_progression_score": 80,
+      "fit_tier": "watchlist",
+      "live_confidence": "medium",
+      "job_url": "https://om.linkedin.com/jobs/view/general-manager-%E2%80%93-six-senses-zighy-bay-oman-at-ihg-hotels-resorts-4445893475",
+      "source": "LinkedIn",
+      "why_fit": [
+        "Role and GCC market align with operations leadership experience."
+      ],
+      "gaps_risks": [
+        "AI scoring was unavailable; review the full vacancy before applying."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 65.6
+    },
+    {
+      "rank": 13,
+      "job_title": "General Manager – Shipping Agency",
+      "company": "Confidential",
+      "location": "Muscat, Masqaţ, Oman",
+      "fit_score": 62,
+      "career_progression_score": 80,
+      "fit_tier": "watchlist",
+      "live_confidence": "medium",
+      "job_url": "https://om.linkedin.com/jobs/view/general-manager-%E2%80%93-shipping-agency-at-confidential-4452185668",
+      "source": "LinkedIn",
+      "why_fit": [
+        "Role and GCC market align with operations leadership experience."
+      ],
+      "gaps_risks": [
+        "AI scoring was unavailable; review the full vacancy before applying."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 65.6
+    },
+    {
+      "rank": 14,
+      "job_title": "General Manager",
+      "company": "Wyndham Hotels & Resorts EMEA",
+      "location": "Manama, Capital Governorate, Bahrain",
+      "fit_score": 60,
+      "career_progression_score": 80,
+      "fit_tier": "watchlist",
+      "live_confidence": "medium",
+      "job_url": "https://bh.linkedin.com/jobs/view/general-manager-at-wyndham-hotels-resorts-emea-4440140332",
+      "source": "LinkedIn",
+      "why_fit": [
+        "Role and GCC market align with operations leadership experience."
+      ],
+      "gaps_risks": [
+        "AI scoring was unavailable; review the full vacancy before applying."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 64.0
+    },
+    {
+      "rank": 15,
+      "job_title": "Restaurant General Manager",
+      "company": "Sunset Hospitality Group",
+      "location": "Capital Governorate, Bahrain",
+      "fit_score": 60,
+      "career_progression_score": 80,
+      "fit_tier": "watchlist",
+      "live_confidence": "medium",
+      "job_url": "https://bh.linkedin.com/jobs/view/restaurant-general-manager-at-sunset-hospitality-group-4442600733",
+      "source": "LinkedIn",
+      "why_fit": [
+        "Role and GCC market align with operations leadership experience."
+      ],
+      "gaps_risks": [
+        "AI scoring was unavailable; review the full vacancy before applying."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 64.0
     }
   ]
 }

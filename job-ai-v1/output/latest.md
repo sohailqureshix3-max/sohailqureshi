@@ -1,82 +1,222 @@
-# Sohail Qureshi — AI Job Match Report FINAL
+# Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-08-19T14:00:00Z
+Generated: 2026-08-19T08:07:45.689345+00:00
 
-**Direct candidates reviewed:** 35  
-**Credible jobs:** 3  
-**Strong matches:** 1  
-**Watchlist:** 0  
+**Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
+**Direct candidates reviewed:** 50  
+**Credible jobs:** 7  
+**Strong matches:** 0  
+**Executive/progression matches:** 14  
+**Watchlist:** 8  
 
-Candidate's deep operational experience in Dubai's mobility and fleet sector makes him a prime candidate for logistics-focused operational roles. The top-scoring role directly aligns with his 9-year UAE transport experience and proficiency in fleet cost control and RTA compliance.
+AI scoring unavailable: ServerError
 
-## 1. Fleet Manager – FMCG & Logistics — Parker Connect (90/100)
-**Tier:** strong  
-**Location:** Sharjah Emirate, United Arab Emirates  
-**Live confidence:** high  
-**Vacancy:** https://ae.linkedin.com/jobs/view/fleet-manager-%E2%80%93-fmcg-logistics-at-parker-connect-4450459742
-
-**Why it fits**
-- 10+ years of relevant experience matches the 10+ year requirement perfectly.
-- Deep expertise in RTA compliance and fleet records.
-- Proven background in budgeting, cost control, and managing drivers/vehicles.
-- Experience with routing and maintenance schedules aligns with logistics demands.
-
-**Gaps / risks
-- Candidate's primary experience is in ridesharing platforms rather than heavy FMCG logistics.
-
-**Email subject:** Application for Fleet Manager – FMCG & Logistics (Muhammad Sohail Ayub Qureshi)
-
-Dear Hiring Manager, I am a seasoned Operations & Mobility Leader with 10 years of experience, including 9 years of specialized fleet management in Dubai. My background encompasses managing fleets of 30+ vehicles and 40+ drivers with a focus on RTA compliance, cost-saving initiatives, and rigorous KPI reporting. I am confident that my expertise in fleet-platform optimization and process control will translate effectively to your logistics operations in Sharjah.
-
-**LinkedIn pitch**
-I've been managing fleet operations in Dubai for 9 years, focusing on RTA compliance and operational efficiency. Your Fleet Manager role at Parker Connect is a perfect match for my background in cost control, driver training, and logistics optimization. I'd love to discuss how I can support your fleet expansion.
-
----
-
-## 2. Offshore Operations Manager — Bahri | البحري (78/100)
+## 1. Head of Operations — Cornerstone Global Partners (CGP Group) (79/100)
+**Career progression:** 80/100  
+**Ranking score:** 79.2  
 **Tier:** credible  
-**Location:** Ras Tanura, Eastern, Saudi Arabia  
+**Location:** Riyadh, Riyadh, Saudi Arabia  
 **Live confidence:** medium  
-**Vacancy:** https://sa.linkedin.com/jobs/view/offshore-operations-manager-at-bahri-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A-4445852512
+**Vacancy:** https://sa.linkedin.com/jobs/view/head-of-operations-at-cornerstone-global-partners-cgp-group-4454298638  
 
 **Why it fits**
-- Strong leadership experience in managing fleet/vessel-related operations.
-- Proven ability to manage budgets, financial planning, and operational KPIs.
-- Experience in managing personnel and cross-functional teams.
+- Role and GCC market align with operations leadership experience.
 
-**Gaps / risks
-- Lack of direct marine/offshore experience; candidate is specialized in ground transport.
-- Requires relocation to Saudi Arabia.
+**Gaps / risks**
+- AI scoring was unavailable; review the full vacancy before applying.
 
-**Email subject:** Inquiry: Operations Leadership Opportunity - Muhammad Sohail Ayub Qureshi
-
-With 10 years of intensive operations management in the UAE, I offer a strong background in process control, KPI management, and resource optimization. My experience in high-compliance environments makes me an ideal fit for complex operational oversight roles within Bahri.
-
-**LinkedIn pitch**
-I am an Operations Leader based in Dubai with 9+ years of experience in fleet and dispatch management. I am very interested in the Offshore Operations Manager role and would welcome the chance to discuss how my background in operational excellence and cost management aligns with Bahri's requirements.
-
----
-
-## 3. Head of Operations — Confidential Careers (78/100)
+## 2. Head of Operations — Confidential Careers (79/100)
+**Career progression:** 80/100  
+**Ranking score:** 79.2  
 **Tier:** credible  
 **Location:** Al Khobar, Eastern, Saudi Arabia  
 **Live confidence:** medium  
-**Vacancy:** https://sa.linkedin.com/jobs/view/head-of-operations-at-confidential-careers-4445488593
+**Vacancy:** https://sa.linkedin.com/jobs/view/head-of-operations-at-confidential-careers-4445488593  
 
 **Why it fits**
-- 10+ years of operations management experience matches the target criteria.
-- Strong experience in monitoring KPIs and implementing action plans.
-- Proven background in multi-site/driver team coordination.
+- Role and GCC market align with operations leadership experience.
 
-**Gaps / risks
-- Candidate's experience is heavily weighted toward transportation rather than retail.
-- Requires potential relocation to Al Khobar.
+**Gaps / risks**
+- AI scoring was unavailable; review the full vacancy before applying.
 
-**Email subject:** Application for Head of Operations - Muhammad Sohail Ayub Qureshi
+## 3. Director of Operations — Hilton (79/100)
+**Career progression:** 80/100  
+**Ranking score:** 79.2  
+**Tier:** credible  
+**Location:** United Arab Emirates  
+**Live confidence:** medium  
+**Vacancy:** https://ae.linkedin.com/jobs/view/director-of-operations-at-hilton-4440519855  
 
-I am a high-performing Operations Manager with 10 years of experience driving efficiency and regulatory compliance. My expertise in managing driver teams, financial reconciliation, and process optimization has prepared me to lead your operations team and drive business targets effectively.
+**Why it fits**
+- Role and GCC market align with operations leadership experience.
 
-**LinkedIn pitch**
-I have been following your growth and am interested in the Head of Operations role. With 9+ years of managing fleet operations in Dubai and a strong record of hitting operational KPIs, I am eager to apply my skills to your regional team.
+**Gaps / risks**
+- AI scoring was unavailable; review the full vacancy before applying.
 
----
+## 4. Data Center Head of Operations - Kuwait Digital Hub S.P.C — Syntys (79/100)
+**Career progression:** 80/100  
+**Ranking score:** 79.2  
+**Tier:** credible  
+**Location:** Kuwait City Metropolitan Area  
+**Live confidence:** medium  
+**Vacancy:** https://kw.linkedin.com/jobs/view/data-center-head-of-operations-kuwait-digital-hub-s-p-c-at-syntys-4453409846  
+
+**Why it fits**
+- Role and GCC market align with operations leadership experience.
+
+**Gaps / risks**
+- AI scoring was unavailable; review the full vacancy before applying.
+
+## 5. Director OF Operations — Courtyard by Marriott (79/100)
+**Career progression:** 80/100  
+**Ranking score:** 79.2  
+**Tier:** credible  
+**Location:** Nizwa, Oman  
+**Live confidence:** medium  
+**Vacancy:** https://om.linkedin.com/jobs/view/director-of-operations-at-courtyard-by-marriott-4453251735  
+
+**Why it fits**
+- Role and GCC market align with operations leadership experience.
+
+**Gaps / risks**
+- AI scoring was unavailable; review the full vacancy before applying.
+
+## 6. Project Services General Manager — SGS (79/100)
+**Career progression:** 80/100  
+**Ranking score:** 79.2  
+**Tier:** credible  
+**Location:** Sur, Ash Sharqiyah South Governorate, Oman  
+**Live confidence:** medium  
+**Vacancy:** https://om.linkedin.com/jobs/view/project-services-general-manager-at-sgs-4450463469  
+
+**Why it fits**
+- Role and GCC market align with operations leadership experience.
+
+**Gaps / risks**
+- AI scoring was unavailable; review the full vacancy before applying.
+
+## 7. Sr. Manager Logistics Operations — talabat (77/100)
+**Career progression:** 55/100  
+**Ranking score:** 72.6  
+**Tier:** credible  
+**Location:** Doha, Qatar  
+**Live confidence:** medium  
+**Vacancy:** https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4448512201  
+
+**Why it fits**
+- Role and GCC market align with operations leadership experience.
+
+**Gaps / risks**
+- AI scoring was unavailable; review the full vacancy before applying.
+
+## 8. Head of Operations & Project Management — Oh Yes Events Private Limited, Chennai, India & Dubai,UAE (66/100)
+**Career progression:** 80/100  
+**Ranking score:** 68.8  
+**Tier:** watchlist  
+**Location:** Dubai, Dubai, United Arab Emirates  
+**Live confidence:** medium  
+**Vacancy:** https://ae.linkedin.com/jobs/view/head-of-operations-project-management-at-oh-yes-events-private-limited-chennai-india-dubai-uae-4451724260  
+
+**Why it fits**
+- Role and GCC market align with operations leadership experience.
+
+**Gaps / risks**
+- AI scoring was unavailable; review the full vacancy before applying.
+
+## 9. Director of Operations — Palazzo Versace Dubai (62/100)
+**Career progression:** 80/100  
+**Ranking score:** 65.6  
+**Tier:** watchlist  
+**Location:** Dubai, Dubai, United Arab Emirates  
+**Live confidence:** medium  
+**Vacancy:** https://ae.linkedin.com/jobs/view/director-of-operations-at-palazzo-versace-dubai-4454039406  
+
+**Why it fits**
+- Role and GCC market align with operations leadership experience.
+
+**Gaps / risks**
+- AI scoring was unavailable; review the full vacancy before applying.
+
+## 10. Director of Operations — Kempinski Hotels (62/100)
+**Career progression:** 80/100  
+**Ranking score:** 65.6  
+**Tier:** watchlist  
+**Location:** Doha, Qatar  
+**Live confidence:** medium  
+**Vacancy:** https://qa.linkedin.com/jobs/view/director-of-operations-at-kempinski-hotels-4441784047  
+
+**Why it fits**
+- Role and GCC market align with operations leadership experience.
+
+**Gaps / risks**
+- AI scoring was unavailable; review the full vacancy before applying.
+
+## 11. Regional Operations Manager — CBRE Excellerate (62/100)
+**Career progression:** 80/100  
+**Ranking score:** 65.6  
+**Tier:** watchlist  
+**Location:** Dubai, Dubai, United Arab Emirates  
+**Live confidence:** medium  
+**Vacancy:** https://ae.linkedin.com/jobs/view/regional-operations-manager-at-cbre-excellerate-4455323878  
+
+**Why it fits**
+- Role and GCC market align with operations leadership experience.
+
+**Gaps / risks**
+- AI scoring was unavailable; review the full vacancy before applying.
+
+## 12. General Manager – Six Senses Zighy Bay, Oman — IHG Hotels & Resorts (62/100)
+**Career progression:** 80/100  
+**Ranking score:** 65.6  
+**Tier:** watchlist  
+**Location:** Dibba Al Bayah, Musandam Governorate, Oman  
+**Live confidence:** medium  
+**Vacancy:** https://om.linkedin.com/jobs/view/general-manager-%E2%80%93-six-senses-zighy-bay-oman-at-ihg-hotels-resorts-4445893475  
+
+**Why it fits**
+- Role and GCC market align with operations leadership experience.
+
+**Gaps / risks**
+- AI scoring was unavailable; review the full vacancy before applying.
+
+## 13. General Manager – Shipping Agency — Confidential (62/100)
+**Career progression:** 80/100  
+**Ranking score:** 65.6  
+**Tier:** watchlist  
+**Location:** Muscat, Masqaţ, Oman  
+**Live confidence:** medium  
+**Vacancy:** https://om.linkedin.com/jobs/view/general-manager-%E2%80%93-shipping-agency-at-confidential-4452185668  
+
+**Why it fits**
+- Role and GCC market align with operations leadership experience.
+
+**Gaps / risks**
+- AI scoring was unavailable; review the full vacancy before applying.
+
+## 14. General Manager — Wyndham Hotels & Resorts EMEA (60/100)
+**Career progression:** 80/100  
+**Ranking score:** 64.0  
+**Tier:** watchlist  
+**Location:** Manama, Capital Governorate, Bahrain  
+**Live confidence:** medium  
+**Vacancy:** https://bh.linkedin.com/jobs/view/general-manager-at-wyndham-hotels-resorts-emea-4440140332  
+
+**Why it fits**
+- Role and GCC market align with operations leadership experience.
+
+**Gaps / risks**
+- AI scoring was unavailable; review the full vacancy before applying.
+
+## 15. Restaurant General Manager — Sunset Hospitality Group (60/100)
+**Career progression:** 80/100  
+**Ranking score:** 64.0  
+**Tier:** watchlist  
+**Location:** Capital Governorate, Bahrain  
+**Live confidence:** medium  
+**Vacancy:** https://bh.linkedin.com/jobs/view/restaurant-general-manager-at-sunset-hospitality-group-4442600733  
+
+**Why it fits**
+- Role and GCC market align with operations leadership experience.
+
+**Gaps / risks**
+- AI scoring was unavailable; review the full vacancy before applying.
