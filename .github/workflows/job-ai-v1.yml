@@ -1,4 +1,4 @@
-name: Job AI V1.1
+name: Job AI V1.2
 
 on:
   workflow_dispatch:
@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r job-ai-v1/requirements.txt
 
-      - name: Find, verify, score and pitch jobs
+      - name: Find direct vacancies, verify, score and pitch
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python job-ai-v1/run.py
