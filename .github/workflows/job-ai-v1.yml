@@ -21,7 +21,9 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install -r job-ai-v1/requirements.txt
+        run: |
+          pip install -r job-ai-v1/requirements.txt
+          python -m playwright install --with-deps chromium
 
       - name: Find direct vacancies, verify, score and pitch
         env:
@@ -30,6 +32,17 @@ jobs:
 
       - name: Sync application tracker
         run: python job-ai-v1/sync_tracker.py
+
+      - name: Auto-apply score 75+ where supported
+        env:
+          APPLICANT_EMAIL: ${{ secrets.APPLICANT_EMAIL }}
+          APPLICANT_PHONE: ${{ secrets.APPLICANT_PHONE }}
+          APPLICANT_FIRST_NAME: ${{ secrets.APPLICANT_FIRST_NAME }}
+          APPLICANT_LAST_NAME: ${{ secrets.APPLICANT_LAST_NAME }}
+          APPLICANT_LOCATION: ${{ secrets.APPLICANT_LOCATION }}
+          APPLICANT_LINKEDIN: ${{ secrets.APPLICANT_LINKEDIN }}
+          APPLICANT_PORTFOLIO: ${{ secrets.APPLICANT_PORTFOLIO }}
+        run: python job-ai-v1/auto_apply.py
 
       - name: Commit latest report and tracker
         run: |
