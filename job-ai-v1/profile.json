@@ -21,39 +21,13 @@
       "Maintenance, vehicle readiness and EV charging",
       "SOP development and process control",
       "Advanced Excel and Power Query",
-      "Finance and HR coordination",
-      "ACCA Part-Qualified"
+      "Finance and HR coordination"
     ]
   },
   "search": {
-    "target_roles": [
-      "General Manager Operations",
-      "Head of Operations",
-      "Fleet General Manager",
-      "Senior Fleet Operations Manager",
-      "Transport Operations Manager",
-      "Mobility Operations Manager",
-      "Driver Operations Manager",
-      "Dispatch Manager"
-    ],
-    "locations": [
-      "United Arab Emirates",
-      "Dubai",
-      "Abu Dhabi",
-      "Saudi Arabia",
-      "Riyadh",
-      "Jeddah",
-      "Madinah",
-      "Makkah"
-    ],
-    "preferred_industries": [
-      "Limousine and chauffeur services",
-      "Mobility and ride-hailing",
-      "Transport and logistics",
-      "Airport ground transport",
-      "Hospitality transportation",
-      "Fleet management"
-    ],
+    "target_roles": ["General Manager Operations","Head of Operations","Fleet General Manager","Senior Fleet Operations Manager","Transport Operations Manager","Mobility Operations Manager","Driver Operations Manager","Dispatch Manager"],
+    "locations": ["United Arab Emirates","Dubai","Abu Dhabi","Saudi Arabia","Riyadh","Jeddah","Madinah","Makkah"],
+    "preferred_industries": ["Limousine and chauffeur services","Mobility and ride-hailing","Transport and logistics","Airport ground transport","Hospitality transportation","Fleet management"],
     "minimum_score": 70,
     "max_jobs": 12
   },
