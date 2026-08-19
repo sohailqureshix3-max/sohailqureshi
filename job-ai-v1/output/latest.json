@@ -2,19 +2,13 @@
   "generated_at": "2026-08-19T10:00:00Z",
   "summary": {
     "searched_markets": [
-      "UAE",
-      "Dubai",
-      "Abu Dhabi",
-      "Saudi Arabia",
-      "Riyadh",
-      "Jeddah",
-      "Madinah",
-      "Makkah"
+      "Dubai, UAE"
     ],
     "credible_jobs_found": 0,
     "high_fit_count": 0,
-    "notes": "Most links provided were aggregator or category pages rather than specific active vacancy pages. Only one specific vacancy (Arabian Trading Supplies) was identified as a direct role match, though it falls slightly below the target threshold due to limited company information.",
-    "discovery_candidates_reviewed": 32
+    "watchlist_count": 0,
+    "notes": "No specific external vacancies were provided in the input; therefore, no jobs could be assessed or scored against the candidate.",
+    "discovery_candidates_reviewed": 0
   },
   "jobs": []
 }
