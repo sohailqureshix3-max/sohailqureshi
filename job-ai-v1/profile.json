@@ -25,19 +25,58 @@
     ]
   },
   "search": {
-    "target_roles": ["General Manager Operations","Head of Operations","Fleet General Manager","Senior Fleet Operations Manager","Transport Operations Manager","Mobility Operations Manager","Driver Operations Manager","Dispatch Manager"],
-    "locations": ["United Arab Emirates","Dubai","Abu Dhabi","Saudi Arabia","Riyadh","Jeddah","Madinah","Makkah"],
-    "preferred_industries": ["Limousine and chauffeur services","Mobility and ride-hailing","Transport and logistics","Airport ground transport","Hospitality transportation","Fleet management"],
+    "strategy": "GCC executive operations leadership",
+    "target_roles": [
+      "Head of Operations",
+      "General Manager Operations",
+      "Regional Operations Manager",
+      "Country Operations Manager",
+      "Director of Operations",
+      "Business Unit Manager Mobility",
+      "Senior Operations Manager",
+      "Fleet General Manager",
+      "Senior Fleet Operations Manager",
+      "Fleet Operations Manager",
+      "Transport Operations Manager",
+      "Transportation Operations Manager",
+      "Mobility Operations Manager",
+      "Logistics Operations Manager",
+      "Last Mile Operations Manager",
+      "Driver Operations Manager",
+      "Dispatch Operations Manager"
+    ],
+    "locations": [
+      "United Arab Emirates", "Dubai", "Abu Dhabi", "Sharjah",
+      "Saudi Arabia", "Riyadh", "Jeddah", "Madinah", "Makkah", "Dammam", "Al Khobar",
+      "Qatar", "Doha",
+      "Kuwait", "Kuwait City",
+      "Bahrain", "Manama",
+      "Oman", "Muscat"
+    ],
+    "market_priority": ["Saudi Arabia", "United Arab Emirates", "Kuwait", "Qatar", "Bahrain", "Oman"],
+    "preferred_industries": [
+      "Mobility and ride-hailing",
+      "Transport and logistics",
+      "Fleet management and leasing",
+      "Last-mile delivery",
+      "Limousine and chauffeur services",
+      "Airport ground transport",
+      "E-commerce operations",
+      "Hospitality transportation"
+    ],
     "minimum_score": 70,
-    "max_jobs": 12
+    "auto_apply_score": 75,
+    "max_jobs": 15,
+    "executive_priority": true
   },
   "scoring_weights": {
-    "operations_leadership": 25,
-    "fleet_transport": 20,
-    "team_scale": 15,
-    "commercial_finance_controls": 15,
-    "compliance": 10,
-    "systems_data": 10,
-    "gcc_relevance": 5
+    "operations_leadership": 22,
+    "fleet_transport": 18,
+    "team_scale": 12,
+    "commercial_finance_controls": 13,
+    "compliance": 8,
+    "systems_data": 8,
+    "gcc_relevance": 7,
+    "career_progression": 12
   }
 }
