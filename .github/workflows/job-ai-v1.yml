@@ -55,14 +55,28 @@ jobs:
     timeout-minutes: 20
     container:
       image: mcr.microsoft.com/playwright/python:v1.55.0-noble
+      env:
+        PLAYWRIGHT_BROWSERS_PATH: /ms-playwright
     steps:
       - name: Checkout latest tracker
         uses: actions/checkout@v4
         with:
           ref: main
 
-      - name: Install Python dependencies only
-        run: pip install -r job-ai-v1/requirements.txt
+      - name: Install exact Playwright client
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright==1.55.0
+
+      - name: Verify browser runtime
+        run: |
+          python - <<'PY'
+          from playwright.sync_api import sync_playwright
+          with sync_playwright() as p:
+              browser = p.chromium.launch(headless=True)
+              print('Chromium launch OK')
+              browser.close()
+          PY
 
       - name: Auto-apply score 75+ where supported
         env:
