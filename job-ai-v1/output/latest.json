@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-20T10:00:00Z",
+  "generated_at": "2026-08-21T00:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational experience across multiple mobility platforms (9 years in Dubai) and is highly qualified for fleet operations management, Last-Mile, and regional logistics roles within the GCC. Prioritizing roles aligning with fleet utilization, driver management, and platform compliance.",
-    "credible_jobs_found": 3,
-    "high_fit_count": 3,
+    "notes": "Candidate displays strong operational, fleet management, and platform expertise relevant to GCC mobility. Roles in last-mile, ride-hailing, and fleet services are prioritized over general industrial/logistics roles.",
+    "credible_jobs_found": 4,
+    "high_fit_count": 4,
     "watchlist_count": 0,
-    "executive_matches": 2,
-    "auto_apply_eligible": 3,
-    "discovery_candidates_reviewed": 47,
+    "executive_matches": 4,
+    "auto_apply_eligible": 4,
+    "discovery_candidates_reviewed": 50,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,10 +20,64 @@
   },
   "jobs": [
     {
+      "job_title": "Sr. Manager Logistics Operations",
+      "company": "talabat",
+      "location": "Doha, Qatar",
+      "fit_score": 92,
+      "career_progression_score": 90,
+      "live_confidence": "high",
+      "job_url": "https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4448512201",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Direct experience in fleet management, rider supply, and logistics operations.",
+        "Proven expertise in platforms similar to the candidate's portfolio.",
+        "Strong alignment with candidate's strengths in KPI management and stakeholder coordination."
+      ],
+      "gaps_risks": [
+        "Role involves Qatar-based responsibilities; candidate is currently in Dubai."
+      ],
+      "email_subject": "Operations Leadership | Fleet & Logistics Expertise | Muhammad Qureshi",
+      "email_pitch": "Dear Hiring Team, With 10 years of experience in fleet and mobility operations, including 9 years in the Dubai transport sector, I offer a deep understanding of platform economics and driver management. My background directly aligns with the operational requirements at Talabat.",
+      "linkedin_pitch": "Hi Team, I have been following Talabat's growth in the region. With extensive experience managing 40+ drivers and diverse ride-hailing fleets, I am highly interested in contributing to your logistics operations. Let’s connect.",
+      "fit_tier": "strong",
+      "scoring_mode": "ai",
+      "ranking_score": 91.6,
+      "rank": 1
+    },
+    {
+      "job_title": "Manager, Micro Mobility Operations",
+      "company": "Red Sea Global",
+      "location": "Umluj, Tabuk, Saudi Arabia",
+      "fit_score": 85,
+      "career_progression_score": 85,
+      "live_confidence": "high",
+      "job_url": "https://sa.linkedin.com/jobs/view/manager-micro-mobility-operations-at-red-sea-global-4449512224",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Direct alignment with micro-mobility and fleet operations.",
+        "Candidate's experience in SOP development and EV charging matches specific project needs.",
+        "Strong operational leadership background."
+      ],
+      "gaps_risks": [
+        "Role is based in Umluj, necessitating relocation from Dubai."
+      ],
+      "email_subject": "Operations Leadership: Micro-Mobility and Fleet Strategy",
+      "email_pitch": "Dear Hiring Manager, I am writing to express my interest in the Micro-Mobility Operations role. My 10-year career in Dubai's transport sector has focused on high-utilization fleet management and operational efficiency, which I am eager to apply to your giga-project mobility initiatives.",
+      "linkedin_pitch": "Red Sea Global is shaping the future of mobility. With my 9-year tenure in Dubai's transport and mobility space, I have the operational rigour to lead your micro-mobility fleet and station operations effectively.",
+      "fit_tier": "strong",
+      "scoring_mode": "ai",
+      "ranking_score": 85.0,
+      "rank": 2
+    },
+    {
       "job_title": "Regional Manager, Fleet Strategy and Planning, MEA-TR, MEATR DSP",
       "company": "Amazon",
       "location": "Dubai, Dubai, United Arab Emirates",
-      "fit_score": 88,
+      "fit_score": 80,
       "career_progression_score": 85,
       "live_confidence": "high",
       "job_url": "https://ae.linkedin.com/jobs/view/regional-manager-fleet-strategy-and-planning-mea-tr-meatr-dsp-at-amazon-4455786730",
@@ -31,74 +85,47 @@
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct alignment with 9 years of Dubai-based fleet and platform experience.",
-        "Matches candidate strengths in fleet utilization, KPIs, and operational strategy.",
-        "Candidate's diverse platform background (Uber, Careem, Yango, etc.) is highly relevant to DSP partner management."
+        "Deep industry experience in GCC fleet operations.",
+        "Candidate possesses analytical skills (Excel, Power Query) required for strategic modeling.",
+        "Strong understanding of the local transportation ecosystem."
       ],
       "gaps_risks": [
-        "Candidate is at 10 years experience; role typically requires higher strategic maturity, though specific platform knowledge mitigates this."
+        "This is a high-level regional strategic role; candidate's direct operational experience may need to be framed via high-scale platform management."
       ],
-      "email_subject": "Strategic Operations & Fleet Leadership | Muhammad Qureshi",
-      "email_pitch": "Dear Hiring Team, With 9 years of deep-seated experience in Dubai's dynamic mobility ecosystem—managing diverse fleets for platforms like Uber, Careem, and Yango—I have developed a robust methodology for fleet utilization, driver performance, and operational compliance. I am eager to apply my expertise in fleet scaling and KPI management to Amazon's MEATR logistics operations.",
-      "linkedin_pitch": "I've been following Amazon's expansion in the MEATR region with great interest. With 9 years of hands-on experience scaling fleet operations across Dubai for platforms like Uber and Careem, I am confident I can contribute significantly to the DSP partner experience and fleet planning strategies. I would welcome the opportunity to discuss how my background aligns with your regional growth goals.",
+      "email_subject": "Regional Fleet Strategy & Operations Candidate - Muhammad Qureshi",
+      "email_pitch": "Dear Amazon Talent Acquisition, Having spent 9 years driving operational excellence in Dubai's transport sector, I have developed the analytical rigor and fleet expertise to contribute to Amazon's strategic growth in the MEATR region.",
+      "linkedin_pitch": "Amazon’s last-mile logistics at scale is fascinating. Given my 10 years in GCC fleet management and platform coordination, I believe I can provide immediate value to your fleet strategy team.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 87.4,
-      "rank": 1
+      "ranking_score": 81.0,
+      "rank": 3
     },
     {
-      "job_title": "Assistant Manager Logistics Operations",
-      "company": "talabat",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "fit_score": 85,
-      "career_progression_score": 70,
-      "live_confidence": "high",
-      "job_url": "https://ae.linkedin.com/jobs/view/assistant-manager-logistics-operations-at-talabat-4454252246",
-      "source": "LinkedIn",
-      "industry_alignment": "clear",
-      "auto_apply_eligible": true,
-      "why_fit": [
-        "Perfect match for the required skills in EV fleet management and rider/driver coordination.",
-        "Extensive background in platform-based logistics and RTA compliance.",
-        "Strong operational proficiency with data reporting and SOP development."
-      ],
-      "gaps_risks": [
-        "Role level is slightly below current scope of managing 40 drivers/30 vehicles."
-      ],
-      "email_subject": "Logistics Operations Specialist | Muhammad Qureshi",
-      "email_pitch": "Talabat's reputation for operational excellence in the GCC is why I am reaching out. Having successfully managed fleet, scheduling, and RTA compliance for various mobility platforms over the last 9 years, I am highly adept at driving efficiency in last-mile environments. I am prepared to leverage my expertise in Excel, KPIs, and on-ground team management to support your delivery goals.",
-      "linkedin_pitch": "Talabat is setting the standard for local delivery in the UAE. I’ve spent the last 9 years in Dubai’s mobility and fleet sector, working with platforms like Careem and Yango. I’m very familiar with the logistics challenges in this market and would love to bring my expertise in fleet management and operational KPIs to your operations team.",
-      "fit_tier": "strong",
-      "scoring_mode": "ai",
-      "ranking_score": 82.0,
-      "rank": 2
-    },
-    {
-      "job_title": "Fleet Manager – FMCG & Logistics",
-      "company": "Parker Connect",
-      "location": "Sharjah Emirate, United Arab Emirates",
+      "job_title": "Fleet Lead.E - Commerce - Fulfillment Operations",
+      "company": "Panda Retail Company – Savola Group",
+      "location": "Jiddah, Makkah, Saudi Arabia",
       "fit_score": 82,
       "career_progression_score": 75,
-      "live_confidence": "medium",
-      "job_url": "https://ae.linkedin.com/jobs/view/fleet-manager-%E2%80%93-fmcg-logistics-at-parker-connect-4450459742",
+      "live_confidence": "high",
+      "job_url": "https://sa.linkedin.com/jobs/view/fleet-lead-e-commerce-fulfillment-operations-at-panda-retail-company-%E2%80%93-savola-group-4451296613",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Matches the 10+ year experience requirement exactly.",
-        "Deep familiarity with RTA regulations and fleet cost control.",
-        "Candidate brings strong budgeting, maintenance scheduling, and driver management expertise."
+        "Strong match for fleet management, driver supervision, and cost control.",
+        "Relevant experience in fulfillment/delivery operations.",
+        "Proven ability to manage vehicle maintenance and performance reporting."
       ],
       "gaps_risks": [
-        "Transitioning from tech-based platform mobility to traditional FMCG/Logistics fleet requires minor adjustment to warehouse interface."
+        "None major identified; well within scope of current professional capabilities."
       ],
-      "email_subject": "Fleet Management Candidate: Muhammad Qureshi (10 Years Exp)",
-      "email_pitch": "I am writing to express my interest in the Fleet Manager position. With a decade of experience in Dubai-based fleet and transport operations—including rigorous budget management, RTA compliance, and driver training—I possess the operational rigor needed to optimize your fleet across Sharjah and Ajman. I look forward to discussing my approach to fuel optimization and preventive maintenance.",
-      "linkedin_pitch": "With 10 years of experience managing fleet operations in the UAE, including platform-based logistics and comprehensive RTA compliance, I am interested in your Fleet Manager opening. My background in driver management, budgeting, and asset readiness aligns well with the requirements for this role.",
+      "email_subject": "Fleet Management Leadership Application - Muhammad Qureshi",
+      "email_pitch": "Dear Hiring Team, With 10 years of experience managing fleet logistics, driver performance, and operational KPIs in the GCC, I am confident in my ability to enhance Panda Retail's fulfillment operations.",
+      "linkedin_pitch": "Your search for a Fleet Lead aligns perfectly with my background in managing 30+ vehicles and driver teams. I have extensive experience in fleet performance and cost control within the GCC.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
       "ranking_score": 80.6,
-      "rank": 3
+      "rank": 4
     }
   ]
 }
