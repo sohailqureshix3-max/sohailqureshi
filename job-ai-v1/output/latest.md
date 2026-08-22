@@ -1,32 +1,17 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-08-21T00:00:00Z
+Generated: 2026-08-22T10:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
 **Relevant candidates reviewed:** 50  
-**Credible jobs:** 4  
-**Strong matches:** 4  
-**Executive/progression matches:** 4  
-**Auto-apply eligible:** 4  
+**Credible jobs:** 3  
+**Strong matches:** 1  
+**Executive/progression matches:** 2  
+**Auto-apply eligible:** 3  
 
-Candidate displays strong operational, fleet management, and platform expertise relevant to GCC mobility. Roles in last-mile, ride-hailing, and fleet services are prioritized over general industrial/logistics roles.
+Candidate displays strong operational, fleet management, and platform experience relevant to mobility and logistics. Matches identified for roles focused on fleet operations, dispatch, and performance management.
 
-## 1. Sr. Manager Logistics Operations — talabat (92/100)
-**Career progression:** 90/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Doha, Qatar  
-**Vacancy:** https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4448512201  
-
-**Why it fits**
-- Direct experience in fleet management, rider supply, and logistics operations.
-- Proven expertise in platforms similar to the candidate's portfolio.
-- Strong alignment with candidate's strengths in KPI management and stakeholder coordination.
-
-**Gaps / risks**
-- Role involves Qatar-based responsibilities; candidate is currently in Dubai.
-
-## 2. Manager, Micro Mobility Operations — Red Sea Global (85/100)
+## 1. Manager, Micro Mobility Operations — Red Sea Global (82/100)
 **Career progression:** 85/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
@@ -34,39 +19,37 @@ Candidate displays strong operational, fleet management, and platform expertise 
 **Vacancy:** https://sa.linkedin.com/jobs/view/manager-micro-mobility-operations-at-red-sea-global-4449512224  
 
 **Why it fits**
-- Direct alignment with micro-mobility and fleet operations.
-- Candidate's experience in SOP development and EV charging matches specific project needs.
-- Strong operational leadership background.
+- Aligns perfectly with candidate experience in fleet operations, platform management, and team leadership.
+- Candidate has extensive background in micro-mobility and transport services.
+- Operational scale and environment match candidate's expertise.
 
 **Gaps / risks**
-- Role is based in Umluj, necessitating relocation from Dubai.
+- Requires relocation to remote project site.
 
-## 3. Regional Manager, Fleet Strategy and Planning, MEA-TR, MEATR DSP — Amazon (80/100)
-**Career progression:** 85/100  
+## 2. Transportation Supervisor — Keeta (78/100)
+**Career progression:** 70/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Dubai, Dubai, United Arab Emirates  
-**Vacancy:** https://ae.linkedin.com/jobs/view/regional-manager-fleet-strategy-and-planning-mea-tr-meatr-dsp-at-amazon-4455786730  
+**Location:** Kuwait City, Al Asimah, Kuwait  
+**Vacancy:** https://kw.linkedin.com/jobs/view/transportation-supervisor-at-keeta-4454489323  
 
 **Why it fits**
-- Deep industry experience in GCC fleet operations.
-- Candidate possesses analytical skills (Excel, Power Query) required for strategic modeling.
-- Strong understanding of the local transportation ecosystem.
+- Candidate's deep experience in platform operations and fleet management directly maps to Keeta's delivery model.
+- Strengths in KPI reporting, driver management, and route efficiency are primary requirements.
 
 **Gaps / risks**
-- This is a high-level regional strategic role; candidate's direct operational experience may need to be framed via high-scale platform management.
+- Role level might be slightly lateral depending on current compensation package.
 
-## 4. Fleet Lead.E - Commerce - Fulfillment Operations — Panda Retail Company – Savola Group (82/100)
+## 3. Sr. Analyst Logistics Performance — talabat (76/100)
 **Career progression:** 75/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Jiddah, Makkah, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/fleet-lead-e-commerce-fulfillment-operations-at-panda-retail-company-%E2%80%93-savola-group-4451296613  
+**Location:** Manama, Capital Governorate, Bahrain  
+**Vacancy:** https://bh.linkedin.com/jobs/view/sr-analyst-logistics-performance-at-talabat-4442286687  
 
 **Why it fits**
-- Strong match for fleet management, driver supervision, and cost control.
-- Relevant experience in fulfillment/delivery operations.
-- Proven ability to manage vehicle maintenance and performance reporting.
+- Matches candidate’s core strengths in KPI reporting, advanced Excel, and data-driven logistics management.
+- Strong understanding of the platform-based business model.
 
 **Gaps / risks**
-- None major identified; well within scope of current professional capabilities.
+- Transitioning from pure 'Operations/Fleet' to a highly analytical performance role.
