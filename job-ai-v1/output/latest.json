@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-22T10:00:00Z",
+  "generated_at": "2026-08-23T10:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational, fleet management, and platform experience relevant to mobility and logistics. Matches identified for roles focused on fleet operations, dispatch, and performance management.",
+    "notes": "Candidate displays strong operational expertise in Dubai fleet management, RTA compliance, and multi-platform logistics. Selected roles align with his core strength in mobility and fleet utilization within the GCC market.",
     "credible_jobs_found": 3,
-    "high_fit_count": 1,
+    "high_fit_count": 3,
     "watchlist_count": 0,
-    "executive_matches": 2,
+    "executive_matches": 3,
     "auto_apply_eligible": 3,
-    "discovery_candidates_reviewed": 50,
+    "discovery_candidates_reviewed": 48,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,82 +20,84 @@
   },
   "jobs": [
     {
-      "job_title": "Manager, Micro Mobility Operations",
-      "company": "Red Sea Global",
-      "location": "Umluj, Tabuk, Saudi Arabia",
-      "fit_score": 82,
-      "career_progression_score": 85,
+      "job_title": "Sr. Manager Logistics Operations",
+      "company": "talabat",
+      "location": "Doha, Qatar",
+      "fit_score": 88,
+      "career_progression_score": 90,
       "live_confidence": "high",
-      "job_url": "https://sa.linkedin.com/jobs/view/manager-micro-mobility-operations-at-red-sea-global-4449512224",
+      "job_url": "https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4448512201",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Aligns perfectly with candidate experience in fleet operations, platform management, and team leadership.",
-        "Candidate has extensive background in micro-mobility and transport services.",
-        "Operational scale and environment match candidate's expertise."
+        "Direct experience with multi-platform ride-hailing and delivery ecosystems.",
+        "Matches scale of team management and KPI-driven operational oversight.",
+        "Proven proficiency in logistics strategy and 3PL vendor management."
       ],
       "gaps_risks": [
-        "Requires relocation to remote project site."
+        "Relocation required to Qatar."
       ],
-      "email_subject": "Operations Leadership: Micro-Mobility & Fleet Expertise",
-      "email_pitch": "With 10 years of operations leadership and 9 years in Dubai’s transport sector, I have successfully managed 40 drivers and 30 vehicles across major platforms like Uber and Careem. I am eager to apply my expertise in fleet utilization, RTA-level compliance, and SOP development to Red Sea Global’s innovative mobility projects.",
-      "linkedin_pitch": "I am interested in the Micro Mobility Operations Manager role. With a decade of experience managing complex fleet operations and logistics platforms, I am well-equipped to drive the service continuity and operational excellence Red Sea Global requires.",
+      "email_subject": "Operations Leadership | Fleet & Logistics Expertise | Muhammad Qureshi",
+      "email_pitch": "Dear Hiring Team, With 9 years of direct fleet and mobility operations experience in the UAE, I have managed diverse platforms including Uber, Careem, and Yango. My background in fleet optimization, RTA compliance, and cost-control makes me a strong fit for Talabat's operational scaling needs.",
+      "linkedin_pitch": "Hi Team, I have been following Talabat's growth in the GCC logistics space. With 10 years of experience managing fleet operations, compliance, and large-scale delivery systems, I am interested in the Senior Manager Logistics Operations role and would welcome a conversation.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 82.6,
+      "ranking_score": 88.4,
       "rank": 1
     },
     {
       "job_title": "Transportation Supervisor",
       "company": "Keeta",
       "location": "Kuwait City, Al Asimah, Kuwait",
-      "fit_score": 78,
-      "career_progression_score": 70,
+      "fit_score": 85,
+      "career_progression_score": 75,
       "live_confidence": "high",
       "job_url": "https://kw.linkedin.com/jobs/view/transportation-supervisor-at-keeta-4454489323",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Candidate's deep experience in platform operations and fleet management directly maps to Keeta's delivery model.",
-        "Strengths in KPI reporting, driver management, and route efficiency are primary requirements."
+        "Core skills in dispatch, fleet utilization, and driver management map perfectly.",
+        "Experience with dark store/last-mile logistics.",
+        "Advanced Excel/data-driven approach aligns with role requirements."
       ],
       "gaps_risks": [
-        "Role level might be slightly lateral depending on current compensation package."
+        "Role level may be lateral; focus on the high-growth potential of the brand."
       ],
-      "email_subject": "Logistics & Fleet Operations Candidate",
-      "email_pitch": "My background managing complex ride-hailing and delivery platform fleets in the UAE makes me a strong fit for Keeta. I have a proven track record in route optimization, driver performance monitoring, and ensuring high service standards in fast-paced logistics environments.",
-      "linkedin_pitch": "I am following Keeta's expansion and believe my 9 years of transport operations experience in the GCC would allow me to make an immediate impact on your transportation and fleet management teams.",
-      "fit_tier": "credible",
+      "email_subject": "Application for Transportation Supervisor - Muhammad Qureshi",
+      "email_pitch": "Dear Hiring Manager, I am an operations leader with 9 years of hands-on experience in the Dubai transport sector. My expertise in route optimization, driver coordination, and fleet performance aligns directly with the requirements at Keeta.",
+      "linkedin_pitch": "Hello, I am a mobility operations professional with a proven track record in the GCC. I noticed the Transportation Supervisor opening and believe my background in fleet efficiency and driver management would be a strong asset for your team in Kuwait.",
+      "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 76.4,
+      "ranking_score": 83.0,
       "rank": 2
     },
     {
-      "job_title": "Sr. Analyst Logistics Performance",
-      "company": "talabat",
-      "location": "Manama, Capital Governorate, Bahrain",
-      "fit_score": 76,
-      "career_progression_score": 75,
+      "job_title": "Transportation Manager",
+      "company": "Jadeer Logistics",
+      "location": "Dammam, Eastern, Saudi Arabia",
+      "fit_score": 82,
+      "career_progression_score": 85,
       "live_confidence": "high",
-      "job_url": "https://bh.linkedin.com/jobs/view/sr-analyst-logistics-performance-at-talabat-4442286687",
+      "job_url": "https://sa.linkedin.com/jobs/view/transportation-manager-at-jadeer-logistics-4453883801",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Matches candidate’s core strengths in KPI reporting, advanced Excel, and data-driven logistics management.",
-        "Strong understanding of the platform-based business model."
+        "Direct alignment in transport management, cost control, and budget responsibility.",
+        "Experience with regulatory compliance and safety audits is directly transferable.",
+        "Matches scale of operations and team size managed."
       ],
       "gaps_risks": [
-        "Transitioning from pure 'Operations/Fleet' to a highly analytical performance role."
+        "Requires relocation to Saudi Arabia."
       ],
-      "email_subject": "Logistics Performance & Operations Leadership",
-      "email_pitch": "Having managed fleet operations for platforms like Uber and Careem, I have developed strong data analytical skills in Power Query and Excel. I am keen to leverage these tools to drive operational excellence at talabat.",
-      "linkedin_pitch": "With a decade of experience in GCC transport and logistics operations, I am interested in contributing to talabat’s performance team through my background in KPI management and operational reporting.",
-      "fit_tier": "credible",
+      "email_subject": "Transportation Manager Application - Muhammad Qureshi",
+      "email_pitch": "Dear Hiring Manager, As a seasoned mobility operations leader with 10 years of experience in the GCC, I have successfully managed fleet assets and driver teams. I am well-versed in compliance, cost control, and operational process development.",
+      "linkedin_pitch": "Hi, I am an operations leader with deep experience in GCC fleet management. I am very interested in your Transportation Manager role and would love to discuss how my expertise in vehicle readiness and cost control can contribute to Jadeer Logistics.",
+      "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 75.8,
+      "ranking_score": 82.6,
       "rank": 3
     }
   ]

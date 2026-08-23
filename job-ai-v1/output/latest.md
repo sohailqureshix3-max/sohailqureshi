@@ -1,55 +1,57 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-08-22T10:00:00Z
+Generated: 2026-08-23T10:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 50  
+**Relevant candidates reviewed:** 48  
 **Credible jobs:** 3  
-**Strong matches:** 1  
-**Executive/progression matches:** 2  
+**Strong matches:** 3  
+**Executive/progression matches:** 3  
 **Auto-apply eligible:** 3  
 
-Candidate displays strong operational, fleet management, and platform experience relevant to mobility and logistics. Matches identified for roles focused on fleet operations, dispatch, and performance management.
+Candidate displays strong operational expertise in Dubai fleet management, RTA compliance, and multi-platform logistics. Selected roles align with his core strength in mobility and fleet utilization within the GCC market.
 
-## 1. Manager, Micro Mobility Operations — Red Sea Global (82/100)
-**Career progression:** 85/100  
+## 1. Sr. Manager Logistics Operations — talabat (88/100)
+**Career progression:** 90/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Umluj, Tabuk, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/manager-micro-mobility-operations-at-red-sea-global-4449512224  
+**Location:** Doha, Qatar  
+**Vacancy:** https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4448512201  
 
 **Why it fits**
-- Aligns perfectly with candidate experience in fleet operations, platform management, and team leadership.
-- Candidate has extensive background in micro-mobility and transport services.
-- Operational scale and environment match candidate's expertise.
+- Direct experience with multi-platform ride-hailing and delivery ecosystems.
+- Matches scale of team management and KPI-driven operational oversight.
+- Proven proficiency in logistics strategy and 3PL vendor management.
 
 **Gaps / risks**
-- Requires relocation to remote project site.
+- Relocation required to Qatar.
 
-## 2. Transportation Supervisor — Keeta (78/100)
-**Career progression:** 70/100  
+## 2. Transportation Supervisor — Keeta (85/100)
+**Career progression:** 75/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
 **Location:** Kuwait City, Al Asimah, Kuwait  
 **Vacancy:** https://kw.linkedin.com/jobs/view/transportation-supervisor-at-keeta-4454489323  
 
 **Why it fits**
-- Candidate's deep experience in platform operations and fleet management directly maps to Keeta's delivery model.
-- Strengths in KPI reporting, driver management, and route efficiency are primary requirements.
+- Core skills in dispatch, fleet utilization, and driver management map perfectly.
+- Experience with dark store/last-mile logistics.
+- Advanced Excel/data-driven approach aligns with role requirements.
 
 **Gaps / risks**
-- Role level might be slightly lateral depending on current compensation package.
+- Role level may be lateral; focus on the high-growth potential of the brand.
 
-## 3. Sr. Analyst Logistics Performance — talabat (76/100)
-**Career progression:** 75/100  
+## 3. Transportation Manager — Jadeer Logistics (82/100)
+**Career progression:** 85/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Manama, Capital Governorate, Bahrain  
-**Vacancy:** https://bh.linkedin.com/jobs/view/sr-analyst-logistics-performance-at-talabat-4442286687  
+**Location:** Dammam, Eastern, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/transportation-manager-at-jadeer-logistics-4453883801  
 
 **Why it fits**
-- Matches candidate’s core strengths in KPI reporting, advanced Excel, and data-driven logistics management.
-- Strong understanding of the platform-based business model.
+- Direct alignment in transport management, cost control, and budget responsibility.
+- Experience with regulatory compliance and safety audits is directly transferable.
+- Matches scale of operations and team size managed.
 
 **Gaps / risks**
-- Transitioning from pure 'Operations/Fleet' to a highly analytical performance role.
+- Requires relocation to Saudi Arabia.
