@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-23T10:00:00Z",
+  "generated_at": "2026-08-24T12:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational expertise in Dubai fleet management, RTA compliance, and multi-platform logistics. Selected roles align with his core strength in mobility and fleet utilization within the GCC market.",
+    "notes": "Candidate displays strong operational expertise in Dubai transport and ride-hailing (9 years). Best fits are mobility, fleet-heavy logistics, and last-mile operations in the GCC. High-level director roles (25+ years experience) were filtered for alignment mismatch.",
     "credible_jobs_found": 3,
-    "high_fit_count": 3,
+    "high_fit_count": 2,
     "watchlist_count": 0,
-    "executive_matches": 3,
+    "executive_matches": 2,
     "auto_apply_eligible": 3,
-    "discovery_candidates_reviewed": 48,
+    "discovery_candidates_reviewed": 45,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,84 +20,84 @@
   },
   "jobs": [
     {
+      "job_title": "Senior Director – Autonomous Mobility",
+      "company": "Sundus",
+      "location": "Dubai, United Arab Emirates",
+      "fit_score": 82,
+      "career_progression_score": 90,
+      "live_confidence": "high",
+      "job_url": "https://ae.linkedin.com/jobs/view/senior-director-%E2%80%93-autonomous-mobility-at-sundus-4452399093",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Perfect alignment with UAE mobility, ride-hailing, and autonomous sector growth.",
+        "Candidate manages 30+ vehicles and multiple platforms (Uber, Careem, Yango, etc.), directly applicable to scaling autonomous fleet operations.",
+        "Direct experience in managing driver/fleet compliance and SOPs."
+      ],
+      "gaps_risks": [
+        "Role requires significant strategic/P&L leadership; candidate must demonstrate transition from tactical fleet management to executive commercial leadership."
+      ],
+      "email_subject": "Operations Leadership: Scaling Autonomous Mobility in the UAE",
+      "email_pitch": "Dear Hiring Team, having spent 9 years leading complex fleet and ride-hailing operations in Dubai across major platforms like Uber, Careem, and Yango, I have managed diverse fleets and strictly enforced RTA compliance. I am eager to bring my expertise in fleet utilization, SOP development, and operational scaling to your Autonomous Mobility division. My background in data-driven scheduling and driver management directly supports the goal of commercializing autonomous fleets in the region.",
+      "linkedin_pitch": "I've been following the progress at Sundus in the autonomous space. With 9 years of direct fleet and mobility operations experience in Dubai across platforms like Uber and Careem, I have a deep understanding of the local regulatory and operational environment. I'd love to discuss how my background in fleet efficiency and high-scale logistics can support your autonomous growth strategy.",
+      "fit_tier": "strong",
+      "scoring_mode": "ai",
+      "ranking_score": 83.6,
+      "rank": 1
+    },
+    {
       "job_title": "Sr. Manager Logistics Operations",
       "company": "talabat",
       "location": "Doha, Qatar",
-      "fit_score": 88,
-      "career_progression_score": 90,
+      "fit_score": 80,
+      "career_progression_score": 85,
       "live_confidence": "high",
       "job_url": "https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4448512201",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct experience with multi-platform ride-hailing and delivery ecosystems.",
-        "Matches scale of team management and KPI-driven operational oversight.",
-        "Proven proficiency in logistics strategy and 3PL vendor management."
+        "Directly mirrors candidate's background in ride-hailing and fleet-platform management.",
+        "Matches expertise in driver scheduling, 3PL/fleet compliance, and KPIs.",
+        "Alignment with last-mile and quick commerce demand."
       ],
       "gaps_risks": [
-        "Relocation required to Qatar."
+        "Requires relocation to Qatar; must confirm candidate's openness to regional mobility."
       ],
-      "email_subject": "Operations Leadership | Fleet & Logistics Expertise | Muhammad Qureshi",
-      "email_pitch": "Dear Hiring Team, With 9 years of direct fleet and mobility operations experience in the UAE, I have managed diverse platforms including Uber, Careem, and Yango. My background in fleet optimization, RTA compliance, and cost-control makes me a strong fit for Talabat's operational scaling needs.",
-      "linkedin_pitch": "Hi Team, I have been following Talabat's growth in the GCC logistics space. With 10 years of experience managing fleet operations, compliance, and large-scale delivery systems, I am interested in the Senior Manager Logistics Operations role and would welcome a conversation.",
+      "email_subject": "Logistics Operations Leadership - Talabat Qatar",
+      "email_pitch": "Dear Hiring Manager, my 10 years of experience in transportation and mobility, specifically managing fleet operations and driver performance across multiple ride-hailing platforms, makes me a strong fit for your Qatar logistics team. I am highly proficient in KPI management, driver scheduling, and platform compliance—all essential to maintaining Talabat's service quality and scale.",
+      "linkedin_pitch": "Talabat's expansion is impressive. Having managed fleet utilization and driver dispatching for 9 years across platforms like Careem and Uber in Dubai, I’ve built a strong foundation in managing high-velocity logistics. I’m interested in applying my expertise in operational efficiency to your Qatar operations.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 88.4,
-      "rank": 1
-    },
-    {
-      "job_title": "Transportation Supervisor",
-      "company": "Keeta",
-      "location": "Kuwait City, Al Asimah, Kuwait",
-      "fit_score": 85,
-      "career_progression_score": 75,
-      "live_confidence": "high",
-      "job_url": "https://kw.linkedin.com/jobs/view/transportation-supervisor-at-keeta-4454489323",
-      "source": "LinkedIn",
-      "industry_alignment": "clear",
-      "auto_apply_eligible": true,
-      "why_fit": [
-        "Core skills in dispatch, fleet utilization, and driver management map perfectly.",
-        "Experience with dark store/last-mile logistics.",
-        "Advanced Excel/data-driven approach aligns with role requirements."
-      ],
-      "gaps_risks": [
-        "Role level may be lateral; focus on the high-growth potential of the brand."
-      ],
-      "email_subject": "Application for Transportation Supervisor - Muhammad Qureshi",
-      "email_pitch": "Dear Hiring Manager, I am an operations leader with 9 years of hands-on experience in the Dubai transport sector. My expertise in route optimization, driver coordination, and fleet performance aligns directly with the requirements at Keeta.",
-      "linkedin_pitch": "Hello, I am a mobility operations professional with a proven track record in the GCC. I noticed the Transportation Supervisor opening and believe my background in fleet efficiency and driver management would be a strong asset for your team in Kuwait.",
-      "fit_tier": "strong",
-      "scoring_mode": "ai",
-      "ranking_score": 83.0,
+      "ranking_score": 81.0,
       "rank": 2
     },
     {
-      "job_title": "Transportation Manager",
-      "company": "Jadeer Logistics",
-      "location": "Dammam, Eastern, Saudi Arabia",
-      "fit_score": 82,
-      "career_progression_score": 85,
+      "job_title": "Assistant Manager Logistics Operations",
+      "company": "talabat",
+      "location": "Dubai, United Arab Emirates",
+      "fit_score": 78,
+      "career_progression_score": 70,
       "live_confidence": "high",
-      "job_url": "https://sa.linkedin.com/jobs/view/transportation-manager-at-jadeer-logistics-4453883801",
+      "job_url": "https://ae.linkedin.com/jobs/view/assistant-manager-logistics-operations-at-talabat-4454252246",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct alignment in transport management, cost control, and budget responsibility.",
-        "Experience with regulatory compliance and safety audits is directly transferable.",
-        "Matches scale of operations and team size managed."
+        "Ideal location match in Dubai.",
+        "Strong overlap in EV fleet management and last-mile operations.",
+        "Candidate possesses the required analytical skills and comfort with on-ground management."
       ],
       "gaps_risks": [
-        "Requires relocation to Saudi Arabia."
+        "Role level might be slightly lateral depending on current compensation package."
       ],
-      "email_subject": "Transportation Manager Application - Muhammad Qureshi",
-      "email_pitch": "Dear Hiring Manager, As a seasoned mobility operations leader with 10 years of experience in the GCC, I have successfully managed fleet assets and driver teams. I am well-versed in compliance, cost control, and operational process development.",
-      "linkedin_pitch": "Hi, I am an operations leader with deep experience in GCC fleet management. I am very interested in your Transportation Manager role and would love to discuss how my expertise in vehicle readiness and cost control can contribute to Jadeer Logistics.",
-      "fit_tier": "strong",
+      "email_subject": "Application: Assistant Manager Logistics Operations",
+      "email_pitch": "Dear Hiring Team, I am an Operations Leader based in Dubai with 9 years of deep experience in fleet and driver management. Having worked extensively with ride-hailing and delivery platforms, I am well-versed in EV fleet maintenance, driver audits, and SOP optimization. I am keen to join Talabat's Dubai operations to drive efficiency and operational compliance.",
+      "linkedin_pitch": "With 9 years of experience managing fleet and driver operations in Dubai, I’ve developed a keen eye for optimizing last-mile and EV efficiency. I am very interested in the Assistant Manager role at Talabat and would love to connect to discuss how my background can support your logistics team.",
+      "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 82.6,
+      "ranking_score": 76.4,
       "rank": 3
     }
   ]

@@ -1,57 +1,57 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-08-23T10:00:00Z
+Generated: 2026-08-24T12:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 48  
+**Relevant candidates reviewed:** 45  
 **Credible jobs:** 3  
-**Strong matches:** 3  
-**Executive/progression matches:** 3  
+**Strong matches:** 2  
+**Executive/progression matches:** 2  
 **Auto-apply eligible:** 3  
 
-Candidate displays strong operational expertise in Dubai fleet management, RTA compliance, and multi-platform logistics. Selected roles align with his core strength in mobility and fleet utilization within the GCC market.
+Candidate displays strong operational expertise in Dubai transport and ride-hailing (9 years). Best fits are mobility, fleet-heavy logistics, and last-mile operations in the GCC. High-level director roles (25+ years experience) were filtered for alignment mismatch.
 
-## 1. Sr. Manager Logistics Operations — talabat (88/100)
+## 1. Senior Director – Autonomous Mobility — Sundus (82/100)
 **Career progression:** 90/100  
+**Auto-apply eligible:** True  
+**Scoring:** ai  
+**Location:** Dubai, United Arab Emirates  
+**Vacancy:** https://ae.linkedin.com/jobs/view/senior-director-%E2%80%93-autonomous-mobility-at-sundus-4452399093  
+
+**Why it fits**
+- Perfect alignment with UAE mobility, ride-hailing, and autonomous sector growth.
+- Candidate manages 30+ vehicles and multiple platforms (Uber, Careem, Yango, etc.), directly applicable to scaling autonomous fleet operations.
+- Direct experience in managing driver/fleet compliance and SOPs.
+
+**Gaps / risks**
+- Role requires significant strategic/P&L leadership; candidate must demonstrate transition from tactical fleet management to executive commercial leadership.
+
+## 2. Sr. Manager Logistics Operations — talabat (80/100)
+**Career progression:** 85/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
 **Location:** Doha, Qatar  
 **Vacancy:** https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4448512201  
 
 **Why it fits**
-- Direct experience with multi-platform ride-hailing and delivery ecosystems.
-- Matches scale of team management and KPI-driven operational oversight.
-- Proven proficiency in logistics strategy and 3PL vendor management.
+- Directly mirrors candidate's background in ride-hailing and fleet-platform management.
+- Matches expertise in driver scheduling, 3PL/fleet compliance, and KPIs.
+- Alignment with last-mile and quick commerce demand.
 
 **Gaps / risks**
-- Relocation required to Qatar.
+- Requires relocation to Qatar; must confirm candidate's openness to regional mobility.
 
-## 2. Transportation Supervisor — Keeta (85/100)
-**Career progression:** 75/100  
+## 3. Assistant Manager Logistics Operations — talabat (78/100)
+**Career progression:** 70/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Kuwait City, Al Asimah, Kuwait  
-**Vacancy:** https://kw.linkedin.com/jobs/view/transportation-supervisor-at-keeta-4454489323  
+**Location:** Dubai, United Arab Emirates  
+**Vacancy:** https://ae.linkedin.com/jobs/view/assistant-manager-logistics-operations-at-talabat-4454252246  
 
 **Why it fits**
-- Core skills in dispatch, fleet utilization, and driver management map perfectly.
-- Experience with dark store/last-mile logistics.
-- Advanced Excel/data-driven approach aligns with role requirements.
+- Ideal location match in Dubai.
+- Strong overlap in EV fleet management and last-mile operations.
+- Candidate possesses the required analytical skills and comfort with on-ground management.
 
 **Gaps / risks**
-- Role level may be lateral; focus on the high-growth potential of the brand.
-
-## 3. Transportation Manager — Jadeer Logistics (82/100)
-**Career progression:** 85/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Dammam, Eastern, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/transportation-manager-at-jadeer-logistics-4453883801  
-
-**Why it fits**
-- Direct alignment in transport management, cost control, and budget responsibility.
-- Experience with regulatory compliance and safety audits is directly transferable.
-- Matches scale of operations and team size managed.
-
-**Gaps / risks**
-- Requires relocation to Saudi Arabia.
+- Role level might be slightly lateral depending on current compensation package.
