@@ -1,56 +1,57 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-08-25T12:00:00Z
+Generated: 2026-08-26T12:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 36  
+**Relevant candidates reviewed:** 44  
 **Credible jobs:** 3  
-**Strong matches:** 3  
+**Strong matches:** 2  
 **Executive/progression matches:** 3  
 **Auto-apply eligible:** 3  
 
-Candidate displays strong operational, fleet management, and platform experience (Uber, Careem, Yango, etc.). Prioritizing roles in fleet-intensive, mobility, and delivery sectors where 9 years of UAE/GCC operational expertise creates a significant competitive advantage.
+Candidate displays strong operational expertise in ride-hailing and fleet management within the UAE market. Selection prioritized high-scale mobility and logistics roles within the GCC that align with his core competencies in driver management, fleet utilization, and platform operations.
 
-## 1. Regional Manager, Fleet Strategy and Planning, MEA-TR, MEATR DSP — Amazon (88/100)
+## 1. Regional Manager, Fleet Strategy and Planning, MEA-TR, MEATR DSP — Amazon (85/100)
 **Career progression:** 90/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Dubai, United Arab Emirates  
+**Location:** Dubai, Dubai, United Arab Emirates  
 **Vacancy:** https://ae.linkedin.com/jobs/view/regional-manager-fleet-strategy-and-planning-mea-tr-meatr-dsp-at-amazon-4455786730  
 
 **Why it fits**
-- Direct alignment with fleet strategy, planning, and last-mile operations.
-- Candidate's extensive experience with 30+ vehicles and 40+ drivers mirrors the scale of Amazon's DSP operations.
-- Strong track record in UAE transport compliance.
+- Direct alignment with 9 years of Dubai transport experience.
+- Matches expertise in fleet demand planning, optimization, and platform operations.
+- Amazon's last-mile focus aligns with his multi-platform ride-hailing/logistics background.
 
 **Gaps / risks**
-- Requires transition from direct operational dispatch to regional strategy; candidate's data-driven background in Excel/Power Query should mitigate this.
+- This is a higher-level regional strategic role; candidate must highlight his transition from fleet-level management to strategic program design.
 
-## 2. Manager - Planning - Logistics Services (Transport) — Transguard Group (85/100)
-**Career progression:** 80/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Dubai, United Arab Emirates  
-**Vacancy:** https://ae.linkedin.com/jobs/view/manager-planning-logistics-services-transport-at-transguard-group-4450897059  
-
-**Why it fits**
-- Matches candidate's expertise in transport planning, scheduling, and RTA compliance.
-- Professional experience in UAE-based logistics and fleet management is a key requirement for Transguard.
-- Extensive experience in SOP development and process control.
-
-**Gaps / risks**
-- None identified; high alignment.
-
-## 3. Assistant Manager Logistics Operations — talabat (82/100)
+## 2. Assistant Manager Logistics Operations — talabat (82/100)
 **Career progression:** 75/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Dubai, United Arab Emirates  
+**Location:** Dubai, Dubai, United Arab Emirates  
 **Vacancy:** https://ae.linkedin.com/jobs/view/assistant-manager-logistics-operations-at-talabat-4454252246  
 
 **Why it fits**
-- Candidate has extensive platform-based operations experience (Uber, Careem, Yango), which is directly transferable to Talabat's logistics model.
-- Proven ability to manage drivers and dispatch at scale.
+- Directly relevant experience in last-mile delivery and EV fleet management.
+- Candidate's strength in SOP development and process control aligns with the role's requirement for operational refinement.
+- Dubai-based operational experience.
 
 **Gaps / risks**
-- Role level is slightly junior to previous responsibilities, but offers strong growth path.
+- None major; the scope of management is well within his current capability.
+
+## 3. Manager Logistics Performance — talabat (78/100)
+**Career progression:** 80/100  
+**Auto-apply eligible:** True  
+**Scoring:** ai  
+**Location:** Dubai, Dubai, United Arab Emirates  
+**Vacancy:** https://ae.linkedin.com/jobs/view/manager-logistics-performance-at-talabat-4440740657  
+
+**Why it fits**
+- High competency in operational KPI and management reporting.
+- Advanced Excel/Power Query skills match the data-driven focus of this role.
+- Directly relevant to the ride-hailing/delivery logistics model.
+
+**Gaps / risks**
+- Role requires heavy focus on commercial P&L and SQL; candidate should emphasize his trip/billing reconciliation and budgeting experience.

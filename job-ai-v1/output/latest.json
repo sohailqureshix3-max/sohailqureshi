@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-25T12:00:00Z",
+  "generated_at": "2026-08-26T12:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational, fleet management, and platform experience (Uber, Careem, Yango, etc.). Prioritizing roles in fleet-intensive, mobility, and delivery sectors where 9 years of UAE/GCC operational expertise creates a significant competitive advantage.",
+    "notes": "Candidate displays strong operational expertise in ride-hailing and fleet management within the UAE market. Selection prioritized high-scale mobility and logistics roles within the GCC that align with his core competencies in driver management, fleet utilization, and platform operations.",
     "credible_jobs_found": 3,
-    "high_fit_count": 3,
+    "high_fit_count": 2,
     "watchlist_count": 0,
     "executive_matches": 3,
     "auto_apply_eligible": 3,
-    "discovery_candidates_reviewed": 36,
+    "discovery_candidates_reviewed": 44,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -22,8 +22,8 @@
     {
       "job_title": "Regional Manager, Fleet Strategy and Planning, MEA-TR, MEATR DSP",
       "company": "Amazon",
-      "location": "Dubai, United Arab Emirates",
-      "fit_score": 88,
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "fit_score": 85,
       "career_progression_score": 90,
       "live_confidence": "high",
       "job_url": "https://ae.linkedin.com/jobs/view/regional-manager-fleet-strategy-and-planning-mea-tr-meatr-dsp-at-amazon-4455786730",
@@ -31,52 +31,25 @@
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct alignment with fleet strategy, planning, and last-mile operations.",
-        "Candidate's extensive experience with 30+ vehicles and 40+ drivers mirrors the scale of Amazon's DSP operations.",
-        "Strong track record in UAE transport compliance."
+        "Direct alignment with 9 years of Dubai transport experience.",
+        "Matches expertise in fleet demand planning, optimization, and platform operations.",
+        "Amazon's last-mile focus aligns with his multi-platform ride-hailing/logistics background."
       ],
       "gaps_risks": [
-        "Requires transition from direct operational dispatch to regional strategy; candidate's data-driven background in Excel/Power Query should mitigate this."
+        "This is a higher-level regional strategic role; candidate must highlight his transition from fleet-level management to strategic program design."
       ],
-      "email_subject": "Strategic Operations Leadership: Regional Fleet & Strategy",
-      "email_pitch": "As an Operations & Mobility Leader with 9 years of direct experience in the UAE, I have successfully managed diverse fleets across major platforms like Uber, Careem, and Yango. I am confident my expertise in fleet utilization, RTA compliance, and data-driven management will add immediate value to the MEATR DSP team at Amazon.",
-      "linkedin_pitch": "I've been following Amazon's mobility expansion in the region. With 9 years of fleet and operations leadership in the UAE managing multi-platform logistics, I'd love to discuss how I can contribute to your fleet strategy team.",
+      "email_subject": "Operations & Mobility Leadership - Amazon Fleet Strategy",
+      "email_pitch": "Having managed fleet operations for 10 years across major mobility platforms including Uber, Careem, and Yango, I have developed a deep understanding of the UAE transport landscape and fleet performance optimization. I am keen to apply my expertise in fleet utilization and operational scaling to Amazon's MEATR logistics network.",
+      "linkedin_pitch": "I am impressed by Amazon's approach to last-mile fleet strategy in the UAE. With a decade of experience in fleet management and multi-platform operations (Uber, Careem, etc.), I have a track record of driving operational KPIs and fleet utilization. I would welcome the chance to discuss how I can contribute to the MEATR fleet team.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 88.4,
+      "ranking_score": 86.0,
       "rank": 1
-    },
-    {
-      "job_title": "Manager - Planning - Logistics Services (Transport)",
-      "company": "Transguard Group",
-      "location": "Dubai, United Arab Emirates",
-      "fit_score": 85,
-      "career_progression_score": 80,
-      "live_confidence": "high",
-      "job_url": "https://ae.linkedin.com/jobs/view/manager-planning-logistics-services-transport-at-transguard-group-4450897059",
-      "source": "LinkedIn",
-      "industry_alignment": "clear",
-      "auto_apply_eligible": true,
-      "why_fit": [
-        "Matches candidate's expertise in transport planning, scheduling, and RTA compliance.",
-        "Professional experience in UAE-based logistics and fleet management is a key requirement for Transguard.",
-        "Extensive experience in SOP development and process control."
-      ],
-      "gaps_risks": [
-        "None identified; high alignment."
-      ],
-      "email_subject": "Operations Management Professional - Fleet & Logistics Planning",
-      "email_pitch": "With 10 years of experience in UAE transport and fleet operations, I specialize in maximizing vehicle readiness and scheduling efficiency. My background in managing multi-platform fleets and maintaining high RTA compliance standards aligns perfectly with the operational requirements at Transguard.",
-      "linkedin_pitch": "I have spent 9 years leading fleet and logistics operations in the UAE. Transguard's focus on operational excellence in transportation is an environment where my skills in scheduling and fleet utilization would be highly impactful.",
-      "fit_tier": "strong",
-      "scoring_mode": "ai",
-      "ranking_score": 84.0,
-      "rank": 2
     },
     {
       "job_title": "Assistant Manager Logistics Operations",
       "company": "talabat",
-      "location": "Dubai, United Arab Emirates",
+      "location": "Dubai, Dubai, United Arab Emirates",
       "fit_score": 82,
       "career_progression_score": 75,
       "live_confidence": "high",
@@ -85,18 +58,46 @@
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Candidate has extensive platform-based operations experience (Uber, Careem, Yango), which is directly transferable to Talabat's logistics model.",
-        "Proven ability to manage drivers and dispatch at scale."
+        "Directly relevant experience in last-mile delivery and EV fleet management.",
+        "Candidate's strength in SOP development and process control aligns with the role's requirement for operational refinement.",
+        "Dubai-based operational experience."
       ],
       "gaps_risks": [
-        "Role level is slightly junior to previous responsibilities, but offers strong growth path."
+        "None major; the scope of management is well within his current capability."
       ],
-      "email_subject": "Operations Leadership: Logistics & Fleet Expertise",
-      "email_pitch": "Having led fleet operations for major mobility platforms across Dubai for the past 9 years, I possess the exact skills required to optimize logistics delivery performance at Talabat. I am skilled in driver training, KPI management, and operational efficiency.",
-      "linkedin_pitch": "Talabat's scale in the UAE requires rigorous operational discipline. My 9 years of local experience managing driver/fleet logistics and platform compliance are a great match for this role.",
+      "email_subject": "Operations Leadership: Assistant Manager Logistics Operations",
+      "email_pitch": "With 9 years of experience in Dubai's transportation sector, specifically managing fleet operations and driver performance across major platforms, I am well-equipped to drive efficiency for talabat. I possess deep experience in SOP development and KPI management critical to last-mile logistics.",
+      "linkedin_pitch": "I've followed talabat's growth in the UAE and believe my background in fleet operations and driver dispatch management aligns perfectly with the Assistant Manager Logistics Operations role. I'd love to connect and discuss how my expertise can support your logistics performance.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
       "ranking_score": 80.6,
+      "rank": 2
+    },
+    {
+      "job_title": "Manager Logistics Performance",
+      "company": "talabat",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "fit_score": 78,
+      "career_progression_score": 80,
+      "live_confidence": "high",
+      "job_url": "https://ae.linkedin.com/jobs/view/manager-logistics-performance-at-talabat-4440740657",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "High competency in operational KPI and management reporting.",
+        "Advanced Excel/Power Query skills match the data-driven focus of this role.",
+        "Directly relevant to the ride-hailing/delivery logistics model."
+      ],
+      "gaps_risks": [
+        "Role requires heavy focus on commercial P&L and SQL; candidate should emphasize his trip/billing reconciliation and budgeting experience."
+      ],
+      "email_subject": "Logistics Performance Management Inquiry",
+      "email_pitch": "My 10-year background in fleet operations and financial reconciliation (billing/payroll/budgets) provides the commercial rigor needed for the Manager Logistics Performance role at talabat. I am proficient in the analytical tools needed to optimize operational KPIs.",
+      "linkedin_pitch": "Talabat's operational scale is impressive. With a solid foundation in fleet KPI reporting and P&L support, I believe my experience in Dubai's mobility sector would be a great asset to your logistics performance team.",
+      "fit_tier": "credible",
+      "scoring_mode": "ai",
+      "ranking_score": 78.4,
       "rank": 3
     }
   ]
