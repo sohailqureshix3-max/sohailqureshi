@@ -1,56 +1,57 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-08-27T00:00:00Z
+Generated: 2026-08-28T09:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 48  
+**Relevant candidates reviewed:** 49  
 **Credible jobs:** 3  
-**Strong matches:** 1  
-**Executive/progression matches:** 1  
+**Strong matches:** 3  
+**Executive/progression matches:** 3  
 **Auto-apply eligible:** 3  
 
-Candidate displays strong operational expertise in Dubai transport, fleet management, and platform ecosystems (Uber, Careem, etc.). Outreach focuses on high-growth mobility and last-mile roles where his hands-on operational leadership and fiscal responsibility in payroll/billing are core requirements. Roles with excessive requirements (25+ years exp) or unrelated industrial scope (marine/construction) were filtered out.
+Candidate displays exceptional technical alignment with mobility and fleet-platform operations (Uber/Careem/Yango, etc.). Prioritized roles that emphasize P&L, fleet management, and operational efficiency within the GCC.
 
-## 1. Transportation Supervisor — Keeta (85/100)
-**Career progression:** 70/100  
+## 1. Regional Manager, Fleet Strategy and Planning, MEA-TR, MEATR DSP — Amazon (92/100)
+**Career progression:** 95/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Kuwait City, Al Asimah, Kuwait  
-**Vacancy:** https://kw.linkedin.com/jobs/view/transportation-supervisor-at-keeta-4454489323  
+**Location:** Dubai, Dubai, United Arab Emirates  
+**Vacancy:** https://ae.linkedin.com/jobs/view/regional-manager-fleet-strategy-and-planning-mea-tr-meatr-dsp-at-amazon-4455786730  
 
 **Why it fits**
-- Direct experience managing fleet utilization and driver coordination aligns perfectly with Keeta's delivery model.
-- Candidate's history with ride-hailing and last-mile platforms makes him a strong cultural and technical fit.
-- Proven skills in KPI reporting and driver dispatching match the role's primary responsibilities.
+- Perfect alignment with candidate's 9 years of UAE transport experience and fleet management expertise.
+- Matches strength in KPI reporting, budget control, and stakeholder management.
+- Leverages expertise in fleet utilization and EV integration.
 
 **Gaps / risks**
-- Candidate is currently in Dubai; role is in Kuwait.
+- None; this role is a direct career advancement matching his operational skillset.
 
-## 2. Sr. Manager Logistics Operations — talabat (76/100)
-**Career progression:** 80/100  
+## 2. Sr. Manager Logistics Operations — talabat (88/100)
+**Career progression:** 85/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
 **Location:** Doha, Qatar  
 **Vacancy:** https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4457901860  
 
 **Why it fits**
-- The role demands experience with 3PL management, rider supply, and operational scaling, which directly parallels the candidate's portfolio.
-- Talabat's business model is a natural progression for a candidate with extensive ride-hailing and platform experience.
+- Strong fit for the logistics and ride-hailing/delivery ecosystem.
+- Candidate has extensive experience managing dispatch, payroll, and 3PL/fleet compliance.
+- Expertise in operational KPI management aligns perfectly with the requirement.
 
 **Gaps / risks**
-- Role requires regional mobility focus which may exceed current 10-year tenure breadth.
-- Candidate is currently based in Dubai, role is in Qatar.
+- Requires relocation to Qatar; candidate is currently based in Dubai.
 
-## 3. Logistics & Fleet Analyst — Seara International (78/100)
-**Career progression:** 65/100  
+## 3. Manager, Micro Mobility Operations — Red Sea Global (82/100)
+**Career progression:** 80/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Kuwait City, Al Asimah, Kuwait  
-**Vacancy:** https://kw.linkedin.com/jobs/view/logistics-fleet-analyst-at-seara-international-4446641377  
+**Location:** Umluj, Tabuk, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/manager-micro-mobility-operations-at-red-sea-global-4449512224  
 
 **Why it fits**
-- Direct alignment with technical requirements: Advanced Excel, billing reconciliation, and fleet management.
-- Matches candidate's documented strength in finance/HR coordination and KPI management.
+- Strong match for micro-mobility operations and asset readiness.
+- Strong experience in SOP development and fleet management.
+- Fits the candidate's background in ride-hailing/mobility platforms.
 
 **Gaps / risks**
-- Potential title downgrade relative to current senior operational roles.
+- Role location in Umluj is remote; requires willingness to relocate to a developing region.
