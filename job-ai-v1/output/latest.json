@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-29T10:00:00Z",
+  "generated_at": "2026-08-30",
   "summary": {
-    "notes": "Candidate displays strong operational, fleet management, and platform experience relevant to GCC mobility and logistics. High alignment found with roles requiring P&L oversight and fleet utilization expertise. Priority given to senior roles that match the candidate's 10-year tenure and leadership capacity.",
+    "notes": "Candidate displays strong operational expertise in ride-hailing and fleet management (9 years UAE experience). Focus is on roles aligned with fleet scaling, dispatch efficiency, and mobility operations.",
     "credible_jobs_found": 3,
-    "high_fit_count": 1,
+    "high_fit_count": 0,
     "watchlist_count": 0,
-    "executive_matches": 2,
-    "auto_apply_eligible": 3,
-    "discovery_candidates_reviewed": 44,
+    "executive_matches": 1,
+    "auto_apply_eligible": 2,
+    "discovery_candidates_reviewed": 46,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,83 +20,81 @@
   },
   "jobs": [
     {
-      "job_title": "General Manager – Land Transportation",
-      "company": "Confidential",
-      "location": "Najran, Saudi Arabia",
-      "fit_score": 82,
+      "job_title": "Senior Director: Mobility Planner",
+      "company": "Parsons Corporation",
+      "location": "Riyadh, Riyadh, Saudi Arabia",
+      "fit_score": 76,
       "career_progression_score": 90,
       "live_confidence": "medium",
-      "job_url": "https://sa.linkedin.com/jobs/view/general-manager-%E2%80%93-land-transportation-at-confidential-4458744538",
+      "job_url": "https://sa.linkedin.com/jobs/view/senior-director-mobility-planner-at-parsons-corporation-4454511141",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct alignment with land transport and fleet management operations.",
-        "Candidate's experience in scaling mobility platforms matches the requirement for business growth.",
-        "Matches 10 years experience requirement."
+        "Direct alignment with mobility network management, fleet telematics, and smart-city operations.",
+        "Candidate's experience with RTA/fleet-platform compliance is highly transferable to giga-project mobility frameworks."
       ],
       "gaps_risks": [
-        "Role location in Najran, Saudi Arabia requires relocation from Dubai."
+        "Requires 20+ years of experience; candidate has 10. Might be a stretch but aligns with operational skill set."
       ],
-      "email_subject": "Application: General Manager – Land Transportation",
-      "email_pitch": "As a Dubai-based operations leader with 10 years of experience managing fleet utilization and P&L for major mobility platforms like Uber, Careem, and Yango, I am eager to apply my expertise in scaling transport businesses to your growth mandate in Saudi Arabia.",
-      "linkedin_pitch": "Dear Hiring Manager, your search for a growth-oriented General Manager aligns perfectly with my background in scaling fleet operations and mobility platforms in the GCC. I have 10 years of experience in fleet management, P&L ownership, and RTA compliance. I would welcome the opportunity to discuss how my hands-on operational leadership can drive your expansion.",
-      "fit_tier": "strong",
+      "email_subject": "Senior Director Mobility Operations - Strategic Alignment",
+      "email_pitch": "With 9 years of direct experience managing high-growth mobility fleets in the UAE and expertise in RTA-standard operations, I am well-positioned to drive the mobility infrastructure and operational efficiency mandates for your KSA giga-project.",
+      "linkedin_pitch": "Having managed complex mobility fleets across 7+ platforms in the UAE, I offer a unique hands-on perspective on the operational and regulatory integration required for your giga-project mobility network.",
+      "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 83.6,
+      "ranking_score": 78.8,
       "rank": 1
     },
     {
-      "job_title": "Regional Manager, Fleet Strategy and Planning, MEA-TR, MEATR DSP",
-      "company": "Amazon",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "fit_score": 78,
-      "career_progression_score": 85,
+      "job_title": "Manager, Micro Mobility Operations",
+      "company": "Red Sea Global",
+      "location": "Umluj, Tabuk, Saudi Arabia",
+      "fit_score": 75,
+      "career_progression_score": 70,
       "live_confidence": "high",
-      "job_url": "https://ae.linkedin.com/jobs/view/regional-manager-fleet-strategy-and-planning-mea-tr-meatr-dsp-at-amazon-4455786730",
+      "job_url": "https://sa.linkedin.com/jobs/view/manager-micro-mobility-operations-at-red-sea-global-4449512224",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Strong focus on last-mile fleet strategy and partner management.",
-        "Direct overlap with candidate's expertise in vehicle utilization and maintenance tracking.",
-        "Ideal location match."
+        "Direct experience managing fleet utilization, SOP development, and driver scheduling.",
+        "Candidate's background in ride-hailing and multi-platform management matches the requirement for service continuity."
       ],
       "gaps_risks": [
-        "Role requires heavy emphasis on long-term capital forecasting which may be a step up from daily operations management."
+        "Moving from urban ride-hailing to destination-based micro-mobility."
       ],
-      "email_subject": "Application: Regional Manager, Fleet Strategy and Planning",
-      "email_pitch": "My 9-year track record in Dubai managing fleet platforms and RTA-compliant operations positions me well to support Amazon's MEATR fleet strategy, specifically in optimizing asset utilization and partner experience.",
-      "linkedin_pitch": "Your work with MEATR fleet optimization is impressive. Having managed diverse mobility fleets across Dubai for 9 years, I have deep experience in vehicle readiness, compliance, and KPI-driven management. I am very interested in bringing this operational rigor to your team.",
+      "email_subject": "Micro Mobility Operations - Operational Leadership",
+      "email_pitch": "I bring 10 years of intensive fleet and mobility operations experience, specifically managing driver dispatch and platform compliance, to support Red Sea Global's innovative transportation ecosystem.",
+      "linkedin_pitch": "Your work in micro-mobility at Red Sea Global aligns perfectly with my background in fleet optimization and dispatch management. I am eager to apply my experience in managing 40+ drivers to your destination projects.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 79.4,
+      "ranking_score": 74.0,
       "rank": 2
     },
     {
-      "job_title": "Transportation Manager",
-      "company": "Jadeer Logistics",
-      "location": "Dammam, Eastern, Saudi Arabia",
-      "fit_score": 76,
-      "career_progression_score": 70,
-      "live_confidence": "medium",
-      "job_url": "https://sa.linkedin.com/jobs/view/transportation-manager-at-jadeer-logistics-4453883801",
+      "job_title": "Transportation Supervisor",
+      "company": "Keeta",
+      "location": "Kuwait City, Al Asimah, Kuwait",
+      "fit_score": 72,
+      "career_progression_score": 60,
+      "live_confidence": "high",
+      "job_url": "https://kw.linkedin.com/jobs/view/transportation-supervisor-at-keeta-4454489323",
       "source": "LinkedIn",
       "industry_alignment": "clear",
-      "auto_apply_eligible": true,
+      "auto_apply_eligible": false,
       "why_fit": [
-        "Excellent match for day-to-day transportation operations and route optimization.",
-        "Candidate possesses strong SOP development and compliance skills required for the role."
+        "Direct overlap in fleet utilization, route optimization, and driver performance management.",
+        "Matches the scale of operations (fleet management/dispatch)."
       ],
       "gaps_risks": [
-        "Role is operational/tactical; candidate may be overqualified."
+        "This role may be lateral or slightly junior to current management capabilities."
       ],
-      "email_subject": "Application: Transportation Manager",
-      "email_pitch": "With 10 years of experience in fleet operations and logistics in the GCC, I have a proven ability to manage route optimization, fleet cost control, and regulatory compliance that would add immediate value to Jadeer Logistics.",
-      "linkedin_pitch": "Hi, I have spent the last 9 years in Dubai managing fleet operations and dispatch for various transport platforms. I am very familiar with the logistics requirements in the region and would love to discuss how my background in fleet efficiency and driver management fits your needs in Dammam.",
+      "email_subject": "Operations & Fleet Management - Candidate Interest",
+      "email_pitch": "With 9 years of UAE-based transport operations and deep platform management experience, I am ready to oversee Keeta’s fleet and delivery operations in Kuwait.",
+      "linkedin_pitch": "I have spent 9 years optimizing fleet performance for platforms like Uber and Careem. I am interested in applying this to Keeta's logistics and dark store replenishment in Kuwait.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 74.8,
+      "ranking_score": 69.6,
       "rank": 3
     }
   ]
