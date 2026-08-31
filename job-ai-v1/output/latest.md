@@ -1,54 +1,44 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-08-30
+Generated: 2026-08-31T12:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 46  
-**Credible jobs:** 3  
+**Relevant candidates reviewed:** 49  
+**Credible jobs:** 2  
 **Strong matches:** 0  
 **Executive/progression matches:** 1  
 **Auto-apply eligible:** 2  
 
-Candidate displays strong operational expertise in ride-hailing and fleet management (9 years UAE experience). Focus is on roles aligned with fleet scaling, dispatch efficiency, and mobility operations.
+Candidate displays strong operational, fleet management, and compliance expertise across major mobility platforms (Uber, Careem, etc.). Focus restricted to mobility, transport, and last-mile roles; filtered out construction, aviation, and hospitality-specific roles.
 
-## 1. Senior Director: Mobility Planner — Parsons Corporation (76/100)
-**Career progression:** 90/100  
+## 1. General Manager – Land Transportation — Confidential (78/100)
+**Career progression:** 85/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Riyadh, Riyadh, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/senior-director-mobility-planner-at-parsons-corporation-4454511141  
+**Location:** Najran, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/general-manager-%E2%80%93-land-transportation-at-confidential-4458744538  
 
 **Why it fits**
-- Direct alignment with mobility network management, fleet telematics, and smart-city operations.
-- Candidate's experience with RTA/fleet-platform compliance is highly transferable to giga-project mobility frameworks.
+- Direct match to fleet management, asset utilization, and P&L ownership requirements.
+- Matches scale of operations and leadership experience managing large workforces.
+- Candidate's background in mobility platforms provides the digital and efficiency expertise requested.
 
 **Gaps / risks**
-- Requires 20+ years of experience; candidate has 10. Might be a stretch but aligns with operational skill set.
+- Candidate has 10 years experience; role requests 12 years.
+- Relocation to Najran is required.
 
-## 2. Manager, Micro Mobility Operations — Red Sea Global (75/100)
+## 2. Sr. Manager Logistics Operations — talabat (76/100)
 **Career progression:** 70/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Umluj, Tabuk, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/manager-micro-mobility-operations-at-red-sea-global-4449512224  
+**Location:** Doha, Qatar  
+**Vacancy:** https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4457901860  
 
 **Why it fits**
-- Direct experience managing fleet utilization, SOP development, and driver scheduling.
-- Candidate's background in ride-hailing and multi-platform management matches the requirement for service continuity.
+- Direct experience with ride-hailing and logistics platforms (Uber, Careem, Yango, Bolt).
+- Strong focus on driver scheduling, dispatch, and operational KPI management.
+- Familiarity with fast-paced delivery environments.
 
 **Gaps / risks**
-- Moving from urban ride-hailing to destination-based micro-mobility.
-
-## 3. Transportation Supervisor — Keeta (72/100)
-**Career progression:** 60/100  
-**Auto-apply eligible:** False  
-**Scoring:** ai  
-**Location:** Kuwait City, Al Asimah, Kuwait  
-**Vacancy:** https://kw.linkedin.com/jobs/view/transportation-supervisor-at-keeta-4454489323  
-
-**Why it fits**
-- Direct overlap in fleet utilization, route optimization, and driver performance management.
-- Matches the scale of operations (fleet management/dispatch).
-
-**Gaps / risks**
-- This role may be lateral or slightly junior to current management capabilities.
+- Role focuses more on food-tech/last-mile than fleet leasing.
+- Requires relocation to Qatar.
