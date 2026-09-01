@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-31T12:00:00Z",
+  "generated_at": "2026-09-01T12:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational, fleet management, and compliance expertise across major mobility platforms (Uber, Careem, etc.). Focus restricted to mobility, transport, and last-mile roles; filtered out construction, aviation, and hospitality-specific roles.",
-    "credible_jobs_found": 2,
-    "high_fit_count": 0,
+    "notes": "Candidate displays strong operational expertise in ride-hailing and fleet management. Outreach focus is on roles directly leveraging his 9 years of UAE transport experience and platform management (Uber, Careem, etc.). Roles requiring specific aviation (GACA) or heavy-freight/construction industry backgrounds were excluded.",
+    "credible_jobs_found": 3,
+    "high_fit_count": 1,
     "watchlist_count": 0,
-    "executive_matches": 1,
-    "auto_apply_eligible": 2,
-    "discovery_candidates_reviewed": 49,
+    "executive_matches": 3,
+    "auto_apply_eligible": 3,
+    "discovery_candidates_reviewed": 43,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,60 +20,85 @@
   },
   "jobs": [
     {
-      "job_title": "General Manager – Land Transportation",
-      "company": "Confidential",
-      "location": "Najran, Saudi Arabia",
-      "fit_score": 78,
-      "career_progression_score": 85,
-      "live_confidence": "medium",
-      "job_url": "https://sa.linkedin.com/jobs/view/general-manager-%E2%80%93-land-transportation-at-confidential-4458744538",
+      "job_title": "Last Mile Operations Manager",
+      "company": "CargoX",
+      "location": "Abu Dhabi Emirate, United Arab Emirates",
+      "fit_score": 85,
+      "career_progression_score": 80,
+      "live_confidence": "high",
+      "job_url": "https://ae.linkedin.com/jobs/view/last-mile-operations-manager-at-cargox-4461250589",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct match to fleet management, asset utilization, and P&L ownership requirements.",
-        "Matches scale of operations and leadership experience managing large workforces.",
-        "Candidate's background in mobility platforms provides the digital and efficiency expertise requested."
+        "Direct alignment with 9 years of UAE transport/logistics experience.",
+        "Demonstrated expertise in platform-based fleet operations and process optimization.",
+        "Matches requirements for metric-driven operational management and SOP development."
       ],
       "gaps_risks": [
-        "Candidate has 10 years experience; role requests 12 years.",
-        "Relocation to Najran is required."
+        "Requires transition from ride-hailing to autonomous delivery technology."
       ],
-      "email_subject": "Strategic Operations Leadership - Muhammad Sohail Qureshi",
-      "email_pitch": "Dear Hiring Manager, I am writing to express my interest in the General Manager position for your land transportation division. With 10 years of intensive experience in UAE transport operations and managing a fleet of 30+ vehicles across platforms like Uber and Careem, I have developed the operational, financial, and compliance rigor needed to scale your transportation business. I am eager to apply my experience in fleet optimization and digital-first dispatch to drive your next stage of growth in Saudi Arabia.",
-      "linkedin_pitch": "I've been following your company's expansion in Saudi transport. Given my 10 years in GCC fleet and mobility operations—including managing multi-platform fleets and RTA compliance—I am confident I can contribute to your scale and modernization goals. I’d love to discuss how my hands-on approach to operational efficiency aligns with your growth mandate.",
-      "fit_tier": "credible",
+      "email_subject": "Operations Leadership: Scaling Last Mile Efficiency - Muhammad Qureshi",
+      "email_pitch": "Dear Hiring Manager, with 9 years of intensive UAE fleet management experience across 7 major mobility platforms, I have built a career on turning complex operational data into actionable efficiency. My background in fleet utilization, RTA compliance, and real-time dispatch management perfectly aligns with your need to standardize and scale early-stage autonomous delivery. I am eager to apply my hands-on approach to your fulfillment operations in Abu Dhabi.",
+      "linkedin_pitch": "I've spent 9 years optimizing some of the UAE’s most complex mobility platforms. Your focus on measurable, data-driven last-mile performance at CargoX resonates strongly with my experience in managing 40+ drivers and 30+ vehicles. Would love to discuss how I can help scale your autonomous fulfillment flow.",
+      "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 79.4,
+      "ranking_score": 84.0,
       "rank": 1
     },
     {
-      "job_title": "Sr. Manager Logistics Operations",
-      "company": "talabat",
-      "location": "Doha, Qatar",
-      "fit_score": 76,
-      "career_progression_score": 70,
+      "job_title": "Regional Manager, Fleet Strategy and Planning, MEA-TR, MEATR DSP",
+      "company": "Amazon",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "fit_score": 78,
+      "career_progression_score": 85,
       "live_confidence": "high",
-      "job_url": "https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4457901860",
+      "job_url": "https://ae.linkedin.com/jobs/view/regional-manager-fleet-strategy-and-planning-mea-tr-meatr-dsp-at-amazon-4455786730",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct experience with ride-hailing and logistics platforms (Uber, Careem, Yango, Bolt).",
-        "Strong focus on driver scheduling, dispatch, and operational KPI management.",
-        "Familiarity with fast-paced delivery environments."
+        "Strong alignment with fleet lifecycle management and demand forecasting.",
+        "Extensive experience with driver performance and vehicle utilization in GCC markets.",
+        "Matches need for data-driven optimization and process improvement."
       ],
       "gaps_risks": [
-        "Role focuses more on food-tech/last-mile than fleet leasing.",
-        "Requires relocation to Qatar."
+        "Scale of regional strategy role is a step up from current operational scope."
       ],
-      "email_subject": "Operations Leadership - Logistics & Last-Mile Expertise",
-      "email_pitch": "Dear Talent Acquisition Team, Having spent 9 years in Dubai’s competitive transport and mobility sector, I am highly interested in the Sr. Manager Logistics Operations role at Talabat. I have extensive experience in managing driver fleets, optimizing dispatch, and maintaining high compliance and service standards. My background with multiple ride-hailing and logistics platforms makes me uniquely suited to support your supply ecosystem growth in Qatar.",
-      "linkedin_pitch": "With 9 years of direct experience in the GCC mobility sector managing multi-platform fleets, I have developed a strong focus on dispatch efficiency and driver retention. I am very interested in the logistics operations landscape at Talabat and would love to connect to discuss how my background in fleet and operations aligns with your current team's needs.",
+      "email_subject": "Senior Fleet Operations Leadership Application - Muhammad Qureshi",
+      "email_pitch": "Dear Hiring Manager, leading fleet operations across the GCC’s most demanding platforms has provided me with a deep understanding of vehicle readiness, driver performance, and operational KPIs. My work with Uber, Careem, and other regional leaders has honed my ability to manage complex fleet ecosystems. I am keen to bring this expertise to Amazon’s MEATR fleet strategy team to drive operational excellence.",
+      "linkedin_pitch": "I’ve followed Amazon’s expansion in the MEATR region with great interest. With nearly a decade of hands-on fleet management in the UAE and experience across 7 mobility platforms, I’ve developed the operational rigor required for this regional role. I’d love to connect and discuss your vision for the fleet strategy team.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 74.8,
+      "ranking_score": 79.4,
       "rank": 2
+    },
+    {
+      "job_title": "Manager, Micro Mobility Operations",
+      "company": "Red Sea Global",
+      "location": "Umluj, Tabuk, Saudi Arabia",
+      "fit_score": 75,
+      "career_progression_score": 75,
+      "live_confidence": "medium",
+      "job_url": "https://sa.linkedin.com/jobs/view/manager-micro-mobility-operations-at-red-sea-global-4449512224",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Strong fit for micro-mobility and transport services leadership.",
+        "Requires exact operational mindset: 24/7 service, team leadership, and SOP management.",
+        "Candidate's experience in fleet readiness and training translates directly."
+      ],
+      "gaps_risks": [
+        "Requires willingness to relocate from Dubai to remote site in KSA."
+      ],
+      "email_subject": "Mobility Operations Leadership - Muhammad Qureshi",
+      "email_pitch": "Dear Hiring Team, having spent 9 years managing complex mobility fleets in the UAE, I am highly interested in your micro-mobility operations. My experience covers everything from driver dispatch and training to RTA compliance and budgetary control. I am confident that my operational expertise can contribute significantly to the sustainable mobility goals of the Red Sea destination.",
+      "linkedin_pitch": "Your work at Red Sea Global in redefining land transportation is impressive. With my 10-year background in managing diverse mobility fleets and platforms, I’m confident I can help scale your micro-mobility operations while maintaining the service excellence you demand.",
+      "fit_tier": "credible",
+      "scoring_mode": "ai",
+      "ranking_score": 75.0,
+      "rank": 3
     }
   ]
 }

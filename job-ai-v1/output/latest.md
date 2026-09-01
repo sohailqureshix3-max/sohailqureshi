@@ -1,44 +1,57 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-08-31T12:00:00Z
+Generated: 2026-09-01T12:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 49  
-**Credible jobs:** 2  
-**Strong matches:** 0  
-**Executive/progression matches:** 1  
-**Auto-apply eligible:** 2  
+**Relevant candidates reviewed:** 43  
+**Credible jobs:** 3  
+**Strong matches:** 1  
+**Executive/progression matches:** 3  
+**Auto-apply eligible:** 3  
 
-Candidate displays strong operational, fleet management, and compliance expertise across major mobility platforms (Uber, Careem, etc.). Focus restricted to mobility, transport, and last-mile roles; filtered out construction, aviation, and hospitality-specific roles.
+Candidate displays strong operational expertise in ride-hailing and fleet management. Outreach focus is on roles directly leveraging his 9 years of UAE transport experience and platform management (Uber, Careem, etc.). Roles requiring specific aviation (GACA) or heavy-freight/construction industry backgrounds were excluded.
 
-## 1. General Manager – Land Transportation — Confidential (78/100)
+## 1. Last Mile Operations Manager — CargoX (85/100)
+**Career progression:** 80/100  
+**Auto-apply eligible:** True  
+**Scoring:** ai  
+**Location:** Abu Dhabi Emirate, United Arab Emirates  
+**Vacancy:** https://ae.linkedin.com/jobs/view/last-mile-operations-manager-at-cargox-4461250589  
+
+**Why it fits**
+- Direct alignment with 9 years of UAE transport/logistics experience.
+- Demonstrated expertise in platform-based fleet operations and process optimization.
+- Matches requirements for metric-driven operational management and SOP development.
+
+**Gaps / risks**
+- Requires transition from ride-hailing to autonomous delivery technology.
+
+## 2. Regional Manager, Fleet Strategy and Planning, MEA-TR, MEATR DSP — Amazon (78/100)
 **Career progression:** 85/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Najran, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/general-manager-%E2%80%93-land-transportation-at-confidential-4458744538  
+**Location:** Dubai, Dubai, United Arab Emirates  
+**Vacancy:** https://ae.linkedin.com/jobs/view/regional-manager-fleet-strategy-and-planning-mea-tr-meatr-dsp-at-amazon-4455786730  
 
 **Why it fits**
-- Direct match to fleet management, asset utilization, and P&L ownership requirements.
-- Matches scale of operations and leadership experience managing large workforces.
-- Candidate's background in mobility platforms provides the digital and efficiency expertise requested.
+- Strong alignment with fleet lifecycle management and demand forecasting.
+- Extensive experience with driver performance and vehicle utilization in GCC markets.
+- Matches need for data-driven optimization and process improvement.
 
 **Gaps / risks**
-- Candidate has 10 years experience; role requests 12 years.
-- Relocation to Najran is required.
+- Scale of regional strategy role is a step up from current operational scope.
 
-## 2. Sr. Manager Logistics Operations — talabat (76/100)
-**Career progression:** 70/100  
+## 3. Manager, Micro Mobility Operations — Red Sea Global (75/100)
+**Career progression:** 75/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Doha, Qatar  
-**Vacancy:** https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4457901860  
+**Location:** Umluj, Tabuk, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/manager-micro-mobility-operations-at-red-sea-global-4449512224  
 
 **Why it fits**
-- Direct experience with ride-hailing and logistics platforms (Uber, Careem, Yango, Bolt).
-- Strong focus on driver scheduling, dispatch, and operational KPI management.
-- Familiarity with fast-paced delivery environments.
+- Strong fit for micro-mobility and transport services leadership.
+- Requires exact operational mindset: 24/7 service, team leadership, and SOP management.
+- Candidate's experience in fleet readiness and training translates directly.
 
 **Gaps / risks**
-- Role focuses more on food-tech/last-mile than fleet leasing.
-- Requires relocation to Qatar.
+- Requires willingness to relocate from Dubai to remote site in KSA.
