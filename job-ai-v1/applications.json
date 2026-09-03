@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T08:25:21.848270+00:00",
+  "updated_at": "2026-09-03T08:26:39.099390+00:00",
   "auto_apply_threshold": 75,
   "auto_apply_note": "Only AI-validated, industry-aligned jobs scoring 75+ enter Auto-Apply Queue. Fallback-scored jobs never auto-apply.",
   "applications": [
@@ -15,7 +15,7 @@
       "scoring_mode": "ai",
       "auto_apply_eligible": true,
       "last_seen_at": "2026-09-03T08:25:21.848270+00:00",
-      "status": "Auto-Apply Queue",
+      "status": "Needs Manual Submission",
       "applied_at": "",
       "application_method": "Manual job-board apply",
       "contact_email": "",
@@ -24,7 +24,7 @@
       "feedback_status": "No feedback",
       "feedback_summary": "",
       "last_message_id": "",
-      "notes": "AI-validated score 75+ and industry-aligned: queued for application.",
+      "notes": "This job board blocks unattended authenticated submissions.",
       "submission_url": "",
       "submission_source": "unresolved"
     },
