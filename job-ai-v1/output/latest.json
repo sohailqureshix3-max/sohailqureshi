@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-02",
+  "generated_at": "2026-09-03T11:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational expertise in mobility and fleet management within the UAE, aligning well with operational manager roles in high-growth, technology-driven logistics environments. Several positions were filtered due to industry misalignment (e.g., hospitality, construction, aviation-specific regulatory requirements).",
-    "credible_jobs_found": 3,
+    "notes": "Candidate displays strong operational, fleet management, and platform experience relevant to mobility and last-mile sectors in the GCC. High alignment with roles emphasizing driver management, SOPs, and RTA/platform compliance.",
+    "credible_jobs_found": 2,
     "high_fit_count": 1,
     "watchlist_count": 0,
-    "executive_matches": 3,
-    "auto_apply_eligible": 3,
+    "executive_matches": 2,
+    "auto_apply_eligible": 1,
     "discovery_candidates_reviewed": 50,
     "searched_markets": [
       "Saudi Arabia",
@@ -23,83 +23,56 @@
       "job_title": "Last Mile Operations Manager",
       "company": "CargoX",
       "location": "Abu Dhabi Emirate, United Arab Emirates",
-      "fit_score": 88,
-      "career_progression_score": 85,
+      "fit_score": 85,
+      "career_progression_score": 75,
       "live_confidence": "high",
       "job_url": "https://ae.linkedin.com/jobs/view/last-mile-operations-manager-at-cargox-4461250589",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct experience with platform-based fleet and driver management (Uber, Careem, etc.)",
-        "Strong track record in operational SOP development and performance optimization",
-        "Required technical proficiency in data analytics and process improvement"
+        "Directly mirrors candidate experience in fleet operations and platform management.",
+        "Requires hands-on experience with SOP development and driver team leadership.",
+        "Candidate's 9 years of UAE transport experience is a key asset for early-stage logistics."
       ],
       "gaps_risks": [
-        "Candidate will need to demonstrate transferability from traditional ride-hailing to autonomous delivery logistics"
+        "Role requires SQL/BI proficiency; need to highlight candidate's Power Query/Advanced Excel skills as transferrable data analysis."
       ],
-      "email_subject": "Operations Leadership: Expertise in Last-Mile & Fleet Optimization",
-      "email_pitch": "Dear Hiring Manager, I am a UAE-based operations leader with 9 years of experience managing mobility fleets and driver-partners across major platforms like Uber and Careem. I specialize in driving operational efficiency through data and SOPs, aligning perfectly with CargoX's mission to professionalize autonomous delivery. I am eager to apply my expertise in fleet utilization and real-time dispatch to your Abu Dhabi operations.",
-      "linkedin_pitch": "I have followed CargoX's progress in autonomous delivery and am impressed by your approach to operational rigor. With 9 years of mobility leadership experience in the UAE, I have managed 40 drivers and 30 vehicles with a focus on metrics-driven optimization. I am highly interested in the Last Mile Operations Manager role and believe my hands-on background with fleet compliance and dispatch would be a strong asset to your team.",
+      "email_subject": "Operations Leadership: Last Mile Efficiency - Muhammad Sohail Qureshi",
+      "email_pitch": "With 9 years of focused UAE transport and fleet operations experience, I have led teams across major mobility platforms including Uber and Careem. I am eager to apply my expertise in SOP development and fleet utilization to scale CargoX's autonomous delivery operations in the UAE.",
+      "linkedin_pitch": "I've been following your progress in autonomous last-mile delivery. With a decade in operations and 9 years specifically in UAE mobility/fleet management, I have deep experience in optimizing dispatch, driver training, and RTA compliance. Would love to discuss how I can help maintain your delivery standards.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 87.4,
+      "ranking_score": 83.0,
       "rank": 1
     },
     {
-      "job_title": "Manager, Micro Mobility Operations",
-      "company": "Red Sea Global",
-      "location": "Umluj, Tabuk, Saudi Arabia",
-      "fit_score": 78,
-      "career_progression_score": 80,
+      "job_title": "General Manager – Land Transportation",
+      "company": "Confidential",
+      "location": "Najran, Saudi Arabia",
+      "fit_score": 72,
+      "career_progression_score": 85,
       "live_confidence": "medium",
-      "job_url": "https://sa.linkedin.com/jobs/view/manager-micro-mobility-operations-at-red-sea-global-4449512224",
+      "job_url": "https://sa.linkedin.com/jobs/view/general-manager-%E2%80%93-land-transportation-at-confidential-4458744538",
       "source": "LinkedIn",
       "industry_alignment": "clear",
-      "auto_apply_eligible": true,
+      "auto_apply_eligible": false,
       "why_fit": [
-        "Strong focus on service delivery, asset utilization, and team leadership",
-        "Direct experience with micro-mobility platforms and operational scaling",
-        "Proven background in regulatory compliance and stakeholder engagement"
+        "Strong operational leadership background suitable for a growth-stage transportation company.",
+        "Direct experience managing fleets and drivers.",
+        "Alignment with P&L and cost-control responsibilities."
       ],
       "gaps_risks": [
-        "Requires relocation to Umluj, Saudi Arabia",
-        "Shift from urban ride-hailing to destination-based micro-mobility"
+        "Candidate has 10 years total experience; role requires 12 years minimum.",
+        "Requires a willingness to relocate to Najran, Saudi Arabia."
       ],
-      "email_subject": "Application for Manager, Micro Mobility Operations",
-      "email_pitch": "Dear Hiring Team, With 9 years of dedicated transport and fleet operations experience in the GCC, I am confident in my ability to manage the micro-mobility networks for Red Sea Global. My background includes end-to-end fleet oversight, dispatch management, and ensuring operational compliance. I am well-prepared to contribute to your sustainability and mobility objectives.",
-      "linkedin_pitch": "I am interested in your Manager, Micro Mobility Operations role at Red Sea Global. Having managed diverse fleets and mobility platforms for 9 years in the GCC, I have strong experience in asset utilization and operational SOPs. I would love to discuss how my background in driver-partner and fleet management can support your destinations.",
+      "email_subject": "Operations Leadership Candidate: Land Transportation General Manager",
+      "email_pitch": "Having managed fleet operations and 40+ drivers across multiple mobility platforms for nearly a decade in the UAE, I am highly interested in the GM role in Najran. My expertise in fleet utilization, RTA compliance, and budgeting positions me well to support your growth strategy.",
+      "linkedin_pitch": "I am interested in your GM search for the Land Transportation business. With 10 years of operations leadership in the GCC mobility sector, I have a track record of driving fleet performance and operational efficiency. I would welcome a conversation regarding the strategic goals for your expansion.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 78.4,
+      "ranking_score": 74.6,
       "rank": 2
-    },
-    {
-      "job_title": "Regional Manager, Fleet Strategy and Planning, MEA-TR, MEATR DSP",
-      "company": "Amazon",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "fit_score": 76,
-      "career_progression_score": 82,
-      "live_confidence": "high",
-      "job_url": "https://ae.linkedin.com/jobs/view/regional-manager-fleet-strategy-and-planning-mea-tr-meatr-dsp-at-amazon-4455786730",
-      "source": "LinkedIn",
-      "industry_alignment": "clear",
-      "auto_apply_eligible": true,
-      "why_fit": [
-        "Strong alignment with last-mile delivery and fleet strategy",
-        "Extensive experience with operational KPIs and data-driven management",
-        "Deep understanding of GCC fleet and transport ecosystems"
-      ],
-      "gaps_risks": [
-        "Scope of regional strategic planning is more senior than current hands-on operational role"
-      ],
-      "email_subject": "Application: Regional Manager, Fleet Strategy & Planning",
-      "email_pitch": "Dear Amazon Talent Acquisition, As a Dubai-based operations expert with a 10-year track record in mobility, I have built my career on optimizing fleet performance, cost control, and partner compliance. I am highly motivated by Amazon's scale and am well-versed in the logistical complexities of the MEATR region. My analytical background in Excel and Power Query matches your requirement for data-driven strategic planning.",
-      "linkedin_pitch": "I am interested in the Regional Manager role for MEATR Fleet. With a decade of experience in GCC transport and mobility operations, I possess a strong foundation in fleet utilization, KPIs, and stakeholder coordination. I believe my hands-on operational knowledge would be a major asset to the Amazon last-mile strategy team.",
-      "fit_tier": "credible",
-      "scoring_mode": "ai",
-      "ranking_score": 77.2,
-      "rank": 3
     }
   ]
 }
