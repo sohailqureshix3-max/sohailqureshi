@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T11:00:00Z",
+  "generated_at": "2026-09-04T12:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational, fleet management, and platform experience relevant to mobility and last-mile sectors in the GCC. High alignment with roles emphasizing driver management, SOPs, and RTA/platform compliance.",
+    "notes": "Focused on high-fit mobility and fleet management roles across the GCC, prioritizing candidates with extensive platform experience and RTA/GCC compliance expertise.",
     "credible_jobs_found": 2,
     "high_fit_count": 1,
     "watchlist_count": 0,
-    "executive_matches": 2,
-    "auto_apply_eligible": 1,
+    "executive_matches": 1,
+    "auto_apply_eligible": 2,
     "discovery_candidates_reviewed": 50,
     "searched_markets": [
       "Saudi Arabia",
@@ -20,58 +20,57 @@
   },
   "jobs": [
     {
+      "job_title": "General Manager – Land Transportation",
+      "company": "Confidential",
+      "location": "Najran, Saudi Arabia",
+      "fit_score": 82,
+      "career_progression_score": 85,
+      "live_confidence": "medium",
+      "job_url": "https://sa.linkedin.com/jobs/view/general-manager-%E2%80%93-land-transportation-at-confidential-4458744538",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Candidate has 10 years of operations leadership in transport.",
+        "Management of 40 drivers and 30 vehicles directly translates to the scale expected for this role.",
+        "Deep familiarity with major regional platforms (Uber, Careem, Yango) provides a significant competitive edge for land transport operations."
+      ],
+      "gaps_risks": [
+        "Transitioning from operational fleet management to a broader GM remit requires demonstrating budget and P&L oversight, which are present in the candidate's strengths."
+      ],
+      "email_subject": "Operations Leadership: Land Transportation GM",
+      "email_pitch": "Dear Hiring Team, With 10 years of expertise in GCC fleet and mobility operations—including managing 40+ drivers and large-scale vehicle fleets—I am uniquely positioned to lead your land transportation division. My background in platform compliance, cost control, and RTA standards directly aligns with the operational excellence required for this GM mandate.",
+      "linkedin_pitch": "I've been managing fleet operations for 9 years in Dubai across top-tier platforms like Uber and Careem. I am interested in your GM - Land Transportation role to bring my experience in driver dispatch, RTA compliance, and cost optimization to your team in Saudi Arabia.",
+      "fit_tier": "strong",
+      "scoring_mode": "ai",
+      "ranking_score": 82.6,
+      "rank": 1
+    },
+    {
       "job_title": "Last Mile Operations Manager",
       "company": "CargoX",
       "location": "Abu Dhabi Emirate, United Arab Emirates",
-      "fit_score": 85,
-      "career_progression_score": 75,
+      "fit_score": 78,
+      "career_progression_score": 70,
       "live_confidence": "high",
       "job_url": "https://ae.linkedin.com/jobs/view/last-mile-operations-manager-at-cargox-4461250589",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Directly mirrors candidate experience in fleet operations and platform management.",
-        "Requires hands-on experience with SOP development and driver team leadership.",
-        "Candidate's 9 years of UAE transport experience is a key asset for early-stage logistics."
+        "Direct experience with fleet operations, scheduling, and driver training.",
+        "Proven ability to manage billing, payroll, and KPIs.",
+        "Strong familiarity with high-frequency dispatch environments via ride-hailing/delivery platform expertise."
       ],
       "gaps_risks": [
-        "Role requires SQL/BI proficiency; need to highlight candidate's Power Query/Advanced Excel skills as transferrable data analysis."
+        "Moving from passenger transport to pure last-mile goods delivery; however, operational principles and dispatch efficiency remain constant."
       ],
-      "email_subject": "Operations Leadership: Last Mile Efficiency - Muhammad Sohail Qureshi",
-      "email_pitch": "With 9 years of focused UAE transport and fleet operations experience, I have led teams across major mobility platforms including Uber and Careem. I am eager to apply my expertise in SOP development and fleet utilization to scale CargoX's autonomous delivery operations in the UAE.",
-      "linkedin_pitch": "I've been following your progress in autonomous last-mile delivery. With a decade in operations and 9 years specifically in UAE mobility/fleet management, I have deep experience in optimizing dispatch, driver training, and RTA compliance. Would love to discuss how I can help maintain your delivery standards.",
-      "fit_tier": "strong",
-      "scoring_mode": "ai",
-      "ranking_score": 83.0,
-      "rank": 1
-    },
-    {
-      "job_title": "General Manager – Land Transportation",
-      "company": "Confidential",
-      "location": "Najran, Saudi Arabia",
-      "fit_score": 72,
-      "career_progression_score": 85,
-      "live_confidence": "medium",
-      "job_url": "https://sa.linkedin.com/jobs/view/general-manager-%E2%80%93-land-transportation-at-confidential-4458744538",
-      "source": "LinkedIn",
-      "industry_alignment": "clear",
-      "auto_apply_eligible": false,
-      "why_fit": [
-        "Strong operational leadership background suitable for a growth-stage transportation company.",
-        "Direct experience managing fleets and drivers.",
-        "Alignment with P&L and cost-control responsibilities."
-      ],
-      "gaps_risks": [
-        "Candidate has 10 years total experience; role requires 12 years minimum.",
-        "Requires a willingness to relocate to Najran, Saudi Arabia."
-      ],
-      "email_subject": "Operations Leadership Candidate: Land Transportation General Manager",
-      "email_pitch": "Having managed fleet operations and 40+ drivers across multiple mobility platforms for nearly a decade in the UAE, I am highly interested in the GM role in Najran. My expertise in fleet utilization, RTA compliance, and budgeting positions me well to support your growth strategy.",
-      "linkedin_pitch": "I am interested in your GM search for the Land Transportation business. With 10 years of operations leadership in the GCC mobility sector, I have a track record of driving fleet performance and operational efficiency. I would welcome a conversation regarding the strategic goals for your expansion.",
+      "email_subject": "Application for Last Mile Operations Manager - Muhammad Sohail Ayub Qureshi",
+      "email_pitch": "With nearly a decade of experience in Dubai's high-pressure transport sector, I have honed the ability to manage complex driver fleets and optimize utilization. My expertise in SOP development and platform integration would ensure immediate operational efficiency for CargoX's last-mile logistics.",
+      "linkedin_pitch": "I have spent 9 years leading transport operations in Dubai and am very interested in the Last Mile Operations Manager role at CargoX. My background in fleet management and driver dispatch aligns well with the demands of this position.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 74.6,
+      "ranking_score": 76.4,
       "rank": 2
     }
   ]
