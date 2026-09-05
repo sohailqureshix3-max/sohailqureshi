@@ -1,42 +1,57 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-09-04T12:00:00Z
+Generated: 2026-09-05T09:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 50  
-**Credible jobs:** 2  
-**Strong matches:** 1  
+**Relevant candidates reviewed:** 46  
+**Credible jobs:** 3  
+**Strong matches:** 2  
 **Executive/progression matches:** 1  
-**Auto-apply eligible:** 2  
+**Auto-apply eligible:** 3  
 
-Focused on high-fit mobility and fleet management roles across the GCC, prioritizing candidates with extensive platform experience and RTA/GCC compliance expertise.
+Candidate displays strong operational expertise in Dubai transport and ride-hailing/fleet platforms. Priority is given to roles matching fleet scale (30-40+ vehicles) and management experience (9-10 years). Candidates with direct mobility/fleet management in GCC were ranked highest.
 
-## 1. General Manager – Land Transportation — Confidential (82/100)
-**Career progression:** 85/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Najran, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/general-manager-%E2%80%93-land-transportation-at-confidential-4458744538  
-
-**Why it fits**
-- Candidate has 10 years of operations leadership in transport.
-- Management of 40 drivers and 30 vehicles directly translates to the scale expected for this role.
-- Deep familiarity with major regional platforms (Uber, Careem, Yango) provides a significant competitive edge for land transport operations.
-
-**Gaps / risks**
-- Transitioning from operational fleet management to a broader GM remit requires demonstrating budget and P&L oversight, which are present in the candidate's strengths.
-
-## 2. Last Mile Operations Manager — CargoX (78/100)
-**Career progression:** 70/100  
+## 1. Last Mile Operations Manager — CargoX (85/100)
+**Career progression:** 75/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
 **Location:** Abu Dhabi Emirate, United Arab Emirates  
 **Vacancy:** https://ae.linkedin.com/jobs/view/last-mile-operations-manager-at-cargox-4461250589  
 
 **Why it fits**
-- Direct experience with fleet operations, scheduling, and driver training.
-- Proven ability to manage billing, payroll, and KPIs.
-- Strong familiarity with high-frequency dispatch environments via ride-hailing/delivery platform expertise.
+- Direct experience with fleet operations and ride-hailing platforms.
+- Candidate has 9 years of Dubai transport experience, aligning with the regional requirement.
+- Matches requirements for SOP development and KPI-driven management.
 
 **Gaps / risks**
-- Moving from passenger transport to pure last-mile goods delivery; however, operational principles and dispatch efficiency remain constant.
+- Small team size (2-3) compared to candidate's management experience.
+
+## 2. Service Delivery Lead (Fleet) - Dubai — Averda (82/100)
+**Career progression:** 70/100  
+**Auto-apply eligible:** True  
+**Scoring:** ai  
+**Location:** Dubai, United Arab Emirates  
+**Vacancy:** https://ae.linkedin.com/jobs/view/service-delivery-lead-fleet-dubai-at-averda-4459210464  
+
+**Why it fits**
+- Direct fit for fleet deployment, route planning, and fleet utilization.
+- Candidate has extensive experience with RTA compliance and driver scheduling.
+- Experience in payroll and operational reporting aligns perfectly with role requirements.
+
+**Gaps / risks**
+- Experience is focused on passenger/ride-hailing rather than heavy commercial waste management.
+
+## 3. Assistant Manager Logistics Operations — talabat (78/100)
+**Career progression:** 70/100  
+**Auto-apply eligible:** True  
+**Scoring:** ai  
+**Location:** Dubai, Dubai, United Arab Emirates  
+**Vacancy:** https://ae.linkedin.com/jobs/view/assistant-manager-logistics-operations-at-talabat-4454252246  
+
+**Why it fits**
+- Strong alignment with ride-hailing/delivery platform culture.
+- Matches the requirement for EV fleet management and operational efficiency.
+- Direct overlap with candidate's strengths in process improvement and SOP development.
+
+**Gaps / risks**
+- Role level (Assistant Manager) is lateral to candidate's seniority.

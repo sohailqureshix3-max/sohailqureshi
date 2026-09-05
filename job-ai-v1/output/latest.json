@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-04T12:00:00Z",
+  "generated_at": "2026-09-05T09:00:00Z",
   "summary": {
-    "notes": "Focused on high-fit mobility and fleet management roles across the GCC, prioritizing candidates with extensive platform experience and RTA/GCC compliance expertise.",
-    "credible_jobs_found": 2,
-    "high_fit_count": 1,
+    "notes": "Candidate displays strong operational expertise in Dubai transport and ride-hailing/fleet platforms. Priority is given to roles matching fleet scale (30-40+ vehicles) and management experience (9-10 years). Candidates with direct mobility/fleet management in GCC were ranked highest.",
+    "credible_jobs_found": 3,
+    "high_fit_count": 2,
     "watchlist_count": 0,
     "executive_matches": 1,
-    "auto_apply_eligible": 2,
-    "discovery_candidates_reviewed": 50,
+    "auto_apply_eligible": 3,
+    "discovery_candidates_reviewed": 46,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,58 +20,85 @@
   },
   "jobs": [
     {
-      "job_title": "General Manager – Land Transportation",
-      "company": "Confidential",
-      "location": "Najran, Saudi Arabia",
-      "fit_score": 82,
-      "career_progression_score": 85,
-      "live_confidence": "medium",
-      "job_url": "https://sa.linkedin.com/jobs/view/general-manager-%E2%80%93-land-transportation-at-confidential-4458744538",
-      "source": "LinkedIn",
-      "industry_alignment": "clear",
-      "auto_apply_eligible": true,
-      "why_fit": [
-        "Candidate has 10 years of operations leadership in transport.",
-        "Management of 40 drivers and 30 vehicles directly translates to the scale expected for this role.",
-        "Deep familiarity with major regional platforms (Uber, Careem, Yango) provides a significant competitive edge for land transport operations."
-      ],
-      "gaps_risks": [
-        "Transitioning from operational fleet management to a broader GM remit requires demonstrating budget and P&L oversight, which are present in the candidate's strengths."
-      ],
-      "email_subject": "Operations Leadership: Land Transportation GM",
-      "email_pitch": "Dear Hiring Team, With 10 years of expertise in GCC fleet and mobility operations—including managing 40+ drivers and large-scale vehicle fleets—I am uniquely positioned to lead your land transportation division. My background in platform compliance, cost control, and RTA standards directly aligns with the operational excellence required for this GM mandate.",
-      "linkedin_pitch": "I've been managing fleet operations for 9 years in Dubai across top-tier platforms like Uber and Careem. I am interested in your GM - Land Transportation role to bring my experience in driver dispatch, RTA compliance, and cost optimization to your team in Saudi Arabia.",
-      "fit_tier": "strong",
-      "scoring_mode": "ai",
-      "ranking_score": 82.6,
-      "rank": 1
-    },
-    {
       "job_title": "Last Mile Operations Manager",
       "company": "CargoX",
       "location": "Abu Dhabi Emirate, United Arab Emirates",
-      "fit_score": 78,
-      "career_progression_score": 70,
+      "fit_score": 85,
+      "career_progression_score": 75,
       "live_confidence": "high",
       "job_url": "https://ae.linkedin.com/jobs/view/last-mile-operations-manager-at-cargox-4461250589",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct experience with fleet operations, scheduling, and driver training.",
-        "Proven ability to manage billing, payroll, and KPIs.",
-        "Strong familiarity with high-frequency dispatch environments via ride-hailing/delivery platform expertise."
+        "Direct experience with fleet operations and ride-hailing platforms.",
+        "Candidate has 9 years of Dubai transport experience, aligning with the regional requirement.",
+        "Matches requirements for SOP development and KPI-driven management."
       ],
       "gaps_risks": [
-        "Moving from passenger transport to pure last-mile goods delivery; however, operational principles and dispatch efficiency remain constant."
+        "Small team size (2-3) compared to candidate's management experience."
       ],
-      "email_subject": "Application for Last Mile Operations Manager - Muhammad Sohail Ayub Qureshi",
-      "email_pitch": "With nearly a decade of experience in Dubai's high-pressure transport sector, I have honed the ability to manage complex driver fleets and optimize utilization. My expertise in SOP development and platform integration would ensure immediate operational efficiency for CargoX's last-mile logistics.",
-      "linkedin_pitch": "I have spent 9 years leading transport operations in Dubai and am very interested in the Last Mile Operations Manager role at CargoX. My background in fleet management and driver dispatch aligns well with the demands of this position.",
+      "email_subject": "Operations Leadership: Experienced Fleet & Mobility Professional",
+      "email_pitch": "Dear Hiring Team, having spent the last 9 years scaling fleet and operations across major platforms like Uber and Careem in the UAE, I am eager to apply my expertise in SOP development and fleet utilization to CargoX’s autonomous delivery operations.",
+      "linkedin_pitch": "Your work at CargoX in autonomous delivery caught my attention. With 9 years of experience managing diverse fleets in Dubai and a strong background in platform-based operations, I am confident I can drive the operational efficiencies you are looking for.",
+      "fit_tier": "strong",
+      "scoring_mode": "ai",
+      "ranking_score": 83.0,
+      "rank": 1
+    },
+    {
+      "job_title": "Service Delivery Lead (Fleet) - Dubai",
+      "company": "Averda",
+      "location": "Dubai, United Arab Emirates",
+      "fit_score": 82,
+      "career_progression_score": 70,
+      "live_confidence": "high",
+      "job_url": "https://ae.linkedin.com/jobs/view/service-delivery-lead-fleet-dubai-at-averda-4459210464",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Direct fit for fleet deployment, route planning, and fleet utilization.",
+        "Candidate has extensive experience with RTA compliance and driver scheduling.",
+        "Experience in payroll and operational reporting aligns perfectly with role requirements."
+      ],
+      "gaps_risks": [
+        "Experience is focused on passenger/ride-hailing rather than heavy commercial waste management."
+      ],
+      "email_subject": "Fleet & Service Delivery Leadership Application",
+      "email_pitch": "Dear Hiring Team, with a decade of fleet management experience in Dubai, including RTA regulatory compliance and operational KPI management, I am well-positioned to lead the Service Delivery team at Averda.",
+      "linkedin_pitch": "I am interested in your Service Delivery Lead role. My 9 years of operational leadership in the Dubai transport sector, specifically in fleet management and RTA compliance, aligns well with the requirements for this position.",
+      "fit_tier": "strong",
+      "scoring_mode": "ai",
+      "ranking_score": 79.6,
+      "rank": 2
+    },
+    {
+      "job_title": "Assistant Manager Logistics Operations",
+      "company": "talabat",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "fit_score": 78,
+      "career_progression_score": 70,
+      "live_confidence": "high",
+      "job_url": "https://ae.linkedin.com/jobs/view/assistant-manager-logistics-operations-at-talabat-4454252246",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Strong alignment with ride-hailing/delivery platform culture.",
+        "Matches the requirement for EV fleet management and operational efficiency.",
+        "Direct overlap with candidate's strengths in process improvement and SOP development."
+      ],
+      "gaps_risks": [
+        "Role level (Assistant Manager) is lateral to candidate's seniority."
+      ],
+      "email_subject": "Logistics Operations Leadership - Operations Specialist",
+      "email_pitch": "Dear Hiring Team, my background in managing mobility fleets across platforms like Uber and Careem in the UAE provides me with the hands-on experience to drive operational compliance and efficiency for your tMart and EV operations.",
+      "linkedin_pitch": "With 10 years of experience in mobility operations and fleet management, I have a strong interest in the Logistics Operations role at talabat. I look forward to discussing how my background in driver/fleet optimization can add value.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
       "ranking_score": 76.4,
-      "rank": 2
+      "rank": 3
     }
   ]
 }
