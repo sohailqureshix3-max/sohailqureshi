@@ -1,17 +1,17 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-09-06T10:00:00Z
+Generated: 2026-09-07T12:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 45  
-**Credible jobs:** 3  
+**Relevant candidates reviewed:** 49  
+**Credible jobs:** 2  
 **Strong matches:** 2  
 **Executive/progression matches:** 2  
-**Auto-apply eligible:** 3  
+**Auto-apply eligible:** 2  
 
-Candidate displays strong operational experience in mobility and ride-hailing (Uber, Careem, Yango, etc.). Profiles focusing on fleet management, last-mile logistics, and transport operations were prioritized. Construction and site-based logistics roles (e.g., Red Sea Global, Parsons) were de-prioritized or excluded due to industry mismatch.
+Candidate displays strong operational expertise in Dubai fleet management, RTA compliance, and multi-platform logistics. Highest scoring opportunities identified in UAE-based mobility and logistics operations where his 9-year local experience and platform knowledge offer immediate value.
 
-## 1. Last Mile Operations Manager — CargoX (85/100)
+## 1. Last Mile Operations Manager — CargoX (88/100)
 **Career progression:** 80/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
@@ -19,39 +19,24 @@ Candidate displays strong operational experience in mobility and ride-hailing (U
 **Vacancy:** https://ae.linkedin.com/jobs/view/last-mile-operations-manager-at-cargox-4461250589  
 
 **Why it fits**
-- Direct experience with fleet operations and dispatch
-- Strong alignment with ride-hailing and last-mile logistics background
-- Required technical proficiency in Excel/BI matches candidate strengths
+- Direct experience with fleet operations and ride-hailing/logistics platforms.
+- Matches requirements for SOP development, metrics, and KPI management.
+- Candidate possesses the requested hands-on experience in UAE logistics operations.
 
 **Gaps / risks**
-- Requires transition from ride-hailing to autonomous delivery metrics
+- Role focuses on autonomous vehicles which may be a slight shift from standard human-driven fleet models.
 
-## 2. Service Delivery Lead (Fleet) - Dubai — Averda (82/100)
-**Career progression:** 70/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Dubai, United Arab Emirates  
-**Vacancy:** https://ae.linkedin.com/jobs/view/service-delivery-lead-fleet-dubai-at-averda-4459210464  
-
-**Why it fits**
-- Matches 9 years of transport experience
-- Deep expertise in vehicle routing, fleet scheduling, and GPS tracking
-- Strong competency in managing driver incentives and performance metrics
-
-**Gaps / risks**
-- Role focuses on waste management; candidate's experience is primarily in ride-hailing
-
-## 3. Assistant Manager Logistics Operations — talabat (78/100)
+## 2. Operations Manager – Long-Term Rentals — Udrive (85/100)
 **Career progression:** 75/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
 **Location:** Dubai, Dubai, United Arab Emirates  
-**Vacancy:** https://ae.linkedin.com/jobs/view/assistant-manager-logistics-operations-at-talabat-4454252246  
+**Vacancy:** https://ae.linkedin.com/jobs/view/operations-manager-%E2%80%93-long-term-rentals-at-udrive-4463360917  
 
 **Why it fits**
-- Experience in ride-hailing directly translates to talabat's fleet requirements
-- Strong familiarity with EV fleet and last-mile operations
-- Proven history of managing on-ground teams
+- Direct industry alignment with mobility, car rental, and fleet management.
+- Experience in managing budgets, costs, and cross-functional teams.
+- UAE-based candidate with deep local market operational knowledge.
 
 **Gaps / risks**
-- Could be seen as a lateral move depending on internal title expectations
+- The role demands experience across Sales and Finance functions which requires highlighting the candidate's existing Finance/HR coordination background.
