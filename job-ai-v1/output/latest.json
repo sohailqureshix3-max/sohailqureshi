@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-07T12:00:00Z",
+  "generated_at": "2026-09-08T10:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational expertise in Dubai fleet management, RTA compliance, and multi-platform logistics. Highest scoring opportunities identified in UAE-based mobility and logistics operations where his 9-year local experience and platform knowledge offer immediate value.",
-    "credible_jobs_found": 2,
+    "notes": "Candidate displays strong operational expertise in mobility and fleet management within the UAE. Priority roles were identified in last-mile, ride-hailing, and vehicle distribution sectors. Roles in heavy construction, marine, or senior government infrastructure were excluded.",
+    "credible_jobs_found": 3,
     "high_fit_count": 2,
     "watchlist_count": 0,
     "executive_matches": 2,
-    "auto_apply_eligible": 2,
-    "discovery_candidates_reviewed": 49,
+    "auto_apply_eligible": 3,
+    "discovery_candidates_reviewed": 42,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -23,55 +23,83 @@
       "job_title": "Last Mile Operations Manager",
       "company": "CargoX",
       "location": "Abu Dhabi Emirate, United Arab Emirates",
-      "fit_score": 88,
-      "career_progression_score": 80,
+      "fit_score": 85,
+      "career_progression_score": 75,
       "live_confidence": "high",
       "job_url": "https://ae.linkedin.com/jobs/view/last-mile-operations-manager-at-cargox-4461250589",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct experience with fleet operations and ride-hailing/logistics platforms.",
-        "Matches requirements for SOP development, metrics, and KPI management.",
-        "Candidate possesses the requested hands-on experience in UAE logistics operations."
+        "9 years of direct experience in Dubai transport and fleet operations matches the core requirement.",
+        "Proven experience with Uber, Careem, and Yango demonstrates agility in on-demand platform logistics.",
+        "Candidate manages 40 drivers and 30 vehicles, aligning with the expected team and fleet scale."
       ],
       "gaps_risks": [
-        "Role focuses on autonomous vehicles which may be a slight shift from standard human-driven fleet models."
+        "Transitioning from traditional ride-hailing to autonomous delivery vehicles represents a minor technological learning curve."
       ],
-      "email_subject": "Operations Leadership: Expertise in Last-Mile & Fleet Performance",
-      "email_pitch": "Dear Hiring Team at CargoX, With 9 years of direct fleet and mobility operations experience in the UAE, I have successfully managed 40 drivers and 30 vehicles across major platforms like Uber and Careem. My expertise in building SOPs, optimizing delivery KPIs, and maintaining rigid RTA/platform compliance makes me an ideal fit for your Last Mile Operations Manager role. I am highly proficient in data-driven process improvement and ready to drive your fulfilment performance.",
-      "linkedin_pitch": "Hi CargoX team, I am an operations leader with 9 years of UAE-specific mobility and fleet management experience. Given my background in scaling fleet utilization and platform compliance, I am confident in my ability to manage the fulfillment flows and metrics for your autonomous delivery operations. Would appreciate the chance to discuss this role.",
+      "email_subject": "Operations Leadership: Leveraging 9 years of UAE Mobility expertise for CargoX",
+      "email_pitch": "Dear Hiring Team, having led fleet and dispatch operations across major platforms like Uber and Careem for over 9 years, I am highly interested in the Last Mile Operations Manager role. My expertise in optimizing fleet utilization and maintaining rigorous SOPs aligns directly with your mission to build measurable, high-performance delivery operations.",
+      "linkedin_pitch": "I have followed CargoX's work in autonomous delivery with great interest. With 9 years of hands-on fleet and platform operations experience in the UAE, I am eager to apply my background in driver dispatch and KPI management to your fulfillment team. Let's connect.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 86.4,
+      "ranking_score": 83.0,
       "rank": 1
     },
     {
       "job_title": "Operations Manager – Long-Term Rentals",
       "company": "Udrive",
       "location": "Dubai, Dubai, United Arab Emirates",
-      "fit_score": 85,
-      "career_progression_score": 75,
+      "fit_score": 82,
+      "career_progression_score": 70,
       "live_confidence": "high",
       "job_url": "https://ae.linkedin.com/jobs/view/operations-manager-%E2%80%93-long-term-rentals-at-udrive-4463360917",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct industry alignment with mobility, car rental, and fleet management.",
-        "Experience in managing budgets, costs, and cross-functional teams.",
-        "UAE-based candidate with deep local market operational knowledge."
+        "Strong industry match: 10 years experience in mobility and fleet management.",
+        "Experience in trip/billing reconciliation and payroll directly supports LTR operational management.",
+        "Local Dubai market expertise ensures immediate contribution to Udrive's operations."
       ],
       "gaps_risks": [
-        "The role demands experience across Sales and Finance functions which requires highlighting the candidate's existing Finance/HR coordination background."
+        "Scope of managing cross-functional sales and finance teams is a step up from previous pure fleet management roles."
       ],
-      "email_subject": "Operations Manager Application - Mobility & Fleet Expert",
-      "email_pitch": "Dear Hiring Manager, I am a UAE-based operations professional with 10 years of industry experience, specializing in fleet utilization and platform management. My track record in managing teams, budgeting, and optimizing operational workflows aligns perfectly with the requirements for the Operations Manager (Long-Term Rentals) role at Udrive. I bring extensive experience in financial coordination and process control to support your continued growth.",
-      "linkedin_pitch": "Hi Udrive team, I am a mobility operations leader with 9 years of experience managing fleets in the UAE. I have read about your expansion in the Long-Term Rentals space and believe my background in fleet utilization, KPI reporting, and operational efficiency would be a strong asset to your team. I’d love to connect and discuss how I can contribute to your business goals.",
+      "email_subject": "Operations Manager, LTR - Muhammad Qureshi",
+      "email_pitch": "Dear Hiring Manager, with a decade of fleet management experience in the UAE and a proven track record managing mobility platforms including Wheely and Careem, I am confident in my ability to drive Udrive's Long-Term Rentals operational performance. I bring a strong background in P&L, KPI reporting, and team management to support your business objectives.",
+      "linkedin_pitch": "As an experienced operations leader in the UAE mobility sector, I am very impressed with Udrive's approach to the rental market. Given my background in managing fleet utilization and operational reporting, I would welcome the opportunity to discuss how I can contribute to the LTR team.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 83.0,
+      "ranking_score": 79.6,
       "rank": 2
+    },
+    {
+      "job_title": "Operations Manager - Vehicle Distribution | Al-Futtaim Automotive | Logistics | Riyadh",
+      "company": "Al-Futtaim",
+      "location": "Riyadh, Riyadh, Saudi Arabia",
+      "fit_score": 78,
+      "career_progression_score": 80,
+      "live_confidence": "high",
+      "job_url": "https://sa.linkedin.com/jobs/view/operations-manager-vehicle-distribution-al-futtaim-automotive-logistics-riyadh-at-al-futtaim-4464364238",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Strong fit for Al-Futtaim's automotive logistics needs through extensive fleet and vehicle management expertise.",
+        "Candidate has 10 years experience, meeting the requirement of 7+ years.",
+        "Direct experience in fleet maintenance, EV charging, and process control aligns with distribution center requirements."
+      ],
+      "gaps_risks": [
+        "Role requires relocation to Riyadh; candidate currently based in Dubai.",
+        "Experience with SAP systems should be highlighted, as candidate has advanced Excel/Power Query skills."
+      ],
+      "email_subject": "Operations Manager Application - Muhammad Qureshi",
+      "email_pitch": "Dear Hiring Team, having spent 9 years in UAE fleet operations, I am excited to apply for the Operations Manager role in Riyadh. My technical background in fleet utilization, SOP development, and budget control aligns perfectly with the requirements of Al-Futtaim Automotive's vehicle distribution network.",
+      "linkedin_pitch": "Al-Futtaim's leadership in the regional automotive sector is well-known. I am an experienced operations leader with 10 years in the mobility industry, and I would love to bring my expertise in fleet logistics and process optimization to your Riyadh distribution team.",
+      "fit_tier": "credible",
+      "scoring_mode": "ai",
+      "ranking_score": 78.4,
+      "rank": 3
     }
   ]
 }
