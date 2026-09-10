@@ -1,15 +1,15 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-09-09T10:00:00Z
+Generated: 2026-09-10T09:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 48  
+**Relevant candidates reviewed:** 49  
 **Credible jobs:** 3  
 **Strong matches:** 2  
 **Executive/progression matches:** 3  
 **Auto-apply eligible:** 3  
 
-Muhammad Sohail Ayub Qureshi presents a strong profile for Fleet and Mobility Operations roles, particularly in ride-hailing and last-mile management. His experience with platforms (Uber, Careem, Yango) and 9 years in the UAE market makes him highly qualified for mid-to-senior fleet operations roles. Roles in construction, mega-projects, or heavy logistics are deemed 'adjacent' due to his specific focus on light vehicle fleet management.
+Candidate displays strong operational, fleet management, and platform experience relevant to UAE/GCC mobility. Filtered for high-alignment roles in fleet, logistics, and last-mile operations.
 
 ## 1. Last Mile Operations Manager — CargoX (85/100)
 **Career progression:** 80/100  
@@ -19,39 +19,41 @@ Muhammad Sohail Ayub Qureshi presents a strong profile for Fleet and Mobility Op
 **Vacancy:** https://ae.linkedin.com/jobs/view/last-mile-operations-manager-at-cargox-4461250589  
 
 **Why it fits**
-- Direct alignment with last-mile and on-demand mobility
-- Experience in managing fleet operations and dispatch
-- Strong familiarity with UAE operational environment
+- Direct alignment with 9 years of UAE transport experience
+- Matches required experience in last-mile, fleet operations, and SOP development
+- Candidate possesses specific expertise in platform and driver management
+- Strong alignment with the required data-driven/analytical skill set
 
 **Gaps / risks**
-- Role focuses on autonomous/early-stage tech which is a shift from standard ride-hailing platforms
+- Role requires SQL/BI proficiency; ensure highlighted 'Advanced Excel and Power Query' experience is emphasized as transferable data capability
 
 ## 2. Operations Manager – Long-Term Rentals — Udrive (82/100)
 **Career progression:** 75/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Dubai, United Arab Emirates  
+**Location:** Dubai, Dubai, United Arab Emirates  
 **Vacancy:** https://ae.linkedin.com/jobs/view/operations-manager-%E2%80%93-long-term-rentals-at-udrive-4463360917  
 
 **Why it fits**
-- Direct experience in fleet utilization and vehicle readiness
-- Familiarity with ride-hailing/rental industry platforms
-- Strong UAE market expertise
+- Perfect industry alignment (Mobility/Car Rental)
+- Experience managing fleet, payroll, and billing reconciliations directly addresses LTR operational needs
+- Candidate is locally based in Dubai
 
 **Gaps / risks**
-- Focus on long-term rental vs. traditional ride-hailing/taxi
+- Need to demonstrate transition from ride-hailing/driver management to long-term rental sales/support leadership
 
-## 3. Operations Manager - Vehicle Distribution — Al-Futtaim (76/100)
+## 3. Country Operations Manager — noon (76/100)
 **Career progression:** 85/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Riyadh, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/operations-manager-vehicle-distribution-al-futtaim-automotive-logistics-riyadh-at-al-futtaim-4464364238  
+**Location:** Kuwait City Metropolitan Area  
+**Vacancy:** https://kw.linkedin.com/jobs/view/country-operations-manager-at-noon-4465616751  
 
 **Why it fits**
-- Strong match for vehicle fleet movement and distribution
-- Expertise in logistics, SOP development, and KPI management
-- Experience in managing operational finance and reporting
+- High alignment with quick commerce and last-mile logistics operations
+- Strong focus on team scaling and performance reporting
+- Experience in managing complex vendor and driver networks
 
 **Gaps / risks**
-- Transition from service-based mobility to vehicle logistics/distribution
+- Requires willingness to relocate to Kuwait; role asks for 10+ years (candidate has 10 exact)
+- Shift from fleet-focused ride-hailing to e-commerce fulfillment management
