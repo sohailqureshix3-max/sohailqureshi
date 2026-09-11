@@ -1,17 +1,32 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-09-10T09:00:00Z
+Generated: 2026-09-11T12:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 49  
+**Relevant candidates reviewed:** 46  
 **Credible jobs:** 3  
-**Strong matches:** 2  
+**Strong matches:** 3  
 **Executive/progression matches:** 3  
 **Auto-apply eligible:** 3  
 
-Candidate displays strong operational, fleet management, and platform experience relevant to UAE/GCC mobility. Filtered for high-alignment roles in fleet, logistics, and last-mile operations.
+Candidate displays strong operational, fleet management, and platform experience relevant to UAE/GCC markets. Candidates selected for high fit scores align with his 10-year experience in mobility/fleet, specifically in the UAE and regional delivery/logistics sectors.
 
-## 1. Last Mile Operations Manager — CargoX (85/100)
+## 1. Operations Manager – Long-Term Rentals — Udrive (92/100)
+**Career progression:** 85/100  
+**Auto-apply eligible:** True  
+**Scoring:** ai  
+**Location:** Dubai, Dubai, United Arab Emirates  
+**Vacancy:** https://ae.linkedin.com/jobs/view/operations-manager-%E2%80%93-long-term-rentals-at-udrive-4463360917  
+
+**Why it fits**
+- Directly maps to the candidate's core expertise in mobility and fleet management.
+- Matches 9 years of UAE transport experience with a local, growth-oriented industry player.
+- Candidate's background in managing multiple platforms (Uber, Careem, etc.) and driver/vehicle scheduling aligns perfectly with LTR operational requirements.
+
+**Gaps / risks**
+- None identified; this is a highly synergistic role match.
+
+## 2. Last Mile Operations Manager — CargoX (85/100)
 **Career progression:** 80/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
@@ -19,41 +34,24 @@ Candidate displays strong operational, fleet management, and platform experience
 **Vacancy:** https://ae.linkedin.com/jobs/view/last-mile-operations-manager-at-cargox-4461250589  
 
 **Why it fits**
-- Direct alignment with 9 years of UAE transport experience
-- Matches required experience in last-mile, fleet operations, and SOP development
-- Candidate possesses specific expertise in platform and driver management
-- Strong alignment with the required data-driven/analytical skill set
+- Directly utilizes candidate's experience in on-demand logistics and fleet utilization.
+- Matches 'hands-on operating experience in the UAE' requirement.
+- Candidate's strength in 'Operational KPI and management reporting' aligns with role’s emphasis on data-driven fulfillment.
 
 **Gaps / risks**
-- Role requires SQL/BI proficiency; ensure highlighted 'Advanced Excel and Power Query' experience is emphasized as transferable data capability
+- Role requires 'autonomous' or 'teleoperation' experience, which is preferred but not mandatory if the candidate demonstrates high operational agility.
 
-## 2. Operations Manager – Long-Term Rentals — Udrive (82/100)
+## 3. Service Delivery Lead (Fleet) - Dubai — Averda (82/100)
 **Career progression:** 75/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Dubai, Dubai, United Arab Emirates  
-**Vacancy:** https://ae.linkedin.com/jobs/view/operations-manager-%E2%80%93-long-term-rentals-at-udrive-4463360917  
+**Location:** Dubai, United Arab Emirates  
+**Vacancy:** https://ae.linkedin.com/jobs/view/service-delivery-lead-fleet-dubai-at-averda-4459210464  
 
 **Why it fits**
-- Perfect industry alignment (Mobility/Car Rental)
-- Experience managing fleet, payroll, and billing reconciliations directly addresses LTR operational needs
-- Candidate is locally based in Dubai
+- Candidate has extensive experience in fleet utilization, dispatch, and driver management.
+- Candidate's background includes budgeting, maintenance scheduling, and cost control, essential for Averda's fleet lead role.
+- Aligns with local market knowledge (Dubai operations).
 
 **Gaps / risks**
-- Need to demonstrate transition from ride-hailing/driver management to long-term rental sales/support leadership
-
-## 3. Country Operations Manager — noon (76/100)
-**Career progression:** 85/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Kuwait City Metropolitan Area  
-**Vacancy:** https://kw.linkedin.com/jobs/view/country-operations-manager-at-noon-4465616751  
-
-**Why it fits**
-- High alignment with quick commerce and last-mile logistics operations
-- Strong focus on team scaling and performance reporting
-- Experience in managing complex vendor and driver networks
-
-**Gaps / risks**
-- Requires willingness to relocate to Kuwait; role asks for 10+ years (candidate has 10 exact)
-- Shift from fleet-focused ride-hailing to e-commerce fulfillment management
+- Shift from 'passenger mobility' to 'waste management' fleet may require minor adjustment to heavy vehicle compliance standards.
