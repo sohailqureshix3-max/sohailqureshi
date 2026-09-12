@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-11T12:00:00Z",
+  "generated_at": "2026-09-12T10:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational, fleet management, and platform experience relevant to UAE/GCC markets. Candidates selected for high fit scores align with his 10-year experience in mobility/fleet, specifically in the UAE and regional delivery/logistics sectors.",
+    "notes": "Candidate displays strong operational expertise in Dubai's mobility and ride-hailing sector (9 years). Focused on fleet management, RTA compliance, and logistics. Positions in logistics management and fleet operations in the GCC are high priority.",
     "credible_jobs_found": 3,
-    "high_fit_count": 3,
+    "high_fit_count": 2,
     "watchlist_count": 0,
     "executive_matches": 3,
     "auto_apply_eligible": 3,
-    "discovery_candidates_reviewed": 46,
+    "discovery_candidates_reviewed": 47,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,84 +20,83 @@
   },
   "jobs": [
     {
-      "job_title": "Operations Manager – Long-Term Rentals",
-      "company": "Udrive",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "fit_score": 92,
-      "career_progression_score": 85,
+      "job_title": "Sr. Manager Logistics Operations",
+      "company": "talabat",
+      "location": "Doha, Qatar",
+      "fit_score": 85,
+      "career_progression_score": 90,
       "live_confidence": "high",
-      "job_url": "https://ae.linkedin.com/jobs/view/operations-manager-%E2%80%93-long-term-rentals-at-udrive-4463360917",
+      "job_url": "https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4464863447",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Directly maps to the candidate's core expertise in mobility and fleet management.",
-        "Matches 9 years of UAE transport experience with a local, growth-oriented industry player.",
-        "Candidate's background in managing multiple platforms (Uber, Careem, etc.) and driver/vehicle scheduling aligns perfectly with LTR operational requirements."
+        "Strong alignment with last-mile logistics and fleet growth management",
+        "Experience in managing high-volume driver/rider bases",
+        "Direct relevance to platform-driven operational KPIs"
       ],
       "gaps_risks": [
-        "None identified; this is a highly synergistic role match."
+        "Requires transition from ride-hailing to Q-commerce delivery focus"
       ],
-      "email_subject": "Operations Leadership: Udrive Long-Term Rentals",
-      "email_pitch": "Dear Hiring Manager, With 9 years of direct experience in UAE fleet operations and management across major mobility platforms, I am very interested in the Operations Manager position at Udrive. My background managing 30+ vehicles and 40+ drivers, combined with my proficiency in SOP development and operational KPI reporting, aligns directly with the needs of your growing LTR business. I look forward to discussing how my hands-on experience can scale your operational efficiency.",
-      "linkedin_pitch": "Hi, I have been following Udrive's growth in the UAE mobility sector. With 9 years of local fleet and operations management experience—including driver scheduling, vehicle utilization, and RTA compliance—I am a strong candidate for your Operations Manager opening. Would be great to discuss your team's current operational goals.",
+      "email_subject": "Operations Leadership: Muhammad Sohail Ayub Qureshi - Logistics Ops",
+      "email_pitch": "Dear Hiring Team, With 10 years of experience in UAE fleet operations and deep expertise in platform management (Uber, Careem, Yango), I am highly interested in the Sr. Manager Logistics Operations role at Talabat. I have extensive experience in driver performance, compliance, and budget optimization, all of which are critical for scaling logistics in Qatar.",
+      "linkedin_pitch": "Talabat's scale in the GCC is impressive. With 9 years of direct fleet and mobility operations experience in Dubai, I believe my background in driver training, platform compliance, and cost control makes me a strong fit for your Logistics Operations team.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 90.6,
+      "ranking_score": 86.0,
       "rank": 1
+    },
+    {
+      "job_title": "Manager Logistics Performance",
+      "company": "talabat",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "fit_score": 82,
+      "career_progression_score": 85,
+      "live_confidence": "high",
+      "job_url": "https://ae.linkedin.com/jobs/view/manager-logistics-performance-at-talabat-4440740657",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Direct experience with trip/billing reconciliation and KPI management",
+        "Strong P&L and financial control skills match requirements",
+        "Located in Dubai with extensive local market expertise"
+      ],
+      "gaps_risks": [
+        "SQL/Looker technical stack may require rapid upskilling"
+      ],
+      "email_subject": "Operations & Logistics Performance: Muhammad Sohail Ayub Qureshi",
+      "email_pitch": "Dear Hiring Manager, My 10-year track record in Dubai's fleet and mobility sector aligns closely with your need for a performance-driven operations leader. I have managed significant fleet budgets and reconciliation processes, providing me with the commercial and analytical acumen to drive Talabat UAE's performance metrics.",
+      "linkedin_pitch": "I am interested in the Logistics Performance role. Having spent 9 years in Dubai's mobility sector, I understand the local delivery ecosystem and have a proven history of operational KPI optimization and P&L accountability.",
+      "fit_tier": "strong",
+      "scoring_mode": "ai",
+      "ranking_score": 82.6,
+      "rank": 2
     },
     {
       "job_title": "Last Mile Operations Manager",
       "company": "CargoX",
       "location": "Abu Dhabi Emirate, United Arab Emirates",
-      "fit_score": 85,
+      "fit_score": 78,
       "career_progression_score": 80,
-      "live_confidence": "high",
+      "live_confidence": "medium",
       "job_url": "https://ae.linkedin.com/jobs/view/last-mile-operations-manager-at-cargox-4461250589",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Directly utilizes candidate's experience in on-demand logistics and fleet utilization.",
-        "Matches 'hands-on operating experience in the UAE' requirement.",
-        "Candidate's strength in 'Operational KPI and management reporting' aligns with role’s emphasis on data-driven fulfillment."
+        "Direct operational experience in last-mile delivery and fleet coordination",
+        "SOP development expertise matches the scaling nature of the firm"
       ],
       "gaps_risks": [
-        "Role requires 'autonomous' or 'teleoperation' experience, which is preferred but not mandatory if the candidate demonstrates high operational agility."
+        "Moving from passenger mobility to heavy logistics/cargo operations"
       ],
-      "email_subject": "Operations Leadership: Last-Mile Delivery / CargoX",
-      "email_pitch": "Dear Hiring Manager, With a strong track record in UAE fleet operations and platform-based delivery, I am highly interested in the Last Mile Operations Manager role at CargoX. I have managed fleets of 30+ vehicles and 40+ drivers while maintaining rigorous KPI targets and RTA compliance. I thrive in high-pressure, fast-paced operations and am eager to bring my expertise in process control and performance management to your autonomous delivery initiatives.",
-      "linkedin_pitch": "Hi CargoX team, I am an Operations Leader in the UAE with 9 years of experience in fleet management and mobility. Given my background in scaling operational SOPs and driving fulfillment KPIs, I am very interested in your Last Mile Operations Manager position. I would appreciate the chance to discuss how I can contribute to your fulfillment success.",
-      "fit_tier": "strong",
+      "email_subject": "Application: Last Mile Operations Manager - Muhammad Sohail Ayub Qureshi",
+      "email_pitch": "Dear Hiring Team, I bring 10 years of intensive operations leadership in the UAE transport sector. My experience managing 40+ drivers and diverse fleet platforms allows me to hit the ground running at CargoX to enhance operational efficiency and last-mile service quality.",
+      "linkedin_pitch": "I am interested in your Last Mile Operations Manager position. With deep expertise in fleet utilization and SOP development in Dubai, I am confident in my ability to manage your delivery operations effectively.",
+      "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 84.0,
-      "rank": 2
-    },
-    {
-      "job_title": "Service Delivery Lead (Fleet) - Dubai",
-      "company": "Averda",
-      "location": "Dubai, United Arab Emirates",
-      "fit_score": 82,
-      "career_progression_score": 75,
-      "live_confidence": "high",
-      "job_url": "https://ae.linkedin.com/jobs/view/service-delivery-lead-fleet-dubai-at-averda-4459210464",
-      "source": "LinkedIn",
-      "industry_alignment": "clear",
-      "auto_apply_eligible": true,
-      "why_fit": [
-        "Candidate has extensive experience in fleet utilization, dispatch, and driver management.",
-        "Candidate's background includes budgeting, maintenance scheduling, and cost control, essential for Averda's fleet lead role.",
-        "Aligns with local market knowledge (Dubai operations)."
-      ],
-      "gaps_risks": [
-        "Shift from 'passenger mobility' to 'waste management' fleet may require minor adjustment to heavy vehicle compliance standards."
-      ],
-      "email_subject": "Fleet Operations Leadership: Service Delivery Lead",
-      "email_pitch": "Dear Hiring Manager, I am a fleet operations professional with 9 years of experience managing vehicle deployment, dispatch, and maintenance in the UAE. My background in fleet optimization and KPI-driven management makes me a strong fit for the Service Delivery Lead role at Averda. I am adept at managing cross-functional teams and maintaining rigorous SOPs, and I am keen to discuss how I can optimize your fleet utilization and service delivery.",
-      "linkedin_pitch": "Hi Averda team, I have spent the last 9 years managing fleet operations and mobility in Dubai. My experience spans vehicle utilization, driver scheduling, and cost control. I am very interested in the Service Delivery Lead (Fleet) role and believe my operational background is a great match for your team.",
-      "fit_tier": "strong",
-      "scoring_mode": "ai",
-      "ranking_score": 80.6,
+      "ranking_score": 78.4,
       "rank": 3
     }
   ]
