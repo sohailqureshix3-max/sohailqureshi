@@ -1,47 +1,17 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-09-12T10:00:00Z
+Generated: 2026-09-13T10:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 47  
+**Relevant candidates reviewed:** 44  
 **Credible jobs:** 3  
-**Strong matches:** 2  
+**Strong matches:** 1  
 **Executive/progression matches:** 3  
 **Auto-apply eligible:** 3  
 
-Candidate displays strong operational expertise in Dubai's mobility and ride-hailing sector (9 years). Focused on fleet management, RTA compliance, and logistics. Positions in logistics management and fleet operations in the GCC are high priority.
+Candidate displays exceptional alignment with high-growth mobility and fleet operations roles in the UAE and wider GCC. The top selections focus on his core competency in ride-hailing/fleet management, with secondary priority given to logistics roles where he can leverage his fleet scheduling and KPI management expertise.
 
-## 1. Sr. Manager Logistics Operations — talabat (85/100)
-**Career progression:** 90/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Doha, Qatar  
-**Vacancy:** https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4464863447  
-
-**Why it fits**
-- Strong alignment with last-mile logistics and fleet growth management
-- Experience in managing high-volume driver/rider bases
-- Direct relevance to platform-driven operational KPIs
-
-**Gaps / risks**
-- Requires transition from ride-hailing to Q-commerce delivery focus
-
-## 2. Manager Logistics Performance — talabat (82/100)
-**Career progression:** 85/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Dubai, Dubai, United Arab Emirates  
-**Vacancy:** https://ae.linkedin.com/jobs/view/manager-logistics-performance-at-talabat-4440740657  
-
-**Why it fits**
-- Direct experience with trip/billing reconciliation and KPI management
-- Strong P&L and financial control skills match requirements
-- Located in Dubai with extensive local market expertise
-
-**Gaps / risks**
-- SQL/Looker technical stack may require rapid upskilling
-
-## 3. Last Mile Operations Manager — CargoX (78/100)
+## 1. Last Mile Operations Manager — CargoX (85/100)
 **Career progression:** 80/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
@@ -49,8 +19,39 @@ Candidate displays strong operational expertise in Dubai's mobility and ride-hai
 **Vacancy:** https://ae.linkedin.com/jobs/view/last-mile-operations-manager-at-cargox-4461250589  
 
 **Why it fits**
-- Direct operational experience in last-mile delivery and fleet coordination
-- SOP development expertise matches the scaling nature of the firm
+- Direct alignment with 9 years of Dubai transport experience
+- Matches requirements for platform-based operations, driver coordination, and SOP development
+- Leverages expertise in vehicle utilization and KPI monitoring
 
 **Gaps / risks**
-- Moving from passenger mobility to heavy logistics/cargo operations
+- Requirement for SQL/BI skills mentioned in description; candidate uses Power Query/Excel
+
+## 2. Operations Manager - Vehicle Distribution | Al-Futtaim Automotive | Logistics | Riyadh — Al-Futtaim (78/100)
+**Career progression:** 85/100  
+**Auto-apply eligible:** True  
+**Scoring:** ai  
+**Location:** Riyadh, Riyadh, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/operations-manager-vehicle-distribution-al-futtaim-automotive-logistics-riyadh-at-al-futtaim-4464364238  
+
+**Why it fits**
+- Direct experience in fleet management and vehicle readiness
+- Requires strong financial P&L oversight, matching candidate's budgeting/cost control strengths
+- Strong brand alignment with Al-Futtaim's automotive ecosystem
+
+**Gaps / risks**
+- Requires SAP proficiency which is not explicitly listed in the candidate's core stack
+
+## 3. Operations Manager – Long-Term Rentals — Udrive (76/100)
+**Career progression:** 75/100  
+**Auto-apply eligible:** True  
+**Scoring:** ai  
+**Location:** Dubai, Dubai, United Arab Emirates  
+**Vacancy:** https://ae.linkedin.com/jobs/view/operations-manager-%E2%80%93-long-term-rentals-at-udrive-4463360917  
+
+**Why it fits**
+- Direct industry alignment (mobility/rental/leasing)
+- Leverages expertise in fleet platform compliance and vehicle maintenance
+- Matches scale of operation managed
+
+**Gaps / risks**
+- Scope of rental vs ride-hailing differences
