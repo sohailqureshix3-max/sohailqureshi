@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-14T10:00:00Z",
+  "generated_at": "2026-09-15T12:00:00Z",
   "summary": {
-    "notes": "Focused on roles that prioritize fleet management, RTA/transport compliance, and last-mile/mobility operations. Candidates fit is strongest in organizations managing live fleet assets and platform dispatch.",
-    "credible_jobs_found": 2,
-    "high_fit_count": 2,
+    "notes": "Candidate displays strong operational, fleet management, and platform experience relevant to GCC mobility markets. High-scoring roles prioritize fleet utilization, last-mile logistics, and transport operations. Roles requiring specific industry credentials (e.g., GACA aviation) were deprioritized.",
+    "credible_jobs_found": 4,
+    "high_fit_count": 3,
     "watchlist_count": 0,
-    "executive_matches": 2,
-    "auto_apply_eligible": 2,
-    "discovery_candidates_reviewed": 43,
+    "executive_matches": 4,
+    "auto_apply_eligible": 4,
+    "discovery_candidates_reviewed": 44,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,37 +20,35 @@
   },
   "jobs": [
     {
-      "job_title": "Manager - Vehicle Operations",
-      "company": "CargoX",
-      "location": "Abu Dhabi Emirate, United Arab Emirates",
-      "fit_score": 92,
-      "career_progression_score": 85,
+      "job_title": "Head of Operations (Transportation & Logistics)",
+      "company": "Everhires",
+      "location": "Riyadh, Saudi Arabia",
+      "fit_score": 88,
+      "career_progression_score": 90,
       "live_confidence": "high",
-      "job_url": "https://ae.linkedin.com/jobs/view/manager-vehicle-operations-at-cargox-4467063061",
+      "job_url": "https://sa.linkedin.com/jobs/view/head-of-operations-transportation-logistics-at-everhires-4465201288",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct alignment with 9 years of UAE transport experience",
-        "Experience in managing driver dispatch, scheduling, and operational KPIs",
-        "Matches the requirement for managing large-scale, live, multi-shift operations"
+        "Aligns perfectly with candidate's 10 years of operations leadership",
+        "Direct industry match in transportation and logistics",
+        "Senior title represents a logical career step into the Saudi market"
       ],
-      "gaps_risks": [
-        "Role is specialized in autonomous delivery which is a new domain for the candidate"
-      ],
-      "email_subject": "Operations Leadership: Muhammad Sohail Ayub Qureshi - Fleet & Mobility Specialist",
-      "email_pitch": "Having managed a diverse fleet of 30 vehicles and 40 drivers across platforms including Uber and Careem, I possess the direct operational experience in dispatch, RTA compliance, and driver training that aligns perfectly with CargoX’s growth in Abu Dhabi.",
-      "linkedin_pitch": "Your current scaling of autonomous delivery operations is impressive. With 9 years of direct fleet and mobility experience in the UAE, I offer a proven track record in driving operator productivity and maintaining strict 24/7 service standards.",
+      "gaps_risks": [],
+      "email_subject": "Operations Leadership: Exploring Head of Operations (Transportation & Logistics) role",
+      "email_pitch": "Dear Hiring Team, having led fleet and mobility operations across seven major platforms with a focus on RTA compliance and KPIs, I am highly interested in your Head of Operations vacancy. With 10 years of experience, including 9 years in Dubai's dynamic transport sector, I have a proven track record in scaling fleet efficiency and operational performance.",
+      "linkedin_pitch": "I've been following the transport landscape in KSA and believe my background managing 40 drivers and 30 vehicles across major platforms like Uber and Careem makes me a strong fit for your Head of Operations role.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 90.6,
+      "ranking_score": 88.4,
       "rank": 1
     },
     {
       "job_title": "Sr. Manager Logistics Operations",
       "company": "talabat",
       "location": "Doha, Qatar",
-      "fit_score": 88,
+      "fit_score": 85,
       "career_progression_score": 80,
       "live_confidence": "high",
       "job_url": "https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4464863447",
@@ -58,20 +56,70 @@
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Strong platform-based operations background (Uber, Bolt, Yango)",
-        "Experience in rider/driver supply management and KPI reporting",
-        "Expertise in cost control and payroll reconciliation directly supports the 3PL performance management needs"
+        "Direct experience with ride-hailing and delivery platforms (Uber, Careem, Yango, Bolt)",
+        "Deep expertise in rider supply, fleet management, and 3PL performance",
+        "Proven ability to manage operational KPIs and digital tools"
       ],
-      "gaps_risks": [
-        "Transition from UAE/Dubai to Qatar market"
-      ],
-      "email_subject": "Application: Sr. Manager Logistics Operations - Muhammad Sohail Ayub Qureshi",
-      "email_pitch": "With 10 years of experience in high-velocity mobility platforms, I have developed a strong competency in driver scheduling, supply forecasting, and operational compliance. I am eager to apply my experience in maintaining high-performance rider bases to the Talabat logistics team.",
-      "linkedin_pitch": "I've been closely following Talabat's growth in the GCC. My 9 years of experience managing mobility platforms in the UAE aligns well with your need for high-performing, data-driven logistics management.",
+      "gaps_risks": [],
+      "email_subject": "Application for Sr. Manager Logistics Operations - Muhammad Qureshi",
+      "email_pitch": "Talabat's scale in the region aligns well with my background. I have spent 9 years in the Dubai transport market managing complex fleets, driver scheduling, and payroll reconciliation. My expertise in operational KPIs and platform compliance would allow me to drive immediate impact for the Qatar team.",
+      "linkedin_pitch": "I see you're looking for a Sr. Manager for Logistics Operations. With my 9+ years in Dubai's mobility sector and hands-on experience with platforms like Careem and Uber, I would love to discuss how I can help optimize your fleet performance in Qatar.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 86.4,
+      "ranking_score": 84.0,
       "rank": 2
+    },
+    {
+      "job_title": "Senior Operations Manager – Contract Logistics & Warehousing",
+      "company": "THE C-SUITE & CO.",
+      "location": "Dubai, United Arab Emirates",
+      "fit_score": 82,
+      "career_progression_score": 85,
+      "live_confidence": "high",
+      "job_url": "https://ae.linkedin.com/jobs/view/senior-operations-manager-%E2%80%93-contract-logistics-warehousing-at-the-c-suite-co-4462207852",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Strong operational leadership background",
+        "Applicable skills in fleet and process management",
+        "Deep familiarity with Dubai's regulatory and logistics environment"
+      ],
+      "gaps_risks": [],
+      "email_subject": "Senior Operations Manager Application - Muhammad Qureshi",
+      "email_pitch": "With a decade of experience in Dubai's mobility and operations sectors, I have developed a robust skill set in SOP development, cost control, and fleet management. I am eager to apply this expertise in a contract logistics environment to improve operational efficiency and reporting.",
+      "linkedin_pitch": "Hello, I am interested in the Senior Operations Manager role. My 9 years of experience managing fleet and transport operations in Dubai aligns closely with the requirements for this position.",
+      "fit_tier": "strong",
+      "scoring_mode": "ai",
+      "ranking_score": 82.6,
+      "rank": 3
+    },
+    {
+      "job_title": "General Manager – Land Transportation",
+      "company": "Confidential",
+      "location": "Najran, Saudi Arabia",
+      "fit_score": 78,
+      "career_progression_score": 95,
+      "live_confidence": "medium",
+      "job_url": "https://sa.linkedin.com/jobs/view/general-manager-%E2%80%93-land-transportation-at-confidential-4458744538",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Excellent alignment with land transport and fleet management",
+        "Opportunity to leverage P&L and growth experience",
+        "Strong operational expertise in asset utilization"
+      ],
+      "gaps_risks": [
+        "Candidate is currently at a manager level; this is a significant step up to GM."
+      ],
+      "email_subject": "Operations Leadership: Interest in GM Land Transportation role",
+      "email_pitch": "I am a seasoned operations leader with 10 years of experience managing fleets and complex transportation platforms. I have a strong track record in budgeting, KPI management, and operational process control, and I am prepared to scale my impact in a GM role within the KSA market.",
+      "linkedin_pitch": "I'm interested in your GM Land Transportation role. My background in scaling mobility operations and fleet management, combined with 9 years of experience in the GCC, gives me a strong foundation to contribute to your growth in Najran.",
+      "fit_tier": "credible",
+      "scoring_mode": "ai",
+      "ranking_score": 81.4,
+      "rank": 4
     }
   ]
 }
