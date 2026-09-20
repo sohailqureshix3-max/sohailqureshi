@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-19T10:00:00Z",
+  "generated_at": "2026-09-20T10:00:00Z",
   "summary": {
-    "notes": "Candidate demonstrates high expertise in fleet management and mobility operations across multiple platforms. Preference is given to roles with direct operational ownership, P&L responsibility, and team leadership, which align with his 10 years of experience in the UAE transport sector.",
+    "notes": "Candidate displays strong operational expertise in mobility and fleet management within the UAE. Priority is given to roles matching his 10-year experience profile and specific platform proficiency in the GCC market.",
     "credible_jobs_found": 3,
-    "high_fit_count": 1,
+    "high_fit_count": 2,
     "watchlist_count": 0,
-    "executive_matches": 2,
+    "executive_matches": 3,
     "auto_apply_eligible": 3,
-    "discovery_candidates_reviewed": 40,
+    "discovery_candidates_reviewed": 38,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,85 +20,84 @@
   },
   "jobs": [
     {
-      "job_title": "Senior Operations Manager – Contract Logistics & Warehousing",
-      "company": "THE C-SUITE & CO.",
-      "location": "Dubai, United Arab Emirates",
-      "fit_score": 82,
-      "career_progression_score": 85,
-      "live_confidence": "high",
-      "job_url": "https://ae.linkedin.com/jobs/view/senior-operations-manager-%E2%80%93-contract-logistics-warehousing-at-the-c-suite-co-4462207852",
-      "source": "LinkedIn",
-      "industry_alignment": "clear",
-      "auto_apply_eligible": true,
-      "why_fit": [
-        "Matches 8+ years experience requirement",
-        "Strong UAE-based operations background",
-        "Direct experience managing KPIs, budgets, and large operational teams"
-      ],
-      "gaps_risks": [
-        "Transition from pure mobility/fleet to contract logistics/warehousing"
-      ],
-      "email_subject": "Senior Operations Manager Application - Muhammad Sohail Ayub Qureshi",
-      "email_pitch": "With 10 years of operations leadership in the UAE and a proven track record managing large-scale fleets and logistics teams, I am well-equipped to drive the performance and service level requirements of your contract logistics portfolio.",
-      "linkedin_pitch": "I am interested in your Senior Operations Manager role. My 9-year tenure in Dubai fleet and operations management, combined with deep expertise in KPI optimization and team leadership, aligns perfectly with the requirements of this role.",
-      "fit_tier": "strong",
-      "scoring_mode": "ai",
-      "ranking_score": 82.6,
-      "rank": 1
-    },
-    {
       "job_title": "Sr. Manager Logistics Operations",
       "company": "talabat",
       "location": "Doha, Qatar",
-      "fit_score": 76,
-      "career_progression_score": 80,
+      "fit_score": 88,
+      "career_progression_score": 90,
       "live_confidence": "high",
       "job_url": "https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4464863447",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct experience with Uber, Careem, and other delivery platforms",
-        "Strong proficiency in operational KPI management and rider/fleet ecosystems",
-        "Proven ability to manage 3PL and logistics partnerships"
+        "Direct experience with ride-hailing and delivery platform ecosystems",
+        "Expertise in fleet growth, 3PL management, and rider KPIs",
+        "Aligned with candidate's strengths in operational scaling and digital tools"
       ],
       "gaps_risks": [
-        "Requires relocation to Qatar",
-        "Fast-paced FoodTech environment intensity"
+        "Candidate is currently based in UAE; requires relocation to Qatar"
       ],
-      "email_subject": "Sr. Manager Logistics Operations - Muhammad Sohail Ayub Qureshi",
-      "email_pitch": "Given my extensive experience managing mobility and delivery platforms like Uber and Careem, I am confident in my ability to scale and optimize Talabat's logistics ecosystem in Qatar.",
-      "linkedin_pitch": "Your work at Talabat is impressive. With my 10-year background in mobility and fleet operations across major platforms like Yango and Bolt, I would welcome a conversation regarding the Sr. Manager Logistics Operations role.",
-      "fit_tier": "credible",
+      "email_subject": "Operations Leadership: Leveraging Mobility Expertise for talabat Qatar",
+      "email_pitch": "Dear Hiring Team, having spent 9 years leading fleet and driver operations in Dubai for major platforms like Uber and Careem, I am deeply impressed by talabat’s delivery ecosystem. I bring a proven track record in managing 40+ drivers, ensuring RTA compliance, and optimizing complex logistics KPIs. I am eager to apply my experience in supply forecasting and 3PL management to drive talabat's operational excellence in Qatar.",
+      "linkedin_pitch": "I've been following talabat’s growth in the GCC and believe my background managing large-scale mobility fleets in Dubai is a strong match for this Senior Logistics Operations role. I have extensive experience optimizing driver supply and digital logistics platforms—would love to discuss how I can contribute to your Qatari operations.",
+      "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 76.8,
-      "rank": 2
+      "ranking_score": 88.4,
+      "rank": 1
     },
     {
-      "job_title": "Manager - Vehicle Operations",
-      "company": "CargoX",
-      "location": "Abu Dhabi Emirate, United Arab Emirates",
-      "fit_score": 75,
-      "career_progression_score": 70,
+      "job_title": "Operations Manager – Long-Term Rentals",
+      "company": "Udrive",
+      "location": "Dubai, United Arab Emirates",
+      "fit_score": 82,
+      "career_progression_score": 75,
       "live_confidence": "high",
-      "job_url": "https://ae.linkedin.com/jobs/view/manager-vehicle-operations-at-cargox-4467063061",
+      "job_url": "https://ae.linkedin.com/jobs/view/operations-manager-%E2%80%93-long-term-rentals-at-udrive-4463360917",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Aligns with fleet, dispatch, and driver management expertise",
-        "Direct experience with large-scale workforce and operational scheduling",
-        "UAE-based and familiar with local regulatory requirements"
+        "Highly aligned with existing car-sharing/mobility experience in Dubai",
+        "Matches expertise in fleet maintenance, utilization, and vehicle readiness",
+        "Leverages existing knowledge of local market regulatory environments"
       ],
       "gaps_risks": [
-        "Management of autonomous delivery fleet requires learning new technology stack"
+        "Role focus on long-term rentals vs current ride-hailing focus"
       ],
-      "email_subject": "Manager - Vehicle Operations - Muhammad Sohail Ayub Qureshi",
-      "email_pitch": "My experience leading large driver fleets and optimizing dispatch operations in Dubai provides a solid foundation for managing CargoX's autonomous vehicle operations in Abu Dhabi.",
-      "linkedin_pitch": "I am highly interested in the Manager - Vehicle Operations role at CargoX. My background in fleet optimization and driver lifecycle management in the UAE makes me a strong candidate to support your growing operation.",
+      "email_subject": "Application: Operations Manager – Long-Term Rentals | Muhammad Qureshi",
+      "email_pitch": "With 9 years of direct experience in the Dubai mobility and fleet sector, I am well-positioned to lead the operations for Udrive’s long-term rental segment. My experience managing 30+ vehicles and navigating platform-specific compliance makes me an ideal fit for optimizing your fleet performance and customer service standards.",
+      "linkedin_pitch": "As a veteran in the Dubai mobility space with deep experience in fleet management and RTA compliance, I am interested in your Operations Manager position at Udrive. My background in high-utilization fleet environments would allow me to hit the ground running with your long-term rental operations.",
+      "fit_tier": "strong",
+      "scoring_mode": "ai",
+      "ranking_score": 80.6,
+      "rank": 2
+    },
+    {
+      "job_title": "Senior Operations Manager – Contract Logistics & Warehousing",
+      "company": "THE C-SUITE & CO.",
+      "location": "Dubai, United Arab Emirates",
+      "fit_score": 76,
+      "career_progression_score": 80,
+      "live_confidence": "medium",
+      "job_url": "https://ae.linkedin.com/jobs/view/senior-operations-manager-%E2%80%93-contract-logistics-warehousing-at-the-c-suite-co-4462207852",
+      "source": "LinkedIn",
+      "industry_alignment": "adjacent",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Strong leadership experience with large operational teams",
+        "Direct experience with KPIs, budget management, and operational reporting",
+        "Highly relevant UAE logistics experience"
+      ],
+      "gaps_risks": [
+        "Shift from ride-hailing/mobility to warehousing/contract logistics"
+      ],
+      "email_subject": "Senior Operations Leadership Inquiry | Muhammad Qureshi",
+      "email_pitch": "I am writing to express interest in the Senior Operations Manager role. While my primary background is in mobility and fleet management, I have extensive experience in SOP development, team leadership, and budget control. I am confident that my operational discipline and data-driven approach to logistics are highly transferable to your warehousing projects in Dubai.",
+      "linkedin_pitch": "I am interested in the Senior Operations Manager role at The C-Suite & Co. With 10 years of operational leadership experience in the Dubai transport sector, I bring a strong background in resource planning and process control that I believe would be a great asset for your logistics team.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 74.0,
+      "ranking_score": 76.8,
       "rank": 3
     }
   ]
