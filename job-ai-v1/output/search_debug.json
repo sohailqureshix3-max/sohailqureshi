@@ -1,6 +1,6 @@
 {
   "version": "FINAL-GCC-EXECUTIVE-HARDENED",
-  "generated_at": "2026-09-20T08:56:17.803141+00:00",
+  "generated_at": "2026-09-21T09:27:24.679865+00:00",
   "searched_countries": [
     "Saudi Arabia",
     "United Arab Emirates",
@@ -25,9 +25,9 @@
     "Mobility Operations Manager",
     "Logistics Operations Manager"
   ],
-  "raw_discovered": 780,
+  "raw_discovered": 810,
   "preliminary_candidates": 60,
-  "direct_candidates": 38,
+  "direct_candidates": 41,
   "results": [
     {
       "title": "General Manager – Land Transportation",
@@ -58,6 +58,20 @@
       "pre_score": 97
     },
     {
+      "title": "Manager - Vehicle Operations",
+      "company": "CargoX",
+      "location": "Abu Dhabi Emirate, United Arab Emirates",
+      "url": "https://ae.linkedin.com/jobs/view/manager-vehicle-operations-at-cargox-4467063061",
+      "posted": "2026-09-14",
+      "source": "LinkedIn",
+      "description": "We operate an autonomous delivery fleet in Abu Dhabi. This role owns the frontline team that keeps the fleet running — several hundred people, growing fast. The work spans remote monitoring of vehicles in service and on-road support in the field, run as one cross-trained team on a single roster. You own the machine that grows and runs it: the sourcing pipeline and manpower suppliers, the training and certification line, the roster, the quality bar, and the supervisors who run shifts once you can no longer be in every room. The operation is live seven days a week and the safety and quality floor does not move. What You'll Own The ramp — sourcing pipeline, manpower suppliers, hiring bar, onboarding throughput and attrition, plus the training and certification line that pushes that volume through without diluting the standard. Operator productivity, attendance and working-hour utilisation — and what has to change for those numbers to move. The management layer — the supervisors you recruit and promote, and the layered QA that tells you how a shift went when you weren't on it. Workforce operations at scale — visas, accommodation, transport, rostering compliance, and the allocation of field resources across competing demands. What You'll Need A frontline of several hundred, run full cycle — recruitment, training, rostering, performance, attrition. Not a contract population you coordinated with, but people you were accountable for and managed through supervisors. A ramp you personally delivered — took a team to several times its size, or mobilised a new site, centre or contract from nothing, with the numbers and the timeline to show it. Seated, real-time operations — control rooms, contact and service centres, command and dispatch centres, or autonomous-vehicle operations: people at consoles working live tasks against a response-time and quality standard. Dispersed field labour is a different job. A training and QA standard you built yourself — designed the assessment, set the pass bar, and made it hold across shifts. Running someone else's system is a different job. Strong English as a working language — you hire, train, appraise and resolve conflict directly with an Indian, Pakistani, Filipino and Ugandan frontline. A valid driving licence. Based in Abu Dhabi or ready to relocate. Strongly Preferred AV safety operator teams UAE blue-collar workforce operations — MOHRE, visas, accommodation, manpower suppliers 24/7 multi-shift operations Hindi, Urdu or Arabic What We Offer A UAE-benchmarked package, AI tools, visa sponsorship, and a non-rotating day shift. The Reality of the Job You would build the largest frontline team in Middle East autonomous delivery — several hundred people and growing fast, with the ramp, the standard and operator productivity all sitting with this one person. To be straight about the rest: the hiring and training pressure is relentless, and rostering and efficiency tooling is still incomplete — parts of the job run manually before they run on a system.",
+      "discovery": "linkedin_guest_gcc",
+      "search_role": "Head of Operations",
+      "search_market": "United Arab Emirates",
+      "coarse_score": 38,
+      "pre_score": 87
+    },
+    {
       "title": "Sr. Manager Logistics Operations",
       "company": "talabat",
       "location": "Doha, Qatar",
@@ -68,20 +82,6 @@
       "discovery": "linkedin_guest_gcc",
       "search_role": "Head of Operations",
       "search_market": "Qatar",
-      "coarse_score": 38,
-      "pre_score": 87
-    },
-    {
-      "title": "Director, Event Mobility Planning",
-      "company": "Jacobs",
-      "location": "Riyadh Region",
-      "url": "https://sa.linkedin.com/jobs/view/director-event-mobility-planning-at-jacobs-4459864312",
-      "posted": "2026-09-18",
-      "source": "LinkedIn",
-      "description": "At Jacobs, we're challenging today to reinvent tomorrow by solving the world's most critical problems for thriving cities, resilient environments, mission-critical outcomes, operational advancement, scientific discovery and cutting-edge manufacturing, turning abstract ideas into realities that transform the world for good. Your impact At Jacobs, we push the limits of what’s possible to make the world smarter and more connected. We are a key delivery partner on one of Saudi Arabia’s flagship giga projects and a central pillar of Vision 2030, located approximately 45 km southwest of Riyadh. Designed as the Kingdom’s future capital of entertainment, sports, and culture, this landmark development aims to diversify the economy and enhance quality of life through a mix of world-class attractions, residential communities, and natural landscapes, while generating significant employment and enabling long-term, sustainable growth. About The Opportunity The Director, Event Mobility Planning leads the development and delivery of integrated mobility planning for major events, festivals, sporting competitions, and entertainment activations. The role is responsible for ensuring the safe, efficient, and coordinated movement of guests, athletes, VIPs, workforce, logistics, emergency services, and public transport users across venues and districts. Acting as the City Operations mobility lead, the position develops citywide mobility standards, demand forecasts, traffic and event mobility plans, and operational readiness arrangements, supporting major events through 2028 while coordinating with venue and asset operators who retain responsibility for operations within their controlled areas. Role Responsibilities Lead the development and implementation of event mobility strategy, governance framework, standards, policies, and operating model. Direct integrated mobility planning for major events, festivals, sporting competitions, and entertainment activations across the destination. Develop transport demand forecasts, mobility plans, and arrival/departure strategies for guests, VIPs, athletes, performers, workforce, media, and emergency services. Coordinate mobility requirements across multiple concurrent events to optimize network performance, capacity, and operational resilience. Oversee traffic management, access control, road network planning, parking strategies, vehicle accreditation, and emergency access arrangements. Integrate public transport, shuttle services, taxis, ride-hailing, active mobility, and last-mile connectivity into event operations. Develop secure and efficient mobility solutions for VIP, hospitality, protocol, government, and specialist stakeholder movements. Coordinate logistics, servicing, freight, contractor, and emergency service movements to ensure seamless event operations. Lead operational readiness activities, simulations, test events, command-and-control planning, live event mobility operations, and post-event reviews. Manage relationships with government authorities, transport operators, emergency services, event organizers, venues, and suppliers while overseeing budgets, contracts, procurement, and service performance. Here's what you'll need Role Requirements Bachelor’s degree in Transport Planning, Civil/Transportation Engineering, Urban Planning, Logistics, Operations Management, or a related field; Master’s degree and professional certifications are preferred. 18+ years of experience in transport planning, mobility operations, traffic engineering, major event transportation, city operations, or infrastructure, including significant senior leadership experience. Proven track record delivering mobility planning and operations for large-scale sporting, entertainment, cultural, or destination events. Expertise in transport demand forecasting, event mobility planning, traffic management, parking strategies, public transport integration, operational readiness, and incident management. Strong experience leading multidisciplinary teams, managing stakeholders, transport authorities, venues, operators, consultants, budgets, contracts, and supplier performance. Knowledge of mobility technologies, intelligent transport systems, accessibility, sustainability, risk management, command and control operations, and cross-functional coordination within complex event environments. Jacobs. A world where you can. From our inclusive employee networks to our positive mental health champions – we’re committed to driving a culture of caring where you can be you. Joining Jacobs not only connects you locally but globally - and together, our diverse perspectives and unique backgrounds power our collective strength. With safety and flexibility always top of mind, we’ve gone beyond traditional ways of working so you have the support, means and space to maximize your potential. You’ll uncover flexible working arrangements, benefits, and opportunities to do good too – from participating in our global giving and volunteering program, to exploring new and inventive ways to help our clients make the world a better place. Start your Jacobs career with a company that inspires and empowers you to deliver your best work so you can evolve, grow and succeed – today and into tomorrow. From our inclusive employee networks to our positive mental health champions – we’re committed to driving a culture of caring where you can be you. Joining Jacobs not only connects you locally but globally - and together, our diverse perspectives and unique backgrounds power our collective strength. We collaborate and share! By supporting one another, we all succeed. With safety and flexibility always top of mind, we’ve gone beyond traditional ways of working so you have the support, means and space to maximize your potential. You’ll uncover flexible working arrangements, benefits and opportunities to do good too – from participating in our global giving and volunteering program, to exploring new and inventive ways to help our clients make the world a better place. No matter what drives you, you’ll discover how you can cultivate, nurture and achieve your goals – all at a single global company. Onsite employees are expected to attend a Jacobs Workplace on a full-time basis, as required by the nature of their role. Your application experience is important to us, and we’re keen to adapt to make every interaction even better. If you require further support or reasonable adjustments with regards to the recruitment process (for example, you require the application form in a different format), please contact the team via Careers Support.",
-      "discovery": "linkedin_guest_gcc",
-      "search_role": "Director of Operations",
-      "search_market": "Saudi Arabia",
       "coarse_score": 38,
       "pre_score": 87
     },
@@ -114,34 +114,6 @@
       "pre_score": 79
     },
     {
-      "title": "Airfreight Manager",
-      "company": "Gulftainer",
-      "location": "Sharjah, Sharjah Emirate, United Arab Emirates",
-      "url": "https://ae.linkedin.com/jobs/view/airfreight-manager-at-gulftainer-4457239558",
-      "posted": "2026-08-26",
-      "source": "LinkedIn",
-      "description": "About the Role The Air Freight Manager is responsible for the end-to-end management of the airfreight function, including product development, commercial performance, and operational execution. This role drives the growth and profitability of the airfreight business while ensuring seamless shipment handling, strong carrier partnerships, and high service standards. Responsibilities Product & Strategy Develop and execute the airfreight strategy aligned with overall freight forwarding objectives. Build competitive service offerings across key trade lanes and industry verticals. Identify and develop specialized services (e.g., pharma, perishables, e-commerce, DG). Monitor market trends, rates, and capacity to proactively adjust strategy. Operational Management Lead and manage the Airfreight Import & Export teams. Ensure smooth end-to-end shipment execution in line with SOPs and service standards. Drive operational efficiency, productivity, and quality performance. Manage escalations and implement corrective actions where required. Carrier & Supplier Management Develop and maintain strong relationships with airlines, GSAs, and partners. Negotiate competitive rates, contracts, and capacity agreements. Secure space allocation, especially during peak seasons. Monitor carrier performance and ensure service reliability. Commercial & Financial Performance Own airfreight P&L, including revenue, GP, and cost control. Develop pricing strategies and maintain rate structures. Support RFQs, tenders, and key customer solutions. Drive yield improvement and profitability across shipments. Sales Support & Business Growth Partner with sales teams to grow volumes and strategic accounts. Provide pricing guidance, market insights, and solution design. Support customer acquisition and retention efforts. Cross-Functional Collaboration Work closely with Ocean Freight and Customs Brokerage teams to ensure integrated service delivery. Ensure alignment across departments for seamless customer experience. Contribute to overall freight forwarding performance and growth. Performance & Reporting Monitor OKRs including volume, revenue, margins, and service levels. Provide regular reports and forecasts to the Head of Freight Forwarding. Analyze trade lane performance and drive continuous improvement. Qualifications 6–10 years of experience in airfreight within a freight forwarding environment. Proven experience handling both operations and commercial/product responsibilities. Strong background in airline negotiations, pricing, and trade lane management. Experience managing airfreight import/export teams. Required Skills Strong leadership and team management skills. Commercial acumen with P&L ownership mindset. Excellent negotiation and stakeholder management capability. Deep understanding of airfreight operations and global market dynamics. Ability to balance operational execution with strategic growth. Strong analytical and problem-solving skills. Preferred Skills IATA certification. Experience in the Middle East market. Exposure to specialized cargo segments.",
-      "discovery": "linkedin_guest_gcc",
-      "search_role": "Country Operations Manager",
-      "search_market": "United Arab Emirates",
-      "coarse_score": 38,
-      "pre_score": 79
-    },
-    {
-      "title": "Manager - Vehicle Operations",
-      "company": "CargoX",
-      "location": "Abu Dhabi Emirate, United Arab Emirates",
-      "url": "https://ae.linkedin.com/jobs/view/manager-vehicle-operations-at-cargox-4467063061",
-      "posted": "2026-09-14",
-      "source": "LinkedIn",
-      "description": "",
-      "discovery": "linkedin_guest_gcc",
-      "search_role": "General Manager Operations",
-      "search_market": "United Arab Emirates",
-      "coarse_score": 38,
-      "pre_score": 61
-    },
-    {
       "title": "Operations Manager - Vehicle Distribution | Al-Futtaim Automotive | Logistics | Riyadh",
       "company": "Al-Futtaim",
       "location": "Riyadh, Riyadh, Saudi Arabia",
@@ -156,60 +128,32 @@
       "pre_score": 61
     },
     {
-      "title": "Director of Logistics",
-      "company": "Hungry Minds",
-      "location": "United Arab Emirates",
-      "url": "https://ae.linkedin.com/jobs/view/director-of-logistics-at-hungry-minds-4464466823",
-      "posted": "2026-09-08",
+      "title": "Manager -Vehicle Services | UAE Nationals Only",
+      "company": "Roads and Transport Authority",
+      "location": "Dubai, United Arab Emirates",
+      "url": "https://ae.linkedin.com/jobs/view/manager-vehicle-services-uae-nationals-only-at-roads-and-transport-authority-4443609906",
+      "posted": "2026-08-24",
       "source": "LinkedIn",
       "description": "",
       "discovery": "linkedin_guest_gcc",
-      "search_role": "Head of Operations",
+      "search_role": "Business Unit Manager Mobility",
       "search_market": "United Arab Emirates",
       "coarse_score": 38,
-      "pre_score": 53
+      "pre_score": 61
     },
     {
-      "title": "Industrial Projects Manager - Project Logistics",
-      "company": "DHL Global Forwarding",
-      "location": "Kuwait City, Al Asimah, Kuwait",
-      "url": "https://kw.linkedin.com/jobs/view/industrial-projects-manager-project-logistics-at-dhl-global-forwarding-4464620073",
-      "posted": "2026-09-12",
+      "title": "Senior Manager - VCP (Vehicle Control Points) & Screening Operations",
+      "company": "Qiddiya | القدية",
+      "location": "Riyadh, Riyadh, Saudi Arabia",
+      "url": "https://sa.linkedin.com/jobs/view/senior-manager-vcp-vehicle-control-points-screening-operations-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4456874073",
+      "posted": "2026-09-15",
       "source": "LinkedIn",
       "description": "",
       "discovery": "linkedin_guest_gcc",
-      "search_role": "Head of Operations",
-      "search_market": "Kuwait",
+      "search_role": "Senior Operations Manager",
+      "search_market": "Saudi Arabia",
       "coarse_score": 38,
-      "pre_score": 53
-    },
-    {
-      "title": "National Air Logistics Aerospace Operational Care Manager",
-      "company": "Kuehne+Nagel",
-      "location": "Doha, Qatar",
-      "url": "https://qa.linkedin.com/jobs/view/national-air-logistics-aerospace-operational-care-manager-at-kuehne%2Bnagel-4422994238",
-      "posted": "2026-08-29",
-      "source": "LinkedIn",
-      "description": "",
-      "discovery": "linkedin_guest_gcc",
-      "search_role": "Head of Operations",
-      "search_market": "Qatar",
-      "coarse_score": 38,
-      "pre_score": 53
-    },
-    {
-      "title": "Transport & Ramp Operations Team Leader – Aviation Catering",
-      "company": "Supply Tech Nexus",
-      "location": "Doha, Doha, Qatar",
-      "url": "https://qa.linkedin.com/jobs/view/transport-ramp-operations-team-leader-%E2%80%93-aviation-catering-at-supply-tech-nexus-4466793097",
-      "posted": "2026-09-13",
-      "source": "LinkedIn",
-      "description": "",
-      "discovery": "linkedin_guest_gcc",
-      "search_role": "Head of Operations",
-      "search_market": "Qatar",
-      "coarse_score": 38,
-      "pre_score": 53
+      "pre_score": 61
     },
     {
       "title": "Logistics Manager",
@@ -231,6 +175,20 @@
       "location": "Doha, Qatar",
       "url": "https://qa.linkedin.com/jobs/view/rider-operations-lead-logistics-management-at-keeta-4464896392",
       "posted": "2026-09-11",
+      "source": "LinkedIn",
+      "description": "",
+      "discovery": "linkedin_guest_gcc",
+      "search_role": "Head of Operations",
+      "search_market": "Qatar",
+      "coarse_score": 38,
+      "pre_score": 53
+    },
+    {
+      "title": "Intelligent Transportation Systems Manager",
+      "company": "Menasa & Partners FZ-LLC",
+      "location": "Doha, Qatar",
+      "url": "https://qa.linkedin.com/jobs/view/intelligent-transportation-systems-manager-at-menasa-partners-fz-llc-4459242086",
+      "posted": "2026-08-31",
       "source": "LinkedIn",
       "description": "",
       "discovery": "linkedin_guest_gcc",
@@ -268,6 +226,20 @@
       "pre_score": 53
     },
     {
+      "title": "Logistics Lead, Arla Foods Oman",
+      "company": "Arla Foods",
+      "location": "Muscat, Masqaţ, Oman",
+      "url": "https://om.linkedin.com/jobs/view/logistics-lead-arla-foods-oman-at-arla-foods-4462534575",
+      "posted": "2026-09-08",
+      "source": "LinkedIn",
+      "description": "",
+      "discovery": "linkedin_guest_gcc",
+      "search_role": "Head of Operations",
+      "search_market": "Oman",
+      "coarse_score": 38,
+      "pre_score": 53
+    },
+    {
       "title": "Manager Logistics Performance",
       "company": "talabat",
       "location": "Dubai, Dubai, United Arab Emirates",
@@ -296,16 +268,30 @@
       "pre_score": 53
     },
     {
-      "title": "Intelligent Transportation Systems Manager",
-      "company": "Menasa & Partners FZ-LLC",
-      "location": "Doha, Qatar",
-      "url": "https://qa.linkedin.com/jobs/view/intelligent-transportation-systems-manager-at-menasa-partners-fz-llc-4459242086",
-      "posted": "2026-08-31",
+      "title": "Airfreight Manager",
+      "company": "Gulftainer",
+      "location": "Sharjah, Sharjah Emirate, United Arab Emirates",
+      "url": "https://ae.linkedin.com/jobs/view/airfreight-manager-at-gulftainer-4457239558",
+      "posted": "2026-08-26",
       "source": "LinkedIn",
       "description": "",
       "discovery": "linkedin_guest_gcc",
-      "search_role": "Regional Operations Manager",
-      "search_market": "Qatar",
+      "search_role": "Country Operations Manager",
+      "search_market": "United Arab Emirates",
+      "coarse_score": 38,
+      "pre_score": 53
+    },
+    {
+      "title": "Director, Event Mobility Planning",
+      "company": "Jacobs",
+      "location": "Riyadh Region",
+      "url": "https://sa.linkedin.com/jobs/view/director-event-mobility-planning-at-jacobs-4459864312",
+      "posted": "2026-09-18",
+      "source": "LinkedIn",
+      "description": "",
+      "discovery": "linkedin_guest_gcc",
+      "search_role": "Director of Operations",
+      "search_market": "Saudi Arabia",
       "coarse_score": 38,
       "pre_score": 53
     },
@@ -338,6 +324,34 @@
       "pre_score": 53
     },
     {
+      "title": "Transport Team Leader – Join Our Talent Pool",
+      "company": "Qatar Airways",
+      "location": "Doha Metropolitan Area",
+      "url": "https://qa.linkedin.com/jobs/view/transport-team-leader-%E2%80%93-join-our-talent-pool-at-qatar-airways-4436825343",
+      "posted": "2026-09-10",
+      "source": "LinkedIn",
+      "description": "",
+      "discovery": "linkedin_guest_gcc",
+      "search_role": "Business Unit Manager Mobility",
+      "search_market": "Qatar",
+      "coarse_score": 38,
+      "pre_score": 53
+    },
+    {
+      "title": "Senior Logistics Manager",
+      "company": "Mace",
+      "location": "Riyadh, Riyadh, Saudi Arabia",
+      "url": "https://sa.linkedin.com/jobs/view/senior-logistics-manager-at-mace-4458785355",
+      "posted": "2026-09-16",
+      "source": "LinkedIn",
+      "description": "",
+      "discovery": "linkedin_guest_gcc",
+      "search_role": "Senior Operations Manager",
+      "search_market": "Saudi Arabia",
+      "coarse_score": 38,
+      "pre_score": 53
+    },
+    {
       "title": "Senior Team Manager - Logistics",
       "company": "Almarai - المراعي",
       "location": "Khamis Mushait, 'Asir, Saudi Arabia",
@@ -366,6 +380,20 @@
       "pre_score": 53
     },
     {
+      "title": "Senior Manager - Distribution Centre",
+      "company": "Chalhoub Group",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "url": "https://ae.linkedin.com/jobs/view/senior-manager-distribution-centre-at-chalhoub-group-4465230650",
+      "posted": "2026-09-14",
+      "source": "LinkedIn",
+      "description": "",
+      "discovery": "linkedin_guest_gcc",
+      "search_role": "Senior Operations Manager",
+      "search_market": "United Arab Emirates",
+      "coarse_score": 38,
+      "pre_score": 53
+    },
+    {
       "title": "Fleet & Operators Controller",
       "company": "Al Qaryan Group مجموعة القريان",
       "location": "Dammam, Eastern, Saudi Arabia",
@@ -376,32 +404,6 @@
       "discovery": "linkedin_guest_gcc",
       "search_role": "Fleet General Manager",
       "search_market": "Saudi Arabia",
-      "coarse_score": 38
-    },
-    {
-      "title": "Senior Specialist, Fleet Management",
-      "company": "Maaden",
-      "location": "Khurais oil field, Saudi Arabia",
-      "url": "https://sa.linkedin.com/jobs/view/senior-specialist-fleet-management-at-maaden-4466844337",
-      "posted": "2026-09-16",
-      "source": "LinkedIn",
-      "description": "",
-      "discovery": "linkedin_guest_gcc",
-      "search_role": "Fleet General Manager",
-      "search_market": "Saudi Arabia",
-      "coarse_score": 38
-    },
-    {
-      "title": "Fleet and Logistics Manager",
-      "company": "Business Umbrella - Recruitment, Training, Consulting, Licensing Healthcare Education Real estate",
-      "location": "United Arab Emirates",
-      "url": "https://ae.linkedin.com/jobs/view/fleet-and-logistics-manager-at-business-umbrella-recruitment-training-consulting-licensing-healthcare-education-real-estate-4469591266",
-      "posted": "2026-09-20",
-      "source": "LinkedIn",
-      "description": "",
-      "discovery": "linkedin_guest_gcc",
-      "search_role": "Fleet General Manager",
-      "search_market": "United Arab Emirates",
       "coarse_score": 38
     },
     {
@@ -422,12 +424,25 @@
       "company": "talabat",
       "location": "Manama, Capital Governorate, Bahrain",
       "url": "https://bh.linkedin.com/jobs/view/specialist-distribution-center-at-talabat-4415018141",
-      "posted": "2026-08-30",
+      "posted": "2026-09-20",
       "source": "LinkedIn",
       "description": "",
       "discovery": "linkedin_guest_gcc",
       "search_role": "Fleet General Manager",
       "search_market": "Bahrain",
+      "coarse_score": 38
+    },
+    {
+      "title": "Senior Specialist, Fleet Management",
+      "company": "Maaden",
+      "location": "Khurais oil field, Saudi Arabia",
+      "url": "https://sa.linkedin.com/jobs/view/senior-specialist-fleet-management-at-maaden-4466844337",
+      "posted": "2026-09-16",
+      "source": "LinkedIn",
+      "description": "",
+      "discovery": "linkedin_guest_gcc",
+      "search_role": "Senior Fleet Operations Manager",
+      "search_market": "Saudi Arabia",
       "coarse_score": 38
     },
     {
@@ -505,6 +520,32 @@
       "description": "",
       "discovery": "linkedin_guest_gcc",
       "search_role": "Fleet Operations Manager",
+      "search_market": "United Arab Emirates",
+      "coarse_score": 38
+    },
+    {
+      "title": "Fleet Supervisor ( Immediate Joiner)",
+      "company": "Al Shoumoukh Group",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "url": "https://ae.linkedin.com/jobs/view/fleet-supervisor-immediate-joiner-at-al-shoumoukh-group-4467361428",
+      "posted": "2026-09-21",
+      "source": "LinkedIn",
+      "description": "",
+      "discovery": "linkedin_guest_gcc",
+      "search_role": "Fleet Operations Manager",
+      "search_market": "United Arab Emirates",
+      "coarse_score": 38
+    },
+    {
+      "title": "Manager - Freighter Planning",
+      "company": "flydubai",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "url": "https://ae.linkedin.com/jobs/view/manager-freighter-planning-at-flydubai-4466066640",
+      "posted": "2026-09-11",
+      "source": "LinkedIn",
+      "description": "",
+      "discovery": "linkedin_guest_gcc",
+      "search_role": "Mobility Operations Manager",
       "search_market": "United Arab Emirates",
       "coarse_score": 38
     },
