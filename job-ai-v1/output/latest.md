@@ -1,44 +1,42 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-09-21T09:00:00Z
+Generated: 2026-09-22T10:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 41  
+**Relevant candidates reviewed:** 40  
 **Credible jobs:** 2  
 **Strong matches:** 2  
 **Executive/progression matches:** 2  
 **Auto-apply eligible:** 2  
 
-The candidate shows strong specialization in ride-hailing and fleet operations with 9 years of direct Dubai experience. Roles focused on fleet utilization, RTA compliance, and driver management align best with the candidate's core competencies.
+Candidate displays exceptional alignment with mobility and fleet-heavy operational roles in the GCC. The selection prioritizes fleet-centric management, ride-hailing/logistics experience, and scalability, filtering out non-transport industrial roles.
 
-## 1. Manager - Vehicle Operations — CargoX (88/100)
+## 1. Senior Operations Manager – Contract Logistics & Warehousing — THE C-SUITE & CO. (82/100)
 **Career progression:** 85/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Abu Dhabi Emirate, United Arab Emirates  
-**Vacancy:** https://ae.linkedin.com/jobs/view/manager-vehicle-operations-at-cargox-4467063061  
+**Location:** Dubai, United Arab Emirates  
+**Vacancy:** https://ae.linkedin.com/jobs/view/senior-operations-manager-%E2%80%93-contract-logistics-warehousing-at-the-c-suite-co-4462207852  
 
 **Why it fits**
-- Direct experience managing fleet operations and large driver workforces.
-- Matches the requirement for real-time dispatch and roster management.
-- Fits the profile of scaling a mobility operation in the UAE.
+- Direct alignment with senior-level operations management in Dubai
+- Experience in managing sizable teams and operational KPIs matches candidate's 10-year profile
+- Strong focus on cost control, resource planning, and service levels
 
 **Gaps / risks**
-- Role requires managing several hundred staff; current experience is 40 drivers.
-- Role involves 24/7 autonomous vehicle operations which is a new technical domain.
+- Focus is primarily on warehousing versus the candidate's core mobility/ride-hailing background
 
-## 2. Sr. Manager Logistics Operations — talabat (82/100)
-**Career progression:** 80/100  
+## 2. Operations Manager – Long-Term Rentals — Udrive (80/100)
+**Career progression:** 75/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Doha, Qatar  
-**Vacancy:** https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4464863447  
+**Location:** Dubai, United Arab Emirates  
+**Vacancy:** https://ae.linkedin.com/jobs/view/operations-manager-%E2%80%93-long-term-rentals-at-udrive-4463360917  
 
 **Why it fits**
-- Deep expertise in ride-hailing and fleet platforms.
-- Strong focus on rider supply ecosystem and fleet efficiency.
-- Excellent match for last-mile and supply chain operational KPIs.
+- Direct industry alignment with automotive rental and mobility
+- Matches candidate’s core strengths in fleet utilization, RTA compliance, and vehicle readiness
+- Located in Dubai where the candidate has 9 years of operational experience
 
 **Gaps / risks**
-- Relocation to Qatar required.
-- Role is a step up into a senior regional/country-wide management scope.
+- Potential slight downward shift in responsibility scope if the current role is strictly managerial
