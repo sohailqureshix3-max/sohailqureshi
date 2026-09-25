@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-24T10:00:00Z",
+  "generated_at": "2026-09-25T15:00:00Z",
   "summary": {
-    "notes": "Focused on roles requiring fleet management, driver operations, and multi-platform logistics/mobility expertise. Candidates with 10 years of experience, including 9 in Dubai transport, are best suited for operational leadership in regional mobility and last-mile delivery firms.",
-    "credible_jobs_found": 2,
-    "high_fit_count": 1,
+    "notes": "Candidates with 9+ years of UAE mobility/ride-hailing experience are prioritized. Focus narrowed to roles requiring fleet utilization, RTA compliance, and driver management. Roles in general construction/engineering logistics were filtered out to maintain industry relevance.",
+    "credible_jobs_found": 3,
+    "high_fit_count": 2,
     "watchlist_count": 0,
-    "executive_matches": 2,
-    "auto_apply_eligible": 2,
+    "executive_matches": 3,
+    "auto_apply_eligible": 3,
     "discovery_candidates_reviewed": 42,
     "searched_markets": [
       "Saudi Arabia",
@@ -31,48 +31,77 @@
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct experience with fleet operations, rider management, and platform logistics",
-        "Strong alignment with fleet utilization and KPI management skills",
-        "Experience with 3PL, compliance, and multi-platform operations"
+        "Direct alignment with ride-hailing and last-mile delivery operations",
+        "Expertise in fleet management, rider supply ecosystem, and 3PL performance management aligns perfectly with candidate's 9 years of UAE transport experience",
+        "Experience managing driver lifecycle and operational KPIs matches the requirement for high-volume dispatch oversight"
       ],
       "gaps_risks": [
-        "Candidate is based in Dubai, role is in Doha; relocation required"
+        "Requires relocation to Doha, Qatar",
+        "Talabat operational model is high-velocity; candidate must demonstrate agility in transitioning from chauffeured fleet to food-tech logistics"
       ],
-      "email_subject": "Operations Leadership: Leveraging 10 Years in UAE Mobility & Fleet Excellence",
-      "email_pitch": "With 9 years of direct experience in the Dubai mobility sector managing fleets and drivers across major platforms like Uber and Careem, I am confident in my ability to scale Talabat’s supply ecosystem and drive operational efficiency in Qatar.",
-      "linkedin_pitch": "I am an Operations Leader with 9+ years of experience in Dubai's mobility landscape. I've managed significant fleets and driver operations across major regional platforms and am eager to bring this expertise to Talabat's logistics operations in Doha.",
+      "email_subject": "Senior Operations Manager Application - Muhammad Sohail Ayub Qureshi",
+      "email_pitch": "Dear Hiring Team, With 10 years of operations experience, 9 of which are dedicated to the Dubai transport sector, I offer a deep background in fleet utilization and driver management. My expertise across platforms like Uber, Careem, and Yango, combined with strong RTA compliance knowledge, makes me an ideal fit to lead Talabat's logistics operations in Qatar.",
+      "linkedin_pitch": "Hi Talabat Team, I am a mobility operations specialist with 9 years of experience in the UAE fleet sector. My background in fleet management and RTA compliance directly supports your mission to optimize delivery operations in Qatar. I would love to discuss how I can scale your supply ecosystem.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
       "ranking_score": 87.4,
       "rank": 1
     },
     {
-      "job_title": "Senior Operations Manager – Contract Logistics & Warehousing",
-      "company": "THE C-SUITE & CO.",
-      "location": "Dubai, United Arab Emirates",
-      "fit_score": 76,
+      "job_title": "Operations Manager - Vehicle Distribution | Al-Futtaim Automotive | Logistics | Riyadh",
+      "company": "Al-Futtaim",
+      "location": "Riyadh, Riyadh, Saudi Arabia",
+      "fit_score": 82,
       "career_progression_score": 80,
       "live_confidence": "high",
-      "job_url": "https://ae.linkedin.com/jobs/view/senior-operations-manager-%E2%80%93-contract-logistics-warehousing-at-the-c-suite-co-4462207852",
+      "job_url": "https://sa.linkedin.com/jobs/view/operations-manager-vehicle-distribution-al-futtaim-automotive-logistics-riyadh-at-al-futtaim-4464364238",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Extensive experience in vehicle readiness and fleet management aligns with Al-Futtaim's automotive logistics needs",
+        "Proficiency in SOP development and budgeting directly addresses the requirements for cost control and management reporting",
+        "Professional familiarity with high-standard UAE/GCC automotive practices"
+      ],
+      "gaps_risks": [
+        "Requires relocation to Riyadh, KSA",
+        "Shift from ride-hailing/taxi fleet to automotive distribution logistics"
+      ],
+      "email_subject": "Operations Manager - Vehicle Distribution (Riyadh) - Muhammad Sohail Ayub Qureshi",
+      "email_pitch": "Dear Al-Futtaim Recruitment, Having spent 9 years managing fleet operations and driver dispatch in Dubai, I am eager to apply my expertise in vehicle readiness and fleet efficiency to your automotive logistics division in Riyadh. My experience with RTA compliance and complex budget control aligns with Al-Futtaim's commitment to operational excellence.",
+      "linkedin_pitch": "Dear Recruitment Team, I am an operations leader with 10 years of experience, specializing in fleet utilization and vehicle management. I am very interested in the Operations Manager role at Al-Futtaim and believe my extensive background in the GCC mobility sector makes me a strong candidate for your logistics division.",
+      "fit_tier": "strong",
+      "scoring_mode": "ai",
+      "ranking_score": 81.6,
+      "rank": 2
+    },
+    {
+      "job_title": "VP of Operational Excellence (Ports/Logistics)",
+      "company": "Mark Williams Recruitment",
+      "location": "Abu Dhabi Emirate, United Arab Emirates",
+      "fit_score": 76,
+      "career_progression_score": 90,
+      "live_confidence": "medium",
+      "job_url": "https://ae.linkedin.com/jobs/view/vp-of-operational-excellence-ports-logistics-at-mark-williams-recruitment-4471435148",
       "source": "LinkedIn",
       "industry_alignment": "adjacent",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Strong operational leadership background in high-volume environments",
-        "Extensive experience in cost control, budget management, and SOP development",
-        "Local UAE expertise aligns with firm requirements"
+        "The role requires hands-on operational exposure in transport and last mile",
+        "Strong focus on asset utilization and KPI frameworks matches candidate's core strengths",
+        "Experience in managing sizable teams and performance improvement initiatives"
       ],
       "gaps_risks": [
-        "Shift from mobility/taxi operations to pure warehouse/3PL logistics",
-        "Requires transition from fleet-based KPIs to WMS-heavy environment"
+        "Role is highly strategic; candidate's experience is heavily operational/tactical",
+        "Requires transition into an operating partner style role rather than day-to-day fleet management"
       ],
-      "email_subject": "Application for Senior Operations Manager - Logistics Expertise",
-      "email_pitch": "Having led fleet operations and logistics in the Dubai market for 9 years, I possess the advanced analytical skills and process-control expertise to optimize your contract logistics and warehousing performance.",
-      "linkedin_pitch": "I am an Operations leader with 10 years of experience in the UAE, specializing in fleet and process optimization. I am keen to discuss how my background in high-volume, performance-driven logistics can benefit your Dubai operation.",
+      "email_subject": "Application for VP of Operational Excellence - Muhammad Sohail Ayub Qureshi",
+      "email_pitch": "Dear Hiring Manager, I am writing to express my interest in the VP of Operational Excellence role. With 9 years of on-ground experience in Dubai’s transport and mobility sector, I have developed a strong track record of optimizing fleet utilization, cost control, and KPI management. I am prepared to apply this operational rigour to your logistics portfolio companies.",
+      "linkedin_pitch": "I am a mobility operations professional with 9 years of GCC-based experience. I have been following your efforts to enhance operational performance in the logistics space and would appreciate a conversation about how my background in fleet utilization and performance management can contribute to your investment platform.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 76.8,
-      "rank": 2
+      "ranking_score": 78.8,
+      "rank": 3
     }
   ]
 }
