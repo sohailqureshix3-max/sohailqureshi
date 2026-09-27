@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-26T10:00:00Z",
+  "generated_at": "2026-09-27T10:00:00Z",
   "summary": {
-    "notes": "Candidate displays exceptional alignment with high-volume fleet operations and RTA compliance. Selection focused on roles emphasizing fleet management, mobility platform expertise, and operational KPIs, filtering out irrelevant sectors like construction or non-transport logistics.",
+    "notes": "Candidate displays exceptional alignment with mobility and fleet-platform operations, specifically in the UAE/Saudi markets. High-scoring roles emphasize fleet management, driver operations, and logistics efficiency. Lower-scoring roles were excluded for lack of relevance or industry mismatch.",
     "credible_jobs_found": 2,
     "high_fit_count": 1,
     "watchlist_count": 0,
-    "executive_matches": 1,
+    "executive_matches": 2,
     "auto_apply_eligible": 2,
     "discovery_candidates_reviewed": 34,
     "searched_markets": [
@@ -20,57 +20,57 @@
   },
   "jobs": [
     {
+      "job_title": "Logistics Operations Manager",
+      "company": "Company",
+      "location": "Jeddah, Makkah, Saudi Arabia",
+      "fit_score": 88,
+      "career_progression_score": 85,
+      "live_confidence": "high",
+      "job_url": "https://sa.linkedin.com/jobs/view/logistics-operations-manager-4470597274",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Direct experience managing fleets, drivers, and daily transportation trips.",
+        "Perfect match with candidate's expertise in KPI analysis, cost control, and fleet readiness.",
+        "Aligns with the priority of expanding mobility and logistics operations in the Saudi market."
+      ],
+      "gaps_risks": [
+        "Requires relocation to Jeddah, though candidate has extensive GCC experience."
+      ],
+      "email_subject": "Operations Leadership | Fleet & Logistics Manager | Muhammad Qureshi",
+      "email_pitch": "Dear Hiring Manager, With 10 years of experience in GCC fleet and mobility operations, including 9 years in Dubai's competitive transport sector, I am confident in my ability to scale your logistics operations in Jeddah. I have managed fleets of 30+ vehicles and 40+ drivers across platforms like Uber and Careem, with a focus on cost efficiency and RTA-standard compliance.",
+      "linkedin_pitch": "I am interested in your Logistics Operations Manager position in Jeddah. My background in managing multi-platform fleet operations and drivers in the UAE aligns perfectly with your requirements for driver performance management and operational cost control.",
+      "fit_tier": "strong",
+      "scoring_mode": "ai",
+      "ranking_score": 87.4,
+      "rank": 1
+    },
+    {
       "job_title": "Senior Operations Manager – Contract Logistics & Warehousing",
       "company": "THE C-SUITE & CO.",
       "location": "Dubai, United Arab Emirates",
-      "fit_score": 82,
-      "career_progression_score": 85,
-      "live_confidence": "high",
+      "fit_score": 78,
+      "career_progression_score": 80,
+      "live_confidence": "medium",
       "job_url": "https://ae.linkedin.com/jobs/view/senior-operations-manager-%E2%80%93-contract-logistics-warehousing-at-the-c-suite-co-4462207852",
       "source": "LinkedIn",
       "industry_alignment": "adjacent",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Strong alignment with 10 years of operations management experience",
-        "Direct experience managing sizable teams and operational KPIs",
-        "Focus on cost control and process improvement matches candidate strengths"
+        "Strong track record in operational performance, KPI management, and cost control.",
+        "Management of sizeable teams and complex operational workflows.",
+        "Deep familiarity with UAE-based logistics and compliance."
       ],
       "gaps_risks": [
-        "Primary experience is in passenger mobility/fleet rather than warehouse-centric logistics"
+        "Focus is on warehousing/3PL rather than passenger mobility, though operational principles are highly transferable."
       ],
-      "email_subject": "Operations Leadership: Leveraging 10 Years Fleet & Logistics Expertise",
-      "email_pitch": "Dear Hiring Manager, I am writing to express my interest in the Senior Operations Manager role. With 9 years of direct experience in Dubai's transport sector managing 40 drivers and 30 vehicles, I possess a deep understanding of operational efficiency and compliance. My background in fleet optimization, budgetary control, and KPI management aligns perfectly with the requirements for driving productivity in this complex 3PL environment.",
-      "linkedin_pitch": "I've been following your search for a Senior Operations Manager in Dubai. With 10 years of experience, including 9 in the Dubai mobility sector managing extensive fleet operations, I believe my background in driving operational performance and cost control would add immediate value to your logistics team.",
-      "fit_tier": "strong",
-      "scoring_mode": "ai",
-      "ranking_score": 82.6,
-      "rank": 1
-    },
-    {
-      "job_title": "VP of Operational Excellence (Ports/Logistics)",
-      "company": "Mark Williams Recruitment",
-      "location": "Abu Dhabi Emirate, United Arab Emirates",
-      "fit_score": 76,
-      "career_progression_score": 70,
-      "live_confidence": "medium",
-      "job_url": "https://ae.linkedin.com/jobs/view/vp-of-operational-excellence-ports-logistics-at-mark-williams-recruitment-4471435148",
-      "source": "LinkedIn",
-      "industry_alignment": "clear",
-      "auto_apply_eligible": true,
-      "why_fit": [
-        "Directly seeks expertise in last-mile and transport operational improvement",
-        "Candidate has deep knowledge of platform-based mobility, which is highly relevant to this role",
-        "Strong focus on KPIs and asset utilization"
-      ],
-      "gaps_risks": [
-        "The seniority level may be a stretch; typically expects prior executive-level portfolio exposure"
-      ],
-      "email_subject": "Operational Excellence Candidate - Mobility & Fleet Strategy",
-      "email_pitch": "Dear Recruiting Team, I am interested in the VP of Operational Excellence role. My 9-year tenure in the UAE mobility sector, specifically managing multi-platform fleets and driver operations, has equipped me with the ability to turn complex operational data into actionable performance improvements. I am confident in my ability to manage operational KPIs and drive efficiency for your investment platform.",
-      "linkedin_pitch": "I am interested in your search for a VP of Operational Excellence. My background in managing multi-platform mobility fleets in the UAE and my expertise in building operational reporting frameworks align well with your focus on logistics performance.",
+      "email_subject": "Senior Operations Manager Application | Muhammad Qureshi",
+      "email_pitch": "Dear Hiring Manager, As a Dubai-based Operations Leader with 10 years of expertise in fleet and logistics, I have a proven track record in optimizing operational efficiency and managing high-performing teams. My experience in managing budgets, KPIs, and complex SOPs makes me a strong fit for your Senior Operations Manager role.",
+      "linkedin_pitch": "I am interested in the Senior Operations Manager role at The C-Suite & Co. My background in managing complex fleet operations and logistics in the UAE directly supports the core operational and leadership requirements of this position.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 74.8,
+      "ranking_score": 78.4,
       "rank": 2
     }
   ]

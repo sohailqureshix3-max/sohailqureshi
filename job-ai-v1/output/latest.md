@@ -1,42 +1,42 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-09-26T10:00:00Z
+Generated: 2026-09-27T10:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
 **Relevant candidates reviewed:** 34  
 **Credible jobs:** 2  
 **Strong matches:** 1  
-**Executive/progression matches:** 1  
+**Executive/progression matches:** 2  
 **Auto-apply eligible:** 2  
 
-Candidate displays exceptional alignment with high-volume fleet operations and RTA compliance. Selection focused on roles emphasizing fleet management, mobility platform expertise, and operational KPIs, filtering out irrelevant sectors like construction or non-transport logistics.
+Candidate displays exceptional alignment with mobility and fleet-platform operations, specifically in the UAE/Saudi markets. High-scoring roles emphasize fleet management, driver operations, and logistics efficiency. Lower-scoring roles were excluded for lack of relevance or industry mismatch.
 
-## 1. Senior Operations Manager – Contract Logistics & Warehousing — THE C-SUITE & CO. (82/100)
+## 1. Logistics Operations Manager — Company (88/100)
 **Career progression:** 85/100  
+**Auto-apply eligible:** True  
+**Scoring:** ai  
+**Location:** Jeddah, Makkah, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/logistics-operations-manager-4470597274  
+
+**Why it fits**
+- Direct experience managing fleets, drivers, and daily transportation trips.
+- Perfect match with candidate's expertise in KPI analysis, cost control, and fleet readiness.
+- Aligns with the priority of expanding mobility and logistics operations in the Saudi market.
+
+**Gaps / risks**
+- Requires relocation to Jeddah, though candidate has extensive GCC experience.
+
+## 2. Senior Operations Manager – Contract Logistics & Warehousing — THE C-SUITE & CO. (78/100)
+**Career progression:** 80/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
 **Location:** Dubai, United Arab Emirates  
 **Vacancy:** https://ae.linkedin.com/jobs/view/senior-operations-manager-%E2%80%93-contract-logistics-warehousing-at-the-c-suite-co-4462207852  
 
 **Why it fits**
-- Strong alignment with 10 years of operations management experience
-- Direct experience managing sizable teams and operational KPIs
-- Focus on cost control and process improvement matches candidate strengths
+- Strong track record in operational performance, KPI management, and cost control.
+- Management of sizeable teams and complex operational workflows.
+- Deep familiarity with UAE-based logistics and compliance.
 
 **Gaps / risks**
-- Primary experience is in passenger mobility/fleet rather than warehouse-centric logistics
-
-## 2. VP of Operational Excellence (Ports/Logistics) — Mark Williams Recruitment (76/100)
-**Career progression:** 70/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Abu Dhabi Emirate, United Arab Emirates  
-**Vacancy:** https://ae.linkedin.com/jobs/view/vp-of-operational-excellence-ports-logistics-at-mark-williams-recruitment-4471435148  
-
-**Why it fits**
-- Directly seeks expertise in last-mile and transport operational improvement
-- Candidate has deep knowledge of platform-based mobility, which is highly relevant to this role
-- Strong focus on KPIs and asset utilization
-
-**Gaps / risks**
-- The seniority level may be a stretch; typically expects prior executive-level portfolio exposure
+- Focus is on warehousing/3PL rather than passenger mobility, though operational principles are highly transferable.
