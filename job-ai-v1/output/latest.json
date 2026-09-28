@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-27T10:00:00Z",
+  "generated_at": "2026-09-28T00:00:00Z",
   "summary": {
-    "notes": "Candidate displays exceptional alignment with mobility and fleet-platform operations, specifically in the UAE/Saudi markets. High-scoring roles emphasize fleet management, driver operations, and logistics efficiency. Lower-scoring roles were excluded for lack of relevance or industry mismatch.",
-    "credible_jobs_found": 2,
-    "high_fit_count": 1,
+    "notes": "Candidate displays strong operational, fleet, and mobility expertise directly applicable to GCC logistics and last-mile platforms. Selected roles align with his 9 years of Dubai transport experience and management of fleets and drivers.",
+    "credible_jobs_found": 3,
+    "high_fit_count": 2,
     "watchlist_count": 0,
-    "executive_matches": 2,
-    "auto_apply_eligible": 2,
-    "discovery_candidates_reviewed": 34,
+    "executive_matches": 3,
+    "auto_apply_eligible": 3,
+    "discovery_candidates_reviewed": 32,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,58 +20,86 @@
   },
   "jobs": [
     {
-      "job_title": "Logistics Operations Manager",
-      "company": "Company",
-      "location": "Jeddah, Makkah, Saudi Arabia",
-      "fit_score": 88,
+      "job_title": "Sr. Manager Logistics Operations",
+      "company": "talabat",
+      "location": "Doha, Qatar",
+      "fit_score": 92,
       "career_progression_score": 85,
       "live_confidence": "high",
-      "job_url": "https://sa.linkedin.com/jobs/view/logistics-operations-manager-4470597274",
+      "job_url": "https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4464863447",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct experience managing fleets, drivers, and daily transportation trips.",
-        "Perfect match with candidate's expertise in KPI analysis, cost control, and fleet readiness.",
-        "Aligns with the priority of expanding mobility and logistics operations in the Saudi market."
+        "Direct alignment with fleet management and rider supply ecosystems.",
+        "Candidate's experience with Uber/Careem/Yango maps perfectly to the FoodTech logistics sector.",
+        "Matches the requirement for 3PL partnership management and operational KPI control."
       ],
       "gaps_risks": [
-        "Requires relocation to Jeddah, though candidate has extensive GCC experience."
+        "Geographic relocation to Qatar required."
       ],
-      "email_subject": "Operations Leadership | Fleet & Logistics Manager | Muhammad Qureshi",
-      "email_pitch": "Dear Hiring Manager, With 10 years of experience in GCC fleet and mobility operations, including 9 years in Dubai's competitive transport sector, I am confident in my ability to scale your logistics operations in Jeddah. I have managed fleets of 30+ vehicles and 40+ drivers across platforms like Uber and Careem, with a focus on cost efficiency and RTA-standard compliance.",
-      "linkedin_pitch": "I am interested in your Logistics Operations Manager position in Jeddah. My background in managing multi-platform fleet operations and drivers in the UAE aligns perfectly with your requirements for driver performance management and operational cost control.",
+      "email_subject": "Operations Leadership: Leveraging 10 years of mobility & fleet management",
+      "email_pitch": "Dear Hiring Team, with 10 years in UAE transportation and deep expertise in platform management (Uber, Careem, Yango), I am uniquely positioned to scale Talabat Qatar's supply ecosystem. My track record in fleet utilization and driver lifecycle management directly addresses your requirements for operational efficiency and 3PL performance.",
+      "linkedin_pitch": "Talabat's focus on sustainable, high-performing fleet operations is exactly where I thrive. Having spent 9 years scaling Dubai's mobility landscape, I would welcome the chance to apply my expertise in rider supply growth and operational KPIs to your Qatar team.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 87.4,
+      "ranking_score": 90.6,
       "rank": 1
     },
     {
-      "job_title": "Senior Operations Manager – Contract Logistics & Warehousing",
-      "company": "THE C-SUITE & CO.",
-      "location": "Dubai, United Arab Emirates",
-      "fit_score": 78,
-      "career_progression_score": 80,
-      "live_confidence": "medium",
-      "job_url": "https://ae.linkedin.com/jobs/view/senior-operations-manager-%E2%80%93-contract-logistics-warehousing-at-the-c-suite-co-4462207852",
+      "job_title": "Manager Logistics Performance",
+      "company": "talabat",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "fit_score": 88,
+      "career_progression_score": 75,
+      "live_confidence": "high",
+      "job_url": "https://ae.linkedin.com/jobs/view/manager-logistics-performance-at-talabat-4440740657",
       "source": "LinkedIn",
-      "industry_alignment": "adjacent",
+      "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Strong track record in operational performance, KPI management, and cost control.",
-        "Management of sizeable teams and complex operational workflows.",
-        "Deep familiarity with UAE-based logistics and compliance."
+        "Strong overlap in operational commercials, KPI reporting, and P&L ownership.",
+        "Proven background in optimizing rider economics and operational efficiency.",
+        "Local Dubai base facilitates immediate transition."
       ],
       "gaps_risks": [
-        "Focus is on warehousing/3PL rather than passenger mobility, though operational principles are highly transferable."
+        "Requires transition from frontline fleet execution to high-level commercial performance management."
       ],
-      "email_subject": "Senior Operations Manager Application | Muhammad Qureshi",
-      "email_pitch": "Dear Hiring Manager, As a Dubai-based Operations Leader with 10 years of expertise in fleet and logistics, I have a proven track record in optimizing operational efficiency and managing high-performing teams. My experience in managing budgets, KPIs, and complex SOPs makes me a strong fit for your Senior Operations Manager role.",
-      "linkedin_pitch": "I am interested in the Senior Operations Manager role at The C-Suite & Co. My background in managing complex fleet operations and logistics in the UAE directly supports the core operational and leadership requirements of this position.",
+      "email_subject": "Operations & Commercial Performance Lead",
+      "email_pitch": "With a decade of experience managing operational KPIs and fleet budgets in the Dubai transport sector, I am confident in my ability to drive commercial efficiency for Talabat UAE. My hands-on work with trip reconciliation and cost control aligns with your need for a performance-focused manager.",
+      "linkedin_pitch": "Your search for a manager to own operational commercials resonates with my experience at the intersection of fleet management and financial reporting. I'd love to discuss how I can optimize the UAE logistics performance layer.",
+      "fit_tier": "strong",
+      "scoring_mode": "ai",
+      "ranking_score": 85.4,
+      "rank": 2
+    },
+    {
+      "job_title": "Operations Manager - Vehicle Distribution | Al-Futtaim Automotive | Logistics | Riyadh",
+      "company": "Al-Futtaim",
+      "location": "Riyadh, Saudi Arabia",
+      "fit_score": 78,
+      "career_progression_score": 80,
+      "live_confidence": "high",
+      "job_url": "https://sa.linkedin.com/jobs/view/operations-manager-vehicle-distribution-al-futtaim-automotive-logistics-riyadh-at-al-futtaim-4464364238",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Proven ability to manage vehicle readiness, SOP development, and P&L.",
+        "Direct experience with regulatory compliance and fleet reporting.",
+        "Well-suited for Al-Futtaim's automotive logistics scope."
+      ],
+      "gaps_risks": [
+        "Requires deep familiarity with KSA regulatory frameworks.",
+        "Candidate currently based in UAE."
+      ],
+      "email_subject": "Operations Manager - Vehicle Distribution: Mobility & Fleet Expert",
+      "email_pitch": "My background in UAE automotive fleet operations and RTA compliance prepares me well for Al-Futtaim's distribution needs in KSA. I have a proven ability to lead teams, optimize logistics, and drive cost control through rigorous financial and process management.",
+      "linkedin_pitch": "I've followed Al-Futtaim's growth in KSA and am interested in the Operations Manager role. My 9 years of fleet management in Dubai has prepared me for high-scale vehicle distribution and the rigors of operational SOPs.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
       "ranking_score": 78.4,
-      "rank": 2
+      "rank": 3
     }
   ]
 }

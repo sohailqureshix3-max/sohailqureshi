@@ -1,42 +1,58 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-09-27T10:00:00Z
+Generated: 2026-09-28T00:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 34  
-**Credible jobs:** 2  
-**Strong matches:** 1  
-**Executive/progression matches:** 2  
-**Auto-apply eligible:** 2  
+**Relevant candidates reviewed:** 32  
+**Credible jobs:** 3  
+**Strong matches:** 2  
+**Executive/progression matches:** 3  
+**Auto-apply eligible:** 3  
 
-Candidate displays exceptional alignment with mobility and fleet-platform operations, specifically in the UAE/Saudi markets. High-scoring roles emphasize fleet management, driver operations, and logistics efficiency. Lower-scoring roles were excluded for lack of relevance or industry mismatch.
+Candidate displays strong operational, fleet, and mobility expertise directly applicable to GCC logistics and last-mile platforms. Selected roles align with his 9 years of Dubai transport experience and management of fleets and drivers.
 
-## 1. Logistics Operations Manager — Company (88/100)
+## 1. Sr. Manager Logistics Operations — talabat (92/100)
 **Career progression:** 85/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Jeddah, Makkah, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/logistics-operations-manager-4470597274  
+**Location:** Doha, Qatar  
+**Vacancy:** https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4464863447  
 
 **Why it fits**
-- Direct experience managing fleets, drivers, and daily transportation trips.
-- Perfect match with candidate's expertise in KPI analysis, cost control, and fleet readiness.
-- Aligns with the priority of expanding mobility and logistics operations in the Saudi market.
+- Direct alignment with fleet management and rider supply ecosystems.
+- Candidate's experience with Uber/Careem/Yango maps perfectly to the FoodTech logistics sector.
+- Matches the requirement for 3PL partnership management and operational KPI control.
 
 **Gaps / risks**
-- Requires relocation to Jeddah, though candidate has extensive GCC experience.
+- Geographic relocation to Qatar required.
 
-## 2. Senior Operations Manager – Contract Logistics & Warehousing — THE C-SUITE & CO. (78/100)
+## 2. Manager Logistics Performance — talabat (88/100)
+**Career progression:** 75/100  
+**Auto-apply eligible:** True  
+**Scoring:** ai  
+**Location:** Dubai, Dubai, United Arab Emirates  
+**Vacancy:** https://ae.linkedin.com/jobs/view/manager-logistics-performance-at-talabat-4440740657  
+
+**Why it fits**
+- Strong overlap in operational commercials, KPI reporting, and P&L ownership.
+- Proven background in optimizing rider economics and operational efficiency.
+- Local Dubai base facilitates immediate transition.
+
+**Gaps / risks**
+- Requires transition from frontline fleet execution to high-level commercial performance management.
+
+## 3. Operations Manager - Vehicle Distribution | Al-Futtaim Automotive | Logistics | Riyadh — Al-Futtaim (78/100)
 **Career progression:** 80/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Dubai, United Arab Emirates  
-**Vacancy:** https://ae.linkedin.com/jobs/view/senior-operations-manager-%E2%80%93-contract-logistics-warehousing-at-the-c-suite-co-4462207852  
+**Location:** Riyadh, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/operations-manager-vehicle-distribution-al-futtaim-automotive-logistics-riyadh-at-al-futtaim-4464364238  
 
 **Why it fits**
-- Strong track record in operational performance, KPI management, and cost control.
-- Management of sizeable teams and complex operational workflows.
-- Deep familiarity with UAE-based logistics and compliance.
+- Proven ability to manage vehicle readiness, SOP development, and P&L.
+- Direct experience with regulatory compliance and fleet reporting.
+- Well-suited for Al-Futtaim's automotive logistics scope.
 
 **Gaps / risks**
-- Focus is on warehousing/3PL rather than passenger mobility, though operational principles are highly transferable.
+- Requires deep familiarity with KSA regulatory frameworks.
+- Candidate currently based in UAE.
