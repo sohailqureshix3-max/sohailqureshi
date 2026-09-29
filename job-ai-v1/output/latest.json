@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-28T00:00:00Z",
+  "generated_at": "2026-09-29T14:30:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational, fleet, and mobility expertise directly applicable to GCC logistics and last-mile platforms. Selected roles align with his 9 years of Dubai transport experience and management of fleets and drivers.",
+    "notes": "Candidate Muhammad Sohail Ayub Qureshi presents a strong niche expertise in GCC ride-hailing, fleet management, and platform operations. Highest suitability identified in roles focusing on mobility and fleet scaling rather than heavy industrial logistics.",
     "credible_jobs_found": 3,
     "high_fit_count": 2,
     "watchlist_count": 0,
     "executive_matches": 3,
     "auto_apply_eligible": 3,
-    "discovery_candidates_reviewed": 32,
+    "discovery_candidates_reviewed": 37,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,85 +20,84 @@
   },
   "jobs": [
     {
-      "job_title": "Sr. Manager Logistics Operations",
-      "company": "talabat",
+      "job_title": "Business Unit Manager – Corporate Leasing & Mobility",
+      "company": "Swan Global",
       "location": "Doha, Qatar",
-      "fit_score": 92,
-      "career_progression_score": 85,
+      "fit_score": 85,
+      "career_progression_score": 90,
       "live_confidence": "high",
-      "job_url": "https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4464863447",
+      "job_url": "https://qa.linkedin.com/jobs/view/business-unit-manager-%E2%80%93-corporate-leasing-mobility-at-swan-global-4470853927",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct alignment with fleet management and rider supply ecosystems.",
-        "Candidate's experience with Uber/Careem/Yango maps perfectly to the FoodTech logistics sector.",
-        "Matches the requirement for 3PL partnership management and operational KPI control."
+        "Perfect alignment with core competency in mobility and fleet management.",
+        "Matches 9 years of specific regional transport operational experience.",
+        "Strong fit for business unit leadership given track record of managing 40 drivers and 30 vehicles."
       ],
       "gaps_risks": [
-        "Geographic relocation to Qatar required."
+        "Requires relocation to Qatar."
       ],
-      "email_subject": "Operations Leadership: Leveraging 10 years of mobility & fleet management",
-      "email_pitch": "Dear Hiring Team, with 10 years in UAE transportation and deep expertise in platform management (Uber, Careem, Yango), I am uniquely positioned to scale Talabat Qatar's supply ecosystem. My track record in fleet utilization and driver lifecycle management directly addresses your requirements for operational efficiency and 3PL performance.",
-      "linkedin_pitch": "Talabat's focus on sustainable, high-performing fleet operations is exactly where I thrive. Having spent 9 years scaling Dubai's mobility landscape, I would welcome the chance to apply my expertise in rider supply growth and operational KPIs to your Qatar team.",
+      "email_subject": "Operations Leadership: Mobility & Fleet Expert (9 Years Regional Exp)",
+      "email_pitch": "Dear Hiring Manager, With 9 years of mobility and fleet operations leadership in the UAE, I have managed 40 drivers and 30 vehicles across major platforms like Uber, Careem, and Yango. I specialize in RTA compliance, fleet utilization, and operational cost control, making me an ideal fit for the Business Unit Manager role at Swan Global.",
+      "linkedin_pitch": "I have followed Swan Global's mobility initiatives and believe my 9 years of direct UAE transport experience aligns perfectly with your Business Unit Manager vacancy. I have extensive experience optimizing fleet performance and driver operations across major regional platforms.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 90.6,
+      "ranking_score": 86.0,
       "rank": 1
     },
     {
-      "job_title": "Manager Logistics Performance",
-      "company": "talabat",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "fit_score": 88,
-      "career_progression_score": 75,
+      "job_title": "Limousine Branch Manager",
+      "company": "Tawasul Transport L.L.C",
+      "location": "Abu Dhabi, United Arab Emirates",
+      "fit_score": 82,
+      "career_progression_score": 80,
       "live_confidence": "high",
-      "job_url": "https://ae.linkedin.com/jobs/view/manager-logistics-performance-at-talabat-4440740657",
+      "job_url": "https://ae.linkedin.com/jobs/view/limousine-branch-manager-at-tawasul-transport-l-l-c-4470862424",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Strong overlap in operational commercials, KPI reporting, and P&L ownership.",
-        "Proven background in optimizing rider economics and operational efficiency.",
-        "Local Dubai base facilitates immediate transition."
+        "Strong experience with chauffeur/limousine platforms (e.g., Wheely).",
+        "Directly relevant to UAE transport regulations and local fleet management requirements.",
+        "Proven history of managing driver scheduling, dispatch, and compliance."
       ],
       "gaps_risks": [
-        "Requires transition from frontline fleet execution to high-level commercial performance management."
+        "Transitioning from tech-led platforms to a traditional limousine branch model."
       ],
-      "email_subject": "Operations & Commercial Performance Lead",
-      "email_pitch": "With a decade of experience managing operational KPIs and fleet budgets in the Dubai transport sector, I am confident in my ability to drive commercial efficiency for Talabat UAE. My hands-on work with trip reconciliation and cost control aligns with your need for a performance-focused manager.",
-      "linkedin_pitch": "Your search for a manager to own operational commercials resonates with my experience at the intersection of fleet management and financial reporting. I'd love to discuss how I can optimize the UAE logistics performance layer.",
+      "email_subject": "Application: Limousine Branch Manager - Muhammad Qureshi",
+      "email_pitch": "I am writing to express my interest in the Limousine Branch Manager position at Tawasul Transport. With 9 years of experience managing fleet operations in the UAE, including expertise in driver dispatch, training, and RTA compliance, I am confident in my ability to enhance operational efficiency and fleet readiness for your branch.",
+      "linkedin_pitch": "Your Limousine Branch Manager vacancy aligns closely with my background in UAE fleet operations and driver management. I have successfully scaled operations across seven mobility platforms and am looking to leverage this expertise at Tawasul Transport.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 85.4,
+      "ranking_score": 81.6,
       "rank": 2
     },
     {
-      "job_title": "Operations Manager - Vehicle Distribution | Al-Futtaim Automotive | Logistics | Riyadh",
-      "company": "Al-Futtaim",
-      "location": "Riyadh, Saudi Arabia",
-      "fit_score": 78,
-      "career_progression_score": 80,
-      "live_confidence": "high",
-      "job_url": "https://sa.linkedin.com/jobs/view/operations-manager-vehicle-distribution-al-futtaim-automotive-logistics-riyadh-at-al-futtaim-4464364238",
+      "job_title": "Manager - Vehicle Operations",
+      "company": "CargoX",
+      "location": "Abu Dhabi Emirate, United Arab Emirates",
+      "fit_score": 76,
+      "career_progression_score": 75,
+      "live_confidence": "medium",
+      "job_url": "https://ae.linkedin.com/jobs/view/manager-vehicle-operations-at-cargox-4467063061",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Proven ability to manage vehicle readiness, SOP development, and P&L.",
-        "Direct experience with regulatory compliance and fleet reporting.",
-        "Well-suited for Al-Futtaim's automotive logistics scope."
+        "Relevant experience in vehicle readiness and fleet maintenance.",
+        "Strong background in KPI reporting and process control.",
+        "Direct experience within the UAE transport landscape."
       ],
       "gaps_risks": [
-        "Requires deep familiarity with KSA regulatory frameworks.",
-        "Candidate currently based in UAE."
+        "CargoX may focus more on heavy logistics than the candidate's passenger mobility experience."
       ],
-      "email_subject": "Operations Manager - Vehicle Distribution: Mobility & Fleet Expert",
-      "email_pitch": "My background in UAE automotive fleet operations and RTA compliance prepares me well for Al-Futtaim's distribution needs in KSA. I have a proven ability to lead teams, optimize logistics, and drive cost control through rigorous financial and process management.",
-      "linkedin_pitch": "I've followed Al-Futtaim's growth in KSA and am interested in the Operations Manager role. My 9 years of fleet management in Dubai has prepared me for high-scale vehicle distribution and the rigors of operational SOPs.",
+      "email_subject": "Operations Professional: Vehicle & Fleet Manager",
+      "email_pitch": "Dear Hiring Team, I am an Operations leader with 9 years of regional experience in fleet management and vehicle readiness. My expertise in SOP development and operational KPI reporting makes me a strong fit for your Manager - Vehicle Operations role.",
+      "linkedin_pitch": "I am interested in your Vehicle Operations Manager position. With 9 years of experience in the UAE transport sector managing fleet utilization and performance, I am eager to apply my background in operations control to CargoX.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 78.4,
+      "ranking_score": 75.8,
       "rank": 3
     }
   ]

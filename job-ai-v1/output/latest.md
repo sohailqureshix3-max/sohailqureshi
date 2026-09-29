@@ -1,58 +1,57 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-09-28T00:00:00Z
+Generated: 2026-09-29T14:30:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 32  
+**Relevant candidates reviewed:** 37  
 **Credible jobs:** 3  
 **Strong matches:** 2  
 **Executive/progression matches:** 3  
 **Auto-apply eligible:** 3  
 
-Candidate displays strong operational, fleet, and mobility expertise directly applicable to GCC logistics and last-mile platforms. Selected roles align with his 9 years of Dubai transport experience and management of fleets and drivers.
+Candidate Muhammad Sohail Ayub Qureshi presents a strong niche expertise in GCC ride-hailing, fleet management, and platform operations. Highest suitability identified in roles focusing on mobility and fleet scaling rather than heavy industrial logistics.
 
-## 1. Sr. Manager Logistics Operations — talabat (92/100)
-**Career progression:** 85/100  
+## 1. Business Unit Manager – Corporate Leasing & Mobility — Swan Global (85/100)
+**Career progression:** 90/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
 **Location:** Doha, Qatar  
-**Vacancy:** https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4464863447  
+**Vacancy:** https://qa.linkedin.com/jobs/view/business-unit-manager-%E2%80%93-corporate-leasing-mobility-at-swan-global-4470853927  
 
 **Why it fits**
-- Direct alignment with fleet management and rider supply ecosystems.
-- Candidate's experience with Uber/Careem/Yango maps perfectly to the FoodTech logistics sector.
-- Matches the requirement for 3PL partnership management and operational KPI control.
+- Perfect alignment with core competency in mobility and fleet management.
+- Matches 9 years of specific regional transport operational experience.
+- Strong fit for business unit leadership given track record of managing 40 drivers and 30 vehicles.
 
 **Gaps / risks**
-- Geographic relocation to Qatar required.
+- Requires relocation to Qatar.
 
-## 2. Manager Logistics Performance — talabat (88/100)
-**Career progression:** 75/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Dubai, Dubai, United Arab Emirates  
-**Vacancy:** https://ae.linkedin.com/jobs/view/manager-logistics-performance-at-talabat-4440740657  
-
-**Why it fits**
-- Strong overlap in operational commercials, KPI reporting, and P&L ownership.
-- Proven background in optimizing rider economics and operational efficiency.
-- Local Dubai base facilitates immediate transition.
-
-**Gaps / risks**
-- Requires transition from frontline fleet execution to high-level commercial performance management.
-
-## 3. Operations Manager - Vehicle Distribution | Al-Futtaim Automotive | Logistics | Riyadh — Al-Futtaim (78/100)
+## 2. Limousine Branch Manager — Tawasul Transport L.L.C (82/100)
 **Career progression:** 80/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Riyadh, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/operations-manager-vehicle-distribution-al-futtaim-automotive-logistics-riyadh-at-al-futtaim-4464364238  
+**Location:** Abu Dhabi, United Arab Emirates  
+**Vacancy:** https://ae.linkedin.com/jobs/view/limousine-branch-manager-at-tawasul-transport-l-l-c-4470862424  
 
 **Why it fits**
-- Proven ability to manage vehicle readiness, SOP development, and P&L.
-- Direct experience with regulatory compliance and fleet reporting.
-- Well-suited for Al-Futtaim's automotive logistics scope.
+- Strong experience with chauffeur/limousine platforms (e.g., Wheely).
+- Directly relevant to UAE transport regulations and local fleet management requirements.
+- Proven history of managing driver scheduling, dispatch, and compliance.
 
 **Gaps / risks**
-- Requires deep familiarity with KSA regulatory frameworks.
-- Candidate currently based in UAE.
+- Transitioning from tech-led platforms to a traditional limousine branch model.
+
+## 3. Manager - Vehicle Operations — CargoX (76/100)
+**Career progression:** 75/100  
+**Auto-apply eligible:** True  
+**Scoring:** ai  
+**Location:** Abu Dhabi Emirate, United Arab Emirates  
+**Vacancy:** https://ae.linkedin.com/jobs/view/manager-vehicle-operations-at-cargox-4467063061  
+
+**Why it fits**
+- Relevant experience in vehicle readiness and fleet maintenance.
+- Strong background in KPI reporting and process control.
+- Direct experience within the UAE transport landscape.
+
+**Gaps / risks**
+- CargoX may focus more on heavy logistics than the candidate's passenger mobility experience.
