@@ -1,57 +1,57 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-09-29T14:30:00Z
+Generated: 2026-09-30T09:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 37  
+**Relevant candidates reviewed:** 36  
 **Credible jobs:** 3  
-**Strong matches:** 2  
-**Executive/progression matches:** 3  
-**Auto-apply eligible:** 3  
+**Strong matches:** 1  
+**Executive/progression matches:** 2  
+**Auto-apply eligible:** 2  
 
-Candidate Muhammad Sohail Ayub Qureshi presents a strong niche expertise in GCC ride-hailing, fleet management, and platform operations. Highest suitability identified in roles focusing on mobility and fleet scaling rather than heavy industrial logistics.
+Candidate displays strong operational expertise in Dubai transport and ride-hailing fleet management. Jobs filtered for high relevance to mobility and logistics operations. Only roles with clear fleet/mobility alignment were selected.
 
-## 1. Business Unit Manager – Corporate Leasing & Mobility — Swan Global (85/100)
-**Career progression:** 90/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Doha, Qatar  
-**Vacancy:** https://qa.linkedin.com/jobs/view/business-unit-manager-%E2%80%93-corporate-leasing-mobility-at-swan-global-4470853927  
-
-**Why it fits**
-- Perfect alignment with core competency in mobility and fleet management.
-- Matches 9 years of specific regional transport operational experience.
-- Strong fit for business unit leadership given track record of managing 40 drivers and 30 vehicles.
-
-**Gaps / risks**
-- Requires relocation to Qatar.
-
-## 2. Limousine Branch Manager — Tawasul Transport L.L.C (82/100)
-**Career progression:** 80/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Abu Dhabi, United Arab Emirates  
-**Vacancy:** https://ae.linkedin.com/jobs/view/limousine-branch-manager-at-tawasul-transport-l-l-c-4470862424  
-
-**Why it fits**
-- Strong experience with chauffeur/limousine platforms (e.g., Wheely).
-- Directly relevant to UAE transport regulations and local fleet management requirements.
-- Proven history of managing driver scheduling, dispatch, and compliance.
-
-**Gaps / risks**
-- Transitioning from tech-led platforms to a traditional limousine branch model.
-
-## 3. Manager - Vehicle Operations — CargoX (76/100)
+## 1. Team Leader , Logistics — noon (85/100)
 **Career progression:** 75/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Abu Dhabi Emirate, United Arab Emirates  
-**Vacancy:** https://ae.linkedin.com/jobs/view/manager-vehicle-operations-at-cargox-4467063061  
+**Location:** Dammam, Eastern, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/team-leader-logistics-at-noon-4472494564  
 
 **Why it fits**
-- Relevant experience in vehicle readiness and fleet maintenance.
-- Strong background in KPI reporting and process control.
-- Direct experience within the UAE transport landscape.
+- Strong alignment with last-mile fleet management
+- Direct experience in managing driver/fleet KPIs
+- Experience with high-velocity operations matching noon's requirements
 
 **Gaps / risks**
-- CargoX may focus more on heavy logistics than the candidate's passenger mobility experience.
+- Relocation to Dammam required
+
+## 2. Fleet Operations Manager — Confidential Careers (78/100)
+**Career progression:** 70/100  
+**Auto-apply eligible:** True  
+**Scoring:** ai  
+**Location:** Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates  
+**Vacancy:** https://ae.linkedin.com/jobs/view/fleet-operations-manager-at-confidential-careers-4466677348  
+
+**Why it fits**
+- Exact title match with current functional area
+- Extensive experience with RTA compliance and fleet maintenance
+- Matches scale of driver and vehicle management
+
+**Gaps / risks**
+- Role details are confidential
+
+## 3. Divisional Operations Manager- Road Transport — Tristar Group (72/100)
+**Career progression:** 85/100  
+**Auto-apply eligible:** False  
+**Scoring:** ai  
+**Location:** Riyadh, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/divisional-operations-manager-road-transport-at-tristar-group-4471901736  
+
+**Why it fits**
+- Significant career advancement into a divisional role
+- Direct overlap in road transport and logistics operational management
+
+**Gaps / risks**
+- Tristar deals with heavy transport/hazardous logistics which differs from ride-hailing
+- Requires relocation to Saudi Arabia

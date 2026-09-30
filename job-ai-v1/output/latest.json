@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-29T14:30:00Z",
+  "generated_at": "2026-09-30T09:00:00Z",
   "summary": {
-    "notes": "Candidate Muhammad Sohail Ayub Qureshi presents a strong niche expertise in GCC ride-hailing, fleet management, and platform operations. Highest suitability identified in roles focusing on mobility and fleet scaling rather than heavy industrial logistics.",
+    "notes": "Candidate displays strong operational expertise in Dubai transport and ride-hailing fleet management. Jobs filtered for high relevance to mobility and logistics operations. Only roles with clear fleet/mobility alignment were selected.",
     "credible_jobs_found": 3,
-    "high_fit_count": 2,
+    "high_fit_count": 1,
     "watchlist_count": 0,
-    "executive_matches": 3,
-    "auto_apply_eligible": 3,
-    "discovery_candidates_reviewed": 37,
+    "executive_matches": 2,
+    "auto_apply_eligible": 2,
+    "discovery_candidates_reviewed": 36,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,84 +20,84 @@
   },
   "jobs": [
     {
-      "job_title": "Business Unit Manager – Corporate Leasing & Mobility",
-      "company": "Swan Global",
-      "location": "Doha, Qatar",
+      "job_title": "Team Leader , Logistics",
+      "company": "noon",
+      "location": "Dammam, Eastern, Saudi Arabia",
       "fit_score": 85,
-      "career_progression_score": 90,
+      "career_progression_score": 75,
       "live_confidence": "high",
-      "job_url": "https://qa.linkedin.com/jobs/view/business-unit-manager-%E2%80%93-corporate-leasing-mobility-at-swan-global-4470853927",
+      "job_url": "https://sa.linkedin.com/jobs/view/team-leader-logistics-at-noon-4472494564",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Perfect alignment with core competency in mobility and fleet management.",
-        "Matches 9 years of specific regional transport operational experience.",
-        "Strong fit for business unit leadership given track record of managing 40 drivers and 30 vehicles."
+        "Strong alignment with last-mile fleet management",
+        "Direct experience in managing driver/fleet KPIs",
+        "Experience with high-velocity operations matching noon's requirements"
       ],
       "gaps_risks": [
-        "Requires relocation to Qatar."
+        "Relocation to Dammam required"
       ],
-      "email_subject": "Operations Leadership: Mobility & Fleet Expert (9 Years Regional Exp)",
-      "email_pitch": "Dear Hiring Manager, With 9 years of mobility and fleet operations leadership in the UAE, I have managed 40 drivers and 30 vehicles across major platforms like Uber, Careem, and Yango. I specialize in RTA compliance, fleet utilization, and operational cost control, making me an ideal fit for the Business Unit Manager role at Swan Global.",
-      "linkedin_pitch": "I have followed Swan Global's mobility initiatives and believe my 9 years of direct UAE transport experience aligns perfectly with your Business Unit Manager vacancy. I have extensive experience optimizing fleet performance and driver operations across major regional platforms.",
+      "email_subject": "Operations Leadership: Leveraging 10 years of mobility expertise at noon",
+      "email_pitch": "Dear Hiring Team, With 9 years of direct experience in Dubai's competitive transport sector managing large fleets and driver teams for platforms like Uber and Careem, I am well-positioned to contribute to noon's hyper-local delivery operations. I have a proven track record in fleet utilization, SOP development, and maintaining rigorous KPIs in high-demand environments.",
+      "linkedin_pitch": "I've spent the last decade mastering fleet operations in the UAE's fast-paced mobility sector. I see strong parallels between my work with Uber/Careem fleets and the scale required for noon's logistics ecosystem. Would love to discuss how my operational rigor can support your team in Dammam.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 86.0,
+      "ranking_score": 83.0,
       "rank": 1
     },
     {
-      "job_title": "Limousine Branch Manager",
-      "company": "Tawasul Transport L.L.C",
-      "location": "Abu Dhabi, United Arab Emirates",
-      "fit_score": 82,
-      "career_progression_score": 80,
-      "live_confidence": "high",
-      "job_url": "https://ae.linkedin.com/jobs/view/limousine-branch-manager-at-tawasul-transport-l-l-c-4470862424",
+      "job_title": "Fleet Operations Manager",
+      "company": "Confidential Careers",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "fit_score": 78,
+      "career_progression_score": 70,
+      "live_confidence": "medium",
+      "job_url": "https://ae.linkedin.com/jobs/view/fleet-operations-manager-at-confidential-careers-4466677348",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Strong experience with chauffeur/limousine platforms (e.g., Wheely).",
-        "Directly relevant to UAE transport regulations and local fleet management requirements.",
-        "Proven history of managing driver scheduling, dispatch, and compliance."
+        "Exact title match with current functional area",
+        "Extensive experience with RTA compliance and fleet maintenance",
+        "Matches scale of driver and vehicle management"
       ],
       "gaps_risks": [
-        "Transitioning from tech-led platforms to a traditional limousine branch model."
+        "Role details are confidential"
       ],
-      "email_subject": "Application: Limousine Branch Manager - Muhammad Qureshi",
-      "email_pitch": "I am writing to express my interest in the Limousine Branch Manager position at Tawasul Transport. With 9 years of experience managing fleet operations in the UAE, including expertise in driver dispatch, training, and RTA compliance, I am confident in my ability to enhance operational efficiency and fleet readiness for your branch.",
-      "linkedin_pitch": "Your Limousine Branch Manager vacancy aligns closely with my background in UAE fleet operations and driver management. I have successfully scaled operations across seven mobility platforms and am looking to leverage this expertise at Tawasul Transport.",
-      "fit_tier": "strong",
+      "email_subject": "Fleet Operations Manager Application - Muhammad Qureshi",
+      "email_pitch": "With 10 years of experience in fleet management and transport operations in the UAE, I bring deep expertise in RTA compliance, driver management, and cost-control strategies. My background spans major ride-hailing platforms and limousine operations, making me highly suitable for this role.",
+      "linkedin_pitch": "My career has been defined by optimizing fleet efficiency and driver performance for major transport platforms. I am interested in this Fleet Operations Manager position and believe my background aligns perfectly with your requirements.",
+      "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 81.6,
+      "ranking_score": 76.4,
       "rank": 2
     },
     {
-      "job_title": "Manager - Vehicle Operations",
-      "company": "CargoX",
-      "location": "Abu Dhabi Emirate, United Arab Emirates",
-      "fit_score": 76,
-      "career_progression_score": 75,
+      "job_title": "Divisional Operations Manager- Road Transport",
+      "company": "Tristar Group",
+      "location": "Riyadh, Saudi Arabia",
+      "fit_score": 72,
+      "career_progression_score": 85,
       "live_confidence": "medium",
-      "job_url": "https://ae.linkedin.com/jobs/view/manager-vehicle-operations-at-cargox-4467063061",
+      "job_url": "https://sa.linkedin.com/jobs/view/divisional-operations-manager-road-transport-at-tristar-group-4471901736",
       "source": "LinkedIn",
-      "industry_alignment": "clear",
-      "auto_apply_eligible": true,
+      "industry_alignment": "adjacent",
+      "auto_apply_eligible": false,
       "why_fit": [
-        "Relevant experience in vehicle readiness and fleet maintenance.",
-        "Strong background in KPI reporting and process control.",
-        "Direct experience within the UAE transport landscape."
+        "Significant career advancement into a divisional role",
+        "Direct overlap in road transport and logistics operational management"
       ],
       "gaps_risks": [
-        "CargoX may focus more on heavy logistics than the candidate's passenger mobility experience."
+        "Tristar deals with heavy transport/hazardous logistics which differs from ride-hailing",
+        "Requires relocation to Saudi Arabia"
       ],
-      "email_subject": "Operations Professional: Vehicle & Fleet Manager",
-      "email_pitch": "Dear Hiring Team, I am an Operations leader with 9 years of regional experience in fleet management and vehicle readiness. My expertise in SOP development and operational KPI reporting makes me a strong fit for your Manager - Vehicle Operations role.",
-      "linkedin_pitch": "I am interested in your Vehicle Operations Manager position. With 9 years of experience in the UAE transport sector managing fleet utilization and performance, I am eager to apply my background in operations control to CargoX.",
+      "email_subject": "Operations Leadership: Transport & Fleet Management",
+      "email_pitch": "I am writing to express interest in the Divisional Operations Manager role. My 10 years in the UAE transport sector, managing complex fleet operations, driver training, and budget reconciliation, provide a strong foundation for managing large-scale road transport divisions.",
+      "linkedin_pitch": "I've spent a decade leading complex transport operations in the GCC. I am very interested in the Divisional Operations Manager role at Tristar Group and would appreciate a conversation about how my fleet management expertise translates to your road transport requirements.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 75.8,
+      "ranking_score": 74.6,
       "rank": 3
     }
   ]
