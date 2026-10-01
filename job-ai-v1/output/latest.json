@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-30T09:00:00Z",
+  "generated_at": "2026-10-01T00:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational expertise in Dubai transport and ride-hailing fleet management. Jobs filtered for high relevance to mobility and logistics operations. Only roles with clear fleet/mobility alignment were selected.",
-    "credible_jobs_found": 3,
+    "notes": "Candidate displays strong operational expertise in mobility and fleet management. High fit for roles involving P&L responsibility, RTA compliance, and driver management. Prioritized roles in Saudi Arabia and UAE align with mobility growth trends.",
+    "credible_jobs_found": 2,
     "high_fit_count": 1,
     "watchlist_count": 0,
-    "executive_matches": 2,
+    "executive_matches": 1,
     "auto_apply_eligible": 2,
-    "discovery_candidates_reviewed": 36,
+    "discovery_candidates_reviewed": 30,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,85 +20,57 @@
   },
   "jobs": [
     {
+      "job_title": "Divisional Operations Manager- Road Transport",
+      "company": "Tristar Group",
+      "location": "Riyadh, Saudi Arabia",
+      "fit_score": 92,
+      "career_progression_score": 85,
+      "live_confidence": "high",
+      "job_url": "https://sa.linkedin.com/jobs/view/divisional-operations-manager-road-transport-at-tristar-group-4471901736",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Direct overlap in fleet utilization, driver management, fuel cost control, and RTA/compliance standards.",
+        "Candidate has 9 years of direct experience in the exact core competencies requested.",
+        "Matches the mobility and transport industry focus perfectly."
+      ],
+      "gaps_risks": [
+        "Moving from Dubai to Riyadh requires adjustment to new regulatory environment."
+      ],
+      "email_subject": "Application: Divisional Operations Manager - Road Transport | Muhammad Qureshi",
+      "email_pitch": "Dear Hiring Team, With 10 years of operations leadership in Dubai’s fast-paced mobility sector, I have managed fleets of 30+ vehicles and 40+ drivers across major platforms including Uber and Careem. I am eager to apply my experience in KPI-driven fleet optimization, compliance, and cost control to Tristar Group's road transport operations in Riyadh.",
+      "linkedin_pitch": "I am interested in the Divisional Operations Manager role at Tristar. My 9 years of fleet management experience in the UAE, specializing in platform compliance and operational efficiency, align strongly with your requirements in Riyadh.",
+      "fit_tier": "strong",
+      "scoring_mode": "ai",
+      "ranking_score": 90.6,
+      "rank": 1
+    },
+    {
       "job_title": "Team Leader , Logistics",
       "company": "noon",
       "location": "Dammam, Eastern, Saudi Arabia",
-      "fit_score": 85,
-      "career_progression_score": 75,
+      "fit_score": 78,
+      "career_progression_score": 65,
       "live_confidence": "high",
       "job_url": "https://sa.linkedin.com/jobs/view/team-leader-logistics-at-noon-4472494564",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Strong alignment with last-mile fleet management",
-        "Direct experience in managing driver/fleet KPIs",
-        "Experience with high-velocity operations matching noon's requirements"
+        "Direct experience in managing fleet/logistics operations.",
+        "Proven ability in SOP development and process control within hyper-local mobility environments."
       ],
       "gaps_risks": [
-        "Relocation to Dammam required"
+        "The role is slightly below current scale of leadership (40 drivers) but aligns with rapid growth expectations."
       ],
-      "email_subject": "Operations Leadership: Leveraging 10 years of mobility expertise at noon",
-      "email_pitch": "Dear Hiring Team, With 9 years of direct experience in Dubai's competitive transport sector managing large fleets and driver teams for platforms like Uber and Careem, I am well-positioned to contribute to noon's hyper-local delivery operations. I have a proven track record in fleet utilization, SOP development, and maintaining rigorous KPIs in high-demand environments.",
-      "linkedin_pitch": "I've spent the last decade mastering fleet operations in the UAE's fast-paced mobility sector. I see strong parallels between my work with Uber/Careem fleets and the scale required for noon's logistics ecosystem. Would love to discuss how my operational rigor can support your team in Dammam.",
-      "fit_tier": "strong",
-      "scoring_mode": "ai",
-      "ranking_score": 83.0,
-      "rank": 1
-    },
-    {
-      "job_title": "Fleet Operations Manager",
-      "company": "Confidential Careers",
-      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-      "fit_score": 78,
-      "career_progression_score": 70,
-      "live_confidence": "medium",
-      "job_url": "https://ae.linkedin.com/jobs/view/fleet-operations-manager-at-confidential-careers-4466677348",
-      "source": "LinkedIn",
-      "industry_alignment": "clear",
-      "auto_apply_eligible": true,
-      "why_fit": [
-        "Exact title match with current functional area",
-        "Extensive experience with RTA compliance and fleet maintenance",
-        "Matches scale of driver and vehicle management"
-      ],
-      "gaps_risks": [
-        "Role details are confidential"
-      ],
-      "email_subject": "Fleet Operations Manager Application - Muhammad Qureshi",
-      "email_pitch": "With 10 years of experience in fleet management and transport operations in the UAE, I bring deep expertise in RTA compliance, driver management, and cost-control strategies. My background spans major ride-hailing platforms and limousine operations, making me highly suitable for this role.",
-      "linkedin_pitch": "My career has been defined by optimizing fleet efficiency and driver performance for major transport platforms. I am interested in this Fleet Operations Manager position and believe my background aligns perfectly with your requirements.",
+      "email_subject": "Application: Team Leader, Logistics - Muhammad Qureshi",
+      "email_pitch": "Dear Noon Talent Team, Having spent 9 years leading operations for major mobility platforms, I have built a strong foundation in managing dispatch teams, driver performance, and KPI reporting. I am interested in the Team Leader, Logistics position to support Noon’s expansion in KSA.",
+      "linkedin_pitch": "Hi, I have been following Noon's growth in KSA and am very interested in the Team Leader, Logistics role. My background in fleet and operations management with platforms like Yango and Careem provides the hands-on operational leadership Noon requires.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 76.4,
+      "ranking_score": 75.4,
       "rank": 2
-    },
-    {
-      "job_title": "Divisional Operations Manager- Road Transport",
-      "company": "Tristar Group",
-      "location": "Riyadh, Saudi Arabia",
-      "fit_score": 72,
-      "career_progression_score": 85,
-      "live_confidence": "medium",
-      "job_url": "https://sa.linkedin.com/jobs/view/divisional-operations-manager-road-transport-at-tristar-group-4471901736",
-      "source": "LinkedIn",
-      "industry_alignment": "adjacent",
-      "auto_apply_eligible": false,
-      "why_fit": [
-        "Significant career advancement into a divisional role",
-        "Direct overlap in road transport and logistics operational management"
-      ],
-      "gaps_risks": [
-        "Tristar deals with heavy transport/hazardous logistics which differs from ride-hailing",
-        "Requires relocation to Saudi Arabia"
-      ],
-      "email_subject": "Operations Leadership: Transport & Fleet Management",
-      "email_pitch": "I am writing to express interest in the Divisional Operations Manager role. My 10 years in the UAE transport sector, managing complex fleet operations, driver training, and budget reconciliation, provide a strong foundation for managing large-scale road transport divisions.",
-      "linkedin_pitch": "I've spent a decade leading complex transport operations in the GCC. I am very interested in the Divisional Operations Manager role at Tristar Group and would appreciate a conversation about how my fleet management expertise translates to your road transport requirements.",
-      "fit_tier": "credible",
-      "scoring_mode": "ai",
-      "ranking_score": 74.6,
-      "rank": 3
     }
   ]
 }
