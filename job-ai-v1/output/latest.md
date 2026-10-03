@@ -1,59 +1,42 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-10-02T12:00:00Z
+Generated: 2026-10-03T10:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 39  
-**Credible jobs:** 3  
-**Strong matches:** 2  
-**Executive/progression matches:** 2  
-**Auto-apply eligible:** 2  
+**Relevant candidates reviewed:** 32  
+**Credible jobs:** 2  
+**Strong matches:** 0  
+**Executive/progression matches:** 1  
+**Auto-apply eligible:** 1  
 
-Candidate displays strong operational expertise in mobility and fleet management across major ride-hailing platforms. Focus is on roles directly aligned with fleet utilization, driver management, and RTA compliance in the GCC.
+Candidate displays strong operational expertise in Dubai fleet management, ride-hailing platforms, and RTA compliance. Current search is filtered for high-impact mobility and transport operations roles in the GCC, excluding unrelated industries like construction or hospitality.
 
-## 1. Divisional Operations Manager- Road Transport — Tristar Group (88/100)
+## 1. General Manager – Commercial Vehicles & Heavy Equipment — Confidential (79/100)
 **Career progression:** 85/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Riyadh, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/divisional-operations-manager-road-transport-at-tristar-group-4471901736  
+**Location:** Doha, Qatar  
+**Vacancy:** https://qa.linkedin.com/jobs/view/general-manager-%E2%80%93-commercial-vehicles-heavy-equipment-at-confidential-4472179818  
 
 **Why it fits**
-- Direct overlap with fleet utilization, driver management, and fuel/tyre cost control responsibilities.
-- Matches candidate experience in managing RTA/regulatory compliance and operational KPI reporting.
-- Fits seniority profile for managing a significant transport business unit.
+- 10 years of experience with extensive fleet management and cost control expertise matches GM-level requirements.
+- Demonstrated ability to manage diverse vehicle assets and driver teams.
 
 **Gaps / risks**
-- Relocation to Saudi Arabia required.
-- Transitioning from passenger mobility to heavy road transport may require brief adjustment.
+- Transitioning from mobility/ride-hailing to heavy commercial vehicles requires technical product knowledge ramp-up.
+- Confidential posting limits initial employer due diligence.
 
-## 2. Manager - Vehicle Operations — CargoX (82/100)
-**Career progression:** 78/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Abu Dhabi Emirate, United Arab Emirates  
-**Vacancy:** https://ae.linkedin.com/jobs/view/manager-vehicle-operations-at-cargox-4467063061  
-
-**Why it fits**
-- Strong focus on managing large-scale, live, real-time fleet operations.
-- Candidate has hands-on experience with driver training, scheduling, and high-volume workforce coordination.
-- Aligned with UAE-based operations and local regulatory (MOHRE) knowledge.
-
-**Gaps / risks**
-- Autonomous vehicle operational environment is distinct from traditional ride-hailing.
-- Requires managing a much larger frontline workforce than current 40-driver portfolio.
-
-## 3. Supervisor - Fleet — NADEC Foods (72/100)
-**Career progression:** 60/100  
+## 2. Fleet Operations Manager — Confidential Careers (74/100)
+**Career progression:** 70/100  
 **Auto-apply eligible:** False  
 **Scoring:** ai  
-**Location:** Mecca, Makkah, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/supervisor-fleet-at-nadec-foods-4467026935  
+**Location:** Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates  
+**Vacancy:** https://ae.linkedin.com/jobs/view/fleet-operations-manager-at-confidential-careers-4466677348  
 
 **Why it fits**
-- Strong technical experience in maintenance coordination, fleet availability, and cost control.
-- Familiarity with regulatory reporting for vehicle operations.
+- Directly mirrors candidate's core competency in fleet operations, scheduling, and RTA compliance.
+- Proven ability to manage similar team scales and platform integrations.
 
 **Gaps / risks**
-- Role level is a step down from current senior-level experience.
-- Geographic focus is outside main urban centers.
+- Potential for title stagnation given 10 years of prior specialized experience.
+- Relocation or inter-emirate travel expectations are unspecified.
