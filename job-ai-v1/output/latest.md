@@ -1,32 +1,17 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-10-04T12:00:00Z
+Generated: 2026-10-05T12:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 29  
-**Credible jobs:** 4  
-**Strong matches:** 2  
-**Executive/progression matches:** 3  
-**Auto-apply eligible:** 4  
+**Relevant candidates reviewed:** 22  
+**Credible jobs:** 3  
+**Strong matches:** 1  
+**Executive/progression matches:** 2  
+**Auto-apply eligible:** 3  
 
-Muhammad Sohail Ayub Qureshi demonstrates strong operational expertise in fleet management, dispatch, and platform-based mobility. Selected roles align with his core strength in multi-platform fleet operations, driver management, and logistics efficiency. Roles in heavy equipment or unrelated construction/hospitality were filtered out per instructions.
+Candidate displays strong operational expertise in ride-hailing and fleet management across multiple GCC platforms. High alignment with operational roles requiring dispatch, driver management, and RTA/regulatory compliance. Priority given to mobility, transport, and logistics sectors as per strategy.
 
-## 1. Divisional Operations Manager- Road Transport — Tristar Group (92/100)
-**Career progression:** 85/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Riyadh, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/divisional-operations-manager-road-transport-at-tristar-group-4471901736  
-
-**Why it fits**
-- Direct overlap with fleet utilization, driver management, and fuel/cost control.
-- Candidate's experience with RTA and multi-platform compliance maps well to safety and operational standards.
-- Matches the scale of managed drivers and vehicle fleets.
-
-**Gaps / risks**
-- Transitioning from ride-hailing/taxi platforms to heavy road transport operations.
-
-## 2. Manager - Vehicle Operations — CargoX (88/100)
+## 1. Manager - Vehicle Operations — CargoX (85/100)
 **Career progression:** 80/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
@@ -34,14 +19,14 @@ Muhammad Sohail Ayub Qureshi demonstrates strong operational expertise in fleet 
 **Vacancy:** https://ae.linkedin.com/jobs/view/manager-vehicle-operations-at-cargox-4467063061  
 
 **Why it fits**
-- Strong alignment with the required experience in managing multi-shift frontline operations.
-- Direct experience with driver scheduling, dispatch, and workforce compliance.
-- Fits the candidate's background in mobility and last-mile delivery systems.
+- Direct alignment with fleet management scale (several hundred vehicles/drivers)
+- Requires mastery of dispatch control rooms and real-time operations
+- Direct experience with UAE workforce operations and regulatory compliance
 
 **Gaps / risks**
-- Requires shifting from ride-hailing models to autonomous delivery fleet management.
+- Autonomous vehicle focus is a shift from traditional ride-hailing/fleet management
 
-## 3. VP of Operational Excellence (Ports/Logistics) — Mark Williams Recruitment (76/100)
+## 2. VP of Operational Excellence (Ports/Logistics) — Mark Williams Recruitment (76/100)
 **Career progression:** 90/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
@@ -49,14 +34,14 @@ Muhammad Sohail Ayub Qureshi demonstrates strong operational expertise in fleet 
 **Vacancy:** https://ae.linkedin.com/jobs/view/vp-of-operational-excellence-ports-logistics-at-mark-williams-recruitment-4471435148  
 
 **Why it fits**
-- Candidate possesses strong KPI-driven management and analytical skills (Advanced Excel/Power Query).
-- Strong track record in fleet optimization and process control (SOP development).
-- Aligns with the role's focus on benchmarking and performance improvement.
+- Strong alignment with logistics and last-mile focus
+- Utilizes candidate's expertise in KPI frameworks and operational benchmarking
+- Represents significant career growth into strategic operations oversight
 
 **Gaps / risks**
-- The role is a step up in seniority; experience is primarily fleet-based rather than broad port logistics.
+- Requires transition from direct frontline management to portfolio-level performance improvement
 
-## 4. Team Leader , Logistics — noon (75/100)
+## 3. Team Leader , Logistics — noon (75/100)
 **Career progression:** 65/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
@@ -64,9 +49,9 @@ Muhammad Sohail Ayub Qureshi demonstrates strong operational expertise in fleet 
 **Vacancy:** https://sa.linkedin.com/jobs/view/team-leader-logistics-at-noon-4472494564  
 
 **Why it fits**
-- Relevant experience in fleet and driver team management.
-- Familiarity with last-mile and delivery operations.
-- Matches the requirement for hands-on, KPI-focused management.
+- Strong fit for hyper-local/last-mile logistics
+- Directly mirrors experience in managing fleets and dispatch SOPs
+- Aligns with regional expansion into Saudi Arabia
 
 **Gaps / risks**
-- This is a lateral move; candidate has 10 years of experience, while the role requests 2+ years.
+- Role is at a slightly lower seniority level than candidate's 10-year experience profile

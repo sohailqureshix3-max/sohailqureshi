@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-04T12:00:00Z",
+  "generated_at": "2026-10-05T12:00:00Z",
   "summary": {
-    "notes": "Muhammad Sohail Ayub Qureshi demonstrates strong operational expertise in fleet management, dispatch, and platform-based mobility. Selected roles align with his core strength in multi-platform fleet operations, driver management, and logistics efficiency. Roles in heavy equipment or unrelated construction/hospitality were filtered out per instructions.",
-    "credible_jobs_found": 4,
-    "high_fit_count": 2,
+    "notes": "Candidate displays strong operational expertise in ride-hailing and fleet management across multiple GCC platforms. High alignment with operational roles requiring dispatch, driver management, and RTA/regulatory compliance. Priority given to mobility, transport, and logistics sectors as per strategy.",
+    "credible_jobs_found": 3,
+    "high_fit_count": 1,
     "watchlist_count": 0,
-    "executive_matches": 3,
-    "auto_apply_eligible": 4,
-    "discovery_candidates_reviewed": 29,
+    "executive_matches": 2,
+    "auto_apply_eligible": 3,
+    "discovery_candidates_reviewed": 22,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,37 +20,10 @@
   },
   "jobs": [
     {
-      "job_title": "Divisional Operations Manager- Road Transport",
-      "company": "Tristar Group",
-      "location": "Riyadh, Saudi Arabia",
-      "fit_score": 92,
-      "career_progression_score": 85,
-      "live_confidence": "high",
-      "job_url": "https://sa.linkedin.com/jobs/view/divisional-operations-manager-road-transport-at-tristar-group-4471901736",
-      "source": "LinkedIn",
-      "industry_alignment": "clear",
-      "auto_apply_eligible": true,
-      "why_fit": [
-        "Direct overlap with fleet utilization, driver management, and fuel/cost control.",
-        "Candidate's experience with RTA and multi-platform compliance maps well to safety and operational standards.",
-        "Matches the scale of managed drivers and vehicle fleets."
-      ],
-      "gaps_risks": [
-        "Transitioning from ride-hailing/taxi platforms to heavy road transport operations."
-      ],
-      "email_subject": "Application: Divisional Operations Manager (Road Transport) - Muhammad Sohail Qureshi",
-      "email_pitch": "With 10 years of experience in UAE mobility and fleet management, I have led complex fleet operations, driver scheduling, and platform compliance. My background in balancing operational efficiency with cost-control and KPI-driven management directly supports Tristar's requirements for fleet and safety excellence.",
-      "linkedin_pitch": "I am interested in the Divisional Operations Manager role at Tristar. Having managed 40 drivers and 30 vehicles across major platforms like Uber and Careem, I have deep experience in optimizing fleet utilization, driver dispatch, and operational compliance. I would welcome the opportunity to bring this efficiency to your Riyadh operations.",
-      "fit_tier": "strong",
-      "scoring_mode": "ai",
-      "ranking_score": 90.6,
-      "rank": 1
-    },
-    {
       "job_title": "Manager - Vehicle Operations",
       "company": "CargoX",
       "location": "Abu Dhabi Emirate, United Arab Emirates",
-      "fit_score": 88,
+      "fit_score": 85,
       "career_progression_score": 80,
       "live_confidence": "high",
       "job_url": "https://ae.linkedin.com/jobs/view/manager-vehicle-operations-at-cargox-4467063061",
@@ -58,20 +31,20 @@
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Strong alignment with the required experience in managing multi-shift frontline operations.",
-        "Direct experience with driver scheduling, dispatch, and workforce compliance.",
-        "Fits the candidate's background in mobility and last-mile delivery systems."
+        "Direct alignment with fleet management scale (several hundred vehicles/drivers)",
+        "Requires mastery of dispatch control rooms and real-time operations",
+        "Direct experience with UAE workforce operations and regulatory compliance"
       ],
       "gaps_risks": [
-        "Requires shifting from ride-hailing models to autonomous delivery fleet management."
+        "Autonomous vehicle focus is a shift from traditional ride-hailing/fleet management"
       ],
-      "email_subject": "Application: Manager - Vehicle Operations - Muhammad Sohail Qureshi",
-      "email_pitch": "My background as a Mobility Leader in the UAE, managing 40 drivers and 30 vehicles, has provided me with the systems and people-management skills needed to run a high-volume delivery fleet. I am comfortable with real-time operations, dispatch controls, and optimizing operator productivity.",
-      "linkedin_pitch": "I am following CargoX's work in autonomous delivery. Given my 9-year tenure in UAE fleet operations, I have a proven ability to lead frontline teams, manage rosters, and ensure daily operational efficiency. I am keen to contribute to your growth in the Abu Dhabi market.",
+      "email_subject": "Operations Leadership: Scaling Fleet & Workforce | Muhammad Sohail Qureshi",
+      "email_pitch": "Dear Hiring Manager, With 10 years of fleet leadership and 9 years managing complex Dubai transport ecosystems (Uber, Careem, Yango, etc.), I am uniquely positioned to lead your autonomous vehicle operations. I bring proven success in managing multi-site dispatch, high-volume driver training, and RTA regulatory compliance. I am eager to apply my expertise in operational efficiency to CargoX’s growing fleet.",
+      "linkedin_pitch": "Hi CargoX team, I’ve been following your progress in UAE autonomous delivery. With 10 years of fleet leadership and a deep track record in UAE transport compliance and driver management, I believe I can make an immediate impact on your operations scaling. Would love to discuss how I can help maintain your rigorous standards.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 86.4,
-      "rank": 2
+      "ranking_score": 84.0,
+      "rank": 1
     },
     {
       "job_title": "VP of Operational Excellence (Ports/Logistics)",
@@ -82,23 +55,23 @@
       "live_confidence": "medium",
       "job_url": "https://ae.linkedin.com/jobs/view/vp-of-operational-excellence-ports-logistics-at-mark-williams-recruitment-4471435148",
       "source": "LinkedIn",
-      "industry_alignment": "adjacent",
+      "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Candidate possesses strong KPI-driven management and analytical skills (Advanced Excel/Power Query).",
-        "Strong track record in fleet optimization and process control (SOP development).",
-        "Aligns with the role's focus on benchmarking and performance improvement."
+        "Strong alignment with logistics and last-mile focus",
+        "Utilizes candidate's expertise in KPI frameworks and operational benchmarking",
+        "Represents significant career growth into strategic operations oversight"
       ],
       "gaps_risks": [
-        "The role is a step up in seniority; experience is primarily fleet-based rather than broad port logistics."
+        "Requires transition from direct frontline management to portfolio-level performance improvement"
       ],
-      "email_subject": "Application: VP of Operational Excellence - Muhammad Sohail Qureshi",
-      "email_pitch": "With 10 years of experience optimizing mobility and fleet operations across major platforms, I have a track record of implementing operational efficiency through KPI reporting and SOP development. I am eager to apply this analytical approach to the ports and logistics investment space.",
-      "linkedin_pitch": "I am interested in the VP of Operational Excellence role. My expertise in building KPI frameworks and managing large fleets, coupled with strong data-driven decision-making, aligns well with the goal of improving operational performance within the portfolio companies you represent.",
+      "email_subject": "Operations Leadership: Driving Performance in Logistics | Muhammad Sohail Qureshi",
+      "email_pitch": "Dear Team, With a decade of experience optimizing fleet utilization and operational KPIs across the UAE, I am highly interested in the VP of Operational Excellence role. My background in building SOPs, managing diverse driver fleets, and rigorous cost control directly aligns with the requirement to lift operational performance across portfolio assets.",
+      "linkedin_pitch": "Hello, I am interested in your VP of Operational Excellence search for the Abu Dhabi logistics platform. Having spent 9 years scaling mobility operations in the UAE, I have developed a strong analytical approach to operational KPIs and asset utilization that would translate well to this strategic advisory role.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
       "ranking_score": 78.8,
-      "rank": 3
+      "rank": 2
     },
     {
       "job_title": "Team Leader , Logistics",
@@ -112,20 +85,20 @@
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Relevant experience in fleet and driver team management.",
-        "Familiarity with last-mile and delivery operations.",
-        "Matches the requirement for hands-on, KPI-focused management."
+        "Strong fit for hyper-local/last-mile logistics",
+        "Directly mirrors experience in managing fleets and dispatch SOPs",
+        "Aligns with regional expansion into Saudi Arabia"
       ],
       "gaps_risks": [
-        "This is a lateral move; candidate has 10 years of experience, while the role requests 2+ years."
+        "Role is at a slightly lower seniority level than candidate's 10-year experience profile"
       ],
-      "email_subject": "Application: Team Leader, Logistics - Muhammad Sohail Qureshi",
-      "email_pitch": "I have spent 9 years leading operations in the UAE mobility sector. My focus on driver utilization, dispatch, and operational compliance aligns with the fast-paced delivery environment at noon. I am ready to bring this expertise to your logistics team in Dammam.",
-      "linkedin_pitch": "I am interested in the Team Leader, Logistics position at noon. My background in fleet operations and managing drivers across high-volume platforms like Uber and Careem prepares me to effectively manage dark store fleet operations and meet performance KPIs.",
+      "email_subject": "Logistics Operations Leadership | Muhammad Sohail Qureshi",
+      "email_pitch": "Dear Noon Talent Team, With 10 years of experience managing mobility fleets and driver operations, I am excited about the Team Leader, Logistics opportunity. I have successfully managed large driver fleets across platforms like Uber and Careem and am well-versed in maintaining high KPIs and SOP compliance in high-pressure delivery environments.",
+      "linkedin_pitch": "Hi Noon team, your Noon Minutes platform is doing great work in the region. I am an operations leader with 9 years of experience managing driver fleets and dispatch workflows. I would love to bring my operational rigor to your logistics team in Dammam.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
       "ranking_score": 73.0,
-      "rank": 4
+      "rank": 3
     }
   ]
 }
