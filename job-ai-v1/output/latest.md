@@ -1,57 +1,56 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-10-05T12:00:00Z
+Generated: 2026-10-06T12:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 22  
+**Relevant candidates reviewed:** 28  
 **Credible jobs:** 3  
 **Strong matches:** 1  
 **Executive/progression matches:** 2  
-**Auto-apply eligible:** 3  
+**Auto-apply eligible:** 2  
 
-Candidate displays strong operational expertise in ride-hailing and fleet management across multiple GCC platforms. High alignment with operational roles requiring dispatch, driver management, and RTA/regulatory compliance. Priority given to mobility, transport, and logistics sectors as per strategy.
+Candidate displays exceptional alignment with mobility and fleet-as-a-service models. Priority given to roles in KSA and UAE that mirror his scale of fleet management and platform-based operations. Excluded construction, FMCG, and heavy logistics roles to focus on high-utilization transport.
 
-## 1. Manager - Vehicle Operations — CargoX (85/100)
-**Career progression:** 80/100  
+## 1. Divisional Operations Manager- Road Transport — Tristar Group (88/100)
+**Career progression:** 90/100  
 **Auto-apply eligible:** True  
+**Scoring:** ai  
+**Location:** Riyadh, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/divisional-operations-manager-road-transport-at-tristar-group-4471901736  
+
+**Why it fits**
+- Direct alignment with fleet utilization, driver scheduling, and maintenance coordination.
+- Candidate's 10 years of experience and 9 years in Dubai transport environment matches the scale requirements of this Riyadh-based role.
+- Matches strength in KPI management and operational cost control.
+
+**Gaps / risks**
+- Requires transition from light vehicle/ride-hailing to heavier Road Transport operations.
+
+## 2. Supervisor - Fleet — NADEC Foods (76/100)
+**Career progression:** 70/100  
+**Auto-apply eligible:** True  
+**Scoring:** ai  
+**Location:** Ha'il, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/supervisor-fleet-at-nadec-foods-4467030960  
+
+**Why it fits**
+- Direct experience managing vehicle readiness and maintenance planning.
+- Strong familiarity with fleet regulatory requirements and operational reporting.
+
+**Gaps / risks**
+- Role is more maintenance-focused than the platform-management experience of the candidate.
+- Location in Ha'il is a significant change from Dubai metropolitan operations.
+
+## 3. Manager - Vehicle Operations — CargoX (72/100)
+**Career progression:** 75/100  
+**Auto-apply eligible:** False  
 **Scoring:** ai  
 **Location:** Abu Dhabi Emirate, United Arab Emirates  
 **Vacancy:** https://ae.linkedin.com/jobs/view/manager-vehicle-operations-at-cargox-4467063061  
 
 **Why it fits**
-- Direct alignment with fleet management scale (several hundred vehicles/drivers)
-- Requires mastery of dispatch control rooms and real-time operations
-- Direct experience with UAE workforce operations and regulatory compliance
+- Relevant to candidate's background in fleet operations and UAE regulatory environment.
+- Aligns with core strengths in operational oversight.
 
 **Gaps / risks**
-- Autonomous vehicle focus is a shift from traditional ride-hailing/fleet management
-
-## 2. VP of Operational Excellence (Ports/Logistics) — Mark Williams Recruitment (76/100)
-**Career progression:** 90/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Abu Dhabi Emirate, United Arab Emirates  
-**Vacancy:** https://ae.linkedin.com/jobs/view/vp-of-operational-excellence-ports-logistics-at-mark-williams-recruitment-4471435148  
-
-**Why it fits**
-- Strong alignment with logistics and last-mile focus
-- Utilizes candidate's expertise in KPI frameworks and operational benchmarking
-- Represents significant career growth into strategic operations oversight
-
-**Gaps / risks**
-- Requires transition from direct frontline management to portfolio-level performance improvement
-
-## 3. Team Leader , Logistics — noon (75/100)
-**Career progression:** 65/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Dammam, Eastern, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/team-leader-logistics-at-noon-4472494564  
-
-**Why it fits**
-- Strong fit for hyper-local/last-mile logistics
-- Directly mirrors experience in managing fleets and dispatch SOPs
-- Aligns with regional expansion into Saudi Arabia
-
-**Gaps / risks**
-- Role is at a slightly lower seniority level than candidate's 10-year experience profile
+- Job description is sparse; requires further due diligence on specific vehicle types and scope.
