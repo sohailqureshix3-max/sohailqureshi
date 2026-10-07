@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-06T12:00:00Z",
+  "generated_at": "2026-10-07T12:00:00Z",
   "summary": {
-    "notes": "Candidate displays exceptional alignment with mobility and fleet-as-a-service models. Priority given to roles in KSA and UAE that mirror his scale of fleet management and platform-based operations. Excluded construction, FMCG, and heavy logistics roles to focus on high-utilization transport.",
-    "credible_jobs_found": 3,
+    "notes": "Candidate displays strong operational experience in fleet management, ride-hailing, and RTA compliance. High alignment with mobility, last-mile, and logistics leadership roles. Focused on high-fit opportunities in the UAE and Saudi Arabia.",
+    "credible_jobs_found": 2,
     "high_fit_count": 1,
     "watchlist_count": 0,
     "executive_matches": 2,
     "auto_apply_eligible": 2,
-    "discovery_candidates_reviewed": 28,
+    "discovery_candidates_reviewed": 34,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,84 +20,59 @@
   },
   "jobs": [
     {
-      "job_title": "Divisional Operations Manager- Road Transport",
-      "company": "Tristar Group",
-      "location": "Riyadh, Saudi Arabia",
-      "fit_score": 88,
-      "career_progression_score": 90,
-      "live_confidence": "high",
-      "job_url": "https://sa.linkedin.com/jobs/view/divisional-operations-manager-road-transport-at-tristar-group-4471901736",
-      "source": "LinkedIn",
-      "industry_alignment": "clear",
-      "auto_apply_eligible": true,
-      "why_fit": [
-        "Direct alignment with fleet utilization, driver scheduling, and maintenance coordination.",
-        "Candidate's 10 years of experience and 9 years in Dubai transport environment matches the scale requirements of this Riyadh-based role.",
-        "Matches strength in KPI management and operational cost control."
-      ],
-      "gaps_risks": [
-        "Requires transition from light vehicle/ride-hailing to heavier Road Transport operations."
-      ],
-      "email_subject": "Operations Leadership: Road Transport & Fleet Efficiency - Muhammad Sohail Ayub Qureshi",
-      "email_pitch": "Dear Hiring Manager, With 10 years of intensive experience in UAE fleet operations across platforms like Uber and Careem, I am writing to express interest in the Divisional Operations Manager role. My expertise in optimizing fleet utilization, driver dispatch, and RTA compliance is directly transferable to your transport strategy in Riyadh.",
-      "linkedin_pitch": "Hi, I have spent 9 years scaling mobility fleets and managing driver operations across major platforms in the UAE. Your role at Tristar aligns perfectly with my background in fleet utilization and operational KPI management. I would love to discuss how I can contribute to your road transport division in Riyadh.",
-      "fit_tier": "strong",
-      "scoring_mode": "ai",
-      "ranking_score": 88.4,
-      "rank": 1
-    },
-    {
-      "job_title": "Supervisor - Fleet",
-      "company": "NADEC Foods",
-      "location": "Ha'il, Saudi Arabia",
-      "fit_score": 76,
-      "career_progression_score": 70,
-      "live_confidence": "high",
-      "job_url": "https://sa.linkedin.com/jobs/view/supervisor-fleet-at-nadec-foods-4467030960",
-      "source": "LinkedIn",
-      "industry_alignment": "clear",
-      "auto_apply_eligible": true,
-      "why_fit": [
-        "Direct experience managing vehicle readiness and maintenance planning.",
-        "Strong familiarity with fleet regulatory requirements and operational reporting."
-      ],
-      "gaps_risks": [
-        "Role is more maintenance-focused than the platform-management experience of the candidate.",
-        "Location in Ha'il is a significant change from Dubai metropolitan operations."
-      ],
-      "email_subject": "Application: Fleet Supervisor - Muhammad Sohail Ayub Qureshi",
-      "email_pitch": "Dear NADEC Recruitment, I have 10 years of experience in fleet and transport operations in the GCC. My background in maintaining high fleet availability, managing driver teams, and ensuring cost control matches the requirements for your fleet supervision role in Ha'il.",
-      "linkedin_pitch": "I am interested in your Fleet Supervisor position at NADEC. I have managed 30+ vehicle fleets and 40+ drivers in the UAE, focusing on uptime and compliance. I am confident my technical experience with fleet maintenance and KPI reporting will add value to your team.",
-      "fit_tier": "credible",
-      "scoring_mode": "ai",
-      "ranking_score": 74.8,
-      "rank": 2
-    },
-    {
       "job_title": "Manager - Vehicle Operations",
       "company": "CargoX",
       "location": "Abu Dhabi Emirate, United Arab Emirates",
-      "fit_score": 72,
-      "career_progression_score": 75,
-      "live_confidence": "medium",
+      "fit_score": 92,
+      "career_progression_score": 85,
+      "live_confidence": "high",
       "job_url": "https://ae.linkedin.com/jobs/view/manager-vehicle-operations-at-cargox-4467063061",
       "source": "LinkedIn",
       "industry_alignment": "clear",
-      "auto_apply_eligible": false,
+      "auto_apply_eligible": true,
       "why_fit": [
-        "Relevant to candidate's background in fleet operations and UAE regulatory environment.",
-        "Aligns with core strengths in operational oversight."
+        "Direct experience managing fleet operations at scale",
+        "Experience in real-time dispatch and monitoring",
+        "Strong alignment with blue-collar workforce management and RTA compliance",
+        "Matches expertise in driver training, performance tracking, and SOP development"
       ],
       "gaps_risks": [
-        "Job description is sparse; requires further due diligence on specific vehicle types and scope."
+        "Autonomous delivery context is highly technical, requires rapid learning curve"
       ],
-      "email_subject": "Inquiry: Vehicle Operations Management - Muhammad Sohail Ayub Qureshi",
-      "email_pitch": "Dear Hiring Manager, I am a seasoned Operations Leader in the Dubai/UAE mobility sector with 9 years of regional experience. I am interested in the Manager - Vehicle Operations role at CargoX and would like to understand how my expertise in fleet management can support your logistics operations.",
-      "linkedin_pitch": "I am interested in the Vehicle Operations Manager role at CargoX. With nearly a decade of experience in UAE mobility and fleet management, I have a strong track record in optimizing utilization and driver operations.",
+      "email_subject": "Operations Leadership: Expertise in Fleet Management & Driver Operations",
+      "email_pitch": "Dear Hiring Manager, I am a Dubai-based Operations Leader with 10 years of experience, including 9 years within the UAE transport sector. Having managed fleets across Uber, Careem, and other major platforms, I have built a deep expertise in fleet utilization, driver training, and RTA/platform compliance. Your focus on high-scale, real-time vehicle operations aligns perfectly with my background in managing 40 drivers and 30 vehicles with high efficiency standards. I am confident in my ability to scale your workforce operations and maintain your rigorous quality bar.",
+      "linkedin_pitch": "I've been following CargoX's expansion in Abu Dhabi and was impressed by your need for a leader to manage fleet operations at scale. With 9 years of UAE-specific transport experience and a track record of driving operational efficiency, I would love to discuss how I can help optimize your fleet and workforce performance.",
+      "fit_tier": "strong",
+      "scoring_mode": "ai",
+      "ranking_score": 90.6,
+      "rank": 1
+    },
+    {
+      "job_title": "Head of Freight Forwarding & Shipping",
+      "company": "Flow Progressive Logistics",
+      "location": "Jeddah, Makkah, Saudi Arabia",
+      "fit_score": 76,
+      "career_progression_score": 88,
+      "live_confidence": "medium",
+      "job_url": "https://sa.linkedin.com/jobs/view/head-of-freight-forwarding-shipping-at-flow-progressive-logistics-4474068378",
+      "source": "LinkedIn",
+      "industry_alignment": "adjacent",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Strong leadership capability demonstrated by 10 years of operations experience",
+        "Solid history of budgeting, cost control, and financial coordination",
+        "High alignment with the growth-oriented requirements of the Saudi market"
+      ],
+      "gaps_risks": [
+        "Candidate's core experience is in ride-hailing/fleet management, not specialized maritime/air freight forwarding"
+      ],
+      "email_subject": "Strategic Operations Leadership - Freight & Logistics",
+      "email_pitch": "Dear Hiring Manager, I am a Dubai-based operations leader with 10 years of experience in fleet and transport. While my background is deeply rooted in mobility and fleet utilization, my core strength lies in P&L ownership, cost control, and leading teams to operational excellence. I am looking to transition my expertise into the broader logistics landscape of KSA and am confident I can drive performance within your freight forwarding division.",
+      "linkedin_pitch": "I am following Flow Progressive Logistics' work in KSA and the Head of Freight Forwarding role caught my attention. With 10 years in transport and fleet operations leadership, I have a strong foundation in budget management and process control. I would appreciate the opportunity to discuss how my skill set translates to your freight and shipping business.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 72.6,
-      "rank": 3
+      "ranking_score": 78.4,
+      "rank": 2
     }
   ]
 }
