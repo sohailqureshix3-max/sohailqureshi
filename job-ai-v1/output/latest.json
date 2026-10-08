@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-07T12:00:00Z",
+  "generated_at": "2026-10-08T10:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational experience in fleet management, ride-hailing, and RTA compliance. High alignment with mobility, last-mile, and logistics leadership roles. Focused on high-fit opportunities in the UAE and Saudi Arabia.",
-    "credible_jobs_found": 2,
-    "high_fit_count": 1,
+    "notes": "Candidate displays strong mobility and fleet management expertise in the UAE market. Focus has been placed on roles requiring direct management of drivers, fleet utilization, and RTA compliance. Roles in high-volume e-commerce and logistics infrastructure were prioritized.",
+    "credible_jobs_found": 3,
+    "high_fit_count": 2,
     "watchlist_count": 0,
-    "executive_matches": 2,
-    "auto_apply_eligible": 2,
-    "discovery_candidates_reviewed": 34,
+    "executive_matches": 3,
+    "auto_apply_eligible": 3,
+    "discovery_candidates_reviewed": 30,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,59 +20,85 @@
   },
   "jobs": [
     {
-      "job_title": "Manager - Vehicle Operations",
-      "company": "CargoX",
-      "location": "Abu Dhabi Emirate, United Arab Emirates",
+      "job_title": "Fleet, Maintenance & Yard Manager",
+      "company": "Flow Progressive Logistics",
+      "location": "Jeddah, Makkah, Saudi Arabia",
       "fit_score": 92,
       "career_progression_score": 85,
       "live_confidence": "high",
-      "job_url": "https://ae.linkedin.com/jobs/view/manager-vehicle-operations-at-cargox-4467063061",
+      "job_url": "https://sa.linkedin.com/jobs/view/fleet-maintenance-yard-manager-at-flow-progressive-logistics-4474065425",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct experience managing fleet operations at scale",
-        "Experience in real-time dispatch and monitoring",
-        "Strong alignment with blue-collar workforce management and RTA compliance",
-        "Matches expertise in driver training, performance tracking, and SOP development"
+        "Directly matches 10 years of experience with heavy emphasis on fleet, maintenance, and telematics.",
+        "Candidate's experience with budgeting, KPI reporting, and SOP development aligns perfectly with this remit.",
+        "Strong alignment with candidate's capability in managing vehicle readiness and driver behavior."
       ],
       "gaps_risks": [
-        "Autonomous delivery context is highly technical, requires rapid learning curve"
+        "Requires relocation to Jeddah, Saudi Arabia."
       ],
-      "email_subject": "Operations Leadership: Expertise in Fleet Management & Driver Operations",
-      "email_pitch": "Dear Hiring Manager, I am a Dubai-based Operations Leader with 10 years of experience, including 9 years within the UAE transport sector. Having managed fleets across Uber, Careem, and other major platforms, I have built a deep expertise in fleet utilization, driver training, and RTA/platform compliance. Your focus on high-scale, real-time vehicle operations aligns perfectly with my background in managing 40 drivers and 30 vehicles with high efficiency standards. I am confident in my ability to scale your workforce operations and maintain your rigorous quality bar.",
-      "linkedin_pitch": "I've been following CargoX's expansion in Abu Dhabi and was impressed by your need for a leader to manage fleet operations at scale. With 9 years of UAE-specific transport experience and a track record of driving operational efficiency, I would love to discuss how I can help optimize your fleet and workforce performance.",
+      "email_subject": "Operations Leadership: Fleet & Maintenance Management",
+      "email_pitch": "Dear Hiring Team, With 9 years of direct Dubai transport experience and a background in scaling fleet operations across Uber, Careem, and Yango, I am highly interested in the Fleet, Maintenance & Yard Manager position. My expertise in managing 30+ vehicles and 40+ drivers, combined with advanced data-driven KPI management, directly supports Flow's requirement for uptime and cost optimization.",
+      "linkedin_pitch": "Hi Team, I have been managing fleet operations for 9 years in the UAE, working with platforms like Uber and Careem. I am very interested in the Fleet & Maintenance Manager role at Flow. My background in fleet utilization and vehicle compliance aligns well with your mission to drive asset lifecycle and uptime.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
       "ranking_score": 90.6,
       "rank": 1
     },
     {
-      "job_title": "Head of Freight Forwarding & Shipping",
-      "company": "Flow Progressive Logistics",
-      "location": "Jeddah, Makkah, Saudi Arabia",
-      "fit_score": 76,
-      "career_progression_score": 88,
-      "live_confidence": "medium",
-      "job_url": "https://sa.linkedin.com/jobs/view/head-of-freight-forwarding-shipping-at-flow-progressive-logistics-4474068378",
+      "job_title": "Fleet Supervisor",
+      "company": "Ninja",
+      "location": "Jiddah, Makkah, Saudi Arabia",
+      "fit_score": 88,
+      "career_progression_score": 75,
+      "live_confidence": "high",
+      "job_url": "https://sa.linkedin.com/jobs/view/fleet-supervisor-at-ninja-%F0%9F%A5%B7%F0%9F%8F%BD-%D9%86%D9%8A%D9%86%D8%AC%D8%A7-4475768677",
       "source": "LinkedIn",
-      "industry_alignment": "adjacent",
+      "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Strong leadership capability demonstrated by 10 years of operations experience",
-        "Solid history of budgeting, cost control, and financial coordination",
-        "High alignment with the growth-oriented requirements of the Saudi market"
+        "Candidate currently manages a fleet of similar scale (30+ vehicles, 40+ drivers).",
+        "Deep familiarity with delivery platform operations and driver performance metrics.",
+        "Strong technical skills in Excel/Power Query for performance reporting."
       ],
       "gaps_risks": [
-        "Candidate's core experience is in ride-hailing/fleet management, not specialized maritime/air freight forwarding"
+        "The role is a direct match in scale, but candidate may be overqualified for a supervisory title."
       ],
-      "email_subject": "Strategic Operations Leadership - Freight & Logistics",
-      "email_pitch": "Dear Hiring Manager, I am a Dubai-based operations leader with 10 years of experience in fleet and transport. While my background is deeply rooted in mobility and fleet utilization, my core strength lies in P&L ownership, cost control, and leading teams to operational excellence. I am looking to transition my expertise into the broader logistics landscape of KSA and am confident I can drive performance within your freight forwarding division.",
-      "linkedin_pitch": "I am following Flow Progressive Logistics' work in KSA and the Head of Freight Forwarding role caught my attention. With 10 years in transport and fleet operations leadership, I have a strong foundation in budget management and process control. I would appreciate the opportunity to discuss how my skill set translates to your freight and shipping business.",
+      "email_subject": "Experienced Fleet Supervisor Application",
+      "email_pitch": "Dear Hiring Manager, I am writing to express my interest in the Fleet Supervisor role at Ninja. With 9 years of experience in Dubai's transport sector, including operational leadership for major ride-hailing and delivery platforms, I bring a robust track record in driver scheduling, maintenance coordination, and fleet performance monitoring. My data-driven approach to reducing downtime aligns with Ninja's service standards.",
+      "linkedin_pitch": "Hi, I have 9 years of experience managing fleet and driver operations in the UAE. Your Fleet Supervisor role at Ninja caught my eye, as I have extensive experience in fleet utilization and compliance. I'd love to contribute my experience in dispatch and SOP optimization to your team.",
+      "fit_tier": "strong",
+      "scoring_mode": "ai",
+      "ranking_score": 85.4,
+      "rank": 2
+    },
+    {
+      "job_title": "Logistics & Mobility Director",
+      "company": "Marafid",
+      "location": "Riyadh, Saudi Arabia",
+      "fit_score": 76,
+      "career_progression_score": 90,
+      "live_confidence": "medium",
+      "job_url": "https://sa.linkedin.com/jobs/view/logistics-mobility-director-at-marafid-4476157644",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Strong strategic overlap with mobility operations and asset management.",
+        "Matches the candidate's industry experience in transportation and mobility.",
+        "Ability to manage complex operational ecosystems and stakeholder coordination."
+      ],
+      "gaps_risks": [
+        "This is an executive-level role; requires demonstrating how 10 years of operational experience translates to high-level strategic mobility direction."
+      ],
+      "email_subject": "Application: Logistics & Mobility Director",
+      "email_pitch": "Dear Marafid Recruitment Team, I am an operations leader with 9 years of specialized experience in Dubai's transport and mobility sector. I am interested in the Logistics & Mobility Director role. My career has focused on managing large-scale fleets, platform compliance, and operational KPI optimization. I am ready to transition my hands-on operational leadership to a strategic role within the Riyadh logistics ecosystem.",
+      "linkedin_pitch": "Hi, I’ve been leading transport and fleet operations in the UAE for 9 years. I am interested in the Logistics & Mobility Director position at Marafid. My experience across platforms like Uber and Yango has given me deep insight into mobility infrastructure, and I'd love to discuss how I can add value to your logistics ecosystem.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 78.4,
-      "rank": 2
+      "ranking_score": 78.8,
+      "rank": 3
     }
   ]
 }
