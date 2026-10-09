@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-08T10:00:00Z",
+  "generated_at": "2026-10-09T14:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong mobility and fleet management expertise in the UAE market. Focus has been placed on roles requiring direct management of drivers, fleet utilization, and RTA compliance. Roles in high-volume e-commerce and logistics infrastructure were prioritized.",
+    "notes": "Targeting roles in fleet, mobility, and logistics operations where the candidate's 9 years of Dubai transport experience and platform management (Uber, Careem, etc.) provide a competitive advantage. Prioritized Saudi Arabia and UAE markets as per search strategy.",
     "credible_jobs_found": 3,
-    "high_fit_count": 2,
+    "high_fit_count": 3,
     "watchlist_count": 0,
     "executive_matches": 3,
     "auto_apply_eligible": 3,
-    "discovery_candidates_reviewed": 30,
+    "discovery_candidates_reviewed": 33,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,10 +20,37 @@
   },
   "jobs": [
     {
+      "job_title": "Divisional Operations Manager- Road Transport",
+      "company": "Tristar Group",
+      "location": "Riyadh, Saudi Arabia",
+      "fit_score": 88,
+      "career_progression_score": 90,
+      "live_confidence": "high",
+      "job_url": "https://sa.linkedin.com/jobs/view/divisional-operations-manager-road-transport-at-tristar-group-4471901736",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Direct alignment with 9 years of fleet operations, driver management, and cost control experience.",
+        "Candidate's strength in KPI reporting, vehicle readiness, and maintenance aligns perfectly with Tristar's requirements.",
+        "Matches the priority market (Saudi Arabia) and senior operations focus."
+      ],
+      "gaps_risks": [
+        "Requires transition from urban ride-hailing/taxi fleet to heavy road transport/logistics."
+      ],
+      "email_subject": "Strategic Fleet Operations Leadership - Muhammad Sohail Qureshi",
+      "email_pitch": "Dear Hiring Team, With 10 years of intensive fleet and mobility leadership in the UAE—specifically managing cross-platform operations (Uber, Careem, Yango)—I am confident in my ability to drive operational excellence at Tristar Group. My expertise in driver utilization, maintenance coordination, and cost optimization directly supports your goals for the Riyadh Road Transport division.",
+      "linkedin_pitch": "I've been following Tristar's expansion in Saudi Arabia. Given my 9 years of experience managing fleet utilization and driver performance across major mobility platforms, I am confident I can contribute to your Road Transport operational goals. Would welcome a conversation about this role.",
+      "fit_tier": "strong",
+      "scoring_mode": "ai",
+      "ranking_score": 88.4,
+      "rank": 1
+    },
+    {
       "job_title": "Fleet, Maintenance & Yard Manager",
       "company": "Flow Progressive Logistics",
       "location": "Jeddah, Makkah, Saudi Arabia",
-      "fit_score": 92,
+      "fit_score": 85,
       "career_progression_score": 85,
       "live_confidence": "high",
       "job_url": "https://sa.linkedin.com/jobs/view/fleet-maintenance-yard-manager-at-flow-progressive-logistics-4474065425",
@@ -31,73 +58,46 @@
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Directly matches 10 years of experience with heavy emphasis on fleet, maintenance, and telematics.",
-        "Candidate's experience with budgeting, KPI reporting, and SOP development aligns perfectly with this remit.",
-        "Strong alignment with candidate's capability in managing vehicle readiness and driver behavior."
+        "Core competencies match: workshop maintenance, fuel/tyre management, and telematics monitoring.",
+        "Candidate is accustomed to high-paced operational environments.",
+        "Experience in RTA compliance translates well to KSA regulatory requirements."
       ],
       "gaps_risks": [
-        "Requires relocation to Jeddah, Saudi Arabia."
+        "Role focuses heavily on yard management, which is a slight departure from the candidate's mobility-centric background."
       ],
-      "email_subject": "Operations Leadership: Fleet & Maintenance Management",
-      "email_pitch": "Dear Hiring Team, With 9 years of direct Dubai transport experience and a background in scaling fleet operations across Uber, Careem, and Yango, I am highly interested in the Fleet, Maintenance & Yard Manager position. My expertise in managing 30+ vehicles and 40+ drivers, combined with advanced data-driven KPI management, directly supports Flow's requirement for uptime and cost optimization.",
-      "linkedin_pitch": "Hi Team, I have been managing fleet operations for 9 years in the UAE, working with platforms like Uber and Careem. I am very interested in the Fleet & Maintenance Manager role at Flow. My background in fleet utilization and vehicle compliance aligns well with your mission to drive asset lifecycle and uptime.",
+      "email_subject": "Application: Fleet, Maintenance & Yard Manager - Muhammad Sohail Qureshi",
+      "email_pitch": "I am writing to express my interest in the Fleet, Maintenance & Yard Manager position. Having spent a decade managing vehicle readiness, compliance, and budget control for fleets of 30+ units, I possess the technical rigor to drive Flow Progressive Logistics' maintenance and safety KPIs. My experience in managing complex payroll, billing reconciliations, and vendor relations makes me a strong fit.",
+      "linkedin_pitch": "Your work at Flow Progressive Logistics is impressive. With my background in fleet operations, maintenance coordination, and data-driven performance management, I believe I can help optimize your Jeddah yard and maintenance operations. I would appreciate the opportunity to connect.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 90.6,
-      "rank": 1
-    },
-    {
-      "job_title": "Fleet Supervisor",
-      "company": "Ninja",
-      "location": "Jiddah, Makkah, Saudi Arabia",
-      "fit_score": 88,
-      "career_progression_score": 75,
-      "live_confidence": "high",
-      "job_url": "https://sa.linkedin.com/jobs/view/fleet-supervisor-at-ninja-%F0%9F%A5%B7%F0%9F%8F%BD-%D9%86%D9%8A%D9%86%D8%AC%D8%A7-4475768677",
-      "source": "LinkedIn",
-      "industry_alignment": "clear",
-      "auto_apply_eligible": true,
-      "why_fit": [
-        "Candidate currently manages a fleet of similar scale (30+ vehicles, 40+ drivers).",
-        "Deep familiarity with delivery platform operations and driver performance metrics.",
-        "Strong technical skills in Excel/Power Query for performance reporting."
-      ],
-      "gaps_risks": [
-        "The role is a direct match in scale, but candidate may be overqualified for a supervisory title."
-      ],
-      "email_subject": "Experienced Fleet Supervisor Application",
-      "email_pitch": "Dear Hiring Manager, I am writing to express my interest in the Fleet Supervisor role at Ninja. With 9 years of experience in Dubai's transport sector, including operational leadership for major ride-hailing and delivery platforms, I bring a robust track record in driver scheduling, maintenance coordination, and fleet performance monitoring. My data-driven approach to reducing downtime aligns with Ninja's service standards.",
-      "linkedin_pitch": "Hi, I have 9 years of experience managing fleet and driver operations in the UAE. Your Fleet Supervisor role at Ninja caught my eye, as I have extensive experience in fleet utilization and compliance. I'd love to contribute my experience in dispatch and SOP optimization to your team.",
-      "fit_tier": "strong",
-      "scoring_mode": "ai",
-      "ranking_score": 85.4,
+      "ranking_score": 85.0,
       "rank": 2
     },
     {
       "job_title": "Logistics & Mobility Director",
       "company": "Marafid",
       "location": "Riyadh, Saudi Arabia",
-      "fit_score": 76,
-      "career_progression_score": 90,
-      "live_confidence": "medium",
+      "fit_score": 82,
+      "career_progression_score": 95,
+      "live_confidence": "high",
       "job_url": "https://sa.linkedin.com/jobs/view/logistics-mobility-director-at-marafid-4476157644",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Strong strategic overlap with mobility operations and asset management.",
-        "Matches the candidate's industry experience in transportation and mobility.",
-        "Ability to manage complex operational ecosystems and stakeholder coordination."
+        "Candidate has deep knowledge of mobility ecosystems.",
+        "Alignment with MARAFID's focus on economic infrastructure and digital mobility solutions.",
+        "Strengths in SOP development and stakeholder management."
       ],
       "gaps_risks": [
-        "This is an executive-level role; requires demonstrating how 10 years of operational experience translates to high-level strategic mobility direction."
+        "The role is highly strategic/director-level; candidate will need to demonstrate readiness for high-level infrastructure ecosystem management."
       ],
-      "email_subject": "Application: Logistics & Mobility Director",
-      "email_pitch": "Dear Marafid Recruitment Team, I am an operations leader with 9 years of specialized experience in Dubai's transport and mobility sector. I am interested in the Logistics & Mobility Director role. My career has focused on managing large-scale fleets, platform compliance, and operational KPI optimization. I am ready to transition my hands-on operational leadership to a strategic role within the Riyadh logistics ecosystem.",
-      "linkedin_pitch": "Hi, I’ve been leading transport and fleet operations in the UAE for 9 years. I am interested in the Logistics & Mobility Director position at Marafid. My experience across platforms like Uber and Yango has given me deep insight into mobility infrastructure, and I'd love to discuss how I can add value to your logistics ecosystem.",
-      "fit_tier": "credible",
+      "email_subject": "Inquiry: Logistics & Mobility Director - Muhammad Sohail Qureshi",
+      "email_pitch": "As a seasoned operations leader in the mobility space with 9 years of dedicated transport experience in the region, I am excited about Marafid's infrastructure initiatives in Riyadh. I have successfully managed fleet assets, platform integration, and operational efficiency, and I am eager to apply this experience to support Marafid's sector-wide logistics and mobility targets.",
+      "linkedin_pitch": "I am interested in the Logistics & Mobility Director role at Marafid. My extensive background in regional mobility operations and fleet ecosystem management aligns well with your mission to activate Riyadh's infrastructure. I would love to learn more about your vision for this team.",
+      "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 78.8,
+      "ranking_score": 84.6,
       "rank": 3
     }
   ]

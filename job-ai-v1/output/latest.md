@@ -1,17 +1,32 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-10-08T10:00:00Z
+Generated: 2026-10-09T14:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 30  
+**Relevant candidates reviewed:** 33  
 **Credible jobs:** 3  
-**Strong matches:** 2  
+**Strong matches:** 3  
 **Executive/progression matches:** 3  
 **Auto-apply eligible:** 3  
 
-Candidate displays strong mobility and fleet management expertise in the UAE market. Focus has been placed on roles requiring direct management of drivers, fleet utilization, and RTA compliance. Roles in high-volume e-commerce and logistics infrastructure were prioritized.
+Targeting roles in fleet, mobility, and logistics operations where the candidate's 9 years of Dubai transport experience and platform management (Uber, Careem, etc.) provide a competitive advantage. Prioritized Saudi Arabia and UAE markets as per search strategy.
 
-## 1. Fleet, Maintenance & Yard Manager — Flow Progressive Logistics (92/100)
+## 1. Divisional Operations Manager- Road Transport — Tristar Group (88/100)
+**Career progression:** 90/100  
+**Auto-apply eligible:** True  
+**Scoring:** ai  
+**Location:** Riyadh, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/divisional-operations-manager-road-transport-at-tristar-group-4471901736  
+
+**Why it fits**
+- Direct alignment with 9 years of fleet operations, driver management, and cost control experience.
+- Candidate's strength in KPI reporting, vehicle readiness, and maintenance aligns perfectly with Tristar's requirements.
+- Matches the priority market (Saudi Arabia) and senior operations focus.
+
+**Gaps / risks**
+- Requires transition from urban ride-hailing/taxi fleet to heavy road transport/logistics.
+
+## 2. Fleet, Maintenance & Yard Manager — Flow Progressive Logistics (85/100)
 **Career progression:** 85/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
@@ -19,39 +34,24 @@ Candidate displays strong mobility and fleet management expertise in the UAE mar
 **Vacancy:** https://sa.linkedin.com/jobs/view/fleet-maintenance-yard-manager-at-flow-progressive-logistics-4474065425  
 
 **Why it fits**
-- Directly matches 10 years of experience with heavy emphasis on fleet, maintenance, and telematics.
-- Candidate's experience with budgeting, KPI reporting, and SOP development aligns perfectly with this remit.
-- Strong alignment with candidate's capability in managing vehicle readiness and driver behavior.
+- Core competencies match: workshop maintenance, fuel/tyre management, and telematics monitoring.
+- Candidate is accustomed to high-paced operational environments.
+- Experience in RTA compliance translates well to KSA regulatory requirements.
 
 **Gaps / risks**
-- Requires relocation to Jeddah, Saudi Arabia.
+- Role focuses heavily on yard management, which is a slight departure from the candidate's mobility-centric background.
 
-## 2. Fleet Supervisor — Ninja (88/100)
-**Career progression:** 75/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Jiddah, Makkah, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/fleet-supervisor-at-ninja-%F0%9F%A5%B7%F0%9F%8F%BD-%D9%86%D9%8A%D9%86%D8%AC%D8%A7-4475768677  
-
-**Why it fits**
-- Candidate currently manages a fleet of similar scale (30+ vehicles, 40+ drivers).
-- Deep familiarity with delivery platform operations and driver performance metrics.
-- Strong technical skills in Excel/Power Query for performance reporting.
-
-**Gaps / risks**
-- The role is a direct match in scale, but candidate may be overqualified for a supervisory title.
-
-## 3. Logistics & Mobility Director — Marafid (76/100)
-**Career progression:** 90/100  
+## 3. Logistics & Mobility Director — Marafid (82/100)
+**Career progression:** 95/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
 **Location:** Riyadh, Saudi Arabia  
 **Vacancy:** https://sa.linkedin.com/jobs/view/logistics-mobility-director-at-marafid-4476157644  
 
 **Why it fits**
-- Strong strategic overlap with mobility operations and asset management.
-- Matches the candidate's industry experience in transportation and mobility.
-- Ability to manage complex operational ecosystems and stakeholder coordination.
+- Candidate has deep knowledge of mobility ecosystems.
+- Alignment with MARAFID's focus on economic infrastructure and digital mobility solutions.
+- Strengths in SOP development and stakeholder management.
 
 **Gaps / risks**
-- This is an executive-level role; requires demonstrating how 10 years of operational experience translates to high-level strategic mobility direction.
+- The role is highly strategic/director-level; candidate will need to demonstrate readiness for high-level infrastructure ecosystem management.
