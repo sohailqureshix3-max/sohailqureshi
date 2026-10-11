@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-10T09:00:00Z",
+  "generated_at": "2026-10-11T12:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational expertise in mobility and fleet management within the GCC. Selected roles align with his experience in ride-hailing platforms, fleet optimization, and logistics.",
+    "notes": "Candidate displays strong operational expertise in ride-hailing and fleet management. High alignment identified for positions requiring direct oversight of drivers, vehicle utilization, and RTA/fleet compliance. Jobs in logistics/last-mile with fleet focus have been prioritized.",
     "credible_jobs_found": 3,
-    "high_fit_count": 3,
+    "high_fit_count": 2,
     "watchlist_count": 0,
     "executive_matches": 3,
     "auto_apply_eligible": 3,
-    "discovery_candidates_reviewed": 38,
+    "discovery_candidates_reviewed": 43,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,84 +20,84 @@
   },
   "jobs": [
     {
-      "job_title": "Logistics & Mobility Director",
-      "company": "Marafid",
-      "location": "Riyadh, Saudi Arabia",
-      "fit_score": 88,
-      "career_progression_score": 95,
-      "live_confidence": "high",
-      "job_url": "https://sa.linkedin.com/jobs/view/logistics-mobility-director-at-marafid-4476157644",
-      "source": "LinkedIn",
-      "industry_alignment": "clear",
-      "auto_apply_eligible": true,
-      "why_fit": [
-        "Direct alignment with Mobility and Logistics sector",
-        "Strategic and operational scope matches candidate's 10-year leadership trajectory",
-        "GCC-specific ecosystem experience required"
-      ],
-      "gaps_risks": [
-        "Requires transition from operational execution to broader ecosystem management"
-      ],
-      "email_subject": "Application: Logistics & Mobility Director - Muhammad Sohail Ayub Qureshi",
-      "email_pitch": "Dear Hiring Team, With 9 years of direct Dubai mobility and fleet experience across major platforms including Uber, Careem, and Yango, I have managed 40 drivers and 30 vehicles with a focus on KPI-driven efficiency and RTA compliance. My background in fleet utilization and cost control aligns perfectly with Marafid's mobility ecosystem objectives.",
-      "linkedin_pitch": "Strategic Mobility Leader with 9+ years of GCC experience across Yango, Uber, and Careem. I am interested in how Marafid is shaping Riyadh's mobility infrastructure and believe my expertise in fleet operations and compliance can add immediate value.",
-      "fit_tier": "strong",
-      "scoring_mode": "ai",
-      "ranking_score": 89.4,
-      "rank": 1
-    },
-    {
-      "job_title": "VP of Operational Excellence (Ports/Logistics)",
-      "company": "Mark Williams Recruitment",
-      "location": "Abu Dhabi Emirate, United Arab Emirates",
-      "fit_score": 82,
-      "career_progression_score": 90,
-      "live_confidence": "medium",
-      "job_url": "https://ae.linkedin.com/jobs/view/vp-of-operational-excellence-ports-logistics-at-mark-williams-recruitment-4471435148",
-      "source": "LinkedIn",
-      "industry_alignment": "clear",
-      "auto_apply_eligible": true,
-      "why_fit": [
-        "Matches 'Operating Partner' style requirement for hands-on operational improvement",
-        "Strong focus on last mile and transport operational KPIs",
-        "Expertise in data-driven process control"
-      ],
-      "gaps_risks": [
-        "Role scale may be larger than current individual fleet management scope"
-      ],
-      "email_subject": "Application: VP of Operational Excellence - Muhammad Sohail Ayub Qureshi",
-      "email_pitch": "Dear Mark Williams Recruitment, My 10 years of operational leadership in the GCC mobility sector, including expertise in platform compliance and trip reconciliation, provides the exact 'hands-on' operational performance background needed for this role. I have a proven track record of using data-driven insights for cost control and fleet optimization.",
-      "linkedin_pitch": "Experienced Operations Leader with a focus on last-mile and fleet efficiency across 7+ ride-hailing platforms. Interested in the VP Operational Excellence role for the Abu Dhabi portfolio.",
-      "fit_tier": "strong",
-      "scoring_mode": "ai",
-      "ranking_score": 83.6,
-      "rank": 2
-    },
-    {
       "job_title": "Fleet, Maintenance & Yard Manager",
       "company": "Flow Progressive Logistics",
       "location": "Jeddah, Makkah, Saudi Arabia",
-      "fit_score": 80,
-      "career_progression_score": 75,
+      "fit_score": 88,
+      "career_progression_score": 85,
       "live_confidence": "high",
       "job_url": "https://sa.linkedin.com/jobs/view/fleet-maintenance-yard-manager-at-flow-progressive-logistics-4474065425",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Candidate has deep expertise in fleet utilization and maintenance coordination",
-        "Strong experience in operational KPI and budget/cost control",
-        "Matches required technical proficiency in telematics and fleet management"
+        "Direct overlap with 10 years experience in fleet maintenance, telematics, and vehicle readiness.",
+        "Expertise in budget planning, cost-control, and driver management aligns perfectly with the JD requirements.",
+        "Matches the candidate's core strength in RTA/fleet compliance and SOP development."
       ],
       "gaps_risks": [
-        "Shift from passenger mobility to heavy transport/logistics fleet management"
+        "Requires relocation from Dubai to Jeddah."
       ],
-      "email_subject": "Application: Fleet, Maintenance & Yard Manager - Muhammad Sohail Ayub Qureshi",
-      "email_pitch": "Dear Hiring Manager, With a decade of experience managing 30-vehicle fleets and 40 drivers in Dubai, I offer specialized skills in workshop maintenance, telematics, and cost reduction. I am eager to apply my experience in fleet readiness and compliance to the Flow Progressive Logistics team.",
-      "linkedin_pitch": "Fleet Operations professional with 9 years of GCC-based experience across diverse mobility platforms. I have a strong background in fleet availability, maintenance, and budget control, and I am interested in the Fleet, Maintenance & Yard Manager position.",
+      "email_subject": "Fleet Operations Leadership - Muhammad Sohail Ayub Qureshi",
+      "email_pitch": "Dear Hiring Manager, with 10 years of fleet operations experience in the UAE, including managing 40 drivers and 30 vehicles across major mobility platforms, I am well-equipped to lead your fleet and maintenance operations in Jeddah. My background in telematics and cost-control directly supports your uptime and safety goals.",
+      "linkedin_pitch": "I've been following Flow Progressive Logistics' expansion. With 10 years of experience managing fleet utilization, maintenance, and driver performance in the GCC, I am confident I can contribute to your operational efficiency and asset lifecycle management in Jeddah.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 79.0,
+      "ranking_score": 87.4,
+      "rank": 1
+    },
+    {
+      "job_title": "Team Leader , Logistics",
+      "company": "noon",
+      "location": "Dammam, Eastern, Saudi Arabia",
+      "fit_score": 82,
+      "career_progression_score": 75,
+      "live_confidence": "high",
+      "job_url": "https://sa.linkedin.com/jobs/view/team-leader-logistics-at-noon-4472494564",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Proven experience managing fleets and drivers for rapid delivery platforms matches the Noon Minutes model.",
+        "Strong familiarity with KPIs and SOPs required to manage multiple dark stores.",
+        "Candidate has extensive experience in the high-pressure ride-hailing environment which maps to Noon's requirements."
+      ],
+      "gaps_risks": [
+        "Position may be seen as a lateral or minor step down in seniority compared to head-of-level roles, though it offers high-growth exposure."
+      ],
+      "email_subject": "Logistics Operations Application - Muhammad Sohail Ayub Qureshi",
+      "email_pitch": "Dear Hiring Manager, my 9 years of transport experience in the UAE, combined with expertise in platform-based fleet dispatch and KPI management, makes me an excellent fit for your hyper-local delivery team. I thrive in high-paced logistics environments and am prepared to hit the ground running.",
+      "linkedin_pitch": "Noon's growth in the Saudi market is impressive. With my background in managing fleets across Uber, Careem, and Yango, I bring the hands-on experience necessary to optimize logistics and meet the strict performance standards at Noon.",
+      "fit_tier": "strong",
+      "scoring_mode": "ai",
+      "ranking_score": 80.6,
+      "rank": 2
+    },
+    {
+      "job_title": "Fleet Manager",
+      "company": "Multilink Management Consultants",
+      "location": "Abu Dhabi Emirate, United Arab Emirates",
+      "fit_score": 78,
+      "career_progression_score": 80,
+      "live_confidence": "high",
+      "job_url": "https://ae.linkedin.com/jobs/view/fleet-manager-at-multilink-management-consultants-4478050520",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Matches the 10-year experience requirement perfectly.",
+        "Candidate has deep expertise in compliance and safety which is essential for oil & gas projects.",
+        "Proven track record in vehicle allocation and driver management."
+      ],
+      "gaps_risks": [
+        "Candidate lacks specific prior experience in the Oil & Gas/ADNOC sector, which may be a hurdle in the hiring process."
+      ],
+      "email_subject": "Fleet Management Application - Muhammad Sohail Ayub Qureshi",
+      "email_pitch": "Dear Hiring Team, having managed diverse fleets across 7 major mobility platforms in the UAE, I offer the robust operational and compliance-driven mindset required for oil & gas projects. I am highly proficient in managing vehicle readiness and driver performance and am ready to support your Abu Dhabi operations.",
+      "linkedin_pitch": "I am writing to express my interest in the Fleet Manager role. My 10 years of experience in UAE fleet operations, coupled with my commitment to strict safety and regulatory compliance, aligns well with the demands of managing project-based assets in Abu Dhabi.",
+      "fit_tier": "credible",
+      "scoring_mode": "ai",
+      "ranking_score": 78.4,
       "rank": 3
     }
   ]
