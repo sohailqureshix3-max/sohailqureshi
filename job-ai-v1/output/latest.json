@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-11T12:00:00Z",
+  "generated_at": "2026-10-12T14:30:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational expertise in ride-hailing and fleet management. High alignment identified for positions requiring direct oversight of drivers, vehicle utilization, and RTA/fleet compliance. Jobs in logistics/last-mile with fleet focus have been prioritized.",
+    "notes": "Candidate displays strong operational expertise in ride-hailing and fleet management. High fit roles are prioritized in logistics, transport, and mobility sectors, specifically those targeting fleet optimization and last-mile delivery.",
     "credible_jobs_found": 3,
     "high_fit_count": 2,
     "watchlist_count": 0,
-    "executive_matches": 3,
+    "executive_matches": 2,
     "auto_apply_eligible": 3,
-    "discovery_candidates_reviewed": 43,
+    "discovery_candidates_reviewed": 40,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,84 +20,84 @@
   },
   "jobs": [
     {
-      "job_title": "Fleet, Maintenance & Yard Manager",
-      "company": "Flow Progressive Logistics",
-      "location": "Jeddah, Makkah, Saudi Arabia",
+      "job_title": "Fleet Supervisor",
+      "company": "Ninja 🥷 نينجا",
+      "location": "Riyadh, Riyadh, Saudi Arabia",
       "fit_score": 88,
-      "career_progression_score": 85,
+      "career_progression_score": 75,
       "live_confidence": "high",
-      "job_url": "https://sa.linkedin.com/jobs/view/fleet-maintenance-yard-manager-at-flow-progressive-logistics-4474065425",
+      "job_url": "https://sa.linkedin.com/jobs/view/fleet-supervisor-at-ninja-%F0%9F%A5%B7%F0%9F%8F%BD-%D9%86%D9%8A%D9%86%D8%AC%D8%A7-4475763863",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct overlap with 10 years experience in fleet maintenance, telematics, and vehicle readiness.",
-        "Expertise in budget planning, cost-control, and driver management aligns perfectly with the JD requirements.",
-        "Matches the candidate's core strength in RTA/fleet compliance and SOP development."
+        "Direct overlap with fleet management and utilization requirements",
+        "Expertise in driver scheduling and platform compliance",
+        "Fast-paced environment matches current mobility skill set"
       ],
       "gaps_risks": [
-        "Requires relocation from Dubai to Jeddah."
+        "Relocation required to Saudi Arabia"
       ],
-      "email_subject": "Fleet Operations Leadership - Muhammad Sohail Ayub Qureshi",
-      "email_pitch": "Dear Hiring Manager, with 10 years of fleet operations experience in the UAE, including managing 40 drivers and 30 vehicles across major mobility platforms, I am well-equipped to lead your fleet and maintenance operations in Jeddah. My background in telematics and cost-control directly supports your uptime and safety goals.",
-      "linkedin_pitch": "I've been following Flow Progressive Logistics' expansion. With 10 years of experience managing fleet utilization, maintenance, and driver performance in the GCC, I am confident I can contribute to your operational efficiency and asset lifecycle management in Jeddah.",
+      "email_subject": "Application for Fleet Supervisor - Muhammad Qureshi",
+      "email_pitch": "Dear Hiring Team, With 10 years of experience in fleet operations and expertise managing diverse platforms like Uber, Careem, and Yango, I am eager to apply for the Fleet Supervisor role at Ninja. My background in RTA/fleet compliance and cost control directly supports your operational needs.",
+      "linkedin_pitch": "Hi, I noticed the Fleet Supervisor role at Ninja. Given my 9 years of Dubai transport experience managing 30+ vehicles and 40+ drivers across multiple mobility platforms, I am confident I can enhance your fleet efficiency and utilization. Would love to discuss.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 87.4,
+      "ranking_score": 85.4,
       "rank": 1
     },
     {
-      "job_title": "Team Leader , Logistics",
-      "company": "noon",
-      "location": "Dammam, Eastern, Saudi Arabia",
+      "job_title": "Transportation Supervisor",
+      "company": "Keemart",
+      "location": "Kuwait City, Al Asimah, Kuwait",
       "fit_score": 82,
-      "career_progression_score": 75,
+      "career_progression_score": 70,
       "live_confidence": "high",
-      "job_url": "https://sa.linkedin.com/jobs/view/team-leader-logistics-at-noon-4472494564",
+      "job_url": "https://kw.linkedin.com/jobs/view/transportation-supervisor-at-keemart-4475186583",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Proven experience managing fleets and drivers for rapid delivery platforms matches the Noon Minutes model.",
-        "Strong familiarity with KPIs and SOPs required to manage multiple dark stores.",
-        "Candidate has extensive experience in the high-pressure ride-hailing environment which maps to Noon's requirements."
+        "Strong focus on route planning and truck fleet utilization",
+        "Alignment with dark-store replenishment and logistics operations",
+        "Requires exact operational KPI management skills held by the candidate"
       ],
       "gaps_risks": [
-        "Position may be seen as a lateral or minor step down in seniority compared to head-of-level roles, though it offers high-growth exposure."
+        "Relocation required to Kuwait"
       ],
-      "email_subject": "Logistics Operations Application - Muhammad Sohail Ayub Qureshi",
-      "email_pitch": "Dear Hiring Manager, my 9 years of transport experience in the UAE, combined with expertise in platform-based fleet dispatch and KPI management, makes me an excellent fit for your hyper-local delivery team. I thrive in high-paced logistics environments and am prepared to hit the ground running.",
-      "linkedin_pitch": "Noon's growth in the Saudi market is impressive. With my background in managing fleets across Uber, Careem, and Yango, I bring the hands-on experience necessary to optimize logistics and meet the strict performance standards at Noon.",
+      "email_subject": "Transportation Supervisor Application - Muhammad Qureshi",
+      "email_pitch": "Dear Recruitment Team, I am submitting my application for the Transportation Supervisor position. Having managed fleet utilization, driver dispatching, and logistics operations in the GCC for nearly a decade, I am well-prepared to oversee the replenishment operations for Keemart.",
+      "linkedin_pitch": "I am interested in the Transportation Supervisor role at Keemart. With a decade of experience in fleet and transport operations in the UAE, I have the skills in route optimization and performance reporting that your team needs. I look forward to connecting.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 80.6,
+      "ranking_score": 79.6,
       "rank": 2
     },
     {
-      "job_title": "Fleet Manager",
-      "company": "Multilink Management Consultants",
-      "location": "Abu Dhabi Emirate, United Arab Emirates",
-      "fit_score": 78,
-      "career_progression_score": 80,
-      "live_confidence": "high",
-      "job_url": "https://ae.linkedin.com/jobs/view/fleet-manager-at-multilink-management-consultants-4478050520",
+      "job_title": "Logistics & Mobility Director",
+      "company": "Marafid",
+      "location": "Riyadh, Saudi Arabia",
+      "fit_score": 76,
+      "career_progression_score": 85,
+      "live_confidence": "medium",
+      "job_url": "https://sa.linkedin.com/jobs/view/logistics-mobility-director-at-marafid-4476157644",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Matches the 10-year experience requirement perfectly.",
-        "Candidate has deep expertise in compliance and safety which is essential for oil & gas projects.",
-        "Proven track record in vehicle allocation and driver management."
+        "Direct alignment with Mobility and Logistics infrastructure sector",
+        "High-level operational mandate matches candidate's seniority goals",
+        "Proven background in fleet assets and performance monitoring"
       ],
       "gaps_risks": [
-        "Candidate lacks specific prior experience in the Oil & Gas/ADNOC sector, which may be a hurdle in the hiring process."
+        "Higher level of seniority than current role; requires strong leadership justification"
       ],
-      "email_subject": "Fleet Management Application - Muhammad Sohail Ayub Qureshi",
-      "email_pitch": "Dear Hiring Team, having managed diverse fleets across 7 major mobility platforms in the UAE, I offer the robust operational and compliance-driven mindset required for oil & gas projects. I am highly proficient in managing vehicle readiness and driver performance and am ready to support your Abu Dhabi operations.",
-      "linkedin_pitch": "I am writing to express my interest in the Fleet Manager role. My 10 years of experience in UAE fleet operations, coupled with my commitment to strict safety and regulatory compliance, aligns well with the demands of managing project-based assets in Abu Dhabi.",
+      "email_subject": "Application: Logistics & Mobility Director - Muhammad Qureshi",
+      "email_pitch": "Dear Hiring Manager, I am writing to express my interest in the Logistics & Mobility Director role at Marafid. With 10 years of experience in GCC transport and mobility platforms, I have a deep understanding of asset utilization and operational service delivery that aligns with your economic infrastructure initiatives.",
+      "linkedin_pitch": "I am interested in the Logistics & Mobility Director role. With 9 years of hands-on experience in the GCC transport market, including managing complex mobility platforms, I bring a strong background in operational performance and asset utilization to support Marafid's goals.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 78.4,
+      "ranking_score": 77.8,
       "rank": 3
     }
   ]

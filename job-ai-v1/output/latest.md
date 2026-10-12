@@ -1,57 +1,57 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-10-11T12:00:00Z
+Generated: 2026-10-12T14:30:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 43  
+**Relevant candidates reviewed:** 40  
 **Credible jobs:** 3  
 **Strong matches:** 2  
-**Executive/progression matches:** 3  
+**Executive/progression matches:** 2  
 **Auto-apply eligible:** 3  
 
-Candidate displays strong operational expertise in ride-hailing and fleet management. High alignment identified for positions requiring direct oversight of drivers, vehicle utilization, and RTA/fleet compliance. Jobs in logistics/last-mile with fleet focus have been prioritized.
+Candidate displays strong operational expertise in ride-hailing and fleet management. High fit roles are prioritized in logistics, transport, and mobility sectors, specifically those targeting fleet optimization and last-mile delivery.
 
-## 1. Fleet, Maintenance & Yard Manager — Flow Progressive Logistics (88/100)
-**Career progression:** 85/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Jeddah, Makkah, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/fleet-maintenance-yard-manager-at-flow-progressive-logistics-4474065425  
-
-**Why it fits**
-- Direct overlap with 10 years experience in fleet maintenance, telematics, and vehicle readiness.
-- Expertise in budget planning, cost-control, and driver management aligns perfectly with the JD requirements.
-- Matches the candidate's core strength in RTA/fleet compliance and SOP development.
-
-**Gaps / risks**
-- Requires relocation from Dubai to Jeddah.
-
-## 2. Team Leader , Logistics — noon (82/100)
+## 1. Fleet Supervisor — Ninja 🥷 نينجا (88/100)
 **Career progression:** 75/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Dammam, Eastern, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/team-leader-logistics-at-noon-4472494564  
+**Location:** Riyadh, Riyadh, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/fleet-supervisor-at-ninja-%F0%9F%A5%B7%F0%9F%8F%BD-%D9%86%D9%8A%D9%86%D8%AC%D8%A7-4475763863  
 
 **Why it fits**
-- Proven experience managing fleets and drivers for rapid delivery platforms matches the Noon Minutes model.
-- Strong familiarity with KPIs and SOPs required to manage multiple dark stores.
-- Candidate has extensive experience in the high-pressure ride-hailing environment which maps to Noon's requirements.
+- Direct overlap with fleet management and utilization requirements
+- Expertise in driver scheduling and platform compliance
+- Fast-paced environment matches current mobility skill set
 
 **Gaps / risks**
-- Position may be seen as a lateral or minor step down in seniority compared to head-of-level roles, though it offers high-growth exposure.
+- Relocation required to Saudi Arabia
 
-## 3. Fleet Manager — Multilink Management Consultants (78/100)
-**Career progression:** 80/100  
+## 2. Transportation Supervisor — Keemart (82/100)
+**Career progression:** 70/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Abu Dhabi Emirate, United Arab Emirates  
-**Vacancy:** https://ae.linkedin.com/jobs/view/fleet-manager-at-multilink-management-consultants-4478050520  
+**Location:** Kuwait City, Al Asimah, Kuwait  
+**Vacancy:** https://kw.linkedin.com/jobs/view/transportation-supervisor-at-keemart-4475186583  
 
 **Why it fits**
-- Matches the 10-year experience requirement perfectly.
-- Candidate has deep expertise in compliance and safety which is essential for oil & gas projects.
-- Proven track record in vehicle allocation and driver management.
+- Strong focus on route planning and truck fleet utilization
+- Alignment with dark-store replenishment and logistics operations
+- Requires exact operational KPI management skills held by the candidate
 
 **Gaps / risks**
-- Candidate lacks specific prior experience in the Oil & Gas/ADNOC sector, which may be a hurdle in the hiring process.
+- Relocation required to Kuwait
+
+## 3. Logistics & Mobility Director — Marafid (76/100)
+**Career progression:** 85/100  
+**Auto-apply eligible:** True  
+**Scoring:** ai  
+**Location:** Riyadh, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/logistics-mobility-director-at-marafid-4476157644  
+
+**Why it fits**
+- Direct alignment with Mobility and Logistics infrastructure sector
+- High-level operational mandate matches candidate's seniority goals
+- Proven background in fleet assets and performance monitoring
+
+**Gaps / risks**
+- Higher level of seniority than current role; requires strong leadership justification
