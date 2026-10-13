@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-12T14:30:00Z",
+  "generated_at": "2026-10-13T09:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational expertise in ride-hailing and fleet management. High fit roles are prioritized in logistics, transport, and mobility sectors, specifically those targeting fleet optimization and last-mile delivery.",
-    "credible_jobs_found": 3,
-    "high_fit_count": 2,
+    "notes": "Candidate displays strong operational expertise in Dubai's ride-hailing and fleet management sector. Targeted roles focus on mobility and logistics within the GCC. High alignment found with regional logistics and transport management positions.",
+    "credible_jobs_found": 2,
+    "high_fit_count": 1,
     "watchlist_count": 0,
     "executive_matches": 2,
-    "auto_apply_eligible": 3,
-    "discovery_candidates_reviewed": 40,
+    "auto_apply_eligible": 2,
+    "discovery_candidates_reviewed": 18,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,85 +20,56 @@
   },
   "jobs": [
     {
-      "job_title": "Fleet Supervisor",
-      "company": "Ninja 🥷 نينجا",
-      "location": "Riyadh, Riyadh, Saudi Arabia",
-      "fit_score": 88,
-      "career_progression_score": 75,
-      "live_confidence": "high",
-      "job_url": "https://sa.linkedin.com/jobs/view/fleet-supervisor-at-ninja-%F0%9F%A5%B7%F0%9F%8F%BD-%D9%86%D9%8A%D9%86%D8%AC%D8%A7-4475763863",
-      "source": "LinkedIn",
-      "industry_alignment": "clear",
-      "auto_apply_eligible": true,
-      "why_fit": [
-        "Direct overlap with fleet management and utilization requirements",
-        "Expertise in driver scheduling and platform compliance",
-        "Fast-paced environment matches current mobility skill set"
-      ],
-      "gaps_risks": [
-        "Relocation required to Saudi Arabia"
-      ],
-      "email_subject": "Application for Fleet Supervisor - Muhammad Qureshi",
-      "email_pitch": "Dear Hiring Team, With 10 years of experience in fleet operations and expertise managing diverse platforms like Uber, Careem, and Yango, I am eager to apply for the Fleet Supervisor role at Ninja. My background in RTA/fleet compliance and cost control directly supports your operational needs.",
-      "linkedin_pitch": "Hi, I noticed the Fleet Supervisor role at Ninja. Given my 9 years of Dubai transport experience managing 30+ vehicles and 40+ drivers across multiple mobility platforms, I am confident I can enhance your fleet efficiency and utilization. Would love to discuss.",
-      "fit_tier": "strong",
-      "scoring_mode": "ai",
-      "ranking_score": 85.4,
-      "rank": 1
-    },
-    {
-      "job_title": "Transportation Supervisor",
-      "company": "Keemart",
-      "location": "Kuwait City, Al Asimah, Kuwait",
+      "job_title": "Sr. Manager Logistics Operations",
+      "company": "talabat",
+      "location": "Doha, Qatar",
       "fit_score": 82,
-      "career_progression_score": 70,
+      "career_progression_score": 85,
       "live_confidence": "high",
-      "job_url": "https://kw.linkedin.com/jobs/view/transportation-supervisor-at-keemart-4475186583",
+      "job_url": "https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4477557960",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Strong focus on route planning and truck fleet utilization",
-        "Alignment with dark-store replenishment and logistics operations",
-        "Requires exact operational KPI management skills held by the candidate"
+        "Direct experience managing fleet-platform operations and driver dispatching matches Talabat's last-mile model.",
+        "Matches 10 years of experience with senior management requirements."
       ],
       "gaps_risks": [
-        "Relocation required to Kuwait"
+        "Requires relocation to Qatar."
       ],
-      "email_subject": "Transportation Supervisor Application - Muhammad Qureshi",
-      "email_pitch": "Dear Recruitment Team, I am submitting my application for the Transportation Supervisor position. Having managed fleet utilization, driver dispatching, and logistics operations in the GCC for nearly a decade, I am well-prepared to oversee the replenishment operations for Keemart.",
-      "linkedin_pitch": "I am interested in the Transportation Supervisor role at Keemart. With a decade of experience in fleet and transport operations in the UAE, I have the skills in route optimization and performance reporting that your team needs. I look forward to connecting.",
+      "email_subject": "Application for Sr. Manager Logistics Operations - Muhammad Sohail Ayub Qureshi",
+      "email_pitch": "Dear Hiring Team, With 10 years of intensive fleet and platform operations experience across 7 major mobility apps, I am eager to apply my background in driver management and dispatch optimization to Talabat's operations in Qatar.",
+      "linkedin_pitch": "I am interested in the Sr. Manager Logistics Operations role. My 9-year track record in Dubai managing fleet utilization and RTA compliance aligns closely with the operational excellence required at Talabat.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 79.6,
-      "rank": 2
+      "ranking_score": 82.6,
+      "rank": 1
     },
     {
       "job_title": "Logistics & Mobility Director",
       "company": "Marafid",
       "location": "Riyadh, Saudi Arabia",
       "fit_score": 76,
-      "career_progression_score": 85,
+      "career_progression_score": 90,
       "live_confidence": "medium",
       "job_url": "https://sa.linkedin.com/jobs/view/logistics-mobility-director-at-marafid-4476157644",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct alignment with Mobility and Logistics infrastructure sector",
-        "High-level operational mandate matches candidate's seniority goals",
-        "Proven background in fleet assets and performance monitoring"
+        "Strong alignment with the mobility and logistics domain.",
+        "Candidate possesses expertise in SOP development and cost control, essential for director-level oversight."
       ],
       "gaps_risks": [
-        "Higher level of seniority than current role; requires strong leadership justification"
+        "Stepping up to Director level may require demonstration of more strategic P&L accountability compared to current fleet management scale."
       ],
-      "email_subject": "Application: Logistics & Mobility Director - Muhammad Qureshi",
-      "email_pitch": "Dear Hiring Manager, I am writing to express my interest in the Logistics & Mobility Director role at Marafid. With 10 years of experience in GCC transport and mobility platforms, I have a deep understanding of asset utilization and operational service delivery that aligns with your economic infrastructure initiatives.",
-      "linkedin_pitch": "I am interested in the Logistics & Mobility Director role. With 9 years of hands-on experience in the GCC transport market, including managing complex mobility platforms, I bring a strong background in operational performance and asset utilization to support Marafid's goals.",
+      "email_subject": "Application for Logistics & Mobility Director - Muhammad Sohail Ayub Qureshi",
+      "email_pitch": "Dear Hiring Manager, Having managed 40 drivers and 30 vehicles with extensive platform compliance experience, I am well-positioned to drive the mobility strategy at Marafid.",
+      "linkedin_pitch": "I am keen on the Logistics & Mobility Director opportunity. With nearly a decade of experience in GCC transport operations, I offer a blend of technical dispatch management and regulatory compliance expertise.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 77.8,
-      "rank": 3
+      "ranking_score": 78.8,
+      "rank": 2
     }
   ]
 }
