@@ -1,40 +1,41 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-10-13T09:00:00Z
+Generated: 2026-10-14T09:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 18  
+**Relevant candidates reviewed:** 40  
 **Credible jobs:** 2  
-**Strong matches:** 1  
+**Strong matches:** 2  
 **Executive/progression matches:** 2  
 **Auto-apply eligible:** 2  
 
-Candidate displays strong operational expertise in Dubai's ride-hailing and fleet management sector. Targeted roles focus on mobility and logistics within the GCC. High alignment found with regional logistics and transport management positions.
+Candidate displays strong operational expertise in mobility and fleet management. High fit roles prioritized in ride-hailing, last-mile logistics, and fleet operations. Hospitality and heavy construction roles were excluded per instructions.
 
-## 1. Sr. Manager Logistics Operations — talabat (82/100)
-**Career progression:** 85/100  
+## 1. Sr. Manager Logistics Operations — talabat (85/100)
+**Career progression:** 90/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
 **Location:** Doha, Qatar  
 **Vacancy:** https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4477557960  
 
 **Why it fits**
-- Direct experience managing fleet-platform operations and driver dispatching matches Talabat's last-mile model.
-- Matches 10 years of experience with senior management requirements.
+- Direct experience with platform-based last-mile logistics.
+- Matches candidate's background in fleet operations and KPI management.
+- 10 years of experience aligns perfectly with seniority expectations.
 
 **Gaps / risks**
-- Requires relocation to Qatar.
+- Candidate currently based in Dubai; must be willing to relocate to Qatar.
 
-## 2. Logistics & Mobility Director — Marafid (76/100)
-**Career progression:** 90/100  
+## 2. Fleet, Maintenance & Yard Manager — Flow Progressive Logistics (82/100)
+**Career progression:** 80/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Riyadh, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/logistics-mobility-director-at-marafid-4476157644  
+**Location:** Jeddah, Makkah, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/fleet-maintenance-yard-manager-at-flow-progressive-logistics-4474065425  
 
 **Why it fits**
-- Strong alignment with the mobility and logistics domain.
-- Candidate possesses expertise in SOP development and cost control, essential for director-level oversight.
+- Core competency in fleet maintenance, telematics, and RTA/regulatory compliance.
+- Proven experience with fuel reconciliation, driver scheduling, and workshop coordination.
 
 **Gaps / risks**
-- Stepping up to Director level may require demonstration of more strategic P&L accountability compared to current fleet management scale.
+- Relocation to Saudi Arabia required.

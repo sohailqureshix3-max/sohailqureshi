@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-13T09:00:00Z",
+  "generated_at": "2026-10-14T09:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational expertise in Dubai's ride-hailing and fleet management sector. Targeted roles focus on mobility and logistics within the GCC. High alignment found with regional logistics and transport management positions.",
+    "notes": "Candidate displays strong operational expertise in mobility and fleet management. High fit roles prioritized in ride-hailing, last-mile logistics, and fleet operations. Hospitality and heavy construction roles were excluded per instructions.",
     "credible_jobs_found": 2,
-    "high_fit_count": 1,
+    "high_fit_count": 2,
     "watchlist_count": 0,
     "executive_matches": 2,
     "auto_apply_eligible": 2,
-    "discovery_candidates_reviewed": 18,
+    "discovery_candidates_reviewed": 40,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -23,52 +23,53 @@
       "job_title": "Sr. Manager Logistics Operations",
       "company": "talabat",
       "location": "Doha, Qatar",
-      "fit_score": 82,
-      "career_progression_score": 85,
+      "fit_score": 85,
+      "career_progression_score": 90,
       "live_confidence": "high",
       "job_url": "https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4477557960",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct experience managing fleet-platform operations and driver dispatching matches Talabat's last-mile model.",
-        "Matches 10 years of experience with senior management requirements."
+        "Direct experience with platform-based last-mile logistics.",
+        "Matches candidate's background in fleet operations and KPI management.",
+        "10 years of experience aligns perfectly with seniority expectations."
       ],
       "gaps_risks": [
-        "Requires relocation to Qatar."
+        "Candidate currently based in Dubai; must be willing to relocate to Qatar."
       ],
-      "email_subject": "Application for Sr. Manager Logistics Operations - Muhammad Sohail Ayub Qureshi",
-      "email_pitch": "Dear Hiring Team, With 10 years of intensive fleet and platform operations experience across 7 major mobility apps, I am eager to apply my background in driver management and dispatch optimization to Talabat's operations in Qatar.",
-      "linkedin_pitch": "I am interested in the Sr. Manager Logistics Operations role. My 9-year track record in Dubai managing fleet utilization and RTA compliance aligns closely with the operational excellence required at Talabat.",
+      "email_subject": "Operations Leadership: Senior Logistics Manager Application - Muhammad Sohail Qureshi",
+      "email_pitch": "Dear Hiring Team, With 10 years of operations experience across major mobility platforms (Uber, Careem, Yango, etc.), I am uniquely positioned to lead Talabat Qatar’s supply ecosystem. My background includes managing 40 drivers and 30 vehicles with a heavy focus on RTA compliance, cost control, and platform utilization.",
+      "linkedin_pitch": "Talabat's focus on logistics supply efficiency aligns with my 9-year track record in Dubai's transport sector. Having managed fleet operations for platforms like Uber, Careem, and Bolt, I am confident in driving rider supply and operational excellence in Qatar.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 82.6,
+      "ranking_score": 86.0,
       "rank": 1
     },
     {
-      "job_title": "Logistics & Mobility Director",
-      "company": "Marafid",
-      "location": "Riyadh, Saudi Arabia",
-      "fit_score": 76,
-      "career_progression_score": 90,
-      "live_confidence": "medium",
-      "job_url": "https://sa.linkedin.com/jobs/view/logistics-mobility-director-at-marafid-4476157644",
+      "job_title": "Fleet, Maintenance & Yard Manager",
+      "company": "Flow Progressive Logistics",
+      "location": "Jeddah, Makkah, Saudi Arabia",
+      "fit_score": 82,
+      "career_progression_score": 80,
+      "live_confidence": "high",
+      "job_url": "https://sa.linkedin.com/jobs/view/fleet-maintenance-yard-manager-at-flow-progressive-logistics-4474065425",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Strong alignment with the mobility and logistics domain.",
-        "Candidate possesses expertise in SOP development and cost control, essential for director-level oversight."
+        "Core competency in fleet maintenance, telematics, and RTA/regulatory compliance.",
+        "Proven experience with fuel reconciliation, driver scheduling, and workshop coordination."
       ],
       "gaps_risks": [
-        "Stepping up to Director level may require demonstration of more strategic P&L accountability compared to current fleet management scale."
+        "Relocation to Saudi Arabia required."
       ],
-      "email_subject": "Application for Logistics & Mobility Director - Muhammad Sohail Ayub Qureshi",
-      "email_pitch": "Dear Hiring Manager, Having managed 40 drivers and 30 vehicles with extensive platform compliance experience, I am well-positioned to drive the mobility strategy at Marafid.",
-      "linkedin_pitch": "I am keen on the Logistics & Mobility Director opportunity. With nearly a decade of experience in GCC transport operations, I offer a blend of technical dispatch management and regulatory compliance expertise.",
-      "fit_tier": "credible",
+      "email_subject": "Fleet Operations Leadership: Muhammad Sohail Qureshi",
+      "email_pitch": "I am writing to express my interest in the Fleet & Maintenance Manager position. With 10 years in fleet management, including deep experience in vehicle readiness, EV charging, and SOP development, I am eager to apply my expertise in cost control and uptime management at Flow Progressive Logistics.",
+      "linkedin_pitch": "Flow's focus on fleet reliability and workshop efficiency matches my background in managing multi-platform operations and driver training. I have extensive experience in fleet utilization and budget control.",
+      "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 78.8,
+      "ranking_score": 81.6,
       "rank": 2
     }
   ]
