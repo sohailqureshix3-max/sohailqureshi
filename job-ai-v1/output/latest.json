@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-14T09:00:00Z",
+  "generated_at": "2026-10-15T09:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational expertise in mobility and fleet management. High fit roles prioritized in ride-hailing, last-mile logistics, and fleet operations. Hospitality and heavy construction roles were excluded per instructions.",
-    "credible_jobs_found": 2,
+    "notes": "Candidate displays strong operational, fleet management, and platform experience relevant to GCC mobility markets. High-fit roles are identified in fleet-heavy logistics and ride-hailing/delivery sectors.",
+    "credible_jobs_found": 3,
     "high_fit_count": 2,
     "watchlist_count": 0,
-    "executive_matches": 2,
-    "auto_apply_eligible": 2,
+    "executive_matches": 3,
+    "auto_apply_eligible": 3,
     "discovery_candidates_reviewed": 40,
     "searched_markets": [
       "Saudi Arabia",
@@ -23,27 +23,27 @@
       "job_title": "Sr. Manager Logistics Operations",
       "company": "talabat",
       "location": "Doha, Qatar",
-      "fit_score": 85,
-      "career_progression_score": 90,
+      "fit_score": 88,
+      "career_progression_score": 85,
       "live_confidence": "high",
       "job_url": "https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4477557960",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct experience with platform-based last-mile logistics.",
-        "Matches candidate's background in fleet operations and KPI management.",
-        "10 years of experience aligns perfectly with seniority expectations."
+        "Direct alignment with platform-based mobility and delivery logistics.",
+        "Matches candidate's expertise in fleet growth, 3PL management, and operational KPI optimization.",
+        "Candidate's experience with Uber, Careem, and others translates perfectly to food-tech logistics."
       ],
       "gaps_risks": [
-        "Candidate currently based in Dubai; must be willing to relocate to Qatar."
+        "None identified; high alignment with core competencies."
       ],
-      "email_subject": "Operations Leadership: Senior Logistics Manager Application - Muhammad Sohail Qureshi",
-      "email_pitch": "Dear Hiring Team, With 10 years of operations experience across major mobility platforms (Uber, Careem, Yango, etc.), I am uniquely positioned to lead Talabat Qatar’s supply ecosystem. My background includes managing 40 drivers and 30 vehicles with a heavy focus on RTA compliance, cost control, and platform utilization.",
-      "linkedin_pitch": "Talabat's focus on logistics supply efficiency aligns with my 9-year track record in Dubai's transport sector. Having managed fleet operations for platforms like Uber, Careem, and Bolt, I am confident in driving rider supply and operational excellence in Qatar.",
+      "email_subject": "Application for Sr. Manager Logistics Operations - Muhammad Sohail Ayub Qureshi",
+      "email_pitch": "Dear Hiring Team, With 9 years of direct experience in Dubai's high-velocity transport sector and deep expertise in platform-based fleet operations (Uber, Careem, Yango, etc.), I am uniquely positioned to lead Talabat Qatar’s supply ecosystem. I have managed fleets of 40 drivers and 30 vehicles with a focus on KPI-driven efficiency and RTA compliance.",
+      "linkedin_pitch": "Talabat's focus on sustainable, high-performing rider bases aligns with my 9+ years of transport operations in the UAE. I have successfully scaled fleet operations for multiple ride-hailing and delivery platforms and would value the chance to bring this experience to your logistics team in Qatar.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 86.0,
+      "ranking_score": 87.4,
       "rank": 1
     },
     {
@@ -58,19 +58,46 @@
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Core competency in fleet maintenance, telematics, and RTA/regulatory compliance.",
-        "Proven experience with fuel reconciliation, driver scheduling, and workshop coordination."
+        "Deep match with fleet maintenance, telematics, and operational KPI reporting.",
+        "Experience with vehicle readiness, EV charging, and cost control fits the requirements for yard and fleet management."
       ],
       "gaps_risks": [
-        "Relocation to Saudi Arabia required."
+        "Requires relocation to Saudi Arabia.",
+        "Focus is on heavy/logistics vehicles; candidate's background is predominantly passenger/mobility fleet."
       ],
-      "email_subject": "Fleet Operations Leadership: Muhammad Sohail Qureshi",
-      "email_pitch": "I am writing to express my interest in the Fleet & Maintenance Manager position. With 10 years in fleet management, including deep experience in vehicle readiness, EV charging, and SOP development, I am eager to apply my expertise in cost control and uptime management at Flow Progressive Logistics.",
-      "linkedin_pitch": "Flow's focus on fleet reliability and workshop efficiency matches my background in managing multi-platform operations and driver training. I have extensive experience in fleet utilization and budget control.",
+      "email_subject": "Fleet, Maintenance & Yard Manager - Muhammad Sohail Ayub Qureshi",
+      "email_pitch": "Dear Hiring Manager, As a specialist in fleet utilization and vehicle readiness with 10 years of experience in the GCC, I am very interested in the Fleet, Maintenance & Yard Manager role at Flow Progressive Logistics. My expertise includes advanced Excel/Power Query for maintenance tracking and hands-on management of fleet availability and compliance.",
+      "linkedin_pitch": "Your requirement for fleet, maintenance, and yard management aligns with my core strengths in asset lifecycle and cost control. With 9 years of experience managing diverse fleets and ensuring RTA compliance, I am prepared to drive performance and efficiency for Flow Progressive Logistics in Jeddah.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
       "ranking_score": 81.6,
       "rank": 2
+    },
+    {
+      "job_title": "Team Leader, Logistics",
+      "company": "noon",
+      "location": "Dammam, Eastern, Saudi Arabia",
+      "fit_score": 78,
+      "career_progression_score": 75,
+      "live_confidence": "high",
+      "job_url": "https://sa.linkedin.com/jobs/view/team-leader-logistics-at-noon-4472494564",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Matches the requirement for managing dark stores/last-mile fleet operations.",
+        "Direct overlap with platform-based dispatch and driver management experience."
+      ],
+      "gaps_risks": [
+        "Role level (Team Leader) may be perceived as a lateral or slight step down depending on current total compensation."
+      ],
+      "email_subject": "Team Leader, Logistics - Application - Muhammad Sohail Ayub Qureshi",
+      "email_pitch": "Dear Noon Talent Acquisition, With 9 years of experience in Dubai's dynamic transport operations, I have a strong background in driver scheduling, dispatch, and compliance. I am confident in my ability to manage fleet operations across your dark stores while maintaining high service-level standards.",
+      "linkedin_pitch": "Noon's hyper-local delivery model resonates with my experience across platforms like Uber and Careem. I am interested in contributing my expertise in driver scheduling, dispatch, and operational KPI reporting to your logistics team in the Eastern Province.",
+      "fit_tier": "credible",
+      "scoring_mode": "ai",
+      "ranking_score": 77.4,
+      "rank": 3
     }
   ]
 }
