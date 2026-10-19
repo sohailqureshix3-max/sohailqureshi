@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-18T10:00:00Z",
+  "generated_at": "2026-10-19T10:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong fit for fleet operations, mobility management, and last-mile logistics roles due to extensive 9-year experience in the Dubai transport sector. High alignment with platform-driven fleet operations.",
+    "notes": "Candidate displays strong operational expertise in mobility and ride-hailing with 9 years of direct Dubai transport experience. Focus filtered on roles involving fleet management, driver operations, and logistics scale suitable for a 40-driver/30-vehicle management background.",
     "credible_jobs_found": 3,
     "high_fit_count": 2,
     "watchlist_count": 0,
     "executive_matches": 2,
     "auto_apply_eligible": 3,
-    "discovery_candidates_reviewed": 47,
+    "discovery_candidates_reviewed": 41,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -24,33 +24,34 @@
       "company": "talabat",
       "location": "Doha, Qatar",
       "fit_score": 88,
-      "career_progression_score": 85,
+      "career_progression_score": 90,
       "live_confidence": "high",
       "job_url": "https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4477557960",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct experience with platforms like Uber/Careem/Yango maps perfectly to Talabat's rider supply and delivery operations.",
-        "Matches requirements for managing fleet utilization, SOP development, and KPI management.",
-        "Candidate has extensive experience in the GCC mobility sector."
+        "Direct alignment with ride-hailing and last-mile delivery platforms (Uber, Careem, etc.)",
+        "Experience in driver management and 3PL compliance matches talabat’s supply ecosystem",
+        "Strong focus on KPIs, operational efficiency, and fleet-platform management"
       ],
       "gaps_risks": [
-        "Moving from UAE to Qatar market."
+        "Requires relocation to Qatar",
+        "Shift from purely mobility/ride-hailing to food-tech logistics"
       ],
-      "email_subject": "Senior Operations Leadership - Fleet & Logistics Expertise",
-      "email_pitch": "Dear Hiring Team, With 10 years in GCC fleet and mobility operations, including 9 years in the highly competitive Dubai market managing platforms like Uber and Careem, I am confident in my ability to drive Talabat Qatar's supply ecosystem performance. My background in RTA compliance, fleet utilization, and data-driven SOP implementation aligns directly with the requirements for this role.",
-      "linkedin_pitch": "Talabat's scale in the GCC is impressive. Having managed 40+ drivers and 30+ vehicles in the Dubai market, I bring the hands-on operational rigor required to optimize logistics and rider supply. I'd welcome the chance to discuss how I can contribute to your team in Qatar.",
+      "email_subject": "Operations Leadership: Leveraging Mobility Expertise for Talabat Qatar",
+      "email_pitch": "Dear Hiring Manager, with 9 years of experience managing fleet operations across major ride-hailing platforms (Uber, Careem, Yango), I have developed a deep expertise in driver dispatch, RTA compliance, and operational KPIs. My background in high-volume, tech-driven fleet environments aligns perfectly with the requirements for the Sr. Manager Logistics Operations role at talabat.",
+      "linkedin_pitch": "I've been following talabat’s growth in Qatar and would love to bring my 9 years of specialized fleet and ride-hailing operations experience to your logistics team. Given my background in managing drivers and optimizing fleet efficiency across major platforms, I believe I can drive significant value to your delivery ecosystem.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 87.4,
+      "ranking_score": 88.4,
       "rank": 1
     },
     {
       "job_title": "Area Manager – Fleet Management / Operations",
       "company": "STAR SERVICES LLC.",
-      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-      "fit_score": 85,
+      "location": "Abu Dhabi, United Arab Emirates",
+      "fit_score": 82,
       "career_progression_score": 75,
       "live_confidence": "high",
       "job_url": "https://ae.linkedin.com/jobs/view/area-manager-%E2%80%93-fleet-management-operations-at-star-services-llc-4478442623",
@@ -58,44 +59,43 @@
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct alignment with fleet management, KPI monitoring, and multi-location field operations.",
-        "Candidate's experience covers the entire operational cycle including scheduling and maintenance.",
-        "Location proximity to current UAE base."
+        "Direct experience managing multi-site fleet and field operations",
+        "Aligned with candidate’s expertise in KPI monitoring and fleet availability",
+        "Geographically aligned (UAE based)"
       ],
       "gaps_risks": [
-        "Requires transition from ride-hailing/taxi fleet to potentially broader commercial fleet scope."
+        "Requires relocation or commute to Abu Dhabi"
       ],
-      "email_subject": "Application for Area Manager - Fleet Management",
-      "email_pitch": "Dear Hiring Manager, I am writing to express my interest in the Area Manager role at Star Services LLC. With 9 years of direct experience in the UAE transport sector managing diverse fleets and ride-hailing platforms, I have a proven track record in optimizing fleet availability and driver performance. I am proficient in maintaining strict operational KPIs and RTA compliance.",
-      "linkedin_pitch": "I've been monitoring Star Services' growth in UAE fleet operations. Given my 9-year tenure in the local transport sector and expertise in scaling fleet utilization, I believe my background would be a strong asset for your area management team in Abu Dhabi.",
+      "email_subject": "Application for Area Manager - Fleet Management Operations",
+      "email_pitch": "With nearly a decade of experience managing fleet operations and driver teams in the UAE, I am excited to apply for the Area Manager position. My background with major mobility platforms and direct experience in SOP development and fleet cost control makes me a strong fit to drive efficiency at Star Services.",
+      "linkedin_pitch": "I am interested in your Area Manager opening. Having spent the last 9 years in UAE transport operations managing diverse fleets and driver schedules, I have successfully scaled operational efficiency and compliance. I’d love to discuss how my background in fleet management and KPI optimization can support STAR SERVICES.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 83.0,
+      "ranking_score": 80.6,
       "rank": 2
     },
     {
-      "job_title": "Team Leader, Logistics",
-      "company": "noon",
-      "location": "Dammam, Eastern, Saudi Arabia",
+      "job_title": "Fleet Supervisor",
+      "company": "Ninja 🥷 نينجا",
+      "location": "Jiddah, Makkah, Saudi Arabia",
       "fit_score": 78,
       "career_progression_score": 70,
-      "live_confidence": "high",
-      "job_url": "https://sa.linkedin.com/jobs/view/team-leader-logistics-at-noon-4472494564",
+      "live_confidence": "medium",
+      "job_url": "https://sa.linkedin.com/jobs/view/fleet-supervisor-at-ninja-%F0%9F%A5%B7%F0%9F%8F%BD-%D9%86%D9%8A%D9%86%D8%AC%D8%A7-4475768677",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Strong experience in last-mile and dispatch operations.",
-        "Direct experience with the high-pressure, fast-paced environment typical of noon.",
-        "Proficiency in managing dark store or cluster-based fleet operations."
+        "Role matches expertise in driver and fleet management",
+        "Strong focus on cost control and maintenance oversight"
       ],
       "gaps_risks": [
-        "Potential step-down in responsibility relative to current leadership level.",
-        "Relocation to Dammam required."
+        "Role level is slightly junior to current expertise",
+        "Requires relocation to Saudi Arabia"
       ],
-      "email_subject": "Operations & Fleet Team Leader Application",
-      "email_pitch": "Dear Hiring Team, Having spent nearly a decade managing sophisticated ride-hailing and fleet operations in the UAE, I am highly adept at maintaining rigorous SOP compliance and high-performance dispatch cycles. I am eager to apply this expertise to noon's logistics operations in KSA.",
-      "linkedin_pitch": "noon's hyper-local delivery model requires precision at scale. With 10 years of experience managing fleet operations across major regional platforms, I am confident I can hit the ground running with your Dammam logistics team.",
+      "email_subject": "Fleet Operations Specialist - Application",
+      "email_pitch": "I am writing to express my interest in the Fleet Supervisor role at Ninja. With 10 years of operations experience, 9 of which were spent in the Dubai transport sector, I offer extensive experience in managing drivers, optimizing maintenance, and achieving strict operational cost efficiency.",
+      "linkedin_pitch": "Your search for a Fleet Supervisor caught my eye. Given my 9 years of experience managing fleets and drivers across major delivery and ride-hailing platforms in the UAE, I have developed the operational rigor required to optimize efficiency and maintenance standards at Ninja.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
       "ranking_score": 76.4,
