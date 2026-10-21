@@ -1,15 +1,15 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-10-20T10:00:00Z
+Generated: 2026-10-21T10:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 36  
-**Credible jobs:** 4  
+**Relevant candidates reviewed:** 38  
+**Credible jobs:** 3  
 **Strong matches:** 1  
 **Executive/progression matches:** 2  
 **Auto-apply eligible:** 3  
 
-Candidate displays strong operational expertise in Dubai fleet management, platform compliance, and driver coordination. Priority focus is on high-fit roles in mobility, ride-hailing, and logistics where fleet and driver management are core requirements.
+Candidate displays strong expertise in fleet operations, RTA compliance, and multi-platform management (Uber, Careem, etc.). Focus was prioritized on mobility and logistics roles within the GCC.
 
 ## 1. Sr. Manager Logistics Operations — talabat (82/100)
 **Career progression:** 85/100  
@@ -19,57 +19,42 @@ Candidate displays strong operational expertise in Dubai fleet management, platf
 **Vacancy:** https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4477557960  
 
 **Why it fits**
-- Direct experience managing fleets and driver ecosystems on platforms like Uber/Careem aligns with Talabat's 3PL and supply-side operations.
-- Matches requirement for scaling operations and improving operational KPIs.
-- Candidate's deep experience with SOP development and process control is highly relevant.
+- Direct alignment with high-volume last-mile logistics and rider/fleet management.
+- Candidate's 9 years of Dubai transport experience and expertise in scheduling/KPIs are highly relevant to Talabat's operations.
+- Proven experience with platform-based driver management.
 
 **Gaps / risks**
-- Requires relocation to Doha.
-- Talabat role involves managing 3PLs more than direct fleet ownership, which is a shift from candidate's current model.
+- Geographic transition to Qatar required.
+- Management of 3PL partners represents a step up from internal fleet management.
 
-## 2. Team Leader, Logistics — noon (78/100)
-**Career progression:** 70/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Dammam, Eastern, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/team-leader-logistics-at-noon-4472494564  
-
-**Why it fits**
-- Proven ability to manage fleet and driver operations is perfect for Noon's 'Noon Minutes' hyper-local delivery model.
-- Direct experience managing 40 drivers aligns well with the cluster-based fleet management requirements.
-- Strong in SOP compliance and operational KPI reporting.
-
-**Gaps / risks**
-- The role title is slightly junior relative to the candidate's 10-year tenure and current operational responsibilities.
-
-## 3. Delivery Operations Lead — Arkan Marketing Services (76/100)
+## 2. Transportation Manager — Mnzil | منزل (78/100)
 **Career progression:** 75/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Doha, Qatar  
-**Vacancy:** https://qa.linkedin.com/jobs/view/delivery-operations-lead-at-arkan-marketing-services-4477059927  
+**Location:** Riyadh, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/transportation-manager-at-mnzil-%D9%85%D9%86%D8%B2%D9%84-4480217928  
 
 **Why it fits**
-- Role requires deep experience in route planning, driver dispatch, and managing last-mile delivery—all core to candidate's profile.
-- Proven proficiency in Excel for operational analysis and KPI reporting.
-- Strong track record of managing driver performance and implementing SOPs.
+- Role focuses on fleet and transportation for workforce services, matching candidate's direct experience.
+- Responsibility for scheduling, dispatch, and vendor relations directly mirrors current skill set.
+- Strong focus on cost control and SOP development.
 
 **Gaps / risks**
-- Requires immediate availability in Qatar.
-- Focus is very tactical; candidate may be overqualified for daily manual dispatch if seeking senior strategic roles.
+- Requires professional fluency in Arabic; candidate must confirm proficiency level.
+- Move to Riyadh necessary.
 
-## 4. Transportation Manager — Minor Hotels (72/100)
-**Career progression:** 70/100  
-**Auto-apply eligible:** False  
+## 3. Fleet Supervisor — Ninja 🥷 نينجا (75/100)
+**Career progression:** 65/100  
+**Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Abu Dhabi, United Arab Emirates  
-**Vacancy:** https://ae.linkedin.com/jobs/view/transportation-manager-at-minor-hotels-4477660579  
+**Location:** Jiddah, Makkah, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/fleet-supervisor-at-ninja-%F0%9F%A5%B7%F0%9F%8F%BD-%D9%86%D9%8A%D9%86%D8%AC%D8%A7-4475768677  
 
 **Why it fits**
-- Direct alignment with fleet management, driver supervision, and compliance within the UAE.
-- Candidate is already based in the UAE and familiar with RTA and local traffic regulations.
-- Strong focus on budgeting and cost control which aligns with the hospitality transportation requirements.
+- Strong operational alignment: vehicle maintenance, driver performance, and compliance.
+- Candidate possesses advanced Excel skills for the requested operational reporting.
+- Proven history in managing fleet utilization and cost reduction.
 
 **Gaps / risks**
-- Industry is 'adjacent' (hospitality) rather than core mobility platform/logistics.
-- Potential lack of interest in the specific hospitality sector nuances.
+- Title may be perceived as lateral; candidate is currently an Operations Leader/Manager.
+- Requires relocation to Jeddah.
