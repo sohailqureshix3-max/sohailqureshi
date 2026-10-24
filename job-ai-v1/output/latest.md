@@ -1,57 +1,74 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-10-23T12:00:00Z
+Generated: 2026-10-24T12:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 47  
-**Credible jobs:** 3  
+**Relevant candidates reviewed:** 43  
+**Credible jobs:** 4  
 **Strong matches:** 2  
-**Executive/progression matches:** 2  
-**Auto-apply eligible:** 3  
+**Executive/progression matches:** 3  
+**Auto-apply eligible:** 4  
 
-Muhammad Sohail Ayub Qureshi shows strong alignment with mobility, fleet, and last-mile operations. Selected roles reflect his expertise in fleet management, dispatch, RTA compliance, and logistics efficiency. Positions in construction, hospitality, and marine are excluded as per instructions.
+Candidacy analysis focusing on mobility, fleet operations, and last-mile logistics management roles across the GCC. Profiles with high alignment to ride-hailing/delivery fleet management were prioritized.
 
-## 1. Director of Vehicle Management — GSM - Green SM (88/100)
+## 1. Sr. Manager Logistics Operations — talabat (88/100)
+**Career progression:** 85/100  
+**Auto-apply eligible:** True  
+**Scoring:** ai  
+**Location:** Doha, Qatar  
+**Vacancy:** https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4477557960  
+
+**Why it fits**
+- Direct alignment with current expertise in fleet and driver management
+- Experience with high-frequency dispatch and platform compliance
+- Strong operational KPIs alignment (EPH, churn, rider supply)
+
+**Gaps / risks**
+- Relocation to Qatar required
+
+## 2. Divisional Operations Manager- Road Transport — Tristar Group (82/100)
 **Career progression:** 90/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Dubai, United Arab Emirates  
-**Vacancy:** https://ae.linkedin.com/jobs/view/director-of-vehicle-management-at-gsm-green-sm-4480008051  
+**Location:** Riyadh, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/divisional-operations-manager-road-transport-at-tristar-group-4471901736  
 
 **Why it fits**
-- Direct match for fleet lifecycle management, maintenance, and vehicle readiness.
-- Matches 9 years of Dubai-specific transport and operational expertise.
-- Strong focus on EV integration which is highly relevant to his portfolio.
+- Direct experience managing fleet utilization, fuel costs, and maintenance coordination
+- Strong alignment with driver management and safety compliance
+- Proven ability to manage operational KPIs and performance reporting
 
 **Gaps / risks**
-- Requires stepping into a strategic director role, which is a jump from his current operational management capacity.
+- Relocation to Riyadh required
+- Scale of heavy road transport operations is larger than light vehicle fleet management
 
-## 2. Team Leader, Logistics — noon (82/100)
-**Career progression:** 75/100  
+## 3. Logistics & Mobility Director — Marafid (76/100)
+**Career progression:** 95/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Dammam, Eastern, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/team-leader-logistics-at-noon-4472494564  
+**Location:** Riyadh, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/logistics-mobility-director-at-marafid-4476157644  
 
 **Why it fits**
-- Direct experience with last-mile fleet operations and dark store models.
-- Strong alignment with his expertise in fleet scheduling, dispatch, and KPI management.
-- Matches his high-volume platform experience.
+- Direct industry experience in mobility ecosystem operations
+- Proven background in service delivery and performance indicators
+- Operational improvement focus matches Marafid’s mandate
 
 **Gaps / risks**
-- Title is a lateral/slight step down from his current responsibilities managing 40 drivers/30 vehicles.
+- Director-level role represents a significant step up from current operations management
+- Relocation to Riyadh required
 
-## 3. Transportation Supervisor — Keemart (78/100)
+## 4. Fleet Supervisor — Ninja 🥷 نينجا (75/100)
 **Career progression:** 70/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Kuwait City, Al Asimah, Kuwait  
-**Vacancy:** https://kw.linkedin.com/jobs/view/transportation-supervisor-at-keemart-4475186583  
+**Location:** Jiddah, Makkah, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/fleet-supervisor-at-ninja-%F0%9F%A5%B7%F0%9F%8F%BD-%D9%86%D9%8A%D9%86%D8%AC%D8%A7-4475768677  
 
 **Why it fits**
-- Strong fit for daily route optimization, fleet utilization, and driver management.
-- Leverages his experience with platform-based fleet KPIs and billing reconciliation.
+- Highly aligned with current daily operational responsibilities
+- Direct experience with vehicle availability and driver compliance
+- Fast-paced environment matches experience with platforms like Uber/Yango
 
 **Gaps / risks**
-- Geographic relocation to Kuwait is required.
-- Role level is operational/supervisory.
+- Relocation to Jeddah required
