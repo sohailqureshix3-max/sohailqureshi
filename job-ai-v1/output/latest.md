@@ -1,15 +1,15 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-10-24T12:00:00Z
+Generated: 2026-10-25T11:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 43  
-**Credible jobs:** 4  
+**Relevant candidates reviewed:** 46  
+**Credible jobs:** 3  
 **Strong matches:** 2  
-**Executive/progression matches:** 3  
-**Auto-apply eligible:** 4  
+**Executive/progression matches:** 2  
+**Auto-apply eligible:** 3  
 
-Candidacy analysis focusing on mobility, fleet operations, and last-mile logistics management roles across the GCC. Profiles with high alignment to ride-hailing/delivery fleet management were prioritized.
+Candidate displays strong operational, fleet management, and mobility platform expertise. Matches well with high-growth delivery, logistics, and fleet-focused roles in KSA and UAE. Several roles in logistics and fleet management were filtered out due to irrelevant industry focus (construction, hospitality, marine).
 
 ## 1. Sr. Manager Logistics Operations — talabat (88/100)
 **Career progression:** 85/100  
@@ -19,56 +19,37 @@ Candidacy analysis focusing on mobility, fleet operations, and last-mile logisti
 **Vacancy:** https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4477557960  
 
 **Why it fits**
-- Direct alignment with current expertise in fleet and driver management
-- Experience with high-frequency dispatch and platform compliance
-- Strong operational KPIs alignment (EPH, churn, rider supply)
+- Direct alignment with ride-hailing and delivery platform experience (Uber/Careem/Yango).
+- Expertise in fleet growth, driver lifecycle, 3PL management, and KPI-driven operations.
+- Candidate possesses advanced data skills (Power Query) required for the role.
 
 **Gaps / risks**
-- Relocation to Qatar required
 
 ## 2. Divisional Operations Manager- Road Transport — Tristar Group (82/100)
-**Career progression:** 90/100  
+**Career progression:** 80/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
 **Location:** Riyadh, Saudi Arabia  
 **Vacancy:** https://sa.linkedin.com/jobs/view/divisional-operations-manager-road-transport-at-tristar-group-4471901736  
 
 **Why it fits**
-- Direct experience managing fleet utilization, fuel costs, and maintenance coordination
-- Strong alignment with driver management and safety compliance
-- Proven ability to manage operational KPIs and performance reporting
+- Direct experience in fleet utilization, fuel/cost control, and driver management.
+- Matches the requirement for safety-first operations and RTA/compliance knowledge.
+- Strong experience in operational reporting and team supervision.
 
 **Gaps / risks**
-- Relocation to Riyadh required
-- Scale of heavy road transport operations is larger than light vehicle fleet management
 
-## 3. Logistics & Mobility Director — Marafid (76/100)
-**Career progression:** 95/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Riyadh, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/logistics-mobility-director-at-marafid-4476157644  
-
-**Why it fits**
-- Direct industry experience in mobility ecosystem operations
-- Proven background in service delivery and performance indicators
-- Operational improvement focus matches Marafid’s mandate
-
-**Gaps / risks**
-- Director-level role represents a significant step up from current operations management
-- Relocation to Riyadh required
-
-## 4. Fleet Supervisor — Ninja 🥷 نينجا (75/100)
+## 3. Team Leader, Logistics — noon (78/100)
 **Career progression:** 70/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Jiddah, Makkah, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/fleet-supervisor-at-ninja-%F0%9F%A5%B7%F0%9F%8F%BD-%D9%86%D9%8A%D9%86%D8%AC%D8%A7-4475768677  
+**Location:** Dammam, Eastern, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/team-leader-logistics-at-noon-4472494564  
 
 **Why it fits**
-- Highly aligned with current daily operational responsibilities
-- Direct experience with vehicle availability and driver compliance
-- Fast-paced environment matches experience with platforms like Uber/Yango
+- Experience in managing high-paced delivery/logistics operations.
+- Strong capability in fleet management and SOP compliance.
+- Direct experience with multi-store/cluster logistics metrics.
 
 **Gaps / risks**
-- Relocation to Jeddah required
+- Role level is slightly junior to current expertise, but provides an excellent entry point into noon's Saudi logistics expansion.
