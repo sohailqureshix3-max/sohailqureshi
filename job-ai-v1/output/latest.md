@@ -1,43 +1,60 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-10-26T12:00:00Z
+Generated: 2026-10-27T10:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 49  
-**Credible jobs:** 2  
-**Strong matches:** 1  
-**Executive/progression matches:** 2  
-**Auto-apply eligible:** 2  
+**Relevant candidates reviewed:** 46  
+**Credible jobs:** 3  
+**Strong matches:** 2  
+**Executive/progression matches:** 3  
+**Auto-apply eligible:** 3  
 
-Candidate displays strong operational expertise in mobility and ride-hailing fleet management. The selection focuses on roles within Logistics, Mobility, and Fleet management, filtering out hospitality and construction-focused roles.
+Targeted candidates for fleet and mobility operations roles in the GCC. The candidate's strong experience with ride-hailing platforms (Uber, Careem, Yango, etc.) and RTA compliance makes them an excellent fit for specialized logistics and last-mile delivery management.
 
-## 1. Sr. Manager Logistics Operations — talabat (82/100)
-**Career progression:** 85/100  
+## 1. Sr. Manager Logistics Operations — talabat (88/100)
+**Career progression:** 90/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
 **Location:** Doha, Qatar  
 **Vacancy:** https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4477557960  
 
 **Why it fits**
-- Direct experience managing fleets and driver ecosystems on platforms like Uber/Careem matches Talabat's last-mile model.
-- Candidate's 10 years of experience aligns with the 5+ year requirement.
-- Proven skills in KPI management and 3PL oversight directly map to the job's supply ecosystem requirements.
+- Direct experience with fleet-based platform logistics
+- Expertise in KPI management and 3PL performance, matching Talabat's ecosystem requirements
+- Experience in scaling supply and managing rider-base ecosystems
 
 **Gaps / risks**
-- Regional shift from UAE to Qatar required.
+- Requires relocation to Qatar
+- Scale of 3PL management differs from direct driver management
 
-## 2. Logistics & Mobility Director — Marafid (78/100)
-**Career progression:** 90/100  
+## 2. Logistics & Mobility Director — Marafid (82/100)
+**Career progression:** 95/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
 **Location:** Riyadh, Saudi Arabia  
 **Vacancy:** https://sa.linkedin.com/jobs/view/logistics-mobility-director-at-marafid-4476157644  
 
 **Why it fits**
-- Direct industry alignment with mobility and transport infrastructure.
-- Strong experience in operational KPIs and asset management.
-- Transitioning into a Director-level role aligns with current career progression trajectory.
+- Direct alignment with 'Mobility' ecosystem management
+- Strong experience in operational KPI management and RTA/regulatory compliance
+- Leadership experience directly managing fleets and drivers
 
 **Gaps / risks**
-- Requires relocation to KSA.
-- Strategic focus on ecosystem management is broader than current individual fleet management scope.
+- Director level is a significant step up from current operational management
+- Requires knowledge of Saudi-specific logistics infrastructure
+
+## 3. Team Leader , Logistics — noon (78/100)
+**Career progression:** 75/100  
+**Auto-apply eligible:** True  
+**Scoring:** ai  
+**Location:** Dammam, Eastern, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/team-leader-logistics-at-noon-4472494564  
+
+**Why it fits**
+- Hands-on fleet management and driver supervision experience
+- Direct exposure to hyper-local delivery environments
+- Strong focus on SOPs and KPI achievement
+
+**Gaps / risks**
+- Targeted role is slightly below current seniority
+- Geographic preference for Dammam needs to be confirmed
