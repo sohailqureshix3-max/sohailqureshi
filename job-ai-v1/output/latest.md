@@ -1,60 +1,43 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-10-27T10:00:00Z
+Generated: 2026-10-28T09:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 46  
-**Credible jobs:** 3  
+**Relevant candidates reviewed:** 45  
+**Credible jobs:** 2  
 **Strong matches:** 2  
-**Executive/progression matches:** 3  
-**Auto-apply eligible:** 3  
+**Executive/progression matches:** 2  
+**Auto-apply eligible:** 2  
 
-Targeted candidates for fleet and mobility operations roles in the GCC. The candidate's strong experience with ride-hailing platforms (Uber, Careem, Yango, etc.) and RTA compliance makes them an excellent fit for specialized logistics and last-mile delivery management.
+Focused on operations roles within mobility, ride-hailing, and last-mile logistics where the candidate's 9 years of Dubai transport experience and platform expertise (Uber, Careem, etc.) provide a competitive advantage.
 
-## 1. Sr. Manager Logistics Operations — talabat (88/100)
-**Career progression:** 90/100  
+## 1. Fleet Operations Manager – Food Delivery — mechanism support contracting company (88/100)
+**Career progression:** 80/100  
+**Auto-apply eligible:** True  
+**Scoring:** ai  
+**Location:** Jiddah, Makkah, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/fleet-operations-manager-%E2%80%93-food-delivery-at-mechanism-support-contracting-company-4482283368  
+
+**Why it fits**
+- Perfect match for candidate's core expertise in fleet operations, driver management, and platform coordination.
+- Requires hands-on experience with delivery platforms like HungerStation and Jahez, aligning with candidate's platform portfolio.
+- Matches candidate's strength in KPI reporting and cost control.
+
+**Gaps / risks**
+- Requires relocation to Jeddah, Saudi Arabia.
+
+## 2. Sr. Manager Logistics Operations — talabat (82/100)
+**Career progression:** 85/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
 **Location:** Doha, Qatar  
 **Vacancy:** https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4477557960  
 
 **Why it fits**
-- Direct experience with fleet-based platform logistics
-- Expertise in KPI management and 3PL performance, matching Talabat's ecosystem requirements
-- Experience in scaling supply and managing rider-base ecosystems
+- Candidate has extensive experience managing fleet and driver ecosystems.
+- Candidate's expertise in dispatch, audit, and platform compliance fits Talabat's last-mile model.
+- Strong alignment with candidate's proficiency in Excel and data-driven KPI management.
 
 **Gaps / risks**
-- Requires relocation to Qatar
-- Scale of 3PL management differs from direct driver management
-
-## 2. Logistics & Mobility Director — Marafid (82/100)
-**Career progression:** 95/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Riyadh, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/logistics-mobility-director-at-marafid-4476157644  
-
-**Why it fits**
-- Direct alignment with 'Mobility' ecosystem management
-- Strong experience in operational KPI management and RTA/regulatory compliance
-- Leadership experience directly managing fleets and drivers
-
-**Gaps / risks**
-- Director level is a significant step up from current operational management
-- Requires knowledge of Saudi-specific logistics infrastructure
-
-## 3. Team Leader , Logistics — noon (78/100)
-**Career progression:** 75/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Dammam, Eastern, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/team-leader-logistics-at-noon-4472494564  
-
-**Why it fits**
-- Hands-on fleet management and driver supervision experience
-- Direct exposure to hyper-local delivery environments
-- Strong focus on SOPs and KPI achievement
-
-**Gaps / risks**
-- Targeted role is slightly below current seniority
-- Geographic preference for Dammam needs to be confirmed
+- Relocation to Qatar required.
+- Talabat role is at a higher complexity level than current 40-driver management, though well within growth potential.
