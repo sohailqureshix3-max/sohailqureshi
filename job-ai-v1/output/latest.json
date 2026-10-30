@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-29T10:00:00Z",
+  "generated_at": "2026-10-30T09:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational, fleet management, and platform-specific expertise (Uber, Careem, etc.). Candidates were filtered for relevance to fleet/mobility operations, excluding non-transport industries like construction or hospitality.",
-    "credible_jobs_found": 2,
+    "notes": "Candidate displays strong operational, fleet management, and platform experience relevant to GCC mobility and last-mile sectors. Priority was given to roles that leverage his 9 years of UAE transport expertise and direct fleet management experience.",
+    "credible_jobs_found": 1,
     "high_fit_count": 1,
     "watchlist_count": 0,
-    "executive_matches": 2,
-    "auto_apply_eligible": 2,
-    "discovery_candidates_reviewed": 41,
+    "executive_matches": 0,
+    "auto_apply_eligible": 1,
+    "discovery_candidates_reviewed": 38,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -23,56 +23,28 @@
       "job_title": "Fleet Operations Manager – Food Delivery",
       "company": "mechanism support contracting company",
       "location": "Jiddah, Makkah, Saudi Arabia",
-      "fit_score": 88,
-      "career_progression_score": 75,
+      "fit_score": 85,
+      "career_progression_score": 70,
       "live_confidence": "high",
       "job_url": "https://sa.linkedin.com/jobs/view/fleet-operations-manager-%E2%80%93-food-delivery-at-mechanism-support-contracting-company-4482283368",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct experience with HungerStation, Jahez, and Keeta matches the candidate's platform expertise.",
-        "Matches scope of driver management and vehicle utilization requirements.",
-        "Direct alignment with 'Fleet operations' and 'Operational KPI' strengths."
+        "Direct alignment with platform-based fleet management (HungerStation, Jahez, Keeta).",
+        "Expertise in driver management, scheduling, and KPI-based reporting perfectly matches job requirements.",
+        "Matches candidate's strengths in cost control and operational SOP development."
       ],
       "gaps_risks": [
-        "Relocation required if currently residing in Dubai.",
-        "Candidate's experience is mostly within passenger/limo transport; shifting to food delivery requires adaptation to high-volume order metrics."
+        "Transitioning from UAE to Saudi Arabia market requires adaptation to local regulations."
       ],
-      "email_subject": "Operations Leadership: Fleet Management Expertise",
-      "email_pitch": "Dear Hiring Team, with 9 years of direct experience in Dubai transport and fleet platforms, I am eager to apply my background in driver scheduling, RTA compliance, and performance optimization to your food delivery operations in Jeddah.",
-      "linkedin_pitch": "I’ve spent the last 9 years managing fleet operations across Uber, Careem, and Yango. I am highly interested in your Fleet Operations Manager role and confident that my expertise in driver audits, KPI reporting, and cost control can drive your delivery fleet’s efficiency.",
+      "email_subject": "Operations Leadership: Fleet Management Specialist for Food Delivery",
+      "email_pitch": "Dear Hiring Manager, I am a seasoned Mobility and Operations Leader with 9 years of direct experience in the UAE transport sector, managing diverse fleets across platforms like Uber, Careem, and Yango. Your role at mechanism support contracting requires exactly the kind of hands-on driver and platform optimization I have mastered. I am eager to apply my expertise in fleet utilization and cost control to drive efficiency in your Jeddah operations.",
+      "linkedin_pitch": "I am a Dubai-based Operations Leader with 10 years of experience managing fleet logistics across top platforms (Uber, Careem, Yango, etc.). Your 'Fleet Operations Manager' opening aligns perfectly with my background in driver scheduling, RTA compliance, and trip reconciliation. I would welcome the opportunity to discuss how I can scale your fleet operations in Jeddah.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 85.4,
+      "ranking_score": 82.0,
       "rank": 1
-    },
-    {
-      "job_title": "Logistics & Mobility Director",
-      "company": "Marafid",
-      "location": "Riyadh, Saudi Arabia",
-      "fit_score": 76,
-      "career_progression_score": 85,
-      "live_confidence": "medium",
-      "job_url": "https://sa.linkedin.com/jobs/view/logistics-mobility-director-at-marafid-4476157644",
-      "source": "LinkedIn",
-      "industry_alignment": "clear",
-      "auto_apply_eligible": true,
-      "why_fit": [
-        "Direct alignment with mobility ecosystem operations and service delivery.",
-        "Strong strategic overlap regarding asset management and operational improvement."
-      ],
-      "gaps_risks": [
-        "This is a director-level role; the candidate may need to emphasize their P&L ownership and strategic development capabilities to match the 15+ year profiles typical for such roles.",
-        "Requires relocation to Riyadh."
-      ],
-      "email_subject": "Application: Logistics & Mobility Director",
-      "email_pitch": "Dear Hiring Team, having led fleet and mobility operations for 10 years, including managing diverse platforms and RTA-compliant environments, I am well-positioned to contribute to Marafid’s logistics and mobility ecosystem growth.",
-      "linkedin_pitch": "Your work at Marafid in the logistics and mobility space is impressive. Given my 10 years of experience in fleet optimization and transport platforms in the GCC, I would welcome the opportunity to discuss how I can contribute to your mobility ecosystem strategy.",
-      "fit_tier": "credible",
-      "scoring_mode": "ai",
-      "ranking_score": 77.8,
-      "rank": 2
     }
   ]
 }
