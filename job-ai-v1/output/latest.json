@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-30T09:00:00Z",
+  "generated_at": "2026-10-31T09:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational, fleet management, and platform experience relevant to GCC mobility and last-mile sectors. Priority was given to roles that leverage his 9 years of UAE transport expertise and direct fleet management experience.",
-    "credible_jobs_found": 1,
+    "notes": "Focused on high-fit roles in mobility, fleet management, and logistics operations. Excluded roles requiring 15+ years of senior executive experience or non-relevant sectors like construction and heavy maritime.",
+    "credible_jobs_found": 3,
     "high_fit_count": 1,
     "watchlist_count": 0,
-    "executive_matches": 0,
-    "auto_apply_eligible": 1,
-    "discovery_candidates_reviewed": 38,
+    "executive_matches": 3,
+    "auto_apply_eligible": 2,
+    "discovery_candidates_reviewed": 40,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,31 +20,85 @@
   },
   "jobs": [
     {
-      "job_title": "Fleet Operations Manager – Food Delivery",
-      "company": "mechanism support contracting company",
-      "location": "Jiddah, Makkah, Saudi Arabia",
-      "fit_score": 85,
-      "career_progression_score": 70,
+      "job_title": "Supply Chain Transportation Manager",
+      "company": "Alamar",
+      "location": "Riyadh Region",
+      "fit_score": 82,
+      "career_progression_score": 85,
       "live_confidence": "high",
-      "job_url": "https://sa.linkedin.com/jobs/view/fleet-operations-manager-%E2%80%93-food-delivery-at-mechanism-support-contracting-company-4482283368",
+      "job_url": "https://sa.linkedin.com/jobs/view/supply-chain-transportation-manager-at-alamar-4483378350",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct alignment with platform-based fleet management (HungerStation, Jahez, Keeta).",
-        "Expertise in driver management, scheduling, and KPI-based reporting perfectly matches job requirements.",
-        "Matches candidate's strengths in cost control and operational SOP development."
+        "Candidate has 10 years of experience, aligning with the 8-10 year requirement.",
+        "Direct experience with fleet operations, route optimization, and TMS/ERP systems.",
+        "Expertise in KPIs and cost control mirrors the role's requirement for transportation strategy and efficiency."
       ],
       "gaps_risks": [
-        "Transitioning from UAE to Saudi Arabia market requires adaptation to local regulations."
+        "Cold-chain/food safety specific experience is not explicitly highlighted in the candidate's profile, though operations management is highly transferable."
       ],
-      "email_subject": "Operations Leadership: Fleet Management Specialist for Food Delivery",
-      "email_pitch": "Dear Hiring Manager, I am a seasoned Mobility and Operations Leader with 9 years of direct experience in the UAE transport sector, managing diverse fleets across platforms like Uber, Careem, and Yango. Your role at mechanism support contracting requires exactly the kind of hands-on driver and platform optimization I have mastered. I am eager to apply my expertise in fleet utilization and cost control to drive efficiency in your Jeddah operations.",
-      "linkedin_pitch": "I am a Dubai-based Operations Leader with 10 years of experience managing fleet logistics across top platforms (Uber, Careem, Yango, etc.). Your 'Fleet Operations Manager' opening aligns perfectly with my background in driver scheduling, RTA compliance, and trip reconciliation. I would welcome the opportunity to discuss how I can scale your fleet operations in Jeddah.",
+      "email_subject": "Operations Leadership: Transportation & Fleet Strategy | Muhammad Sohail Ayub Qureshi",
+      "email_pitch": "Dear Hiring Manager, having managed 30+ vehicles and 40+ drivers with a 9-year track record in Dubai's competitive mobility market, I am confident in my ability to optimize Alamar's transportation networks. My expertise in fleet utilization, RTA compliance, and advanced data-driven scheduling makes me a strong fit for your Riyadh operation.",
+      "linkedin_pitch": "I am an Operations Leader with 9 years of direct experience in the UAE mobility and fleet sector. With expertise in scaling fleet efficiency and driver management, I am keen to discuss the Transportation Manager role at Alamar and how my background in process control can drive your logistics performance.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 82.0,
+      "ranking_score": 82.6,
       "rank": 1
+    },
+    {
+      "job_title": "Logistics Manager",
+      "company": "Al Khoory Group",
+      "location": "Dubai, United Arab Emirates",
+      "fit_score": 78,
+      "career_progression_score": 80,
+      "live_confidence": "high",
+      "job_url": "https://ae.linkedin.com/jobs/view/logistics-manager-at-al-khoory-group-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%AE%D9%88%D8%B1%D9%8A-4483417276",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Candidate has extensive fleet management and RTA/compliance experience in Dubai.",
+        "Strong background in financial and commercial management (payroll, billing, cost control).",
+        "Matches the seniority profile (8+ years of experience)."
+      ],
+      "gaps_risks": [
+        "Role requires heavy focus on import/export/customs which is broader than the candidate's core mobility/ride-hailing background."
+      ],
+      "email_subject": "Logistics & Fleet Operations Leadership | Muhammad Sohail Ayub Qureshi",
+      "email_pitch": "With 9 years of dedicated transport operations experience in the UAE, I offer a deep understanding of RTA compliance, fleet utilization, and budget control. I am eager to apply my operational background to support the Al Khoory Group's logistics and transportation requirements.",
+      "linkedin_pitch": "Having managed complex fleet operations and driver teams in Dubai for nearly a decade, I am well-acquainted with local regulatory standards. I am interested in the Logistics Manager role and would welcome a conversation regarding my fit for your team.",
+      "fit_tier": "credible",
+      "scoring_mode": "ai",
+      "ranking_score": 78.4,
+      "rank": 2
+    },
+    {
+      "job_title": "Head of Logistics",
+      "company": "Gold Apple",
+      "location": "Dubai, United Arab Emirates",
+      "fit_score": 72,
+      "career_progression_score": 75,
+      "live_confidence": "medium",
+      "job_url": "https://ae.linkedin.com/jobs/view/head-of-logistics-at-gold-apple-4477093306",
+      "source": "LinkedIn",
+      "industry_alignment": "adjacent",
+      "auto_apply_eligible": false,
+      "why_fit": [
+        "Strong focus on distribution and transportation operations.",
+        "Candidate's experience with platform and dispatch management is highly relevant to last-mile fulfillment.",
+        "Fits the 5-7 year leadership requirement."
+      ],
+      "gaps_risks": [
+        "Target industry is B2C e-commerce (beauty/fashion); candidate’s primary experience is in passenger mobility/ride-hailing."
+      ],
+      "email_subject": "Operations & Logistics Leadership Application - Muhammad Sohail Ayub Qureshi",
+      "email_pitch": "I am an Operations Leader with 10 years of experience, including 9 years in the Dubai market managing fleet logistics and dispatch operations. My ability to optimize team performance and ensure process control aligns perfectly with your requirements for the Head of Logistics role.",
+      "linkedin_pitch": "I am reaching out regarding the Head of Logistics position. With nearly a decade of experience in Dubai's dynamic transport and mobility sector, I specialize in process optimization and operational management, and would welcome the opportunity to discuss my potential contribution to Gold Apple.",
+      "fit_tier": "credible",
+      "scoring_mode": "ai",
+      "ranking_score": 72.6,
+      "rank": 3
     }
   ]
 }

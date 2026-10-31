@@ -1,27 +1,57 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-10-30T09:00:00Z
+Generated: 2026-10-31T09:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 38  
-**Credible jobs:** 1  
+**Relevant candidates reviewed:** 40  
+**Credible jobs:** 3  
 **Strong matches:** 1  
-**Executive/progression matches:** 0  
-**Auto-apply eligible:** 1  
+**Executive/progression matches:** 3  
+**Auto-apply eligible:** 2  
 
-Candidate displays strong operational, fleet management, and platform experience relevant to GCC mobility and last-mile sectors. Priority was given to roles that leverage his 9 years of UAE transport expertise and direct fleet management experience.
+Focused on high-fit roles in mobility, fleet management, and logistics operations. Excluded roles requiring 15+ years of senior executive experience or non-relevant sectors like construction and heavy maritime.
 
-## 1. Fleet Operations Manager – Food Delivery — mechanism support contracting company (85/100)
-**Career progression:** 70/100  
+## 1. Supply Chain Transportation Manager — Alamar (82/100)
+**Career progression:** 85/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Jiddah, Makkah, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/fleet-operations-manager-%E2%80%93-food-delivery-at-mechanism-support-contracting-company-4482283368  
+**Location:** Riyadh Region  
+**Vacancy:** https://sa.linkedin.com/jobs/view/supply-chain-transportation-manager-at-alamar-4483378350  
 
 **Why it fits**
-- Direct alignment with platform-based fleet management (HungerStation, Jahez, Keeta).
-- Expertise in driver management, scheduling, and KPI-based reporting perfectly matches job requirements.
-- Matches candidate's strengths in cost control and operational SOP development.
+- Candidate has 10 years of experience, aligning with the 8-10 year requirement.
+- Direct experience with fleet operations, route optimization, and TMS/ERP systems.
+- Expertise in KPIs and cost control mirrors the role's requirement for transportation strategy and efficiency.
 
 **Gaps / risks**
-- Transitioning from UAE to Saudi Arabia market requires adaptation to local regulations.
+- Cold-chain/food safety specific experience is not explicitly highlighted in the candidate's profile, though operations management is highly transferable.
+
+## 2. Logistics Manager — Al Khoory Group (78/100)
+**Career progression:** 80/100  
+**Auto-apply eligible:** True  
+**Scoring:** ai  
+**Location:** Dubai, United Arab Emirates  
+**Vacancy:** https://ae.linkedin.com/jobs/view/logistics-manager-at-al-khoory-group-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%AE%D9%88%D8%B1%D9%8A-4483417276  
+
+**Why it fits**
+- Candidate has extensive fleet management and RTA/compliance experience in Dubai.
+- Strong background in financial and commercial management (payroll, billing, cost control).
+- Matches the seniority profile (8+ years of experience).
+
+**Gaps / risks**
+- Role requires heavy focus on import/export/customs which is broader than the candidate's core mobility/ride-hailing background.
+
+## 3. Head of Logistics — Gold Apple (72/100)
+**Career progression:** 75/100  
+**Auto-apply eligible:** False  
+**Scoring:** ai  
+**Location:** Dubai, United Arab Emirates  
+**Vacancy:** https://ae.linkedin.com/jobs/view/head-of-logistics-at-gold-apple-4477093306  
+
+**Why it fits**
+- Strong focus on distribution and transportation operations.
+- Candidate's experience with platform and dispatch management is highly relevant to last-mile fulfillment.
+- Fits the 5-7 year leadership requirement.
+
+**Gaps / risks**
+- Target industry is B2C e-commerce (beauty/fashion); candidate’s primary experience is in passenger mobility/ride-hailing.
