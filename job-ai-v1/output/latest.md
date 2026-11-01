@@ -1,57 +1,41 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-10-31T09:00:00Z
+Generated: 2026-11-01T08:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 40  
-**Credible jobs:** 3  
+**Relevant candidates reviewed:** 34  
+**Credible jobs:** 2  
 **Strong matches:** 1  
-**Executive/progression matches:** 3  
+**Executive/progression matches:** 1  
 **Auto-apply eligible:** 2  
 
-Focused on high-fit roles in mobility, fleet management, and logistics operations. Excluded roles requiring 15+ years of senior executive experience or non-relevant sectors like construction and heavy maritime.
+Candidate displays strong operational expertise in ride-hailing and fleet management across GCC platforms. High-fit roles are identified in Saudi Arabia given the current market demand for operational transformation and scaling.
 
-## 1. Supply Chain Transportation Manager — Alamar (82/100)
-**Career progression:** 85/100  
+## 1. General Manager — Manar Al Omran Formwork & Scaffolding Services (82/100)
+**Career progression:** 90/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Riyadh Region  
-**Vacancy:** https://sa.linkedin.com/jobs/view/supply-chain-transportation-manager-at-alamar-4483378350  
+**Location:** Jeddah, Makkah, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/general-manager-at-manar-al-omran-formwork-scaffolding-services-4481217157  
 
 **Why it fits**
-- Candidate has 10 years of experience, aligning with the 8-10 year requirement.
-- Direct experience with fleet operations, route optimization, and TMS/ERP systems.
-- Expertise in KPIs and cost control mirrors the role's requirement for transportation strategy and efficiency.
+- Strong alignment with the mandate to lead a logistics fleet expansion and implement telematics.
+- Candidate's 10 years of experience, including 9 in UAE transport, provides the required operational maturity.
+- Matches the requirement for hands-on management of dispatch, driver KPIs, and fleet cost control.
 
 **Gaps / risks**
-- Cold-chain/food safety specific experience is not explicitly highlighted in the candidate's profile, though operations management is highly transferable.
+- Role involves heavy freight and construction logistics, which differs from current light-vehicle ride-hailing background.
 
-## 2. Logistics Manager — Al Khoory Group (78/100)
-**Career progression:** 80/100  
+## 2. Logistics Operations Manager — AlKhalejiah | الخليجية (76/100)
+**Career progression:** 70/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Dubai, United Arab Emirates  
-**Vacancy:** https://ae.linkedin.com/jobs/view/logistics-manager-at-al-khoory-group-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%AE%D9%88%D8%B1%D9%8A-4483417276  
+**Location:** Riyadh, Saudi Arabia  
+**Vacancy:** https://sa.linkedin.com/jobs/view/logistics-operations-manager-at-alkhalejiah-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A%D8%A9-4477247968  
 
 **Why it fits**
-- Candidate has extensive fleet management and RTA/compliance experience in Dubai.
-- Strong background in financial and commercial management (payroll, billing, cost control).
-- Matches the seniority profile (8+ years of experience).
+- Core competencies in fleet operations, SOP development, and KPI management are highly transferable to this logistics role.
+- Candidate has extensive exposure to regional platforms that align with modern logistics tech stacks.
 
 **Gaps / risks**
-- Role requires heavy focus on import/export/customs which is broader than the candidate's core mobility/ride-hailing background.
-
-## 3. Head of Logistics — Gold Apple (72/100)
-**Career progression:** 75/100  
-**Auto-apply eligible:** False  
-**Scoring:** ai  
-**Location:** Dubai, United Arab Emirates  
-**Vacancy:** https://ae.linkedin.com/jobs/view/head-of-logistics-at-gold-apple-4477093306  
-
-**Why it fits**
-- Strong focus on distribution and transportation operations.
-- Candidate's experience with platform and dispatch management is highly relevant to last-mile fulfillment.
-- Fits the 5-7 year leadership requirement.
-
-**Gaps / risks**
-- Target industry is B2C e-commerce (beauty/fashion); candidate’s primary experience is in passenger mobility/ride-hailing.
+- Specific logistics/warehouse experience level is not fully detailed in the candidate profile.
