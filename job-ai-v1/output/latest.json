@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-01T08:00:00Z",
+  "generated_at": "2026-11-02T14:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational expertise in ride-hailing and fleet management across GCC platforms. High-fit roles are identified in Saudi Arabia given the current market demand for operational transformation and scaling.",
+    "notes": "Candidate displays strong operational expertise in mobility and fleet management. High fit roles prioritize fleet logistics, last-mile delivery, and transportation management systems where the candidate's 9-year Dubai experience and 40-driver management scale are highly relevant. Excluded hospitality, marine, and generic logistics roles that lack direct fleet operational management alignment.",
     "credible_jobs_found": 2,
     "high_fit_count": 1,
     "watchlist_count": 0,
     "executive_matches": 1,
-    "auto_apply_eligible": 2,
-    "discovery_candidates_reviewed": 34,
+    "auto_apply_eligible": 1,
+    "discovery_candidates_reviewed": 39,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,56 +20,55 @@
   },
   "jobs": [
     {
-      "job_title": "General Manager",
-      "company": "Manar Al Omran Formwork & Scaffolding Services",
-      "location": "Jeddah, Makkah, Saudi Arabia",
+      "job_title": "Fleet Operations Manager",
+      "company": "United Group",
+      "location": "Yanbu Al Sinaiyah, Al Madinah, Saudi Arabia",
       "fit_score": 82,
-      "career_progression_score": 90,
+      "career_progression_score": 75,
       "live_confidence": "high",
-      "job_url": "https://sa.linkedin.com/jobs/view/general-manager-at-manar-al-omran-formwork-scaffolding-services-4481217157",
+      "job_url": "https://sa.linkedin.com/jobs/view/fleet-operations-manager-at-united-group-4486145605",
       "source": "LinkedIn",
-      "industry_alignment": "adjacent",
+      "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Strong alignment with the mandate to lead a logistics fleet expansion and implement telematics.",
-        "Candidate's 10 years of experience, including 9 in UAE transport, provides the required operational maturity.",
-        "Matches the requirement for hands-on management of dispatch, driver KPIs, and fleet cost control."
+        "Direct alignment with candidate's 10-year experience in fleet strategy, driver management, and maintenance.",
+        "Candidate's strength in KPI reporting and cost control directly mirrors the job's requirement for budget management and efficiency improvements."
       ],
       "gaps_risks": [
-        "Role involves heavy freight and construction logistics, which differs from current light-vehicle ride-hailing background."
+        "Relocation to Yanbu required; candidate is currently Dubai-based."
       ],
-      "email_subject": "Operations Leadership: Scaling Logistics Fleet Operations (Jeddah)",
-      "email_pitch": "Dear Hiring Manager, I am a GCC-based Operations Leader with 10 years of experience managing fleet utilization, driver dispatch, and RTA compliance. Having successfully managed 30+ vehicles and 40+ drivers across multiple major platforms (Uber, Careem, Yango), I am uniquely positioned to lead your road freight expansion, particularly in digitizing operations and optimizing fleet cost-per-km.",
-      "linkedin_pitch": "I've been following your expansion at Manar Al Omran. With 9 years of direct experience in the UAE mobility sector—driving fleet performance and implementing SOPs for 30+ vehicles—I am confident I can lead your road freight team to achieve the projected operational efficiency and profitability. Would be happy to discuss how my fleet management expertise translates to your trucking operations.",
+      "email_subject": "Experienced Fleet Operations Manager - 10 Years Expertise",
+      "email_pitch": "Dear Hiring Manager, I am a mobility operations professional with 10 years of experience managing large fleets and driver teams in the GCC. My background in fleet optimization, RTA/platform compliance, and cost control across multiple ride-hailing platforms aligns well with the Fleet Operations Manager requirements at United Group. I am highly interested in contributing to your land transport execution strategy.",
+      "linkedin_pitch": "I've been following United Group's operations in Saudi and noticed the opening for a Fleet Operations Manager. With 10 years of experience managing complex fleet logistics and driver teams, I am confident I can drive the operational efficiencies you are looking for. Would welcome a conversation about how my background in fleet compliance and KPI-driven management fits your needs.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 83.6,
+      "ranking_score": 80.6,
       "rank": 1
     },
     {
       "job_title": "Logistics Operations Manager",
       "company": "AlKhalejiah | الخليجية",
       "location": "Riyadh, Saudi Arabia",
-      "fit_score": 76,
+      "fit_score": 74,
       "career_progression_score": 70,
       "live_confidence": "medium",
       "job_url": "https://sa.linkedin.com/jobs/view/logistics-operations-manager-at-alkhalejiah-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A%D8%A9-4477247968",
       "source": "LinkedIn",
       "industry_alignment": "clear",
-      "auto_apply_eligible": true,
+      "auto_apply_eligible": false,
       "why_fit": [
-        "Core competencies in fleet operations, SOP development, and KPI management are highly transferable to this logistics role.",
-        "Candidate has extensive exposure to regional platforms that align with modern logistics tech stacks."
+        "Operational management experience aligns with candidate's background in dispatch and fleet processes.",
+        "Regional expertise in Saudi logistics matches candidate's long-term career focus in the GCC."
       ],
       "gaps_risks": [
-        "Specific logistics/warehouse experience level is not fully detailed in the candidate profile."
+        "Limited job description detail provided, requiring further investigation into specific fleet scale."
       ],
-      "email_subject": "Application: Logistics Operations Manager - Saudi Arabia",
-      "email_pitch": "As an experienced Operations Manager with 9 years of expertise in the Dubai transport market, I am eager to apply my skills in fleet utilization and operational KPI management to your logistics team in Riyadh. I have successfully scaled operations for 40 drivers and 30 vehicles, ensuring full compliance and profitability.",
-      "linkedin_pitch": "Your search for a Logistics Operations Manager aligns well with my background in fleet and mobility management across 7 major regional platforms. With a proven track record in streamlining dispatch, payroll, and compliance, I am looking to transition my expertise to the Saudi logistics market.",
+      "email_subject": "Operations Leadership Inquiry - Logistics Operations Manager",
+      "email_pitch": "Dear Hiring Team, I am writing to express my interest in the Logistics Operations Manager role at AlKhalejiah. My 10 years in transport and fleet management, specifically managing large driver teams and platform compliance, provides me with the operational foundation to support your Riyadh operations effectively.",
+      "linkedin_pitch": "I am interested in your Logistics Operations Manager position in Riyadh. Having spent the last decade in the GCC mobility sector, I have built a strong track record in fleet dispatch and operational efficiency. I would love to learn more about the specific operational scope of this role.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 74.8,
+      "ranking_score": 73.2,
       "rank": 2
     }
   ]
