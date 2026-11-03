@@ -1,40 +1,43 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-11-02T14:00:00Z
+Generated: 2026-11-03T11:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 39  
+**Relevant candidates reviewed:** 46  
 **Credible jobs:** 2  
 **Strong matches:** 1  
-**Executive/progression matches:** 1  
-**Auto-apply eligible:** 1  
+**Executive/progression matches:** 2  
+**Auto-apply eligible:** 2  
 
-Candidate displays strong operational expertise in mobility and fleet management. High fit roles prioritize fleet logistics, last-mile delivery, and transportation management systems where the candidate's 9-year Dubai experience and 40-driver management scale are highly relevant. Excluded hospitality, marine, and generic logistics roles that lack direct fleet operational management alignment.
+Candidate displays strong niche expertise in Dubai-based fleet and ride-hailing operations (Uber/Careem/Yango). Selected roles focus on land transport and last-mile logistics where his specific fleet/driver management skills are directly transferable.
 
 ## 1. Fleet Operations Manager — United Group (82/100)
-**Career progression:** 75/100  
+**Career progression:** 80/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
 **Location:** Yanbu Al Sinaiyah, Al Madinah, Saudi Arabia  
 **Vacancy:** https://sa.linkedin.com/jobs/view/fleet-operations-manager-at-united-group-4486145605  
 
 **Why it fits**
-- Direct alignment with candidate's 10-year experience in fleet strategy, driver management, and maintenance.
-- Candidate's strength in KPI reporting and cost control directly mirrors the job's requirement for budget management and efficiency improvements.
+- Direct alignment with 10 years of experience in fleet management and land logistics.
+- Candidate's strength in fleet planning, utilization, and driver dispatch matches all core accountabilities.
+- Matches the requirement for budgeting, cost control, and KPI reporting.
 
 **Gaps / risks**
-- Relocation to Yanbu required; candidate is currently Dubai-based.
+- Transitioning from urban ride-hailing/taxi to industrial/raw materials logistics requires shift in domain knowledge.
+- Potential relocation to Yanbu.
 
-## 2. Logistics Operations Manager — AlKhalejiah | الخليجية (74/100)
-**Career progression:** 70/100  
-**Auto-apply eligible:** False  
+## 2. Sr. Manager Logistics Operations — talabat (76/100)
+**Career progression:** 75/100  
+**Auto-apply eligible:** True  
 **Scoring:** ai  
-**Location:** Riyadh, Saudi Arabia  
-**Vacancy:** https://sa.linkedin.com/jobs/view/logistics-operations-manager-at-alkhalejiah-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A%D8%A9-4477247968  
+**Location:** Doha, Qatar  
+**Vacancy:** https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4477557960  
 
 **Why it fits**
-- Operational management experience aligns with candidate's background in dispatch and fleet processes.
-- Regional expertise in Saudi logistics matches candidate's long-term career focus in the GCC.
+- Candidate has extensive experience with ride-hailing platforms (Uber, Careem, Bolt, Yango), which directly aligns with Talabat's rider supply and last-mile operations.
+- Matches the focus on rider lifecycle management, 3PL governance, and operational KPI monitoring.
+- Strong experience in driver/rider training and compliance aligns with Talabat's high-volume needs.
 
 **Gaps / risks**
-- Limited job description detail provided, requiring further investigation into specific fleet scale.
+- Candidate currently manages 40 drivers; scaling to a nationwide supply ecosystem for a major delivery platform is a step up in complexity.
