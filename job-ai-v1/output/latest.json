@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-03T11:00:00Z",
+  "generated_at": "2026-11-04T11:47:42.928317+00:00",
   "summary": {
-    "notes": "Candidate displays strong niche expertise in Dubai-based fleet and ride-hailing operations (Uber/Careem/Yango). Selected roles focus on land transport and last-mile logistics where his specific fleet/driver management skills are directly transferable.",
-    "credible_jobs_found": 2,
-    "high_fit_count": 1,
-    "watchlist_count": 0,
-    "executive_matches": 2,
-    "auto_apply_eligible": 2,
-    "discovery_candidates_reviewed": 46,
+    "notes": "AI scoring unavailable after 3 attempts: ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand ",
+    "credible_jobs_found": 8,
+    "high_fit_count": 0,
+    "watchlist_count": 7,
+    "executive_matches": 1,
+    "auto_apply_eligible": 0,
+    "discovery_candidates_reviewed": 43,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,59 +20,379 @@
   },
   "jobs": [
     {
+      "job_title": "General Manager – Logistics Stockyard (Automotive)",
+      "company": "Petromin Corporation",
+      "location": "Rabigh, Makkah, Saudi Arabia",
+      "fit_score": 78,
+      "career_progression_score": 80,
+      "fit_tier": "credible",
+      "live_confidence": "medium",
+      "job_url": "https://sa.linkedin.com/jobs/view/general-manager-%E2%80%93-logistics-stockyard-automotive-at-petromin-corporation-4478672498",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": false,
+      "scoring_mode": "deterministic_fallback",
+      "why_fit": [
+        "Vacancy has verified GCC fleet/transport/mobility/logistics alignment."
+      ],
+      "gaps_risks": [
+        "AI validation was unavailable; manual review is required before application."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 78.4,
+      "rank": 1
+    },
+    {
       "job_title": "Fleet Operations Manager",
       "company": "United Group",
       "location": "Yanbu Al Sinaiyah, Al Madinah, Saudi Arabia",
-      "fit_score": 82,
-      "career_progression_score": 80,
-      "live_confidence": "high",
+      "fit_score": 73,
+      "career_progression_score": 55,
+      "fit_tier": "credible",
+      "live_confidence": "medium",
       "job_url": "https://sa.linkedin.com/jobs/view/fleet-operations-manager-at-united-group-4486145605",
       "source": "LinkedIn",
       "industry_alignment": "clear",
-      "auto_apply_eligible": true,
+      "auto_apply_eligible": false,
+      "scoring_mode": "deterministic_fallback",
       "why_fit": [
-        "Direct alignment with 10 years of experience in fleet management and land logistics.",
-        "Candidate's strength in fleet planning, utilization, and driver dispatch matches all core accountabilities.",
-        "Matches the requirement for budgeting, cost control, and KPI reporting."
+        "Vacancy has verified GCC fleet/transport/mobility/logistics alignment."
       ],
       "gaps_risks": [
-        "Transitioning from urban ride-hailing/taxi to industrial/raw materials logistics requires shift in domain knowledge.",
-        "Potential relocation to Yanbu."
+        "AI validation was unavailable; manual review is required before application."
       ],
-      "email_subject": "Fleet Operations Leadership: Muhammad Qureshi",
-      "email_pitch": "Dear Hiring Manager, with 10 years of specialized experience in fleet operations—including 9 years in the highly competitive Dubai transport market—I have managed diverse fleets and driver workforces for major platforms like Uber and Careem. I am eager to apply my expertise in fleet utilization, RTA-standard compliance, and operational cost control to support United Group’s logistics execution in Yanbu.",
-      "linkedin_pitch": "I am interested in the Fleet Operations Manager role at United Group. With a decade of experience in GCC fleet management and platform-based logistics, I bring a proven track record in optimizing driver performance and fleet maintenance. Would love to discuss how my background in operational KPI management can support your logistics goals.",
-      "fit_tier": "strong",
-      "scoring_mode": "ai",
-      "ranking_score": 81.6,
-      "rank": 1
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 69.4,
+      "rank": 2
+    },
+    {
+      "job_title": "Chief Operating Officer (COO) – Shipping & Logistics",
+      "company": "Confidential",
+      "location": "Dubai, United Arab Emirates",
+      "fit_score": 73,
+      "career_progression_score": 55,
+      "fit_tier": "credible",
+      "live_confidence": "medium",
+      "job_url": "https://ae.linkedin.com/jobs/view/chief-operating-officer-coo-%E2%80%93-shipping-logistics-at-confidential-4480132091",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": false,
+      "scoring_mode": "deterministic_fallback",
+      "why_fit": [
+        "Vacancy has verified GCC fleet/transport/mobility/logistics alignment."
+      ],
+      "gaps_risks": [
+        "AI validation was unavailable; manual review is required before application."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 69.4,
+      "rank": 3
     },
     {
       "job_title": "Sr. Manager Logistics Operations",
       "company": "talabat",
       "location": "Doha, Qatar",
-      "fit_score": 76,
-      "career_progression_score": 75,
-      "live_confidence": "high",
+      "fit_score": 73,
+      "career_progression_score": 55,
+      "fit_tier": "credible",
+      "live_confidence": "medium",
       "job_url": "https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4477557960",
       "source": "LinkedIn",
       "industry_alignment": "clear",
-      "auto_apply_eligible": true,
+      "auto_apply_eligible": false,
+      "scoring_mode": "deterministic_fallback",
       "why_fit": [
-        "Candidate has extensive experience with ride-hailing platforms (Uber, Careem, Bolt, Yango), which directly aligns with Talabat's rider supply and last-mile operations.",
-        "Matches the focus on rider lifecycle management, 3PL governance, and operational KPI monitoring.",
-        "Strong experience in driver/rider training and compliance aligns with Talabat's high-volume needs."
+        "Vacancy has verified GCC fleet/transport/mobility/logistics alignment."
       ],
       "gaps_risks": [
-        "Candidate currently manages 40 drivers; scaling to a nationwide supply ecosystem for a major delivery platform is a step up in complexity."
+        "AI validation was unavailable; manual review is required before application."
       ],
-      "email_subject": "Application: Sr. Manager Logistics Operations - Muhammad Qureshi",
-      "email_pitch": "Dear Talabat Hiring Team, I am a seasoned Mobility Operations leader with 10 years of experience in the GCC, including managing fleet and driver ecosystems for industry giants like Careem and Uber. My expertise in driver lifecycle management, process improvement, and digital performance tracking positions me to effectively lead your supply growth strategies in Qatar.",
-      "linkedin_pitch": "I've been following Talabat's growth in Qatar. With 9 years of experience in Dubai's mobility sector and extensive work with major platforms, I am confident I can contribute to your logistics operations and rider management. I would welcome the opportunity to discuss how I can support your delivery ecosystem.",
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 69.4,
+      "rank": 4
+    },
+    {
+      "job_title": "Logistics Manager",
+      "company": "FITT Meals",
+      "location": "Dubai, United Arab Emirates",
+      "fit_score": 73,
+      "career_progression_score": 55,
       "fit_tier": "credible",
-      "scoring_mode": "ai",
-      "ranking_score": 75.8,
-      "rank": 2
+      "live_confidence": "medium",
+      "job_url": "https://ae.linkedin.com/jobs/view/logistics-manager-at-fitt-meals-4484687366",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": false,
+      "scoring_mode": "deterministic_fallback",
+      "why_fit": [
+        "Vacancy has verified GCC fleet/transport/mobility/logistics alignment."
+      ],
+      "gaps_risks": [
+        "AI validation was unavailable; manual review is required before application."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 69.4,
+      "rank": 5
+    },
+    {
+      "job_title": "Logistics & Mobility Director",
+      "company": "Marafid",
+      "location": "Riyadh, Saudi Arabia",
+      "fit_score": 71,
+      "career_progression_score": 55,
+      "fit_tier": "credible",
+      "live_confidence": "medium",
+      "job_url": "https://sa.linkedin.com/jobs/view/logistics-mobility-director-at-marafid-4476157644",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": false,
+      "scoring_mode": "deterministic_fallback",
+      "why_fit": [
+        "Vacancy has verified GCC fleet/transport/mobility/logistics alignment."
+      ],
+      "gaps_risks": [
+        "AI validation was unavailable; manual review is required before application."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 67.8,
+      "rank": 6
+    },
+    {
+      "job_title": "Head of Freight Forwarding, Shipping & Customs",
+      "company": "Flow Progressive Logistics",
+      "location": "Jeddah, Makkah, Saudi Arabia",
+      "fit_score": 71,
+      "career_progression_score": 55,
+      "fit_tier": "credible",
+      "live_confidence": "medium",
+      "job_url": "https://sa.linkedin.com/jobs/view/head-of-freight-forwarding-shipping-customs-at-flow-progressive-logistics-4474068378",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": false,
+      "scoring_mode": "deterministic_fallback",
+      "why_fit": [
+        "Vacancy has verified GCC fleet/transport/mobility/logistics alignment."
+      ],
+      "gaps_risks": [
+        "AI validation was unavailable; manual review is required before application."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 67.8,
+      "rank": 7
+    },
+    {
+      "job_title": "Global Senior Manager– Healthcare Freight Forwarding",
+      "company": "DP World",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "fit_score": 71,
+      "career_progression_score": 55,
+      "fit_tier": "credible",
+      "live_confidence": "medium",
+      "job_url": "https://ae.linkedin.com/jobs/view/global-senior-manager%E2%80%93-healthcare-freight-forwarding-at-dp-world-4486809787",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": false,
+      "scoring_mode": "deterministic_fallback",
+      "why_fit": [
+        "Vacancy has verified GCC fleet/transport/mobility/logistics alignment."
+      ],
+      "gaps_risks": [
+        "AI validation was unavailable; manual review is required before application."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 67.8,
+      "rank": 8
+    },
+    {
+      "job_title": "Vehicle Operations Lead - Middle East",
+      "company": "Applied Intuition",
+      "location": "Riyadh, Riyadh, Saudi Arabia",
+      "fit_score": 67,
+      "career_progression_score": 55,
+      "fit_tier": "watchlist",
+      "live_confidence": "medium",
+      "job_url": "https://sa.linkedin.com/jobs/view/vehicle-operations-lead-middle-east-at-applied-intuition-4472557275",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": false,
+      "scoring_mode": "deterministic_fallback",
+      "why_fit": [
+        "Vacancy has verified GCC fleet/transport/mobility/logistics alignment."
+      ],
+      "gaps_risks": [
+        "AI validation was unavailable; manual review is required before application."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 64.6,
+      "rank": 9
+    },
+    {
+      "job_title": "Fleet & Equipment Foreman | Bahrain",
+      "company": "ZRVS",
+      "location": "Northern Governorate, Bahrain",
+      "fit_score": 67,
+      "career_progression_score": 55,
+      "fit_tier": "watchlist",
+      "live_confidence": "medium",
+      "job_url": "https://bh.linkedin.com/jobs/view/fleet-equipment-foreman-bahrain-at-zrvs-4475163203",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": false,
+      "scoring_mode": "deterministic_fallback",
+      "why_fit": [
+        "Vacancy has verified GCC fleet/transport/mobility/logistics alignment."
+      ],
+      "gaps_risks": [
+        "AI validation was unavailable; manual review is required before application."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 64.6,
+      "rank": 10
+    },
+    {
+      "job_title": "Fleet Supervisor",
+      "company": "ALESAYI HOLDING | العيسائي القابضة",
+      "location": "Jeddah, Makkah, Saudi Arabia",
+      "fit_score": 67,
+      "career_progression_score": 55,
+      "fit_tier": "watchlist",
+      "live_confidence": "medium",
+      "job_url": "https://sa.linkedin.com/jobs/view/fleet-supervisor-at-alesayi-holding-%D8%A7%D9%84%D8%B9%D9%8A%D8%B3%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D8%A8%D8%B6%D8%A9-4480877809",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": false,
+      "scoring_mode": "deterministic_fallback",
+      "why_fit": [
+        "Vacancy has verified GCC fleet/transport/mobility/logistics alignment."
+      ],
+      "gaps_risks": [
+        "AI validation was unavailable; manual review is required before application."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 64.6,
+      "rank": 11
+    },
+    {
+      "job_title": "Fleet Manager",
+      "company": "Saildrone",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "fit_score": 67,
+      "career_progression_score": 55,
+      "fit_tier": "watchlist",
+      "live_confidence": "medium",
+      "job_url": "https://ae.linkedin.com/jobs/view/fleet-manager-at-saildrone-4484402620",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": false,
+      "scoring_mode": "deterministic_fallback",
+      "why_fit": [
+        "Vacancy has verified GCC fleet/transport/mobility/logistics alignment."
+      ],
+      "gaps_risks": [
+        "AI validation was unavailable; manual review is required before application."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 64.6,
+      "rank": 12
+    },
+    {
+      "job_title": "Fleet & Equipment Foreman | Bahrain",
+      "company": "ZRVS",
+      "location": "Southern Governorate, Bahrain",
+      "fit_score": 67,
+      "career_progression_score": 55,
+      "fit_tier": "watchlist",
+      "live_confidence": "medium",
+      "job_url": "https://bh.linkedin.com/jobs/view/fleet-equipment-foreman-bahrain-at-zrvs-4475165139",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": false,
+      "scoring_mode": "deterministic_fallback",
+      "why_fit": [
+        "Vacancy has verified GCC fleet/transport/mobility/logistics alignment."
+      ],
+      "gaps_risks": [
+        "AI validation was unavailable; manual review is required before application."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 64.6,
+      "rank": 13
+    },
+    {
+      "job_title": "Fleet Manager",
+      "company": "Stellantis Middle East & Africa",
+      "location": "Dubai, United Arab Emirates",
+      "fit_score": 67,
+      "career_progression_score": 55,
+      "fit_tier": "watchlist",
+      "live_confidence": "medium",
+      "job_url": "https://ae.linkedin.com/jobs/view/fleet-manager-at-stellantis-middle-east-africa-4485066655",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": false,
+      "scoring_mode": "deterministic_fallback",
+      "why_fit": [
+        "Vacancy has verified GCC fleet/transport/mobility/logistics alignment."
+      ],
+      "gaps_risks": [
+        "AI validation was unavailable; manual review is required before application."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 64.6,
+      "rank": 14
+    },
+    {
+      "job_title": "Logistics Business Development Manager",
+      "company": "GRG",
+      "location": "Dubai, United Arab Emirates",
+      "fit_score": 67,
+      "career_progression_score": 55,
+      "fit_tier": "watchlist",
+      "live_confidence": "medium",
+      "job_url": "https://ae.linkedin.com/jobs/view/logistics-business-development-manager-at-grg-4477163587",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": false,
+      "scoring_mode": "deterministic_fallback",
+      "why_fit": [
+        "Vacancy has verified GCC fleet/transport/mobility/logistics alignment."
+      ],
+      "gaps_risks": [
+        "AI validation was unavailable; manual review is required before application."
+      ],
+      "email_subject": "",
+      "email_pitch": "",
+      "linkedin_pitch": "",
+      "ranking_score": 64.6,
+      "rank": 15
     }
   ]
 }
