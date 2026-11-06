@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-05T00:00:00Z",
+  "generated_at": "2026-11-06T12:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational expertise in mobility/ride-hailing and fleet management within the UAE. Positions focusing on fleet, logistics, and transportation operations are prioritized.",
-    "credible_jobs_found": 3,
-    "high_fit_count": 0,
+    "notes": "Candidate displays strong operational expertise in mobility and fleet management. Focused on roles in ride-hailing, last-mile delivery, and fleet operations within the GCC.",
+    "credible_jobs_found": 2,
+    "high_fit_count": 1,
     "watchlist_count": 0,
     "executive_matches": 2,
     "auto_apply_eligible": 2,
-    "discovery_candidates_reviewed": 41,
+    "discovery_candidates_reviewed": 42,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,86 +20,59 @@
   },
   "jobs": [
     {
+      "job_title": "Senior Operations Manager",
+      "company": "WIYAK",
+      "location": "Kuwait City, Al Asimah, Kuwait",
+      "fit_score": 85,
+      "career_progression_score": 80,
+      "live_confidence": "high",
+      "job_url": "https://kw.linkedin.com/jobs/view/senior-operations-manager-at-wiyak-4486208449",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Direct alignment with limousine and delivery operations",
+        "Matches candidate expertise in fleet management, vehicle allocation, and driver dispatch",
+        "Senior role mirrors candidate's 10 years of experience"
+      ],
+      "gaps_risks": [
+        "Requires relocation to Kuwait"
+      ],
+      "email_subject": "Operations Leadership: Senior Operations Manager Application - Muhammad Sohail Ayub Qureshi",
+      "email_pitch": "Dear Hiring Team at Wiyak, I am a seasoned operations leader with 10 years of experience in GCC fleet management and mobility. Having managed teams of 40 drivers and 30 vehicles across major platforms like Uber, Careem, and Yango, I possess the exact operational background to drive efficiency and service quality at Wiyak. My proficiency in RTA compliance, driver training, and KPI reporting aligns perfectly with your requirements.",
+      "linkedin_pitch": "I've been following Wiyak's growth in the mobility sector. With 9 years of direct experience in Dubai's transport market and a proven track record managing diverse fleet platforms, I am confident I can contribute to your operational efficiency and service standards. Let's discuss how my background in fleet and driver operations aligns with your Senior Operations Manager role.",
+      "fit_tier": "strong",
+      "scoring_mode": "ai",
+      "ranking_score": 84.0,
+      "rank": 1
+    },
+    {
       "job_title": "Fleet Operations Manager",
       "company": "United Group",
       "location": "Yanbu Al Sinaiyah, Al Madinah, Saudi Arabia",
-      "fit_score": 78,
+      "fit_score": 76,
       "career_progression_score": 75,
-      "live_confidence": "high",
+      "live_confidence": "medium",
       "job_url": "https://sa.linkedin.com/jobs/view/fleet-operations-manager-at-united-group-4486145605",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct alignment with 10 years of experience in fleet and transport operations.",
-        "Matches expertise in dispatch, maintenance coordination, and driver management.",
-        "Strong alignment with RTA/fleet-platform compliance skill set."
+        "Candidate possesses deep experience in fleet strategy, dispatch, and maintenance",
+        "Candidate understands cost control and budgetary management",
+        "Role aligns with candidate's 10-year professional tenure"
       ],
       "gaps_risks": [
-        "Requires transition to industrial land logistics which differs from ride-hailing/passenger mobility.",
-        "Geographic relocation to Yanbu required."
+        "Transitioning from ride-hailing/mobility to industrial land transport",
+        "Requires relocation to Saudi Arabia"
       ],
-      "email_subject": "Fleet Operations Leadership Application - Muhammad Qureshi",
-      "email_pitch": "Dear Hiring Team, With 9 years of direct experience managing high-utilization fleet operations in the UAE and expertise in dispatch, maintenance, and compliance, I am well-positioned to drive the operational efficiency of your land transport fleet. My background across platforms like Uber and Yango aligns with your requirements for disciplined fleet planning and KPI management.",
-      "linkedin_pitch": "I am interested in the Fleet Operations Manager role at United Group. With 10 years of experience in fleet management, including deep expertise in driver dispatch, maintenance, and KPI reporting, I am confident in my ability to enhance your land logistics operations. I would welcome the chance to discuss how I can contribute to your team in Yanbu.",
+      "email_subject": "Application for Fleet Operations Manager - Muhammad Sohail Ayub Qureshi",
+      "email_pitch": "Dear United Group Hiring Team, With 10 years of experience in fleet operations and a strong background in driver scheduling, maintenance management, and budgetary cost control, I am well-positioned to lead your land transport fleet. I have successfully scaled operations and maintained strict KPI compliance across the GCC, and I am eager to apply this expertise to your supply chain logistics.",
+      "linkedin_pitch": "I am interested in your Fleet Operations Manager opening at United Group. My background managing complex fleets, optimizing utilization, and ensuring HSE compliance across diverse mobility platforms matches your job profile well. I would welcome the opportunity to discuss my experience and how it can support your team in Yanbu.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 77.4,
-      "rank": 1
-    },
-    {
-      "job_title": "Sr. Manager Logistics Operations",
-      "company": "talabat",
-      "location": "Doha, Qatar",
-      "fit_score": 76,
-      "career_progression_score": 80,
-      "live_confidence": "high",
-      "job_url": "https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4477557960",
-      "source": "LinkedIn",
-      "industry_alignment": "clear",
-      "auto_apply_eligible": true,
-      "why_fit": [
-        "Deep familiarity with food-tech/delivery platforms and fleet lifecycle management.",
-        "Experience managing supply growth, 3PLs, and operational KPIs aligns perfectly.",
-        "Candidate's current experience matches the fast-paced nature of Talabat's ecosystem."
-      ],
-      "gaps_risks": [
-        "Role requires managing complex multi-stakeholder supply ecosystems beyond standard fleet operations."
-      ],
-      "email_subject": "Sr. Manager Logistics Operations - Muhammad Qureshi",
-      "email_pitch": "Dear Hiring Manager, As a mobility leader with 9 years of experience in the GCC transport sector, I have developed extensive expertise in fleet utilization, 3PL management, and operational KPI optimization. My background in high-volume platforms makes me a strong candidate to support Talabat's supply growth and operational excellence in Qatar.",
-      "linkedin_pitch": "I am excited about the Sr. Manager Logistics Operations position at Talabat. Given my 10-year career in mobility and fleet operations across major regional platforms, I am eager to apply my experience in driver retention, 3PL management, and operational efficiency to the Talabat ecosystem. Looking forward to connecting.",
-      "fit_tier": "credible",
-      "scoring_mode": "ai",
-      "ranking_score": 76.8,
+      "ranking_score": 75.8,
       "rank": 2
-    },
-    {
-      "job_title": "Logistics Manager",
-      "company": "FITT Meals",
-      "location": "Dubai, United Arab Emirates",
-      "fit_score": 74,
-      "career_progression_score": 70,
-      "live_confidence": "medium",
-      "job_url": "https://ae.linkedin.com/jobs/view/logistics-manager-at-fitt-meals-4484687366",
-      "source": "LinkedIn",
-      "industry_alignment": "clear",
-      "auto_apply_eligible": false,
-      "why_fit": [
-        "Fits UAE-based logistics and delivery requirements perfectly.",
-        "Hands-on experience in fleet and driver management is a direct match.",
-        "Strong commercial awareness in budgeting and KPIs."
-      ],
-      "gaps_risks": [
-        "Small-scale operation compared to ride-hailing/mobility platforms the candidate is accustomed to."
-      ],
-      "email_subject": "Logistics Manager Application - Muhammad Qureshi",
-      "email_pitch": "Dear Hiring Manager, I am a UAE-based operations leader with 9 years of local transport experience. I have managed large driver fleets and complex dispatch systems across major mobility platforms, and I am eager to apply this hands-on leadership to FITT Meals' logistics and D2C delivery operations.",
-      "linkedin_pitch": "I am reaching out regarding the Logistics Manager opening. With 10 years of experience managing driver teams, dispatch, and fleet maintenance in the UAE, I am highly qualified to lead your delivery and fleet operations. I am ready to bring my expertise to FITT Meals.",
-      "fit_tier": "credible",
-      "scoring_mode": "ai",
-      "ranking_score": 73.2,
-      "rank": 3
     }
   ]
 }

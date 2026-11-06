@@ -1,17 +1,32 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-11-05T00:00:00Z
+Generated: 2026-11-06T12:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 41  
-**Credible jobs:** 3  
-**Strong matches:** 0  
+**Relevant candidates reviewed:** 42  
+**Credible jobs:** 2  
+**Strong matches:** 1  
 **Executive/progression matches:** 2  
 **Auto-apply eligible:** 2  
 
-Candidate displays strong operational expertise in mobility/ride-hailing and fleet management within the UAE. Positions focusing on fleet, logistics, and transportation operations are prioritized.
+Candidate displays strong operational expertise in mobility and fleet management. Focused on roles in ride-hailing, last-mile delivery, and fleet operations within the GCC.
 
-## 1. Fleet Operations Manager — United Group (78/100)
+## 1. Senior Operations Manager — WIYAK (85/100)
+**Career progression:** 80/100  
+**Auto-apply eligible:** True  
+**Scoring:** ai  
+**Location:** Kuwait City, Al Asimah, Kuwait  
+**Vacancy:** https://kw.linkedin.com/jobs/view/senior-operations-manager-at-wiyak-4486208449  
+
+**Why it fits**
+- Direct alignment with limousine and delivery operations
+- Matches candidate expertise in fleet management, vehicle allocation, and driver dispatch
+- Senior role mirrors candidate's 10 years of experience
+
+**Gaps / risks**
+- Requires relocation to Kuwait
+
+## 2. Fleet Operations Manager — United Group (76/100)
 **Career progression:** 75/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
@@ -19,40 +34,10 @@ Candidate displays strong operational expertise in mobility/ride-hailing and fle
 **Vacancy:** https://sa.linkedin.com/jobs/view/fleet-operations-manager-at-united-group-4486145605  
 
 **Why it fits**
-- Direct alignment with 10 years of experience in fleet and transport operations.
-- Matches expertise in dispatch, maintenance coordination, and driver management.
-- Strong alignment with RTA/fleet-platform compliance skill set.
+- Candidate possesses deep experience in fleet strategy, dispatch, and maintenance
+- Candidate understands cost control and budgetary management
+- Role aligns with candidate's 10-year professional tenure
 
 **Gaps / risks**
-- Requires transition to industrial land logistics which differs from ride-hailing/passenger mobility.
-- Geographic relocation to Yanbu required.
-
-## 2. Sr. Manager Logistics Operations — talabat (76/100)
-**Career progression:** 80/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Doha, Qatar  
-**Vacancy:** https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4477557960  
-
-**Why it fits**
-- Deep familiarity with food-tech/delivery platforms and fleet lifecycle management.
-- Experience managing supply growth, 3PLs, and operational KPIs aligns perfectly.
-- Candidate's current experience matches the fast-paced nature of Talabat's ecosystem.
-
-**Gaps / risks**
-- Role requires managing complex multi-stakeholder supply ecosystems beyond standard fleet operations.
-
-## 3. Logistics Manager — FITT Meals (74/100)
-**Career progression:** 70/100  
-**Auto-apply eligible:** False  
-**Scoring:** ai  
-**Location:** Dubai, United Arab Emirates  
-**Vacancy:** https://ae.linkedin.com/jobs/view/logistics-manager-at-fitt-meals-4484687366  
-
-**Why it fits**
-- Fits UAE-based logistics and delivery requirements perfectly.
-- Hands-on experience in fleet and driver management is a direct match.
-- Strong commercial awareness in budgeting and KPIs.
-
-**Gaps / risks**
-- Small-scale operation compared to ride-hailing/mobility platforms the candidate is accustomed to.
+- Transitioning from ride-hailing/mobility to industrial land transport
+- Requires relocation to Saudi Arabia
