@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-06T12:00:00Z",
+  "generated_at": "2026-11-07T12:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational expertise in mobility and fleet management. Focused on roles in ride-hailing, last-mile delivery, and fleet operations within the GCC.",
+    "notes": "Candidate displays strong operational expertise in ride-hailing and fleet management with 9 years of Dubai-specific transport experience. Selected roles prioritize mobility, logistics, and fleet operations over general warehousing or infrastructure-heavy roles. Fit scores reflect alignment with current scale (40 drivers, 30 vehicles) and platform expertise.",
     "credible_jobs_found": 2,
-    "high_fit_count": 1,
+    "high_fit_count": 0,
     "watchlist_count": 0,
     "executive_matches": 2,
     "auto_apply_eligible": 2,
-    "discovery_candidates_reviewed": 42,
+    "discovery_candidates_reviewed": 40,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -23,27 +23,28 @@
       "job_title": "Senior Operations Manager",
       "company": "WIYAK",
       "location": "Kuwait City, Al Asimah, Kuwait",
-      "fit_score": 85,
-      "career_progression_score": 80,
-      "live_confidence": "high",
+      "fit_score": 75,
+      "career_progression_score": 85,
+      "live_confidence": "medium",
       "job_url": "https://kw.linkedin.com/jobs/view/senior-operations-manager-at-wiyak-4486208449",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct alignment with limousine and delivery operations",
-        "Matches candidate expertise in fleet management, vehicle allocation, and driver dispatch",
-        "Senior role mirrors candidate's 10 years of experience"
+        "Direct industry overlap in limousine and delivery services.",
+        "Requires deep knowledge of fleet maintenance, vehicle allocation, and driver leadership.",
+        "Directly utilizes candidate's specific background in ride-hailing/mobility platforms."
       ],
       "gaps_risks": [
-        "Requires relocation to Kuwait"
+        "Requires immediate relocation to Kuwait.",
+        "Senior title jump relative to current individual contributor/operations management focus."
       ],
-      "email_subject": "Operations Leadership: Senior Operations Manager Application - Muhammad Sohail Ayub Qureshi",
-      "email_pitch": "Dear Hiring Team at Wiyak, I am a seasoned operations leader with 10 years of experience in GCC fleet management and mobility. Having managed teams of 40 drivers and 30 vehicles across major platforms like Uber, Careem, and Yango, I possess the exact operational background to drive efficiency and service quality at Wiyak. My proficiency in RTA compliance, driver training, and KPI reporting aligns perfectly with your requirements.",
-      "linkedin_pitch": "I've been following Wiyak's growth in the mobility sector. With 9 years of direct experience in Dubai's transport market and a proven track record managing diverse fleet platforms, I am confident I can contribute to your operational efficiency and service standards. Let's discuss how my background in fleet and driver operations aligns with your Senior Operations Manager role.",
-      "fit_tier": "strong",
+      "email_subject": "Senior Operations Manager Application - Mobility & Fleet Expert",
+      "email_pitch": "Dear HR Team, I am reaching out regarding the Senior Operations Manager position at Wiyak. My 10 years in the mobility sector, including 9 years managing fleet operations and dispatch for platforms like Wheely and Careem, provide me with a deep understanding of the limousine and transport landscape required to drive Wiyak's operational growth.",
+      "linkedin_pitch": "I’ve been following Wiyak’s expansion in the mobility sector and am very interested in the Senior Operations Manager role. My expertise in managing driver teams, vehicle maintenance, and complex fleet platforms like Uber and Yango aligns directly with your needs for operational excellence.",
+      "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 84.0,
+      "ranking_score": 77.0,
       "rank": 1
     },
     {
@@ -51,27 +52,27 @@
       "company": "United Group",
       "location": "Yanbu Al Sinaiyah, Al Madinah, Saudi Arabia",
       "fit_score": 76,
-      "career_progression_score": 75,
-      "live_confidence": "medium",
+      "career_progression_score": 80,
+      "live_confidence": "high",
       "job_url": "https://sa.linkedin.com/jobs/view/fleet-operations-manager-at-united-group-4486145605",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Candidate possesses deep experience in fleet strategy, dispatch, and maintenance",
-        "Candidate understands cost control and budgetary management",
-        "Role aligns with candidate's 10-year professional tenure"
+        "Direct alignment with 9 years of fleet management and driver supervision experience.",
+        "Matches expertise in dispatch, routing, and maintenance cost control.",
+        "Aligns with GCC market mobility operations."
       ],
       "gaps_risks": [
-        "Transitioning from ride-hailing/mobility to industrial land transport",
-        "Requires relocation to Saudi Arabia"
+        "Candidate manages 40 drivers; potential scale mismatch if the group's fleet is substantially larger.",
+        "Transitioning from ride-hailing/taxi to raw material land logistics."
       ],
-      "email_subject": "Application for Fleet Operations Manager - Muhammad Sohail Ayub Qureshi",
-      "email_pitch": "Dear United Group Hiring Team, With 10 years of experience in fleet operations and a strong background in driver scheduling, maintenance management, and budgetary cost control, I am well-positioned to lead your land transport fleet. I have successfully scaled operations and maintained strict KPI compliance across the GCC, and I am eager to apply this expertise to your supply chain logistics.",
-      "linkedin_pitch": "I am interested in your Fleet Operations Manager opening at United Group. My background managing complex fleets, optimizing utilization, and ensuring HSE compliance across diverse mobility platforms matches your job profile well. I would welcome the opportunity to discuss my experience and how it can support your team in Yanbu.",
+      "email_subject": "Operations Leadership: Fleet Management Expertise",
+      "email_pitch": "Dear Hiring Manager, With 9 years of specialized experience in Dubai’s transport and mobility sector managing 40+ drivers and 30+ vehicles across multiple platforms like Uber and Careem, I have developed the precise skills in fleet utilization, RTA compliance, and cost control required for the Fleet Operations Manager role at United Group.",
+      "linkedin_pitch": "I am interested in the Fleet Operations Manager role at United Group. With 9 years of fleet operations experience in the GCC, I have successfully managed driver scheduling, dispatch, and vehicle readiness. I believe my background in balancing operational KPIs with rigorous compliance makes me an excellent fit for your team.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 75.8,
+      "ranking_score": 76.8,
       "rank": 2
     }
   ]
