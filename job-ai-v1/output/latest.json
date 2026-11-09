@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-08T09:00:00Z",
+  "generated_at": "2026-11-09T14:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational, fleet management, and platform-specific expertise (Uber/Careem/Yango) highly suited to the GCC mobility and logistics sectors. High-fit roles prioritized based on fleet scale, team management experience, and logistics/mobility industry alignment.",
-    "credible_jobs_found": 3,
+    "notes": "Candidate displays strong operational, fleet management, and platform experience (Uber, Careem, etc.). Prioritizing roles that directly leverage his 9 years of Dubai transport expertise and fleet management background. Seniority levels are aligned with his management of 40 drivers and 30 vehicles.",
+    "credible_jobs_found": 2,
     "high_fit_count": 1,
     "watchlist_count": 0,
     "executive_matches": 2,
     "auto_apply_eligible": 2,
-    "discovery_candidates_reviewed": 41,
+    "discovery_candidates_reviewed": 40,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,86 +20,58 @@
   },
   "jobs": [
     {
+      "job_title": "Senior Operations Manager",
+      "company": "WIYAK",
+      "location": "Kuwait City, Al Asimah, Kuwait",
+      "fit_score": 88,
+      "career_progression_score": 85,
+      "live_confidence": "high",
+      "job_url": "https://kw.linkedin.com/jobs/view/senior-operations-manager-at-wiyak-4486208449",
+      "source": "LinkedIn",
+      "industry_alignment": "clear",
+      "auto_apply_eligible": true,
+      "why_fit": [
+        "Direct experience in limousine and delivery services",
+        "Matches expertise in fleet management, vehicle scheduling, and driver dispatch",
+        "Direct alignment with operational KPIs and cost control strengths"
+      ],
+      "gaps_risks": [
+        "Requires relocation to Kuwait"
+      ],
+      "email_subject": "Senior Operations Leadership - Fleet & Mobility Expertise",
+      "email_pitch": "Dear Hiring Team, With 10 years of operations leadership and 9 years specializing in Dubai’s transport sector, I have managed diverse fleets and platform operations including Uber and Careem. My expertise in driver management, RTA compliance, and cost control aligns perfectly with Wiyak’s requirements.",
+      "linkedin_pitch": "I am following your recent post for a Senior Operations Manager. With a decade of experience in fleet and mobility operations, I have managed fleets across major platforms and developed robust SOPs for high-growth environments. I would love to discuss how I can contribute to Wiyak’s operational efficiency.",
+      "fit_tier": "strong",
+      "scoring_mode": "ai",
+      "ranking_score": 87.4,
+      "rank": 1
+    },
+    {
       "job_title": "Sr. Manager Logistics Operations",
       "company": "talabat",
       "location": "Doha, Qatar",
-      "fit_score": 85,
+      "fit_score": 76,
       "career_progression_score": 80,
-      "live_confidence": "high",
+      "live_confidence": "medium",
       "job_url": "https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4477557960",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct alignment with platform-based mobility and last-mile operations.",
-        "Candidate's experience with dispatch, rider/driver management, and KPI tracking directly mirrors the job's core requirements.",
-        "Proven ability to manage high-volume logistics and 3PL partnerships."
+        "Directly relevant experience with delivery/last-mile platforms",
+        "Fits background in supply forecasting and fleet/rider performance",
+        "Matches requirement for analytical proficiency and KPI management"
       ],
       "gaps_risks": [
-        "Transitioning from UAE-based fleet management to Qatari logistics scale may require minor regional adaptation."
+        "Highly competitive role; requires strong regional logistics experience"
       ],
-      "email_subject": "Operations Leadership: Leveraging Mobility Expertise for Talabat Qatar",
-      "email_pitch": "Dear Hiring Team, with 10 years of experience in UAE mobility operations—including extensive work with Uber, Careem, and Yango—I have successfully managed 40 drivers and 30 vehicles with a focus on fleet utilization and RTA compliance. I am eager to apply this expertise to drive efficiency in Talabat Qatar’s logistics network.",
-      "linkedin_pitch": "Your work at Talabat is highly impressive. Given my 10 years in GCC fleet and platform operations (managing platforms like Uber/Careem), I am confident I can contribute to your logistics KPIs and operational excellence in Qatar. Let's connect.",
-      "fit_tier": "strong",
-      "scoring_mode": "ai",
-      "ranking_score": 84.0,
-      "rank": 1
-    },
-    {
-      "job_title": "Fleet Operations Manager",
-      "company": "United Group",
-      "location": "Yanbu Al Sinaiyah, Al Madinah, Saudi Arabia",
-      "fit_score": 78,
-      "career_progression_score": 70,
-      "live_confidence": "medium",
-      "job_url": "https://sa.linkedin.com/jobs/view/fleet-operations-manager-at-united-group-4486145605",
-      "source": "LinkedIn",
-      "industry_alignment": "clear",
-      "auto_apply_eligible": true,
-      "why_fit": [
-        "Direct match with the candidate's core strength in fleet operations and utilization.",
-        "Strong experience in driver management, scheduling, and RTA compliance.",
-        "Proven technical competency in budgeting, cost control, and maintenance."
-      ],
-      "gaps_risks": [
-        "Candidate currently based in Dubai; relocation to Yanbu, KSA is a significant change.",
-        "Limited specific exposure to heavy industrial fleet logistics compared to passenger-transport mobility."
-      ],
-      "email_subject": "Fleet Operations Manager Application - Muhammad Qureshi",
-      "email_pitch": "Dear Hiring Manager, I am a fleet operations professional with 9 years of direct experience in the Dubai transport sector. My expertise encompasses full fleet lifecycle management—from driver dispatch and training to maintenance scheduling and operational KPI reporting. I am keen to discuss how my hands-on experience can optimize United Group's fleet operations.",
-      "linkedin_pitch": "I am following United Group's growth in KSA and notice you are hiring for a Fleet Operations Manager. With 10 years of experience managing fleet utilization and compliance for major mobility platforms, I would welcome the chance to discuss how my background aligns with your needs.",
+      "email_subject": "Logistics Operations Leadership - Mobility & Fleet Specialist",
+      "email_pitch": "Dear Talabat Talent Team, My 10-year tenure in mobility operations, including direct experience with platform-based fleet management, makes me a strong fit for this role. I have extensive experience in driver scheduling, performance auditing, and operational optimization.",
+      "linkedin_pitch": "I've been closely following Talabat's growth in Qatar. My background in managing complex fleet operations and platform compliance aligns well with the requirements for the Senior Manager Logistics Operations role. I’d love to connect and discuss the team's goals.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 76.4,
+      "ranking_score": 76.8,
       "rank": 2
-    },
-    {
-      "job_title": "Group Manager - Sales - Al Mulla Rental & Leasing",
-      "company": "Al Mulla Group",
-      "location": "Kuwait City, Al Asimah, Kuwait",
-      "fit_score": 72,
-      "career_progression_score": 75,
-      "live_confidence": "medium",
-      "job_url": "https://kw.linkedin.com/jobs/view/group-manager-sales-al-mulla-rental-leasing-at-al-mulla-group-4483935952",
-      "source": "LinkedIn",
-      "industry_alignment": "adjacent",
-      "auto_apply_eligible": false,
-      "why_fit": [
-        "Strong intersection between candidate's fleet background and the automotive rental/leasing sector.",
-        "Experience in budgeting, finance coordination, and operational KPIs provides a strong foundation for sales management in this industry."
-      ],
-      "gaps_risks": [
-        "Role is sales-heavy, whereas candidate is primarily operations-focused.",
-        "Requires specific experience in corporate tendering within the Kuwaiti market."
-      ],
-      "email_subject": "Inquiry: Group Manager - Sales (Rental & Leasing)",
-      "email_pitch": "Dear Hiring Team, having spent 10 years deep in the operational side of mobility and fleet management in the GCC, I have developed a keen understanding of the profitability and customer-service drivers essential for a Rental & Leasing business. I would like to explore how my technical background in fleet economics can support your sales objectives.",
-      "linkedin_pitch": "I have extensive experience in the GCC mobility sector and admire Al Mulla's work in the rental and leasing space. I’d love to connect and discuss how my fleet operations background could transition into the strategic goals of your sales division.",
-      "fit_tier": "credible",
-      "scoring_mode": "ai",
-      "ranking_score": 72.6,
-      "rank": 3
     }
   ]
 }
