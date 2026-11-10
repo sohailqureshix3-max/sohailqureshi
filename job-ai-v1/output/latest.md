@@ -1,17 +1,17 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-11-09T14:00:00Z
+Generated: 2026-11-10T12:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 40  
+**Relevant candidates reviewed:** 48  
 **Credible jobs:** 2  
 **Strong matches:** 1  
 **Executive/progression matches:** 2  
 **Auto-apply eligible:** 2  
 
-Candidate displays strong operational, fleet management, and platform experience (Uber, Careem, etc.). Prioritizing roles that directly leverage his 9 years of Dubai transport expertise and fleet management background. Seniority levels are aligned with his management of 40 drivers and 30 vehicles.
+Candidate displays strong operational expertise in mobility and fleet management within the UAE market. Selection focused on roles directly related to ride-hailing, transport, and last-mile logistics where his specific platform experience and fleet management skills provide a high match.
 
-## 1. Senior Operations Manager — WIYAK (88/100)
+## 1. Senior Operations Manager — WIYAK (82/100)
 **Career progression:** 85/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
@@ -19,9 +19,9 @@ Candidate displays strong operational, fleet management, and platform experience
 **Vacancy:** https://kw.linkedin.com/jobs/view/senior-operations-manager-at-wiyak-4486208449  
 
 **Why it fits**
-- Direct experience in limousine and delivery services
-- Matches expertise in fleet management, vehicle scheduling, and driver dispatch
-- Direct alignment with operational KPIs and cost control strengths
+- Direct alignment with 9 years of UAE transport experience
+- Expertise in fleet management, limousine/ride-hailing, and dispatch
+- Matches requirements for cost control, KPI management, and driver leadership
 
 **Gaps / risks**
 - Requires relocation to Kuwait
@@ -34,9 +34,10 @@ Candidate displays strong operational, fleet management, and platform experience
 **Vacancy:** https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4477557960  
 
 **Why it fits**
-- Directly relevant experience with delivery/last-mile platforms
-- Fits background in supply forecasting and fleet/rider performance
-- Matches requirement for analytical proficiency and KPI management
+- Deep familiarity with mobility platforms and last-mile dispatch
+- Proven ability to manage driver fleets and operational KPIs
+- Direct experience with platform-based billing and performance audits
 
 **Gaps / risks**
-- Highly competitive role; requires strong regional logistics experience
+- Requires transition from ride-hailing to food-delivery logistics
+- Relocation to Qatar required
