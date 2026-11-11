@@ -1,32 +1,17 @@
 # Sohail Qureshi — GCC Executive Job Match Report
 
-Generated: 2026-11-10T12:00:00Z
+Generated: 2026-11-11T12:00:00Z
 
 **Markets:** Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Bahrain, Oman  
-**Relevant candidates reviewed:** 48  
-**Credible jobs:** 2  
-**Strong matches:** 1  
-**Executive/progression matches:** 2  
-**Auto-apply eligible:** 2  
+**Relevant candidates reviewed:** 46  
+**Credible jobs:** 3  
+**Strong matches:** 2  
+**Executive/progression matches:** 3  
+**Auto-apply eligible:** 3  
 
-Candidate displays strong operational expertise in mobility and fleet management within the UAE market. Selection focused on roles directly related to ride-hailing, transport, and last-mile logistics where his specific platform experience and fleet management skills provide a high match.
+Targeted search focused on candidates with deep experience in ride-hailing (Uber, Careem, etc.) and fleet operations. Selected candidates demonstrate strong operational, fleet, and team leadership experience suitable for the candidate's 10-year profile.
 
-## 1. Senior Operations Manager — WIYAK (82/100)
-**Career progression:** 85/100  
-**Auto-apply eligible:** True  
-**Scoring:** ai  
-**Location:** Kuwait City, Al Asimah, Kuwait  
-**Vacancy:** https://kw.linkedin.com/jobs/view/senior-operations-manager-at-wiyak-4486208449  
-
-**Why it fits**
-- Direct alignment with 9 years of UAE transport experience
-- Expertise in fleet management, limousine/ride-hailing, and dispatch
-- Matches requirements for cost control, KPI management, and driver leadership
-
-**Gaps / risks**
-- Requires relocation to Kuwait
-
-## 2. Sr. Manager Logistics Operations — talabat (76/100)
+## 1. Sr. Manager Logistics Operations — talabat (85/100)
 **Career progression:** 80/100  
 **Auto-apply eligible:** True  
 **Scoring:** ai  
@@ -34,10 +19,39 @@ Candidate displays strong operational expertise in mobility and fleet management
 **Vacancy:** https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4477557960  
 
 **Why it fits**
-- Deep familiarity with mobility platforms and last-mile dispatch
-- Proven ability to manage driver fleets and operational KPIs
-- Direct experience with platform-based billing and performance audits
+- Direct alignment with existing experience in ride-hailing and last-mile delivery platforms
+- Expertise in rider/driver management, 3PL partnerships, and operational KPI optimization
+- Proven proficiency in managing complex logistics operations and digital tools
 
 **Gaps / risks**
-- Requires transition from ride-hailing to food-delivery logistics
-- Relocation to Qatar required
+- Requires relocation to Qatar
+
+## 2. Senior Operations Manager — WIYAK (82/100)
+**Career progression:** 75/100  
+**Auto-apply eligible:** True  
+**Scoring:** ai  
+**Location:** Kuwait City, Kuwait  
+**Vacancy:** https://kw.linkedin.com/jobs/view/senior-operations-manager-at-wiyak-4486208449  
+
+**Why it fits**
+- Matches expertise in limousine, chauffeur, and delivery services
+- Direct responsibility for fleet management, vehicle allocation, and driver dispatch
+- Strong focus on cost control, KPI monitoring, and operational excellence
+
+**Gaps / risks**
+- Requires relocation to Kuwait
+
+## 3. Head of Supply (Couriers) — inDrive (78/100)
+**Career progression:** 85/100  
+**Auto-apply eligible:** True  
+**Scoring:** ai  
+**Location:** Abu Dhabi, UAE  
+**Vacancy:** https://ae.linkedin.com/jobs/view/head-of-supply-couriers-at-indrive-4489919429  
+
+**Why it fits**
+- Deep platform operational experience (Uber, Yango, Bolt)
+- Proven experience in supply-demand balance and marketplace health
+- Analytical background in KPI reporting and driver acquisition
+
+**Gaps / risks**
+- This role is at a significantly higher strategic/global level than previous roles
