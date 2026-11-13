@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-12T14:30:00Z",
+  "generated_at": "2026-11-13T10:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational expertise in Dubai fleet management, ride-hailing platforms, and RTA compliance. Selection is limited to mobility-focused and high-scale logistics roles. The Petromin role is highlighted for its operational scale, while other roles focus on transport and fleet management.",
+    "notes": "Candidate displays strong operational expertise in Dubai fleet management, ride-hailing platforms, and RTA compliance. Priority given to mobility, logistics, and fleet-specific roles in the GCC, specifically targeting firms that require direct driver and vehicle management experience.",
     "credible_jobs_found": 2,
-    "high_fit_count": 0,
+    "high_fit_count": 1,
     "watchlist_count": 0,
-    "executive_matches": 1,
-    "auto_apply_eligible": 1,
-    "discovery_candidates_reviewed": 38,
+    "executive_matches": 2,
+    "auto_apply_eligible": 2,
+    "discovery_candidates_reviewed": 48,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,55 +20,56 @@
   },
   "jobs": [
     {
-      "job_title": "General Manager – Logistics Stockyard (Automotive)",
-      "company": "Petromin Corporation",
-      "location": "Rabigh, Makkah, Saudi Arabia",
-      "fit_score": 76,
-      "career_progression_score": 85,
+      "job_title": "Senior Operations Manager",
+      "company": "WIYAK",
+      "location": "Kuwait City, Al Asimah, Kuwait",
+      "fit_score": 85,
+      "career_progression_score": 80,
       "live_confidence": "high",
-      "job_url": "https://sa.linkedin.com/jobs/view/general-manager-%E2%80%93-logistics-stockyard-automotive-at-petromin-corporation-4478672498",
+      "job_url": "https://kw.linkedin.com/jobs/view/senior-operations-manager-at-wiyak-4486208449",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct alignment with automotive logistics and large-scale fleet oversight.",
-        "Matches candidate’s experience in vehicle readiness and operational efficiency."
+        "Direct alignment with 9 years of Dubai transport experience.",
+        "Matches required skill set in limousine/delivery services, fleet allocation, and driver management.",
+        "Candidate has extensive experience managing 40 drivers and 30 vehicles, matching the scale of this role."
       ],
       "gaps_risks": [
-        "Transitioning from mobility platform-focused roles to automotive stockyard management requires shift in supply chain focus."
+        "Candidate is currently based in Dubai; this role requires relocation to Kuwait."
       ],
-      "email_subject": "Operations Leadership: Leveraging 10 Years of Fleet & Mobility Expertise",
-      "email_pitch": "Dear Hiring Team, having successfully managed 30+ vehicles and 40+ drivers across multiple mobility platforms in Dubai, I am keen to apply my expertise in fleet utilization and operational SOPs to your logistics stockyard operations in Rabigh.",
-      "linkedin_pitch": "Your search for an Operations GM aligns well with my background in fleet management and RTA compliance. I have scaled operations for major mobility platforms and would welcome a conversation about your logistics objectives.",
-      "fit_tier": "credible",
+      "email_subject": "Senior Operations Manager Application - Muhammad Sohail Ayub Qureshi",
+      "email_pitch": "Dear Hiring Manager, With 10 years of operations experience and 9 years specifically within the Dubai mobility sector, I am well-equipped to drive Wiyak's limousine and delivery fleet operations. My expertise in RTA compliance, driver management, and operational KPI reporting aligns perfectly with the requirements for your Senior Operations Manager role.",
+      "linkedin_pitch": "Hello, I am an Operations leader with 9 years of experience in the Dubai transport market, managing fleet operations for major platforms like Careem and Uber. Your Senior Operations Manager role at Wiyak is a perfect match for my background in fleet efficiency and driver management.",
+      "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 77.8,
+      "ranking_score": 84.0,
       "rank": 1
     },
     {
-      "job_title": "Head - Transport",
-      "company": "Transguard Group",
-      "location": "Dubai, United Arab Emirates",
-      "fit_score": 72,
-      "career_progression_score": 70,
+      "job_title": "Head of Supply (Couriers)",
+      "company": "inDrive",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "fit_score": 76,
+      "career_progression_score": 85,
       "live_confidence": "high",
-      "job_url": "https://ae.linkedin.com/jobs/view/head-transport-at-transguard-group-4484353681",
+      "job_url": "https://ae.linkedin.com/jobs/view/head-of-supply-couriers-at-indrive-4489919429",
       "source": "LinkedIn",
       "industry_alignment": "clear",
-      "auto_apply_eligible": false,
+      "auto_apply_eligible": true,
       "why_fit": [
-        "Direct industry experience in the Dubai transport sector.",
-        "Candidate has extensive background in driver management, scheduling, and RTA compliance."
+        "Extensive experience with Uber, Careem, Bolt, and Yango directly maps to the ride-hailing/delivery marketplace operations required.",
+        "Strong background in operational KPIs, budgeting, and performance management."
       ],
       "gaps_risks": [
-        "Head-level role may require deeper experience in managing larger, diverse transport fleets compared to current 40-driver management."
+        "Role requires managing larger regional supply engines; candidate has 10 years of experience but scale of responsibility will be a significant step up."
       ],
-      "email_subject": "Head of Transport Application: Muhammad Sohail Ayub Qureshi",
-      "email_pitch": "With 9 years of direct experience in the Dubai transport sector and a proven track record across platforms like Uber and Careem, I am well-positioned to drive operational efficiency for Transguard.",
-      "linkedin_pitch": "I have spent 9 years leading transport operations in Dubai. Given your current requirement for a Head of Transport, I believe my operational KPI management and compliance background would be a great fit.",
+      "email_subject": "Head of Supply (Couriers) - Application - Muhammad Sohail Ayub Qureshi",
+      "email_pitch": "Dear Hiring Team, Having spent nearly a decade in the UAE transport and mobility sector working with platforms like Uber, Careem, and Yango, I have a deep understanding of marketplace dynamics and courier operations. I am eager to apply my experience in driver acquisition and operational performance to scale inDrive's supply side.",
+      "linkedin_pitch": "Hi, I have spent the last 9 years managing fleet operations and driver performance in the UAE across major platforms like Uber and Careem. I am highly interested in the Head of Supply role at inDrive and would love to bring my expertise in marketplace health to your team.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 71.6,
+      "ranking_score": 77.8,
       "rank": 2
     }
   ]
