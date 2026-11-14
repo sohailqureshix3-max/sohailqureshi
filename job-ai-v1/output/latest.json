@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-13T10:00:00Z",
+  "generated_at": "2026-11-14T10:00:00Z",
   "summary": {
-    "notes": "Candidate displays strong operational expertise in Dubai fleet management, ride-hailing platforms, and RTA compliance. Priority given to mobility, logistics, and fleet-specific roles in the GCC, specifically targeting firms that require direct driver and vehicle management experience.",
-    "credible_jobs_found": 2,
+    "notes": "Candidates with 9+ years of Dubai transport experience are highly relevant for regional fleet and mobility roles. Candidates with strong platform expertise (Uber/Careem/Yango) are high-fit for logistics operations. Roles in unrelated sectors like Oil & Gas or Construction have been filtered out.",
+    "credible_jobs_found": 3,
     "high_fit_count": 1,
     "watchlist_count": 0,
-    "executive_matches": 2,
+    "executive_matches": 3,
     "auto_apply_eligible": 2,
-    "discovery_candidates_reviewed": 48,
+    "discovery_candidates_reviewed": 37,
     "searched_markets": [
       "Saudi Arabia",
       "United Arab Emirates",
@@ -20,57 +20,85 @@
   },
   "jobs": [
     {
-      "job_title": "Senior Operations Manager",
-      "company": "WIYAK",
-      "location": "Kuwait City, Al Asimah, Kuwait",
-      "fit_score": 85,
+      "job_title": "Distribution Manager",
+      "company": "Alghanim Industries",
+      "location": "Jahra, Jahra, Kuwait",
+      "fit_score": 82,
       "career_progression_score": 80,
       "live_confidence": "high",
-      "job_url": "https://kw.linkedin.com/jobs/view/senior-operations-manager-at-wiyak-4486208449",
+      "job_url": "https://kw.linkedin.com/jobs/view/distribution-manager-at-alghanim-industries-4489956746",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Direct alignment with 9 years of Dubai transport experience.",
-        "Matches required skill set in limousine/delivery services, fleet allocation, and driver management.",
-        "Candidate has extensive experience managing 40 drivers and 30 vehicles, matching the scale of this role."
+        "Direct alignment with last-mile delivery operations",
+        "Covers required fleet management and scheduling duties",
+        "Matches 10 years experience profile perfectly"
       ],
       "gaps_risks": [
-        "Candidate is currently based in Dubai; this role requires relocation to Kuwait."
+        "Regional shift from UAE to Kuwait"
       ],
-      "email_subject": "Senior Operations Manager Application - Muhammad Sohail Ayub Qureshi",
-      "email_pitch": "Dear Hiring Manager, With 10 years of operations experience and 9 years specifically within the Dubai mobility sector, I am well-equipped to drive Wiyak's limousine and delivery fleet operations. My expertise in RTA compliance, driver management, and operational KPI reporting aligns perfectly with the requirements for your Senior Operations Manager role.",
-      "linkedin_pitch": "Hello, I am an Operations leader with 9 years of experience in the Dubai transport market, managing fleet operations for major platforms like Careem and Uber. Your Senior Operations Manager role at Wiyak is a perfect match for my background in fleet efficiency and driver management.",
+      "email_subject": "Operations Leadership | Last Mile & Fleet Optimization",
+      "email_pitch": "Dear Hiring Manager, With 10 years of operations leadership and 9 years managing complex fleet platforms in Dubai (Uber, Careem, Yango), I am highly interested in the Distribution Manager role at Alghanim. I have managed fleets of 30+ vehicles and 40+ drivers with a focus on KPI-driven efficiency.",
+      "linkedin_pitch": "Hi, I have 10 years of experience in fleet and mobility operations in the GCC. My background in scaling driver networks and platform compliance for major ride-hailing firms makes me a strong fit for your distribution leadership needs in Kuwait.",
       "fit_tier": "strong",
       "scoring_mode": "ai",
-      "ranking_score": 84.0,
+      "ranking_score": 81.6,
       "rank": 1
     },
     {
-      "job_title": "Head of Supply (Couriers)",
-      "company": "inDrive",
-      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-      "fit_score": 76,
+      "job_title": "Sr. Manager Logistics Operations",
+      "company": "talabat",
+      "location": "Doha, Qatar",
+      "fit_score": 78,
       "career_progression_score": 85,
       "live_confidence": "high",
-      "job_url": "https://ae.linkedin.com/jobs/view/head-of-supply-couriers-at-indrive-4489919429",
+      "job_url": "https://qa.linkedin.com/jobs/view/sr-manager-logistics-operations-at-talabat-4477557960",
       "source": "LinkedIn",
       "industry_alignment": "clear",
       "auto_apply_eligible": true,
       "why_fit": [
-        "Extensive experience with Uber, Careem, Bolt, and Yango directly maps to the ride-hailing/delivery marketplace operations required.",
-        "Strong background in operational KPIs, budgeting, and performance management."
+        "Strong alignment with FoodTech and last-mile logistics",
+        "Experience with 3PL, fleet KPIs, and rider management",
+        "Matches technical proficiency in data analytics and GSheet"
       ],
       "gaps_risks": [
-        "Role requires managing larger regional supply engines; candidate has 10 years of experience but scale of responsibility will be a significant step up."
+        "Relocation required to Qatar"
       ],
-      "email_subject": "Head of Supply (Couriers) - Application - Muhammad Sohail Ayub Qureshi",
-      "email_pitch": "Dear Hiring Team, Having spent nearly a decade in the UAE transport and mobility sector working with platforms like Uber, Careem, and Yango, I have a deep understanding of marketplace dynamics and courier operations. I am eager to apply my experience in driver acquisition and operational performance to scale inDrive's supply side.",
-      "linkedin_pitch": "Hi, I have spent the last 9 years managing fleet operations and driver performance in the UAE across major platforms like Uber and Careem. I am highly interested in the Head of Supply role at inDrive and would love to bring my expertise in marketplace health to your team.",
+      "email_subject": "Senior Operations Manager Application - Fleet & Logistics",
+      "email_pitch": "Dear Talent Team, My 10 years of experience leading mobility and fleet operations in the UAE, specifically with multi-platform management and driver dispatch, aligns perfectly with Talabat's operational scale. I have a proven track record in optimizing utilization and managing complex logistics KPIs.",
+      "linkedin_pitch": "Hello, I am a mobility operations specialist with 9 years of direct experience in the Dubai transport market. My background in fleet optimization, driver scheduling, and platform compliance would be an asset to your logistics operations in Qatar.",
       "fit_tier": "credible",
       "scoring_mode": "ai",
-      "ranking_score": 77.8,
+      "ranking_score": 79.4,
       "rank": 2
+    },
+    {
+      "job_title": "Regional Logistics Manager - Middle East",
+      "company": "Louis Vuitton",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "fit_score": 72,
+      "career_progression_score": 75,
+      "live_confidence": "high",
+      "job_url": "https://ae.linkedin.com/jobs/view/regional-logistics-manager-middle-east-at-louis-vuitton-4489984652",
+      "source": "LinkedIn",
+      "industry_alignment": "adjacent",
+      "auto_apply_eligible": false,
+      "why_fit": [
+        "Strong focus on cost control, compliance, and team management",
+        "Direct experience managing regional logistics and carrier relationships",
+        "Location alignment"
+      ],
+      "gaps_risks": [
+        "Shift from mobility/ride-hailing to luxury retail logistics"
+      ],
+      "email_subject": "Logistics Leadership | Regional Operations",
+      "email_pitch": "Dear Hiring Team, With 10 years of operations management experience in the UAE, I offer deep expertise in fleet utilization, budget control, and regulatory compliance. My background in managing multi-platform transport operations will provide a rigorous, performance-focused approach to your regional logistics requirements.",
+      "linkedin_pitch": "Hi, I have 10 years of experience managing fleet and transport operations in the UAE. My expertise in cost optimization, SOP development, and RTA compliance would be a great addition to your logistics leadership team.",
+      "fit_tier": "credible",
+      "scoring_mode": "ai",
+      "ranking_score": 72.6,
+      "rank": 3
     }
   ]
 }
